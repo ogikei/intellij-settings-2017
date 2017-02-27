@@ -13,6 +13,7 @@
         <mark key="^" line="858" column="66" />
         <mark key="." line="858" column="66" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/CoreGroupService.java" timestamp="1488177584855" />
       <file name="$USER_HOME$/OfficeTools/emr-scheduler-scala/src/main/scala/jp/co/recruit/rtc/hoc/conf/EMRConf.scala" timestamp="1487919236874">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="15" column="50" />
@@ -41,6 +42,13 @@
       <file name="/fragment.java" timestamp="1488171867970">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/test/java/jp/co/recruit/rtc/hoc/services/TestEmrClientService.java" timestamp="1488178184962">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="21" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="221" column="4" filename="$USER_HOME$/OfficeTools/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
@@ -50,37 +58,48 @@
       <jump line="171" column="0" filename="$USER_HOME$/OfficeTools/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="14" column="0" filename="$USER_HOME$/OfficeTools/emr-scheduler-scala/src/main/scala/jp/co/recruit/rtc/hoc/conf/EMRConf.scala" />
       <jump line="46" column="0" filename="$USER_HOME$/OfficeTools/emr-scheduler-scala/src/main/scala/jp/co/recruit/rtc/hoc/conf/EMRConf.scala" />
+      <jump line="3" column="0" filename="$USER_HOME$/OfficeTools/emr-scheduler/src/test/java/jp/co/recruit/rtc/hoc/services/TestEmrClientService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/emr-scheduler/src/test/java/jp/co/recruit/rtc/hoc/services/TestEmrClientService.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBAVGVzdAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>{</text>
+      <register name="-" type="4">
+        <text>t</text>
+      </register>
+      <register name="/" type="4">
+        <text>add</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICBAVGVzdAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiBhZGRpdGlvbmFsTWFzdGVyU2VjdXJpdHlHcm91cExpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICBwdWJsaWMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiBhZGRpdGlvbmFsTWFzdGVyU2VjdXJpdHlHcm91cExpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgMDEwMTM4NzUgb24gMi8yNy8xNy4KICovCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiBhZGRpdGlvbmFsTWFzdGVyU2VjdXJpdHlHcm91cExpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>{</text>
-      </register>
-      <register name="/" type="4">
-        <text>add</text>
       </register>
     </registers>
     <search>
