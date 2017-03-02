@@ -38,11 +38,11 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/test/java/jp/co/recruit/rtc/hoc/services/TestEmrClientService.java" timestamp="1488425374067">
+      <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/test/java/jp/co/recruit/rtc/hoc/services/TestEmrClientService.java" timestamp="1488427765918">
         <mark key="'" line="39" column="3" />
-        <mark key="[" line="24" column="75" />
-        <mark key="]" line="24" column="75" />
-        <mark key="." line="24" column="75" />
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="24" column="21" />
+        <mark key="." line="24" column="21" />
         <mark key="^" line="24" column="75" />
       </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler-scala/src/main/scala/jp/co/recruit/rtc/hoc/services/EMRScheduler.scala" timestamp="1487909951533">
@@ -104,11 +104,11 @@
       <jump line="11" column="2" filename="$USER_HOME$/OfficeTools/emr-scheduler/src/test/resources/TestEmrClientService-context.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxiZWFuczpjb25zdHJ1Y3Rvci1hcmcgaW5kZXg9IjAiIHJlZj0iIi8+CiAgICA8YmVhbnM6Y29uc3RydWN0b3ItYXJnIGluZGV4PSIxIiByZWY9IiIvPgogICAgPGJlYW5zOmNvbnN0cnVjdG9yLWFyZyBpbmRleD0iMiIgcmVmPSIiLz4KICAgIDxiZWFuczpjb25zdHJ1Y3Rvci1hcmcgaW5kZXg9IjMiIHJlZj0iIi8+CiAgICA8YmVhbnM6Y29uc3RydWN0b3ItYXJnIGluZGV4PSI0IiByZWY9IiIvPgogICAgPGJlYW5zOmNvbnN0cnVjdG9yLWFyZyBpbmRleD0iNSIgcmVmPSIiLz4K</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>mockit</text>
@@ -167,8 +167,8 @@
       </history-search>
       <history-cmd>
         <entry>%d</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
