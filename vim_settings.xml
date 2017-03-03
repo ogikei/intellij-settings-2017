@@ -65,8 +65,8 @@
         <mark key="^" line="7" column="37" />
         <mark key="." line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" timestamp="1488529797555">
-        <mark key="'" line="34" column="35" />
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" timestamp="1488535366824">
+        <mark key="'" line="183" column="32" />
         <mark key="[" line="186" column="30" />
         <mark key="]" line="186" column="32" />
         <mark key="." line="186" column="32" />
@@ -141,6 +141,8 @@
       <jump line="19" column="25" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/reductions/ParallelParenthesesBalancing.scala" />
       <jump line="186" column="30" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="34" column="35" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
+      <jump line="569" column="15" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
+      <jump line="183" column="32" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -150,7 +152,7 @@
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>clusterdateutil</text>
+        <text>emr cluster</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIE1ldGhvZCBlbXJDbGllbnRTZXJ2aWNlLmNsYXNzLmdldERlY2xhcmVkTWV0aG9kKCJpc0FscmVhZHlDbHVzdGVyIik7Cg==</text>
@@ -187,9 +189,9 @@
       </register>
     </registers>
     <search>
-      <last-search>clusterdateutil</last-search>
+      <last-search>emr cluster</last-search>
       <last-offset />
-      <last-pattern>clusterdateutil</last-pattern>
+      <last-pattern>emr cluster</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -204,6 +206,7 @@
         <entry>mock</entry>
         <entry>mockit</entry>
         <entry>clusterdateutil</entry>
+        <entry>emr cluster</entry>
       </history-search>
       <history-cmd>
         <entry>%d</entry>
