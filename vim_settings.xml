@@ -38,6 +38,7 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/resources/project.properties" timestamp="1488519811573" />
       <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/test/java/jp/co/recruit/rtc/hoc/services/TestEmrClientService.java" timestamp="1488432035101">
         <mark key="'" line="43" column="3" />
         <mark key="[" line="58" column="72" />
@@ -45,8 +46,8 @@
         <mark key="." line="59" column="36" />
         <mark key="^" line="59" column="36" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" timestamp="1488518975815">
-        <mark key="'" line="87" column="22" />
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" timestamp="1488519515981">
+        <mark key="'" line="650" column="30" />
         <mark key="[" line="180" column="15" />
         <mark key="]" line="180" column="16" />
         <mark key="." line="180" column="16" />
@@ -71,7 +72,11 @@
         <mark key="^" line="74" column="52" />
         <mark key="." line="74" column="52" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" timestamp="1488519044831" />
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" timestamp="1488520686592">
+        <mark key="]" line="161" column="1" />
+        <mark key="^" line="161" column="1" />
+        <mark key="." line="161" column="1" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler/pom.xml" timestamp="1488423406902">
         <mark key="'" line="89" column="12" />
         <mark key="[" line="116" column="27" />
@@ -82,6 +87,7 @@
       <file name="/fragment.java" timestamp="1488443400688">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/controllers/ClusterController.java" timestamp="1488519845482" />
     </filemarks>
     <jumps>
       <jump line="70" column="14" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/scalashop/PhotoCanvas.scala" />
@@ -111,13 +117,14 @@
       <jump line="39" column="3" filename="$USER_HOME$/OfficeTools/emr-scheduler/src/test/java/jp/co/recruit/rtc/hoc/services/TestEmrClientService.java" />
       <jump line="11" column="2" filename="$USER_HOME$/OfficeTools/emr-scheduler/src/test/resources/TestEmrClientService-context.xml" />
       <jump line="87" column="22" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
+      <jump line="650" column="30" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>る</text>
+        <text>で</text>
       </register>
       <register name="-" type="4">
-        <text>る</text>
+        <text>で</text>
       </register>
       <register name="/" type="4">
         <text>mockit</text>
