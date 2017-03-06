@@ -19,12 +19,12 @@
         <mark key="." line="872" column="9" />
         <mark key="^" line="872" column="9" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1488781169637">
-        <mark key="'" line="60" column="25" />
-        <mark key="[" line="88" column="13" />
-        <mark key="]" line="88" column="13" />
-        <mark key="." line="88" column="13" />
-        <mark key="^" line="88" column="13" />
+      <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1488782984475">
+        <mark key="'" line="87" column="62" />
+        <mark key="[" line="87" column="61" />
+        <mark key="]" line="87" column="62" />
+        <mark key="." line="87" column="62" />
+        <mark key="^" line="87" column="62" />
       </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/test/java/jp/co/recruit/rtc/hoc/services/TestSpotInstanceClientService.java" timestamp="1488273166199">
         <mark key="[" line="12" column="28" />
@@ -157,13 +157,14 @@
       <jump line="398" column="83" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="29" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/Configuration.java" />
       <jump line="60" column="25" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/reductions/ParallelParenthesesBalancing.scala" />
+      <jump line="87" column="62" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/reductions/ParallelParenthesesBalancing.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Lyo6ID8/PyovIA==</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Lyo6ID8/PyovIA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -172,28 +173,28 @@
         <text encoding="base64">ICAgIE1ldGhvZCBlbXJDbGllbnRTZXJ2aWNlLmNsYXNzLmdldERlY2xhcmVkTWV0aG9kKCJpc0FscmVhZHlDbHVzdGVyIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdHJhdmVyc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgdHJhdmVyc2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPz8/Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgPz8/Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
