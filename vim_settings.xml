@@ -61,11 +61,6 @@
         <mark key="^" line="74" column="52" />
         <mark key="." line="74" column="52" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" timestamp="1488520686592">
-        <mark key="]" line="161" column="1" />
-        <mark key="^" line="161" column="1" />
-        <mark key="." line="161" column="1" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler/pom.xml" timestamp="1488423406902">
         <mark key="'" line="89" column="12" />
         <mark key="[" line="116" column="27" />
@@ -147,6 +142,7 @@
         <mark key="." line="33" column="28" />
         <mark key="^" line="33" column="28" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/sizzle/config/spring/hive-option.xml" timestamp="1488869407293" />
       <file name="$USER_HOME$/Downloads/reductions/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1488800385306">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -188,6 +184,9 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
         <mark key="^" line="75" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/varlog/varlog-core/v3.2.4/varlog-core-v3.2.4.jar!/varlog/core/runner/Main.class" timestamp="1488869593168">
+        <mark key="'" line="74" column="210" />
       </file>
     </filemarks>
     <jumps>
@@ -254,6 +253,12 @@
       <jump line="55" column="16" filename="$USER_HOME$/MyWork/git/parallel-programming/.gitignore" />
       <jump line="56" column="1" filename="$USER_HOME$/MyWork/git/parallel-programming/.gitignore" />
       <jump line="28" column="1" filename="$USER_HOME$/MyWork/git/parallel-programming/.gitignore" />
+      <jump line="52" column="9" filename="$MAVEN_REPOSITORY$/varlog/varlog-core/v3.2.4/varlog-core-v3.2.4.jar!/varlog/core/runner/Main.class" />
+      <jump line="53" column="51" filename="$MAVEN_REPOSITORY$/varlog/varlog-core/v3.2.4/varlog-core-v3.2.4.jar!/varlog/core/runner/Main.class" />
+      <jump line="54" column="51" filename="$MAVEN_REPOSITORY$/varlog/varlog-core/v3.2.4/varlog-core-v3.2.4.jar!/varlog/core/runner/Main.class" />
+      <jump line="64" column="20" filename="$MAVEN_REPOSITORY$/varlog/varlog-core/v3.2.4/varlog-core-v3.2.4.jar!/varlog/core/runner/Main.class" />
+      <jump line="67" column="58" filename="$MAVEN_REPOSITORY$/varlog/varlog-core/v3.2.4/varlog-core-v3.2.4.jar!/varlog/core/runner/Main.class" />
+      <jump line="74" column="210" filename="$MAVEN_REPOSITORY$/varlog/varlog-core/v3.2.4/varlog-core-v3.2.4.jar!/varlog/core/runner/Main.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -263,7 +268,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>idea</text>
+        <text>get</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIE1ldGhvZCBlbXJDbGllbnRTZXJ2aWNlLmNsYXNzLmdldERlY2xhcmVkTWV0aG9kKCJpc0FscmVhZHlDbHVzdGVyIik7Cg==</text>
@@ -300,11 +305,11 @@
       </register>
     </registers>
     <search>
-      <last-search>idea</last-search>
+      <last-search>get</last-search>
       <last-offset />
-      <last-pattern>idea</last-pattern>
+      <last-pattern>get</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -327,6 +332,7 @@
         <entry>reduction</entry>
         <entry>red</entry>
         <entry>token</entry>
+        <entry>get</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
