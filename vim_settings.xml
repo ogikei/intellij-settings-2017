@@ -41,11 +41,12 @@
         <mark key="." line="59" column="36" />
         <mark key="^" line="59" column="36" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" timestamp="1488951322507">
-        <mark key="'" line="382" column="23" />
-        <mark key="[" line="552" column="0" />
-        <mark key="]" line="552" column="0" />
-        <mark key="." line="552" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" timestamp="1488952900884">
+        <mark key="'" line="839" column="36" />
+        <mark key="[" line="552" column="10" />
+        <mark key="]" line="552" column="10" />
+        <mark key="^" line="552" column="10" />
+        <mark key="." line="552" column="10" />
       </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/assignment.sbt" timestamp="1488791947097">
         <mark key="[" line="1" column="15" />
@@ -209,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="16" filename="$USER_HOME$/MyWork/git/parallel-programming/.gitignore" />
       <jump line="56" column="1" filename="$USER_HOME$/MyWork/git/parallel-programming/.gitignore" />
       <jump line="28" column="1" filename="$USER_HOME$/MyWork/git/parallel-programming/.gitignore" />
       <jump line="52" column="9" filename="$MAVEN_REPOSITORY$/varlog/varlog-core/v3.2.4/varlog-core-v3.2.4.jar!/varlog/core/runner/Main.class" />
@@ -309,61 +309,61 @@
       <jump line="366" column="37" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="375" column="18" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="382" column="23" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
+      <jump line="839" column="36" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gCg==</text>
+      <register name="&quot;" type="4">
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
-        <text>isrunning</text>
+        <text>try</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIE1ldGhvZCBlbXJDbGllbnRTZXJ2aWNlLmNsYXNzLmdldERlY2xhcmVkTWV0aG9kKCJpc0FscmVhZHlDbHVzdGVyIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygic3VjY2VzcyB0byBnZXQgc3BvdCBpbnN0YW5jZXMiKTsKICAgICAgICBsb2dnZXIuaW5mbygic3BvdCBpbnN0YW5jZToiKTsKICAgICAgICBsb2dnZXIuaW5mbygiaW5zdGFuY2UgdHlwZSA9ICIgKyB0YXNrR3JvdXBTZXJ2aWNlLmdldEluc3RhbmNlVHlwZSgpKTsKICAgICAgICBsb2dnZXIuaW5mbygiYmlkIHByaWNlID0gIiArIHRhc2tHcm91cFNlcnZpY2UuZ2V0QmlkUHJpY2UoKSk7CiAgICAgICAgbG9nZ2VyLmluZm8oImluc3RhbmNlIGNvdW50ID0gIiArIHRhc2tHcm91cFNlcnZpY2UuZ2V0SW5zdGFuY2VDb3VudCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gCg==</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsgbG9nZ2VyLmluZm8oInN1Y2Nlc3MgdG8gZ2V0IHNwb3QgaW5zdGFuY2VzIik7IGxvZ2dlci5pbmZvKCJzcG90IGluc3RhbmNlOiIpOwogICAgICAgIGxvZ2dlci5pbmZvKCJpbnN0YW5jZSB0eXBlID0gIiArIHRhc2tHcm91cFNlcnZpY2UuZ2V0SW5zdGFuY2VUeXBlKCkpOwogICAgICAgIGxvZ2dlci5pbmZvKCJiaWQgcHJpY2UgPSAiICsgdGFza0dyb3VwU2VydmljZS5nZXRCaWRQcmljZSgpKTsKICAgICAgICBsb2dnZXIuaW5mbygiaW5zdGFuY2UgY291bnQgPSAiICsgdGFza0dyb3VwU2VydmljZS5nZXRJbnN0YW5jZUNvdW50KCkpOwogICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRhc2tHcm91cFNlcnZpY2Uud2l0aEluc3RhbmNlQ291bnQodGFyZ2V0VXBkYXRlLmdldFJlc291cmNlKCkuZ2V0U3BvdCgpLmdldFJhbUdpQigpKTsK</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsKICAgICAgICBsb2dnZXIuaW5mbygic3VjY2VzcyB0byBnZXQgc3BvdCBpbnN0YW5jZXMiKTsKICAgICAgICBsb2dnZXIuaW5mbygic3BvdCBpbnN0YW5jZToiKTsKICAgICAgICBsb2dnZXIuaW5mbygiaW5zdGFuY2UgdHlwZSA9ICIgKyB0YXNrR3JvdXBTZXJ2aWNlLmdldEluc3RhbmNlVHlwZSgpKTsKICAgICAgICBsb2dnZXIuaW5mbygiYmlkIHByaWNlID0gIiArIHRhc2tHcm91cFNlcnZpY2UuZ2V0QmlkUHJpY2UoKSk7CiAgICAgICAgbG9nZ2VyLmluZm8oImluc3RhbmNlIGNvdW50ID0gIiArIHRhc2tHcm91cFNlcnZpY2UuZ2V0SW5zdGFuY2VDb3VudCgpKTsKICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCF0cnlCaWRkaW5nVGlsbFRpbWVvdXQoKSkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LmlkZWFfbW9kdWxlcy8K</text>
+        <text encoding="base64">ICAgICAgaXNSdW5uaW5nU3BvdEluc3RhbmNlcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBtcGVsdG9uZW4vc2J0LWlkZWEgcGx1Z2luCg==</text>
+        <text encoding="base64">ICAgICAgLy8gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyMjIEpldEJyYWlucyB0ZW1wbGF0ZQojIENvdmVycyBKZXRCcmFpbnMgSURFczogSW50ZWxsaUosIFJ1YnlNaW5lLCBQaHBTdG9ybSwgQXBwQ29kZSwgUHlDaGFybSwgQ0xpb24sIEFuZHJvaWQgU3R1ZGlvIGFuZCBXZWJzdG9ybQojIFJlZmVyZW5jZTogaHR0cHM6Ly9pbnRlbGxpai1zdXBwb3J0LmpldGJyYWlucy5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMjA2NTQ0ODM5CgojIFVzZXItc3BlY2lmaWMgc3R1ZmY6Ci5pZGVhLyoqL3dvcmtzcGFjZS54bWwKLmlkZWEvKiovdGFza3MueG1sCgojIFNlbnNpdGl2ZSBvciBoaWdoLWNodXJuIGZpbGVzOgouaWRlYS8qKi9kYXRhU291cmNlcy8KLmlkZWEvKiovZGF0YVNvdXJjZXMuaWRzCi5pZGVhLyoqL2RhdGFTb3VyY2VzLnhtbAouaWRlYS8qKi9kYXRhU291cmNlcy5sb2NhbC54bWwKLmlkZWEvKiovc3FsRGF0YVNvdXJjZXMueG1sCi5pZGVhLyoqL2R5bmFtaWMueG1sCi5pZGVhLyoqL3VpRGVzaWduZXIueG1sCgojIEdyYWRsZToKLmlkZWEvKiovZ3JhZGxlLnhtbAouaWRlYS8qKi9saWJyYXJpZXMKCiMgTW9uZ28gRXhwbG9yZXIgcGx1Z2luOgouaWRlYS8qKi9tb25nb1NldHRpbmdzLnhtbAoK</text>
+        <text encoding="base64">ICAgIHRhc2tHcm91cFNlcnZpY2Uud2l0aEluc3RhbmNlQ291bnQodGFyZ2V0VXBkYXRlLmdldFJlc291cmNlKCkuZ2V0U3BvdCgpLmdldFJhbUdpQigpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LnRhcmdldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGFyZ2V0Lwo=</text>
+        <text encoding="base64">LmlkZWFfbW9kdWxlcy8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFja2FnZSByZWR1Y3Rpb25zCgppbXBvcnQgc2NhbGEuYW5ub3RhdGlvbi5fCmltcG9ydCBvcmcuc2NhbGFtZXRlci5fCmltcG9ydCBjb21tb24uXwoKb2JqZWN0IFBhcmFsbGVsUGFyZW50aGVzZXNCYWxhbmNpbmdSdW5uZXIgewoKICBAdm9sYXRpbGUgdmFyIHNlcVJlc3VsdCA9IGZhbHNlCgogIEB2b2xhdGlsZSB2YXIgcGFyUmVzdWx0ID0gZmFsc2UKCiAgLy8gY2hhbmdlZCB2YWx1ZXMgYmVjYXVzZSBpdCB0b29rIHRvbyBsb25nCiAgdmFsIHN0YW5kYXJkQ29uZmlnID0gY29uZmlnKAogICAgS2V5LmV4ZWMubWluV2FybXVwUnVucyAtPiAxMCwgLy8gd2FzIDQwCiAgICBLZXkuZXhlYy5tYXhXYXJtdXBSdW5zIC0+IDIwLCAvLyB3YXMgODAKICAgIEtleS5leGVjLmJlbmNoUnVucyAtPiAyMCwgLy8gd2FzIDEyMAogICAgS2V5LnZlcmJvc2UgLT4gdHJ1ZQogICkgd2l0aFdhcm1lciAobmV3IFdhcm1lci5EZWZhdWx0KQoKICBkZWYgbWFpbihhcmdzOiBBcnJheVtTdHJpbmddKTogVW5pdCA9IHsKICAgIHZhbCBsZW5ndGggPSAxMDAwMDAgLy8gd2FzICswMDAwCiAgICB2YWwgY2hhcnMgPSBuZXcgQXJyYXlbQ2hhcl0obGVuZ3RoKQogICAgdmFsIHRocmVzaG9sZCA9IDEwMCAvLyB3YXMgKzAwMAogICAgdmFsIHNlcXRpbWUgPSBzdGFuZGFyZENvbmZpZyBtZWFzdXJlIHsKICAgICAgc2VxUmVzdWx0ID0gUGFyYWxsZWxQYXJlbnRoZXNlc0JhbGFuY2luZy5iYWxhbmNlKGNoYXJzKQogICAgfQogICAgcHJpbnRsbihzInNlcXVlbnRpYWwgcmVzdWx0ID0gJHNlcVJlc3VsdCIpCiAgICBwcmludGxuKHMic2VxdWVudGlhbCBiYWxhbmNpbmcgdGltZTogJHNlcXRpbWUgbXMiKQoKICAgIHZhbCBmanRpbWUgPSBzdGFuZGFyZENvbmZpZyBtZWFzdXJlIHsKICAgICAgcGFyUmVzdWx0ID0gUGFyYWxsZWxQYXJlbnRoZXNlc0JhbGFuY2luZy5wYXJCYWxhbmNlKGNoYXJzLCB0aHJlc2hvbGQpCiAgICB9CiAgICBwcmludGxuKHMicGFyYWxsZWwgcmVzdWx0ID0gJHBhclJlc3VsdCIpCiAgICBwcmludGxuKHMicGFyYWxsZWwgYmFsYW5jaW5nIHRpbWU6ICRmanRpbWUgbXMiKQogICAgcHJpbnRsbihzInNwZWVkdXA6ICR7c2VxdGltZSAvIGZqdGltZX0iKQogIH0KfQoKb2JqZWN0IFBhcmFsbGVsUGFyZW50aGVzZXNCYWxhbmNpbmcgewoKICAvKiogUmV0dXJucyBgdHJ1ZWAgaWZmIHRoZSBwYXJlbnRoZXNlcyBpbiB0aGUgaW5wdXQgYGNoYXJzYCBhcmUgYmFsYW5jZWQuCiAgICAqLwogIGRlZiBiYWxhbmNlKGNoYXJzOiBBcnJheVtDaGFyXSk6IEJvb2xlYW4gPSB7CiAgICBkZWYgY2hlY2tPcGVuQ2xvc2UoY2hhcnM6IEFycmF5W0NoYXJdLCBvcGVuQ291bnQ6IEludCk6IEJvb2xlYW4gPSB7CiAgICAgIGlmIChjaGFycy5pc0VtcHR5KSBvcGVuQ291bnQgPT0gMAogICAgICBlbHNlIGlmIChvcGVuQ291bnQgPCAwKSBmYWxzZQogICAgICBlbHNlIGlmIChjaGFycy5oZWFkID09ICcoJykgY2hlY2tPcGVuQ2xvc2UoY2hhcnMudGFpbCwgb3BlbkNvdW50ICsgMSkKICAgICAgZWxzZSBpZiAoY2hhcnMuaGVhZCA9PSAnKScpIGNoZWNrT3BlbkNsb3NlKGNoYXJzLnRhaWwsIG9wZW5Db3VudCAtIDEpCiAgICAgIGVsc2UgY2hlY2tPcGVuQ2xvc2UoY2hhcnMudGFpbCwgb3BlbkNvdW50KQoKICAgIH0KCiAgICBjaGVja09wZW5DbG9zZShjaGFycywgMCkKICB9CgogIC8qKiBSZXR1cm5zIGB0cnVlYCBpZmYgdGhlIHBhcmVudGhlc2VzIGluIHRoZSBpbnB1dCBgY2hhcnNgIGFyZSBiYWxhbmNlZC4KICAgICovCiAgZGVmIHBhckJhbGFuY2UoY2hhcnM6IEFycmF5W0NoYXJdLCB0aHJlc2hvbGQ6IEludCk6IEJvb2xlYW4gPSB7CgogICAgZGVmIHRyYXZlcnNlKGlkeDogSW50LCB1bnRpbDogSW50KTogKEludCwgSW50KSA9IHsKICAgICAgLy8gR29kIEkgaGF0ZSB0aGlzIGltcGVyYXRpdmUgY29kaW5nIGZvciBwYXJhbGxlbGlzbSdzIHNha2UhCiAgICAgIHZhciBpID0gaWR4CiAgICAgIHZhciBiZWdpbiA9IDAKICAgICAgdmFyIGVuZCA9IDAKICAgICAgdmFyIHN3aXRjaGVkID0gZmFsc2UKCiAgICAgIHdoaWxlIChpIDwgdW50aWwpewogICAgICAgIGlmKGJlZ2luIDwgMCl7CiAgICAgICAgICBzd2l0Y2hlZCA9IHRydWUKICAgICAgICB9ZWxzZXsKICAgICAgICAgIHN3aXRjaGVkID0gZmFsc2UKICAgICAgICB9CgogICAgICAgIGlmKGNoYXJzKGkpID09ICcoJyl7CiAgICAgICAgICBpZihzd2l0Y2hlZCl7CiAgICAgICAgICAgIGVuZCA9IGVuZCArIDEKICAgICAgICAgIH1lbHNlewogICAgICAgICAgICBiZWdpbiA9IGJlZ2luICsgMQogICAgICAgICAgfQoKICAgICAgICAgIC8vIGlmKHN3aXRjaGVkKSBlbmQgPSBlbmQgKyAxIGVsc2UgYmVnaW4gPSBiZWdpbiArIDEKICAgICAgICB9CiAgICAgICAgaWYoY2hhcnMoaSkgPT0gJyknKQogICAgICAgIHsKICAgICAgICAgIGlmIChzd2l0Y2hlZCkgewogICAgICAgICAgICBlbmQgPSBlbmQgLSAxCiAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgYmVnaW4gPSBiZWdpbiAtIDEKICAgICAgICAgIH0KICAgICAgICAgIC8vaWYoc3dpdGNoZWQpIGVuZCA9IGVuZCAtIDEgZWxzZSBiZWdpbiA9IGJlZ2luIC0gMQogICAgICAgIH0KCiAgICAgICAgaSA9IGkgKyAxCiAgICAgIH0KCiAgICAgIChiZWdpbiwgIGVuZCkKCiAgICB9CgogICAgLyoKICAgICAgICAgICAgICAgICAgICAgICgwLDAgKQogICAgICAgICAgICAgICAgKCh0ZXN0KShjK3gpLTQpKCgoKDQpNDQ0KS0tLSl4eCh4KXgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvIFwKICAgICAgICAgICAgICAgICAgKDAsMykgID0+ICAgICAgICAgKC0zLCAwKQogICAgICAgICAgICAoKHRlc3QpKGMreCktNCkoKCggICAgKDQpNDQ0KS0tLSl4eCh4KXgpCgogICAgICAgKDIsMCkgICAgKC0yLDMpICAgICAgICAgICAgICAgICgtMSwwKSAgICgtMiwgMCkKICAgICAgICAgLyAgICAgICAgICAgICBcICAgICAgICAgICAgICAgIC8gICAgICBcCiAgICAoKHRlc3QpKGMgICAgICt4KS00KSgoKCkoICAgICAgICg0KTQ0NCktLSAgICAgIC0peHgoeCl4KQoKCgoKCiAgICAqLwoKCgogICAgZGVmIHJlZHVjZShmcm9tOiBJbnQsIHVudGlsOiBJbnQpOiAoSW50LCBJbnQpID0gewogICAgICBpZih1bnRpbCAtIGZyb20gPD0gdGhyZXNob2xkKSB0cmF2ZXJzZShmcm9tLCB1bnRpbCkKICAgICAgZWxzZSB7CiAgICAgICAgdmFsIG1pZCA9IGZyb20gKyAodW50aWwgLSBmcm9tKSAvIDIKICAgICAgICB2YWwgKHBhaXIxLCBwYWlyMikgPSBwYXJhbGxlbChyZWR1Y2UoZnJvbSwgbWlkKSwgcmVkdWNlKG1pZCwgdW50aWwpKQoKICAgICAgICAvLyBUaGlzIGlzIG15IGJlc3QgcGllY2Ugb2YgY29kZSBldmVyCiAgICAgICAgaWYocGFpcjEuXzEgPCAwICYmIHBhaXIyLl8xID4gMCkgKHBhaXIxLl8xICwgcGFpcjIuXzEgKyBwYWlyMS5fMiArIHBhaXIyLl8yKQogICAgICAgIGVsc2UgaWYocGFpcjIuXzEgPCAwICYmIHBhaXIxLl8yID4gMCkgKHBhaXIxLl8xICsgcGFpcjIuXzEgKyBwYWlyMS5fMiAsICArIHBhaXIyLl8yKQogICAgICAgIGVsc2UgKHBhaXIxLl8xICsgcGFpcjIuXzEsIHBhaXIxLl8yICsgcGFpcjIuXzIpCiAgICAgIH0KICAgIH0KCiAgICB2YWwgcmVzID0gcmVkdWNlKDAsIGNoYXJzLmxlbmd0aCkKICAgIHJlcy5fMSArIHJlcy5fMiA9PSAwICYmIHJlcy5fMSA+PSAwCiAgfQoKICAvLyBGb3IgdGhvc2Ugd2hvIHdhbnQgbW9yZToKICAvLyBQcm92ZSB0aGF0IHlvdXIgcmVkdWN0aW9uIG9wZXJhdG9yIGlzIGFzc29jaWF0aXZlIQoKfQo=</text>
+        <text encoding="base64">IyBtcGVsdG9uZW4vc2J0LWlkZWEgcGx1Z2luCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>isrunning</last-search>
+      <last-search>try</last-search>
       <last-offset />
-      <last-pattern>isrunning</last-pattern>
+      <last-pattern>try</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>parall</entry>
         <entry encoding="base64">XDxqb2JZendQYXJhbGxlbFw+</entry>
         <entry>split1-step2_1</entry>
         <entry>exampleBatch</entry>
@@ -383,6 +383,7 @@
         <entry>withinstancecout</entry>
         <entry>enough</entry>
         <entry>isrunning</entry>
+        <entry>try</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
