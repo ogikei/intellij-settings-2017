@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/kmeans/fun/PhotoCanvas.scala" timestamp="1489112712930">
-        <mark key="[" line="84" column="45" />
-        <mark key="]" line="84" column="44" />
-        <mark key="^" line="84" column="44" />
-        <mark key="." line="84" column="44" />
+      <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/kmeans/fun/PhotoCanvas.scala" timestamp="1489115279457">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="79" column="28" />
+        <mark key="]" line="79" column="28" />
+        <mark key="." line="79" column="28" />
+        <mark key="^" line="79" column="29" />
       </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" timestamp="1488422230220">
         <mark key="'" line="29" column="0" />
@@ -47,7 +48,7 @@
         <mark key="." line="59" column="36" />
         <mark key="^" line="59" column="36" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/kmeans/KMeans.scala" timestamp="1489112615503">
+      <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/kmeans/KMeans.scala" timestamp="1489115282106">
         <mark key="[" line="30" column="48" />
         <mark key="]" line="30" column="47" />
         <mark key="^" line="30" column="47" />
@@ -128,12 +129,12 @@
         <mark key="^" line="71" column="24" />
         <mark key="." line="71" column="24" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/kmeans/fun/IndexedColors.scala" timestamp="1489113169692">
-        <mark key="'" line="72" column="40" />
-        <mark key="[" line="108" column="41" />
-        <mark key="]" line="108" column="40" />
-        <mark key="." line="108" column="40" />
-        <mark key="^" line="108" column="40" />
+      <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/kmeans/fun/IndexedColors.scala" timestamp="1489115205192">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="32" column="15" />
+        <mark key="]" line="32" column="15" />
+        <mark key="." line="32" column="15" />
+        <mark key="^" line="31" column="16" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/pom.xml" timestamp="1488778733087">
         <mark key="[" line="7" column="15" />
@@ -230,10 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="1" filename="$USER_HOME$/MyWork/git/parallel-programming/.gitignore" />
-      <jump line="52" column="9" filename="$MAVEN_REPOSITORY$/varlog/varlog-core/v3.2.4/varlog-core-v3.2.4.jar!/varlog/core/runner/Main.class" />
-      <jump line="53" column="51" filename="$MAVEN_REPOSITORY$/varlog/varlog-core/v3.2.4/varlog-core-v3.2.4.jar!/varlog/core/runner/Main.class" />
-      <jump line="54" column="51" filename="$MAVEN_REPOSITORY$/varlog/varlog-core/v3.2.4/varlog-core-v3.2.4.jar!/varlog/core/runner/Main.class" />
       <jump line="64" column="20" filename="$MAVEN_REPOSITORY$/varlog/varlog-core/v3.2.4/varlog-core-v3.2.4.jar!/varlog/core/runner/Main.class" />
       <jump line="67" column="58" filename="$MAVEN_REPOSITORY$/varlog/varlog-core/v3.2.4/varlog-core-v3.2.4.jar!/varlog/core/runner/Main.class" />
       <jump line="74" column="210" filename="$MAVEN_REPOSITORY$/varlog/varlog-core/v3.2.4/varlog-core-v3.2.4.jar!/varlog/core/runner/Main.class" />
@@ -330,61 +327,64 @@
       <jump line="382" column="23" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="839" column="36" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="72" column="40" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/kmeans/fun/IndexedColors.scala" />
+      <jump line="33" column="0" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/kmeans/fun/IndexedColors.scala" />
+      <jump line="31" column="6" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/kmeans/fun/IndexedColors.scala" />
+      <jump line="29" column="0" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/kmeans/fun/IndexedColors.scala" />
+      <jump line="27" column="0" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/kmeans/fun/PhotoCanvas.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>: Img</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>: Img</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>try</text>
+        <text>getstatus</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygic3VjY2VzcyB0byBnZXQgc3BvdCBpbnN0YW5jZXMiKTsKICAgICAgICBsb2dnZXIuaW5mbygic3BvdCBpbnN0YW5jZToiKTsKICAgICAgICBsb2dnZXIuaW5mbygiaW5zdGFuY2UgdHlwZSA9ICIgKyB0YXNrR3JvdXBTZXJ2aWNlLmdldEluc3RhbmNlVHlwZSgpKTsKICAgICAgICBsb2dnZXIuaW5mbygiYmlkIHByaWNlID0gIiArIHRhc2tHcm91cFNlcnZpY2UuZ2V0QmlkUHJpY2UoKSk7CiAgICAgICAgbG9nZ2VyLmluZm8oImluc3RhbmNlIGNvdW50ID0gIiArIHRhc2tHcm91cFNlcnZpY2UuZ2V0SW5zdGFuY2VDb3VudCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsgbG9nZ2VyLmluZm8oInN1Y2Nlc3MgdG8gZ2V0IHNwb3QgaW5zdGFuY2VzIik7IGxvZ2dlci5pbmZvKCJzcG90IGluc3RhbmNlOiIpOwogICAgICAgIGxvZ2dlci5pbmZvKCJpbnN0YW5jZSB0eXBlID0gIiArIHRhc2tHcm91cFNlcnZpY2UuZ2V0SW5zdGFuY2VUeXBlKCkpOwogICAgICAgIGxvZ2dlci5pbmZvKCJiaWQgcHJpY2UgPSAiICsgdGFza0dyb3VwU2VydmljZS5nZXRCaWRQcmljZSgpKTsKICAgICAgICBsb2dnZXIuaW5mbygiaW5zdGFuY2UgY291bnQgPSAiICsgdGFza0dyb3VwU2VydmljZS5nZXRJbnN0YW5jZUNvdW50KCkpOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGZpbHRlci5nZXRSZXN1bHQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsKICAgICAgICBsb2dnZXIuaW5mbygic3VjY2VzcyB0byBnZXQgc3BvdCBpbnN0YW5jZXMiKTsKICAgICAgICBsb2dnZXIuaW5mbygic3BvdCBpbnN0YW5jZToiKTsKICAgICAgICBsb2dnZXIuaW5mbygiaW5zdGFuY2UgdHlwZSA9ICIgKyB0YXNrR3JvdXBTZXJ2aWNlLmdldEluc3RhbmNlVHlwZSgpKTsKICAgICAgICBsb2dnZXIuaW5mbygiYmlkIHByaWNlID0gIiArIHRhc2tHcm91cFNlcnZpY2UuZ2V0QmlkUHJpY2UoKSk7CiAgICAgICAgbG9nZ2VyLmluZm8oImluc3RhbmNlIGNvdW50ID0gIiArIHRhc2tHcm91cFNlcnZpY2UuZ2V0SW5zdGFuY2VDb3VudCgpKTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsgbG9nZ2VyLmluZm8oInN1Y2Nlc3MgdG8gZ2V0IHNwb3QgaW5zdGFuY2VzIik7IGxvZ2dlci5pbmZvKCJzcG90IGluc3RhbmNlOiIpOwogICAgICAgIGxvZ2dlci5pbmZvKCJpbnN0YW5jZSB0eXBlID0gIiArIHRhc2tHcm91cFNlcnZpY2UuZ2V0SW5zdGFuY2VUeXBlKCkpOwogICAgICAgIGxvZ2dlci5pbmZvKCJiaWQgcHJpY2UgPSAiICsgdGFza0dyb3VwU2VydmljZS5nZXRCaWRQcmljZSgpKTsKICAgICAgICBsb2dnZXIuaW5mbygiaW5zdGFuY2UgY291bnQgPSAiICsgdGFza0dyb3VwU2VydmljZS5nZXRJbnN0YW5jZUNvdW50KCkpOwogICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCF0cnlCaWRkaW5nVGlsbFRpbWVvdXQoKSkgewo=</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsKICAgICAgICBsb2dnZXIuaW5mbygic3VjY2VzcyB0byBnZXQgc3BvdCBpbnN0YW5jZXMiKTsKICAgICAgICBsb2dnZXIuaW5mbygic3BvdCBpbnN0YW5jZToiKTsKICAgICAgICBsb2dnZXIuaW5mbygiaW5zdGFuY2UgdHlwZSA9ICIgKyB0YXNrR3JvdXBTZXJ2aWNlLmdldEluc3RhbmNlVHlwZSgpKTsKICAgICAgICBsb2dnZXIuaW5mbygiYmlkIHByaWNlID0gIiArIHRhc2tHcm91cFNlcnZpY2UuZ2V0QmlkUHJpY2UoKSk7CiAgICAgICAgbG9nZ2VyLmluZm8oImluc3RhbmNlIGNvdW50ID0gIiArIHRhc2tHcm91cFNlcnZpY2UuZ2V0SW5zdGFuY2VDb3VudCgpKTsKICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaXNSdW5uaW5nU3BvdEluc3RhbmNlcwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCF0cnlCaWRkaW5nVGlsbFRpbWVvdXQoKSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gCg==</text>
+        <text encoding="base64">ICAgICAgaXNSdW5uaW5nU3BvdEluc3RhbmNlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRhc2tHcm91cFNlcnZpY2Uud2l0aEluc3RhbmNlQ291bnQodGFyZ2V0VXBkYXRlLmdldFJlc291cmNlKCkuZ2V0U3BvdCgpLmdldFJhbUdpQigpKTsK</text>
+        <text encoding="base64">ICAgICAgLy8gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRhc2tHcm91cFNlcnZpY2Uud2l0aEluc3RhbmNlQ291bnQodGFyZ2V0VXBkYXRlLmdldFJlc291cmNlKCkuZ2V0U3BvdCgpLmdldFJhbUdpQigpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LmlkZWFfbW9kdWxlcy8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBtcGVsdG9uZW4vc2J0LWlkZWEgcGx1Z2luCg==</text>
+        <text encoding="base64">LmlkZWFfbW9kdWxlcy8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>try</last-search>
+      <last-search>getstatus</last-search>
       <last-offset />
-      <last-pattern>try</last-pattern>
+      <last-pattern>getstatus</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxqb2JZendQYXJhbGxlbFw+</entry>
         <entry>split1-step2_1</entry>
         <entry>exampleBatch</entry>
         <entry>split1-step1</entry>
@@ -404,6 +404,7 @@
         <entry>enough</entry>
         <entry>isrunning</entry>
         <entry>try</entry>
+        <entry>getstatus</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
