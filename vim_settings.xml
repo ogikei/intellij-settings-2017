@@ -156,6 +156,13 @@
         <mark key="." line="82" column="6" />
         <mark key="^" line="82" column="7" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/barneshut/package.scala" timestamp="1489387242378">
+        <mark key="'" line="145" column="21" />
+        <mark key="[" line="57" column="22" />
+        <mark key="]" line="57" column="32" />
+        <mark key="." line="57" column="32" />
+        <mark key="^" line="57" column="32" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/kmeans/KMeans.scala" timestamp="1489383200601">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="76" column="85" />
@@ -258,8 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="6" filename="$USER_HOME$/OfficeTools/git/yzw/config/spring/applicationContext.xml" />
-      <jump line="88" column="19" filename="$USER_HOME$/OfficeTools/git/yzw/config/spring/applicationContext.xml" />
       <jump line="91" column="7" filename="$USER_HOME$/OfficeTools/git/yzw/config/spring/applicationContext.xml" />
       <jump line="18" column="0" filename="$USER_HOME$/OfficeTools/git/yzw/config/spring/example-batch.xml" />
       <jump line="27" column="64" filename="$USER_HOME$/OfficeTools/git/yzw/config/spring/example-batch.xml" />
@@ -358,16 +363,18 @@
       <jump line="54" column="17" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/ProjectProperties.java" />
       <jump line="104" column="0" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/kmeans/KMeans.scala" />
       <jump line="7" column="0" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/kmeans/KMeans.scala" />
+      <jump line="66" column="4" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/barneshut/package.scala" />
+      <jump line="147" column="21" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/barneshut/package.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>n2</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>n2</text>
       </register>
       <register name="/" type="4">
-        <text>r3</text>
+        <text>indi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFzc2VydCBmaW5kKG5hbWUpICE9IG51bGw7Cg==</text>
@@ -404,17 +411,14 @@
       </register>
     </registers>
     <search>
-      <last-search>r3</last-search>
+      <last-search>indi</last-search>
       <last-offset />
-      <last-pattern>r3</last-pattern>
+      <last-pattern>indi</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>step</entry>
-        <entry>out</entry>
-        <entry>InsertDatafeedWithoutJoin</entry>
         <entry>queryb</entry>
         <entry>query</entry>
         <entry>join</entry>
@@ -432,6 +436,9 @@
         <entry>mag</entry>
         <entry>get</entry>
         <entry>r3</entry>
+        <entry>indice</entry>
+        <entry>ind</entry>
+        <entry>indi</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
