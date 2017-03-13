@@ -156,12 +156,11 @@
         <mark key="." line="82" column="6" />
         <mark key="^" line="82" column="7" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/barneshut/package.scala" timestamp="1489390471395">
-        <mark key="'" line="154" column="21" />
-        <mark key="[" line="73" column="30" />
-        <mark key="]" line="73" column="38" />
-        <mark key="." line="73" column="38" />
-        <mark key="^" line="73" column="38" />
+      <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/barneshut/package.scala" timestamp="1489391429912">
+        <mark key="'" line="162" column="21" />
+        <mark key="[" line="85" column="12" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/kmeans/KMeans.scala" timestamp="1489383200601">
         <mark key="'" line="7" column="0" />
@@ -367,11 +366,11 @@
       <jump line="147" column="21" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/barneshut/package.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>indi</text>
@@ -380,34 +379,35 @@
         <text encoding="base64">ICAgIGFzc2VydCBmaW5kKG5hbWUpICE9IG51bGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPz8/Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text>(_ + _.massX)
-    }
-    val massY: Float = {
-      if (mass == 0) centerY</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>&quot;?&quot;
+    val total:</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHZhbCAobWFzcywgbWFzc1gsIG1hc3NZKSA9ICg/Pz8gOiBGbG9hdCwgPz8/IDogRmxvYXQsID8/PyA6IEZsb2F0KQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN3aXRjaCAoaW5zdGFuY2VUeXBlKSB7CiAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgPz8/Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHN3aXRjaCAoaW5zdGFuY2VUeXBlKSB7Cg==</text>
+      <register name="8" type="4">
+        <text>(_ + _.massX)
+    }
+    val massY: Float = {
+      if (mass == 0) centerY</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAicjMueGxhcmdlIjoKICAgICAgICB0aGlzLm9uRGVtYW5kUHJpY2UgPSBTdHJpbmcudmFsdWVPZihwcm9qZWN0UHJvcGVydGllcy5nZXRSM1hsYXJnZU9uRGVtYW5kUHJpY2UoKSk7CiAgICAgICAgYnJlYWs7CiAgICAgIGNhc2UgInIzLjJ4bGFyZ2UiOgogICAgICAgIHRoaXMub25EZW1hbmRQcmljZSA9IFN0cmluZy52YWx1ZU9mKHByb2plY3RQcm9wZXJ0aWVzLmdldFIzMlhsYXJnZU9uRGVtYW5kUHJpY2UoKSk7CiAgICAgICAgYnJlYWs7CiAgICAgIGNhc2UgInIzLjR4bGFyZ2UiOgogICAgICAgIHRoaXMub25EZW1hbmRQcmljZSA9IFN0cmluZy52YWx1ZU9mKHByb2plY3RQcm9wZXJ0aWVzLmdldFIzNFhsYXJnZU9uRGVtYW5kUHJpY2UoKSk7CiAgICAgICAgYnJlYWs7CiAgICAgIGNhc2UgInIzLjh4bGFyZ2UiOgogICAgICAgIHRoaXMub25EZW1hbmRQcmljZSA9IFN0cmluZy52YWx1ZU9mKHByb2plY3RQcm9wZXJ0aWVzLmdldFIzOFhsYXJnZU9uRGVtYW5kUHJpY2UoKSk7CiAgICAgICAgYnJlYWs7CiAgICAgIGNhc2UgInI0LnhsYXJnZSI6CiAgICAgICAgdGhpcy5vbkRlbWFuZFByaWNlID0gU3RyaW5nLnZhbHVlT2YocHJvamVjdFByb3BlcnRpZXMuZ2V0UjRYbGFyZ2VPbkRlbWFuZFByaWNlKCkpOwogICAgICAgIGJyZWFrOwogICAgICBjYXNlICJyNC4yeGxhcmdlIjoKICAgICAgICB0aGlzLm9uRGVtYW5kUHJpY2UgPSBTdHJpbmcudmFsdWVPZihwcm9qZWN0UHJvcGVydGllcy5nZXRSNDJYbGFyZ2VPbkRlbWFuZFByaWNlKCkpOwogICAgICAgIGJyZWFrOwogICAgICBjYXNlICJyNC40eGxhcmdlIjoKICAgICAgICB0aGlzLm9uRGVtYW5kUHJpY2UgPSBTdHJpbmcudmFsdWVPZihwcm9qZWN0UHJvcGVydGllcy5nZXRSNDRYbGFyZ2VPbkRlbWFuZFByaWNlKCkpOwogICAgICAgIGJyZWFrOwogICAgICBjYXNlICJyNC44eGxhcmdlIjoKICAgICAgICB0aGlzLm9uRGVtYW5kUHJpY2UgPSBTdHJpbmcudmFsdWVPZihwcm9qZWN0UHJvcGVydGllcy5nZXRSNDhYbGFyZ2VPbkRlbWFuZFByaWNlKCkpOwogICAgICAgIGJyZWFrOwogICAgICBjYXNlICJjMy54bGFyZ2UiOgogICAgICAgIHRoaXMub25EZW1hbmRQcmljZSA9IFN0cmluZy52YWx1ZU9mKHByb2plY3RQcm9wZXJ0aWVzLmdldFI0OFhsYXJnZU9uRGVtYW5kUHJpY2UoKSk7CiAgICAgICAgYnJlYWs7CiAgICAgIGNhc2UgImMzLjJ4bGFyZ2UiOgogICAgICAgIHRoaXMub25EZW1hbmRQcmljZSA9IFN0cmluZy52YWx1ZU9mKHByb2plY3RQcm9wZXJ0aWVzLmdldFI0OFhsYXJnZU9uRGVtYW5kUHJpY2UoKSk7CiAgICAgICAgYnJlYWs7CiAgICAgIGNhc2UgImMzLjR4bGFyZ2UiOgogICAgICAgIHRoaXMub25EZW1hbmRQcmljZSA9IFN0cmluZy52YWx1ZU9mKHByb2plY3RQcm9wZXJ0aWVzLmdldFI0OFhsYXJnZU9uRGVtYW5kUHJpY2UoKSk7CiAgICAgICAgYnJlYWs7CiAgICAgIGNhc2UgImMzLjh4bGFyZ2UiOgogICAgICAgIHRoaXMub25EZW1hbmRQcmljZSA9IFN0cmluZy52YWx1ZU9mKHByb2plY3RQcm9wZXJ0aWVzLmdldEMzOFhsYXJnZU9uRGVtYW5kUHJpY2UoKSk7CiAgICAgICAgYnJlYWs7CiAgICAgIGNhc2UgImM0LnhsYXJnZSI6CiAgICAgICAgdGhpcy5vbkRlbWFuZFByaWNlID0gU3RyaW5nLnZhbHVlT2YocHJvamVjdFByb3BlcnRpZXMuZ2V0UjQ4WGxhcmdlT25EZW1hbmRQcmljZSgpKTsKICAgICAgICBicmVhazsKICAgICAgY2FzZSAiYzQuMnhsYXJnZSI6CiAgICAgICAgdGhpcy5vbkRlbWFuZFByaWNlID0gU3RyaW5nLnZhbHVlT2YocHJvamVjdFByb3BlcnRpZXMuZ2V0UjQ4WGxhcmdlT25EZW1hbmRQcmljZSgpKTsKICAgICAgICBicmVhazsKICAgICAgY2FzZSAiYzQuNHhsYXJnZSI6CiAgICAgICAgdGhpcy5vbkRlbWFuZFByaWNlID0gU3RyaW5nLnZhbHVlT2YocHJvamVjdFByb3BlcnRpZXMuZ2V0UjQ4WGxhcmdlT25EZW1hbmRQcmljZSgpKTsKICAgICAgICBicmVhazsKICAgICAgY2FzZSAiYzQuOHhsYXJnZSI6CiAgICAgICAgdGhpcy5vbkRlbWFuZFByaWNlID0gU3RyaW5nLnZhbHVlT2YocHJvamVjdFByb3BlcnRpZXMuZ2V0UjQ4WGxhcmdlT25EZW1hbmRQcmljZSgpKTsKICAgICAgICBicmVhazsKICAgICAgZGVmYXVsdDoKICAgICAgICB0aGlzLm9uRGVtYW5kUHJpY2UgPSAiMCI7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
