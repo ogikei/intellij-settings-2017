@@ -10,6 +10,12 @@
         <mark key="." line="79" column="28" />
         <mark key="^" line="79" column="29" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/barneshut/Simulator.scala" timestamp="1489399859488">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/kmeans/src/main/scala/kmeans/KMeans.scala" timestamp="1489123812959">
         <mark key="'" line="125" column="0" />
         <mark key="[" line="127" column="0" />
@@ -267,7 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="7" filename="$USER_HOME$/OfficeTools/git/yzw/config/spring/applicationContext.xml" />
       <jump line="40" column="7" filename="$USER_HOME$/OfficeTools/git/yzw/config/spring/applicationContext.xml" />
       <jump line="50" column="7" filename="$USER_HOME$/OfficeTools/git/yzw/config/spring/applicationContext.xml" />
       <jump line="55" column="7" filename="$USER_HOME$/OfficeTools/git/yzw/config/spring/applicationContext.xml" />
@@ -367,13 +372,14 @@
       <jump line="3" column="0" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/barneshut/package.scala" />
       <jump line="159" column="17" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/barneshut/package.scala" />
       <jump line="57" column="28" filename="$USER_HOME$/MyWork/git/parallel-programming/src/test/scala/barneshut/BarnesHutSuite.scala" />
+      <jump line="95" column="0" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/barneshut/Simulator.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhpcygiYSIsIDIpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>matrix</text>
