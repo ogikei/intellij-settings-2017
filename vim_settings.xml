@@ -45,11 +45,11 @@
         <mark key="." line="94" column="5" />
         <mark key="^" line="94" column="5" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/ProjectProperties.java" timestamp="1489476020563">
-        <mark key="[" line="14" column="53" />
-        <mark key="]" line="14" column="61" />
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/ProjectProperties.java" timestamp="1489476777715">
+        <mark key="[" line="14" column="51" />
+        <mark key="]" line="14" column="51" />
         <mark key="^" line="14" column="61" />
-        <mark key="." line="14" column="61" />
+        <mark key="." line="14" column="51" />
       </file>
       <file name="$USER_HOME$/Downloads/kmeans/src/main/scala/kmeans/KMeans.scala" timestamp="1489123812959">
         <mark key="'" line="125" column="0" />
@@ -385,10 +385,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>locations</text>
+        <text>, locations = {&quot;classpath:application.properties&quot;}</text>
       </register>
       <register name="-" type="4">
-        <text>locations</text>
+        <text>, locations = {&quot;classpath:application.properties&quot;}</text>
       </register>
       <register name="/" type="4">
         <text>maven</text>
