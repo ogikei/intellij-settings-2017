@@ -90,12 +90,12 @@
         <mark key="." line="76" column="85" />
         <mark key="^" line="76" column="84" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" timestamp="1489482223031">
-        <mark key="'" line="133" column="0" />
-        <mark key="[" line="737" column="12" />
-        <mark key="]" line="737" column="38" />
-        <mark key="^" line="737" column="38" />
-        <mark key="." line="737" column="38" />
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" timestamp="1489541295049">
+        <mark key="'" line="462" column="25" />
+        <mark key="[" line="423" column="64" />
+        <mark key="]" line="424" column="22" />
+        <mark key="^" line="424" column="22" />
+        <mark key="." line="424" column="22" />
       </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/assignment.sbt" timestamp="1489123513670">
         <mark key="[" line="1" column="15" />
@@ -140,6 +140,7 @@
         <mark key="^" line="32" column="4" />
         <mark key="." line="32" column="4" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/controllers/ClusterController.java" timestamp="1489541150247" />
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/test/scala/barneshut/BarnesHutSuite.scala" timestamp="1489398594692">
         <mark key="'" line="57" column="28" />
       </file>
@@ -187,10 +188,7 @@
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/pom.xml" timestamp="1489482108413">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="90" column="19" />
-        <mark key="]" line="90" column="20" />
-        <mark key="." line="90" column="20" />
-        <mark key="^" line="141" column="23" />
+        <mark key="^" line="16" column="23" />
       </file>
       <file name="$USER_HOME$/Downloads/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1488800727819">
         <mark key="'" line="102" column="0" />
@@ -291,7 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="375" column="18" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="382" column="23" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="839" column="36" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="72" column="40" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/kmeans/fun/IndexedColors.scala" />
@@ -391,13 +388,14 @@
       <jump line="49" column="9" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/Configuration.java" />
       <jump line="183" column="11" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/Configuration.java" />
       <jump line="196" column="13" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/Configuration.java" />
+      <jump line="458" column="25" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>static</text>
@@ -441,7 +439,7 @@
       <last-offset />
       <last-pattern>static</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
