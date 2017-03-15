@@ -30,17 +30,18 @@
         <mark key="." line="59" column="36" />
         <mark key="^" line="59" column="36" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" timestamp="1489548232878">
-        <mark key="[" line="206" column="36" />
-        <mark key="]" line="207" column="16" />
-        <mark key="." line="207" column="16" />
-        <mark key="^" line="207" column="16" />
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" timestamp="1489548875213">
+        <mark key="[" line="207" column="16" />
+        <mark key="]" line="207" column="19" />
+        <mark key="." line="207" column="19" />
+        <mark key="^" line="207" column="19" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" timestamp="1489132011195">
-        <mark key="[" line="68" column="8" />
-        <mark key="]" line="68" column="24" />
-        <mark key="^" line="68" column="24" />
-        <mark key="." line="68" column="24" />
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" timestamp="1489548824794">
+        <mark key="'" line="139" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="66" column="24" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/Configuration.java" timestamp="1489543915006">
         <mark key="'" line="158" column="0" />
@@ -299,12 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="389" column="28" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/ProjectProperties.java" />
-      <jump line="390" column="19" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/ProjectProperties.java" />
-      <jump line="393" column="55" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/ProjectProperties.java" />
-      <jump line="394" column="41" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/ProjectProperties.java" />
-      <jump line="397" column="29" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/ProjectProperties.java" />
-      <jump line="398" column="20" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/ProjectProperties.java" />
       <jump line="401" column="57" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/ProjectProperties.java" />
       <jump line="402" column="43" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/ProjectProperties.java" />
       <jump line="405" column="29" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/ProjectProperties.java" />
@@ -399,61 +394,66 @@
       <jump line="421" column="23" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="82" column="4" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="205" column="27" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
+      <jump line="34" column="29" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" />
+      <jump line="11" column="36" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" />
+      <jump line="28" column="34" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" />
+      <jump line="32" column="67" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" />
+      <jump line="139" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN5c3RlbQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFByb2plY3RQcm9wZXJ0aWVzIHByb2plY3RQcm9wZXJ0aWVzOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>confTags.size()</text>
+        <text>, ProjectProperties projectProperties</text>
       </register>
       <register name="/" type="4">
-        <text>param</text>
+        <text>projectproper</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIExpc3Q8Q2x1c3RlckNvbmZpZ3MuVGFnPiBjb25mVGFncyA9IGNvbmZpZ3VyYXRpb24uZ2V0Q2x1c3RlckNvbmZpZ3MoKS5nZXRUYWdzKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN5c3RlbQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFByb2plY3RQcm9wZXJ0aWVzIHByb2plY3RQcm9wZXJ0aWVzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExpc3Q8Q2x1c3RlckNvbmZpZ3MuVGFnPiBjb25mVGFncyA9IGNvbmZpZ3VyYXRpb24uZ2V0Q2x1c3RlckNvbmZpZ3MoKS5nZXRUYWdzKCk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvamVjdFByb3BlcnRpZXMgPSBwcm9qZWN0UHJvcGVydGllczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihjb25mVGFncy5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgIGZvciAoVGFnIHRhZyA6IHRhZ3MpIHsKICAgICAgdGFnID0gbmV3IFRhZygpOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExpc3Q8Q2x1c3RlckNvbmZpZ3MuVGFnPiBjb25mVGFncyA9IGNvbmZpZ3VyYXRpb24uZ2V0Q2x1c3RlckNvbmZpZ3MoKS5nZXRUYWdzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbmZUYWdzLgo=</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihjb25mVGFncyk7Cg==</text>
+        <text encoding="base64">ICAgIHN5c3RlbQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbmZUYWdzCg==</text>
+        <text encoding="base64">ICAgIExpc3Q8Q2x1c3RlckNvbmZpZ3MuVGFnPiBjb25mVGFncyA9IGNvbmZpZ3VyYXRpb24uZ2V0Q2x1c3RlckNvbmZpZ3MoKS5nZXRUYWdzKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRhZ3MuZ2V0KDApLgo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihjb25mVGFncy5zaXplKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciAoQ2x1c3RlckNvbmZpZ3MuVGFnIGNvbmZUYWcgOiBjb25maWd1cmF0aW9uLmdldENsdXN0ZXJDb25maWdzKCkuZ2V0VGFncygpKSB7CiAgICAgIGZvciAoVGFnIHRhZyA6IHRhZ3MpIHsKICAgICAgICB0YWcud2l0aEtleShjb25mVGFnLmdldEtleSgpKS53aXRoVmFsdWUoY29uZlRhZy5nZXRWYWx1ZSgpKTsKICAgICAgfQogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29uZlRhZyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIExpc3Q8Q2x1c3RlckNvbmZpZ3MuVGFnPiBjb25mVGFncyA9IGNvbmZpZ3VyYXRpb24uZ2V0Q2x1c3RlckNvbmZpZ3MoKS5nZXRUYWdzKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>param</last-search>
+      <last-search>projectproper</last-search>
       <last-offset />
-      <last-pattern>param</last-pattern>
+      <last-pattern>projectproper</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
         <entry>r3</entry>
         <entry>indice</entry>
         <entry>ind</entry>
@@ -473,6 +473,7 @@
         <entry>systemparam</entry>
         <entry>tag</entry>
         <entry>param</entry>
+        <entry>projectproper</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
