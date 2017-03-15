@@ -30,11 +30,11 @@
         <mark key="." line="59" column="36" />
         <mark key="^" line="59" column="36" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" timestamp="1489548875213">
-        <mark key="[" line="207" column="16" />
-        <mark key="]" line="207" column="19" />
-        <mark key="." line="207" column="19" />
-        <mark key="^" line="207" column="19" />
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" timestamp="1489551176533">
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="206" column="0" />
+        <mark key="." line="206" column="0" />
+        <mark key="^" line="207" column="25" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" timestamp="1489548824794">
         <mark key="'" line="139" column="0" />
@@ -403,10 +403,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFByb2plY3RQcm9wZXJ0aWVzIHByb2plY3RQcm9wZXJ0aWVzOwo=</text>
+        <text encoding="base64">Ly8gICAgZm9yIChpbnQgaSA9IDA7IGkgPCBjb25mVGFnU2l6ZTsgaSsrKSB7Ci8vICAgICAgdGFncy5hZGQobmV3IFRhZygpKTsKLy8gICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>, ProjectProperties projectProperties</text>
+        <text>Tag tag : tags</text>
       </register>
       <register name="/" type="4">
         <text>projectproper</text>
@@ -415,31 +415,31 @@
         <text encoding="base64">ICAgIExpc3Q8Q2x1c3RlckNvbmZpZ3MuVGFnPiBjb25mVGFncyA9IGNvbmZpZ3VyYXRpb24uZ2V0Q2x1c3RlckNvbmZpZ3MoKS5nZXRUYWdzKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFByb2plY3RQcm9wZXJ0aWVzIHByb2plY3RQcm9wZXJ0aWVzOwo=</text>
+        <text encoding="base64">Ly8gICAgZm9yIChpbnQgaSA9IDA7IGkgPCBjb25mVGFnU2l6ZTsgaSsrKSB7Ci8vICAgICAgdGFncy5hZGQobmV3IFRhZygpKTsKLy8gICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvamVjdFByb3BlcnRpZXMgPSBwcm9qZWN0UHJvcGVydGllczsK</text>
+        <text encoding="base64">ICAgICAgdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciAoVGFnIHRhZyA6IHRhZ3MpIHsKICAgICAgdGFnID0gbmV3IFRhZygpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgdGFnID0gbmV3IFRhZygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5leGl0KDApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN5c3RlbQo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih0YWdzLmdldCgwKS5nZXRLZXkoKSArIHRhZ3MuZ2V0KDApLmdldFZhbHVlKCkpOwogICAgU3lzdGVtLm91dC5wcmludGxuKHRhZ3MuZ2V0KDEpLmdldEtleSgpICsgdGFncy5nZXQoMSkuZ2V0VmFsdWUoKSk7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExpc3Q8Q2x1c3RlckNvbmZpZ3MuVGFnPiBjb25mVGFncyA9IGNvbmZpZ3VyYXRpb24uZ2V0Q2x1c3RlckNvbmZpZ3MoKS5nZXRUYWdzKCk7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5leGl0KDApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihjb25mVGFncy5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih0YWdzLmdldCgwKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExpc3Q8Q2x1c3RlckNvbmZpZ3MuVGFnPiBjb25mVGFncyA9IGNvbmZpZ3VyYXRpb24uZ2V0Q2x1c3RlckNvbmZpZ3MoKS5nZXRUYWdzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
