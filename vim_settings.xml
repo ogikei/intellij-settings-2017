@@ -10,7 +10,8 @@
         <mark key="." line="79" column="28" />
         <mark key="^" line="79" column="29" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" timestamp="1490777555622">
+      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" timestamp="1490779035884">
+        <mark key="'" line="74" column="14" />
         <mark key="[" line="126" column="59" />
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
@@ -352,10 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="39" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/ConfigurationService.java" />
-      <jump line="38" column="48" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/ConfigurationService.java" />
-      <jump line="17" column="53" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/ConfigurationService.java" />
-      <jump line="29" column="38" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/ConfigurationService.java" />
       <jump line="514" column="32" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/ProjectProperties.java" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/ProjectProperties.java" />
       <jump line="54" column="17" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/ProjectProperties.java" />
@@ -452,6 +449,10 @@
       <jump line="26" column="1" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/example/Lists.scala" />
       <jump line="90" column="2" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/wikipedia/WikipediaSuite.scala" />
       <jump line="37" column="6" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/wikipedia/WikipediaRanking.scala" />
+      <jump line="126" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
+      <jump line="112" column="64" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
+      <jump line="10" column="110" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
+      <jump line="74" column="14" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -461,7 +462,7 @@
         <text>Stin</text>
       </register>
       <register name="/" type="4">
-        <text>find</text>
+        <text>tags</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIExpc3Q8Q2x1c3RlckNvbmZpZ3MuVGFnPiBjb25mVGFncyA9IGNvbmZpZ3VyYXRpb24uZ2V0Q2x1c3RlckNvbmZpZ3MoKS5nZXRUYWdzKCk7Cg==</text>
@@ -498,15 +499,14 @@
       </register>
     </registers>
     <search>
-      <last-search>find</last-search>
+      <last-search>tags</last-search>
       <last-offset />
-      <last-pattern>find</last-pattern>
+      <last-pattern>tags</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ind</entry>
         <entry>indi</entry>
         <entry>sector</entry>
         <entry>foreach</entry>
@@ -526,6 +526,7 @@
         <entry>projectproper</entry>
         <entry>`</entry>
         <entry>find</entry>
+        <entry>tags</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
