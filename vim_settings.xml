@@ -10,11 +10,11 @@
         <mark key="." line="79" column="28" />
         <mark key="^" line="79" column="29" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" timestamp="1490776200111">
-        <mark key="[" line="104" column="28" />
-        <mark key="]" line="104" column="35" />
-        <mark key="." line="104" column="35" />
-        <mark key="^" line="104" column="35" />
+      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" timestamp="1490777555622">
+        <mark key="[" line="126" column="59" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
+        <mark key="^" line="125" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/barneshut/Simulator.scala" timestamp="1489469144147">
         <mark key="'" line="13" column="6" />
@@ -455,10 +455,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Array</text>
+        <text>Stin</text>
       </register>
       <register name="-" type="4">
-        <text>Array</text>
+        <text>Stin</text>
       </register>
       <register name="/" type="4">
         <text>find</text>
@@ -467,31 +467,31 @@
         <text encoding="base64">ICAgIExpc3Q8Q2x1c3RlckNvbmZpZ3MuVGFnPiBjb25mVGFncyA9IGNvbmZpZ3VyYXRpb24uZ2V0Q2x1c3RlckNvbmZpZ3MoKS5nZXRUYWdzKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBmaXJzdExhbmdJblRhZyh0YWc6IE9wdGlvbltTdHJpbmddLCBsczogTGlzdFtTdHJpbmddKTogT3B0aW9uW0ludF0gPSB7CiAgICAgIGlmICh0YWcuaXNFbXB0eSkgTm9uZQogICAgICBlbHNlIGlmIChscy5pc0VtcHR5KSBOb25lCiAgICAgIGVsc2UgaWYgKHRhZy5nZXQgPT0gbHMuaGVhZCkgU29tZSgwKSAvLyBpbmRleDogMAogICAgICBlbHNlIHsKICAgICAgICB2YWwgdG1wID0gZmlyc3RMYW5nSW5UYWcodGFnLCBscy50YWlsKQogICAgICAgIHRtcCBtYXRjaCB7CiAgICAgICAgICBjYXNlIE5vbmUgPT4gTm9uZQogICAgICAgICAgY2FzZSBTb21lKGkpID0+IFNvbWUoaSArIDEpIC8vIGluZGV4IGkgaW4gbHMudGFpbCA9PiBpbmRleCBpKzEKICAgICAgICB9CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFuc3dlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgIGFuc3dlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC4gIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFuc3dlcnMuam9pbihxdWVzdGlvbnMpCg==</text>
+        <text encoding="base64">ICAgIC4gIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
