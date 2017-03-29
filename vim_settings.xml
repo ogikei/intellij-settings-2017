@@ -146,7 +146,7 @@
         <mark key="." line="139" column="0" />
         <mark key="^" line="139" column="0" />
       </file>
-      <file name="$USER_HOME$/.m2/repository/varlog/varlog-core/v3.2.4/varlog-core-v3.2.4.jar!/varlog/core/runner/Main.class" timestamp="1488869593168">
+      <file name="$MAVEN_REPOSITORY$/varlog/varlog-core/v3.2.4/varlog-core-v3.2.4.jar!/varlog/core/runner/Main.class" timestamp="1488869593168">
         <mark key="'" line="74" column="210" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/ConfigurationService.java" timestamp="1489482249078">
@@ -208,11 +208,12 @@
         <mark key="]" line="196" column="0" />
         <mark key="." line="196" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/wikipedia/WikipediaRanking.scala" timestamp="1490697436537">
-        <mark key="[" line="51" column="47" />
-        <mark key="]" line="51" column="46" />
-        <mark key="." line="51" column="46" />
-        <mark key="^" line="51" column="46" />
+      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/wikipedia/WikipediaRanking.scala" timestamp="1490763476979">
+        <mark key="'" line="37" column="6" />
+        <mark key="[" line="78" column="59" />
+        <mark key="]" line="78" column="78" />
+        <mark key="." line="78" column="78" />
+        <mark key="^" line="78" column="78" />
       </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/kmeans/KMeans.scala" timestamp="1489383200601">
         <mark key="'" line="7" column="0" />
@@ -338,7 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/ConfigurationService.java" />
       <jump line="31" column="39" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/ConfigurationService.java" />
       <jump line="38" column="48" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/ConfigurationService.java" />
       <jump line="17" column="53" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/ConfigurationService.java" />
@@ -438,61 +438,61 @@
       <jump line="63" column="25" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/example/ListsSuite.scala" />
       <jump line="26" column="1" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/example/Lists.scala" />
       <jump line="90" column="2" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/wikipedia/WikipediaSuite.scala" />
+      <jump line="37" column="6" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/wikipedia/WikipediaRanking.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRlc3QK</text>
+      <register name="&quot;" type="4">
+        <text>map</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
-        <text>`</text>
+        <text>find</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIExpc3Q8Q2x1c3RlckNvbmZpZ3MuVGFnPiBjb25mVGFncyA9IGNvbmZpZ3VyYXRpb24uZ2V0Q2x1c3RlckNvbmZpZ3MoKS5nZXRUYWdzKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3QK</text>
+        <text encoding="base64">ICAgICAgbGFuZ3MuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJkZC5maXJzdCgpLgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHJkZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJkZC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJkZC5mbGF0TWFwKGFydGljbGUgPT4gewogICAgICBsYW5ncy5maWx0ZXIobGFuZyA9PiBhcnRpY2xlLm1lbnRpb25zTGFuZ3VhZ2UobGFuZykpLm1hcChsYW5nID0+IChsYW5nLCBhcnRpY2xlKSkKICAgIH0pLnJlZHVjZUJ5S2V5KChsYW5nLCBhcnRpY2xlcykgPT4gKGxhbmcsIGFydGljbGVzLnNpemUpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGxhbmcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsYW5ncy5pc0VtcHR5Cg==</text>
+        <text encoding="base64">ICAgIHJkZC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>`</last-search>
+      <last-search>find</last-search>
       <last-offset />
-      <last-pattern>`</last-pattern>
+      <last-pattern>find</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>indice</entry>
         <entry>ind</entry>
         <entry>indi</entry>
         <entry>sector</entry>
@@ -512,6 +512,7 @@
         <entry>param</entry>
         <entry>projectproper</entry>
         <entry>`</entry>
+        <entry>find</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
