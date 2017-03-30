@@ -37,13 +37,11 @@
         <mark key="." line="59" column="36" />
         <mark key="^" line="59" column="36" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" timestamp="1490851157113">
-        <mark key="a" line="374" column="11" />
-        <mark key="'" line="503" column="10" />
-        <mark key="[" line="707" column="64" />
-        <mark key="]" line="708" column="45" />
-        <mark key="^" line="708" column="45" />
-        <mark key="." line="708" column="45" />
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" timestamp="1490856070414">
+        <mark key="'" line="694" column="2" />
+        <mark key="[" line="699" column="0" />
+        <mark key="]" line="699" column="0" />
+        <mark key="." line="699" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" timestamp="1489548824794">
         <mark key="'" line="139" column="0" />
@@ -353,10 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="10" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/barneshut/Simulator.scala" />
-      <jump line="97" column="20" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/barneshut/Simulator.scala" />
-      <jump line="13" column="6" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/barneshut/Simulator.scala" />
-      <jump line="87" column="2" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="322" column="31" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="335" column="31" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="390" column="8" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
@@ -453,63 +447,64 @@
       <jump line="547" column="47" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="470" column="36" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="503" column="10" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
+      <jump line="668" column="34" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
+      <jump line="525" column="13" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
+      <jump line="238" column="24" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
+      <jump line="697" column="2" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CiAgLy8g44K/44K544Kv44Kw44Or44O844OX44Gu44Oq44K944O844K544GMMOOBruWgtOWQiAogIHByaXZhdGUgTGlzdDxJbnN0YW5jZUdyb3VwTW9kaWZ5Q29uZmlnPiBnZXRUYXNrSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3MoCiAgICAgIGZpbmFsIFN0cmluZyBqb2JGbG93SWQpIHsKICAgIExpc3Q8SW5zdGFuY2VHcm91cD4gdGFza0luc3RhbmNlR3JvdXBzID0gc2NhblRhc2tJbnN0YW5jZUdyb3Vwcyhqb2JGbG93SWQpOwogICAgTGlzdDxJbnN0YW5jZUdyb3VwTW9kaWZ5Q29uZmlnPiBpbnN0YW5jZUdyb3VwTW9kaWZ5Q29uZmlncyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCB0YXNrSW5zdGFuY2VHcm91cHMuc2l6ZSgpOyBpKyspIHsKICAgIGZvciAoSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZyBpbnN0YW5jZUdyb3VwTW9kaWZ5Q29uZmlnIDogaW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3MpIHsKICAgICAgaW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZy53aXRoSW5zdGFuY2VHcm91cElkKCkud2l0aEluc3RhbmNlQ291bnQoMCk7CiAgICB9CiAgICByZXR1cm4gaW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3M7CiAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YXNrSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3NcPg==</text>
+        <text>=====</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIExpc3Q8Q2x1c3RlckNvbmZpZ3MuVGFnPiBjb25mVGFncyA9IGNvbmZpZ3VyYXRpb24uZ2V0Q2x1c3RlckNvbmZpZ3MoKS5nZXRUYWdzKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CiAgLy8g44K/44K544Kv44Kw44Or44O844OX44Gu44Oq44K944O844K544GMMOOBruWgtOWQiAogIHByaXZhdGUgTGlzdDxJbnN0YW5jZUdyb3VwTW9kaWZ5Q29uZmlnPiBnZXRUYXNrSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3MoCiAgICAgIGZpbmFsIFN0cmluZyBqb2JGbG93SWQpIHsKICAgIExpc3Q8SW5zdGFuY2VHcm91cD4gdGFza0luc3RhbmNlR3JvdXBzID0gc2NhblRhc2tJbnN0YW5jZUdyb3Vwcyhqb2JGbG93SWQpOwogICAgTGlzdDxJbnN0YW5jZUdyb3VwTW9kaWZ5Q29uZmlnPiBpbnN0YW5jZUdyb3VwTW9kaWZ5Q29uZmlncyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCB0YXNrSW5zdGFuY2VHcm91cHMuc2l6ZSgpOyBpKyspIHsKICAgIGZvciAoSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZyBpbnN0YW5jZUdyb3VwTW9kaWZ5Q29uZmlnIDogaW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3MpIHsKICAgICAgaW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZy53aXRoSW5zdGFuY2VHcm91cElkKCkud2l0aEluc3RhbmNlQ291bnQoMCk7CiAgICB9CiAgICByZXR1cm4gaW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3M7CiAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3MgPQogICAgICAgICAgICBnZXRUYXNrSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3Moam9iRmxvd0lkLCByZXF1ZXN0ZWRSYW1HaUIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRUYXNrSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3Moam9iRmxvd0lkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oIj09PT09PT09PT09PT09PT09PT0iKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcm9pdgo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHJlcXVlc3RlZFJhbUdpQikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcnZpCg==</text>
+        <text encoding="base64">ICAgIGZvciAoSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZyBpbnN0YW5jZUdyb3VwTW9kaWZ5Q29uZmlnIDogaW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3MpIHsKICAgICAgaW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZy53aXRoSW5zdGFuY2VHcm91cElkKCkud2l0aEluc3RhbmNlQ291bnQoMCk7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLSB0YXJnZXRVcGRhdGUuZ2V0UmVzb3VyY2UoKS5nZXRTcG90KCkuZ2V0UmFtR2lCKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgaW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZy5zZXRJbnN0YW5jZUNvdW50KDApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YXNrSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3NcPg==</last-search>
+      <last-search>=====</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YXNrSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3NcPg==</last-pattern>
+      <last-pattern>=====</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
-        <entry>coregroup</entry>
-        <entry>need</entry>
         <entry>maven</entry>
         <entry>varida</entry>
         <entry>vari</entry>
@@ -527,6 +522,9 @@
         <entry encoding="base64">XDx0YWdzXD4=</entry>
         <entry>task</entry>
         <entry encoding="base64">XDx0YXNrSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3NcPg==</entry>
+        <entry>modify</entry>
+        <entry>specifi</entry>
+        <entry>=====</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
