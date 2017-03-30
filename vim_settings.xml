@@ -10,12 +10,12 @@
         <mark key="." line="79" column="28" />
         <mark key="^" line="79" column="29" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" timestamp="1490782946916">
-        <mark key="'" line="46" column="10" />
-        <mark key="[" line="126" column="59" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
-        <mark key="^" line="125" column="0" />
+      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" timestamp="1490862365439">
+        <mark key="'" line="148" column="4" />
+        <mark key="[" line="301" column="8" />
+        <mark key="]" line="302" column="7" />
+        <mark key="." line="302" column="7" />
+        <mark key="^" line="302" column="7" />
       </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/barneshut/Simulator.scala" timestamp="1489469144147">
         <mark key="'" line="13" column="6" />
@@ -351,8 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="322" column="31" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="335" column="31" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="390" column="8" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="397" column="12" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="455" column="4" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
@@ -451,13 +449,15 @@
       <jump line="525" column="13" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="238" column="24" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="697" column="2" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
+      <jump line="127" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
+      <jump line="146" column="4" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgLy8g44K/44K544Kv44Kw44Or44O844OX44Gu44Oq44K944O844K544GMMOOBruWgtOWQiAogIHByaXZhdGUgTGlzdDxJbnN0YW5jZUdyb3VwTW9kaWZ5Q29uZmlnPiBnZXRUYXNrSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3MoCiAgICAgIGZpbmFsIFN0cmluZyBqb2JGbG93SWQpIHsKICAgIExpc3Q8SW5zdGFuY2VHcm91cD4gdGFza0luc3RhbmNlR3JvdXBzID0gc2NhblRhc2tJbnN0YW5jZUdyb3Vwcyhqb2JGbG93SWQpOwogICAgTGlzdDxJbnN0YW5jZUdyb3VwTW9kaWZ5Q29uZmlnPiBpbnN0YW5jZUdyb3VwTW9kaWZ5Q29uZmlncyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCB0YXNrSW5zdGFuY2VHcm91cHMuc2l6ZSgpOyBpKyspIHsKICAgIGZvciAoSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZyBpbnN0YW5jZUdyb3VwTW9kaWZ5Q29uZmlnIDogaW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3MpIHsKICAgICAgaW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZy53aXRoSW5zdGFuY2VHcm91cElkKCkud2l0aEluc3RhbmNlQ291bnQoMCk7CiAgICB9CiAgICByZXR1cm4gaW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3M7CiAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>vs.size</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>vs.size</text>
       </register>
       <register name="/" type="4">
         <text>=====</text>
@@ -466,31 +466,31 @@
         <text encoding="base64">ICAgIExpc3Q8Q2x1c3RlckNvbmZpZ3MuVGFnPiBjb25mVGFncyA9IGNvbmZpZ3VyYXRpb24uZ2V0Q2x1c3RlckNvbmZpZ3MoKS5nZXRUYWdzKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgLy8g44K/44K544Kv44Kw44Or44O844OX44Gu44Oq44K944O844K544GMMOOBruWgtOWQiAogIHByaXZhdGUgTGlzdDxJbnN0YW5jZUdyb3VwTW9kaWZ5Q29uZmlnPiBnZXRUYXNrSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3MoCiAgICAgIGZpbmFsIFN0cmluZyBqb2JGbG93SWQpIHsKICAgIExpc3Q8SW5zdGFuY2VHcm91cD4gdGFza0luc3RhbmNlR3JvdXBzID0gc2NhblRhc2tJbnN0YW5jZUdyb3Vwcyhqb2JGbG93SWQpOwogICAgTGlzdDxJbnN0YW5jZUdyb3VwTW9kaWZ5Q29uZmlnPiBpbnN0YW5jZUdyb3VwTW9kaWZ5Q29uZmlncyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCB0YXNrSW5zdGFuY2VHcm91cHMuc2l6ZSgpOyBpKyspIHsKICAgIGZvciAoSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZyBpbnN0YW5jZUdyb3VwTW9kaWZ5Q29uZmlnIDogaW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3MpIHsKICAgICAgaW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZy53aXRoSW5zdGFuY2VHcm91cElkKCkud2l0aEluc3RhbmNlQ291bnQoMCk7CiAgICB9CiAgICByZXR1cm4gaW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3M7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgZnFsdiAgaGhoCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3MgPQogICAgICAgICAgICBnZXRUYXNrSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3Moam9iRmxvd0lkLCByZXF1ZXN0ZWRSYW1HaUIpOwo=</text>
+        <text encoding="base64">ICAgICAgPC0gZmlyc3RMYW5nSW5UYWcodGFnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRUYXNrSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3Moam9iRmxvd0lkKTsK</text>
+        <text encoding="base64">ICAgICAgdGFnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oIj09PT09PT09PT09PT09PT09PT0iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHJlcXVlc3RlZFJhbUdpQikK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciAoSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZyBpbnN0YW5jZUdyb3VwTW9kaWZ5Q29uZmlnIDogaW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3MpIHsKICAgICAgaW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZy53aXRoSW5zdGFuY2VHcm91cElkKCkud2l0aEluc3RhbmNlQ291bnQoMCk7CiAgICB9Cg==</text>
+        <text encoding="base64">CiAgLy8g44K/44K544Kv44Kw44Or44O844OX44Gu44Oq44K944O844K544GMMOOBruWgtOWQiAogIHByaXZhdGUgTGlzdDxJbnN0YW5jZUdyb3VwTW9kaWZ5Q29uZmlnPiBnZXRUYXNrSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3MoCiAgICAgIGZpbmFsIFN0cmluZyBqb2JGbG93SWQpIHsKICAgIExpc3Q8SW5zdGFuY2VHcm91cD4gdGFza0luc3RhbmNlR3JvdXBzID0gc2NhblRhc2tJbnN0YW5jZUdyb3Vwcyhqb2JGbG93SWQpOwogICAgTGlzdDxJbnN0YW5jZUdyb3VwTW9kaWZ5Q29uZmlnPiBpbnN0YW5jZUdyb3VwTW9kaWZ5Q29uZmlncyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCB0YXNrSW5zdGFuY2VHcm91cHMuc2l6ZSgpOyBpKyspIHsKICAgIGZvciAoSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZyBpbnN0YW5jZUdyb3VwTW9kaWZ5Q29uZmlnIDogaW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3MpIHsKICAgICAgaW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZy53aXRoSW5zdGFuY2VHcm91cElkKCkud2l0aEluc3RhbmNlQ291bnQoMCk7CiAgICB9CiAgICByZXR1cm4gaW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3M7CiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3MgPQogICAgICAgICAgICBnZXRUYXNrSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3Moam9iRmxvd0lkLCByZXF1ZXN0ZWRSYW1HaUIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZy5zZXRJbnN0YW5jZUNvdW50KDApOwo=</text>
+        <text encoding="base64">ICAgICAgICBnZXRUYXNrSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3Moam9iRmxvd0lkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
