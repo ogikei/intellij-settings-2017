@@ -37,8 +37,8 @@
         <mark key="." line="59" column="36" />
         <mark key="^" line="59" column="36" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" timestamp="1490171503270">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" timestamp="1490847141599">
+        <mark key="'" line="285" column="20" />
         <mark key="[" line="441" column="10" />
         <mark key="]" line="441" column="11" />
         <mark key="." line="441" column="11" />
@@ -298,7 +298,6 @@
         <mark key="]" line="192" column="36" />
         <mark key="." line="192" column="36" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/wikipedia/WikipediaData.scala" timestamp="1490768805190" />
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/reductions/LineOfSight.scala" timestamp="1488523124325">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="7" column="36" />
@@ -353,7 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="4" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/barneshut/package.scala" />
       <jump line="147" column="21" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/barneshut/package.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/barneshut/package.scala" />
       <jump line="72" column="26" filename="$USER_HOME$/MyWork/git/parallel-programming/src/test/scala/barneshut/BarnesHutSuite.scala" />
@@ -453,6 +451,7 @@
       <jump line="47" column="29" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
       <jump line="237" column="2" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
       <jump line="46" column="10" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
+      <jump line="285" column="20" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -503,7 +502,7 @@
       <last-offset />
       <last-pattern>spread</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
