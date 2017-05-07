@@ -171,7 +171,12 @@
         <mark key="." line="91" column="46" />
         <mark key="^" line="91" column="46" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" timestamp="1494146988854" />
+      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" timestamp="1494151813034">
+        <mark key="[" line="90" column="98" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="94" column="13" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" timestamp="1489548824794">
         <mark key="'" line="139" column="0" />
         <mark key="[" line="28" column="0" />
@@ -295,6 +300,7 @@
         <mark key="]" line="196" column="0" />
         <mark key="." line="196" column="0" />
       </file>
+      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/reflect/ClassTag.scala" timestamp="1494149482618" />
       <file name="$USER_HOME$/Downloads/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1488800727819">
         <mark key="'" line="102" column="0" />
         <mark key="[" line="45" column="39" />
@@ -320,6 +326,9 @@
         <mark key="]" line="79" column="28" />
         <mark key="." line="79" column="28" />
         <mark key="^" line="79" column="29" />
+      </file>
+      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/package.scala" timestamp="1494149862511">
+        <mark key="'" line="51" column="10" />
       </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1488800785549">
         <mark key="'" line="2" column="0" />
@@ -356,36 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="455" column="13" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/Configuration.java" />
-      <jump line="470" column="15" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/Configuration.java" />
-      <jump line="516" column="15" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/Configuration.java" />
-      <jump line="49" column="9" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/Configuration.java" />
-      <jump line="183" column="11" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/Configuration.java" />
-      <jump line="196" column="13" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/Configuration.java" />
-      <jump line="458" column="25" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="7" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/DEVELOPGUIDE.md" />
-      <jump line="35" column="8" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/Configuration.java" />
-      <jump line="63" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/Configuration.java" />
-      <jump line="80" column="30" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/Configuration.java" />
-      <jump line="210" column="24" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/Configuration.java" />
-      <jump line="268" column="19" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/Configuration.java" />
-      <jump line="265" column="13" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/Configuration.java" />
-      <jump line="264" column="16" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/Configuration.java" />
-      <jump line="260" column="16" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/Configuration.java" />
-      <jump line="462" column="40" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="29" column="53" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="62" column="14" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/pom.xml" />
-      <jump line="158" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/Configuration.java" />
-      <jump line="51" column="20" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/controllers/ClusterController.java" />
-      <jump line="421" column="23" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="82" column="4" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="34" column="29" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" />
-      <jump line="11" column="36" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" />
-      <jump line="28" column="34" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" />
-      <jump line="32" column="67" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" />
-      <jump line="26" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" />
-      <jump line="139" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/resources/project.properties" />
       <jump line="105" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/resources/project.properties" />
       <jump line="85" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/resources/project.properties" />
       <jump line="16" column="10" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
@@ -456,65 +435,90 @@
       <jump line="48" column="5" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/build.sbt" />
       <jump line="49" column="21" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/build.sbt" />
       <jump line="56" column="67" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/build.sbt" />
+      <jump line="67" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="124" column="25" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="125" column="17" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="126" column="18" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="37" column="31" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="40" column="50" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="47" column="29" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="64" column="28" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="71" column="16" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="89" column="81" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="97" column="33" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="98" column="25" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="99" column="26" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="100" column="64" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="69" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="66" column="66" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="24" column="11" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="592" column="23" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="39" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="51" column="10" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/package.scala" />
+      <jump line="3" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="298" column="24" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="593" column="24" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="7" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="296" column="24" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="293" column="36" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="1" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="295" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="48" column="13" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>stackoverflow</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>stackoverflow</text>
+        <text>@param</text>
       </register>
       <register name="/" type="4">
-        <text>time</text>
+        <text>row</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIExpc3Q8Q2x1c3RlckNvbmZpZ3MuVGFnPiBjb25mVGFncyA9IGNvbmZpZ3VyYXRpb24uZ2V0Q2x1c3RlckNvbmZpZ3MoKS5nZXRUYWdzKCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>course := &quot;bigdata&quot;
-assignment := &quot;stackoverflow&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFja2FnZSBleGFtcGxlCgovKioKICAqIENyZWF0ZWQgYnkga2Vpc3VrZW9naXdhcmEgb24gMjAxNy8wNC8yMS4KICAqLwpjbGFzcyB0ZXN0IHsKCn0K</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEZpbGwgaW4gdGhlIG5ld01lYW5zIGFycmF5Cg==</text>
+        <text encoding="base64">ICAgICogICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZlY3RvcnM6IFJERFsoSW50LCBJbnQpXQo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLiAgCg==</text>
+        <text encoding="base64">ICAgICAgY29sKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAuY29sbGVjdCgpCg==</text>
+        <text encoding="base64">ICAgICAgU3RydWN0RmllbGQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5tYXAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>time</last-search>
+      <last-search>row</last-search>
       <last-offset />
-      <last-pattern>time</last-pattern>
+      <last-pattern>row</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>vali</entry>
-        <entry>static</entry>
-        <entry>systemparam</entry>
-        <entry>param</entry>
         <entry>projectproper</entry>
         <entry>`</entry>
         <entry>find</entry>
@@ -531,14 +535,19 @@ assignment := &quot;stackoverflow&quot;</text>
         <entry>todo</entry>
         <entry>iterable</entry>
         <entry>time</entry>
+        <entry>list</entry>
+        <entry>::</entry>
+        <entry>package</entry>
+        <entry>row</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
         <entry>s</entry>
         <entry>372</entry>
         <entry>W</entry>
-        <entry>%d</entry>
         <entry>192</entry>
+        <entry>597</entry>
+        <entry>%d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
