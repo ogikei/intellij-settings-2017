@@ -171,12 +171,12 @@
         <mark key="." line="91" column="46" />
         <mark key="^" line="91" column="46" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" timestamp="1494177927302">
-        <mark key="'" line="30" column="77" />
-        <mark key="[" line="105" column="11" />
-        <mark key="]" line="106" column="21" />
-        <mark key="." line="106" column="21" />
-        <mark key="^" line="106" column="21" />
+      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" timestamp="1494181503677">
+        <mark key="'" line="32" column="77" />
+        <mark key="[" line="166" column="24" />
+        <mark key="]" line="166" column="24" />
+        <mark key="." line="166" column="24" />
+        <mark key="^" line="166" column="24" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" timestamp="1489548824794">
         <mark key="'" line="139" column="0" />
@@ -276,6 +276,7 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/MapLike.scala" timestamp="1494180626435" />
       <file name="/Dummy.txt" timestamp="1492765189805">
         <mark key="[" line="0" column="0" />
       </file>
@@ -286,11 +287,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/timeusage/test.sc" timestamp="1494178131419">
-        <mark key="[" line="13" column="7" />
-        <mark key="]" line="13" column="9" />
-        <mark key="." line="13" column="9" />
-        <mark key="^" line="13" column="9" />
+      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/timeusage/test.sc" timestamp="1494179773950">
+        <mark key="[" line="14" column="100" />
+        <mark key="]" line="14" column="100" />
+        <mark key="." line="14" column="100" />
+        <mark key="^" line="14" column="100" />
       </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/example/ListsSuite.scala" timestamp="1494146682919">
         <mark key="'" line="63" column="25" />
@@ -480,10 +481,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>flatMap</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>flatMap</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb2x1bW5zXD4=</text>
@@ -492,31 +493,31 @@
         <text encoding="base64">ICAgIHZhbCBncm91cHM6IE1hcFtJbnQsIExpc3RbQ29sdW1uXV0gPSBjb2x1bW5OYW1lcwogICAgICAuZm9sZExlZnQoTGlzdC5lbXB0eVsoSW50LCBDb2x1bW4pXSkoKGFjYywgbmFtZSkgPT4gewogICAgICAgIGNhdGVnb3J5TWFwcGluZ3MKICAgICAgICAgIC5tYXAgewogICAgICAgICAgICBjYXNlIChwcmVmaXhlcywgaW5kZXgpIGlmIHByZWZpeGVzLmV4aXN0cyhuYW1lLnN0YXJ0c1dpdGgpID0+CiAgICAgICAgICAgICAgU29tZShpbmRleCwgbmV3IENvbHVtbihuYW1lKSkKICAgICAgICAgICAgY2FzZSBfID0+IE5vbmUKICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5zb3J0QnkoXy5fMSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnNvcnRCeShfLl8xKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLm1hcFZhbHVlcygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLm1hcFZhbHVlcygpCg==</text>
+        <text encoding="base64">ICAgIHZhbCByZXN1bHRzID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLnNvcnRCeShfLl8xKQo=</text>
+        <text encoding="base64">ICAgICAgLnNvcnRCeShfLl8xKQogICAgICAuaGVhZE9wdGlvbiBtYXRjaCB7CiAgICAgIGNhc2UgU29tZSh0dXBsZSkgPT4gdHVwbGUgOjogYWNjCiAgICAgIGNhc2UgTm9uZSA9PiBhY2MKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC5tYXBWYWx1ZSAgCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLm1hcFZhbHVlKF8uXzIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5zb3J0QnkoXy5fMSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5vcmRlckIK</text>
+        <text encoding="base64">ICAgICAgLnNvcnRCeShfLl8xKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
