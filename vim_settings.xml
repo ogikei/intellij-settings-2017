@@ -171,12 +171,12 @@
         <mark key="." line="91" column="46" />
         <mark key="^" line="91" column="46" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" timestamp="1494158827652">
+      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" timestamp="1494161056125">
         <mark key="'" line="30" column="77" />
-        <mark key="[" line="112" column="29" />
-        <mark key="]" line="114" column="3" />
-        <mark key="." line="114" column="3" />
-        <mark key="^" line="114" column="3" />
+        <mark key="[" line="101" column="11" />
+        <mark key="]" line="101" column="10" />
+        <mark key="." line="101" column="10" />
+        <mark key="^" line="101" column="10" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" timestamp="1489548824794">
         <mark key="'" line="139" column="0" />
@@ -473,11 +473,11 @@
       <jump line="30" column="77" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>flatMap</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>flatMap</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb2x1bW5zXD4=</text>
@@ -486,31 +486,31 @@
         <text encoding="base64">ICAgIExpc3Q8Q2x1c3RlckNvbmZpZ3MuVGFnPiBjb25mVGFncyA9IGNvbmZpZ3VyYXRpb24uZ2V0Q2x1c3RlckNvbmZpZ3MoKS5nZXRUYWdzKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIC5zb3J0QnkoXy5fMSkKICAgICAgICAgIC5oZWFkT3B0aW9uIG1hdGNoIHsKICAgICAgICAgIGNhc2UgU29tZSh0dXBsZSkgPT4gdHVwbGUgOjogYWNjCiAgICAgICAgICBjYXNlIE5vbmUgPT4gYWNjCiAgICAgICAgfQogICAgICB9KQogICAgICAuZ3JvdXBCeShfLl8xKQogICAgICAubWFwVmFsdWVzKF8ubWFwKF8uXzIpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfS5zb3J0QnkoKSkK</text>
+        <text encoding="base64">ICAgICAgfX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuaGVhZE9wdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuZ3JvdXBCeShfLl8xKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5zb3J0QnkoXy5fMSkKICAgICAgICAgIC5oZWFkT3B0aW9uIG1hdGNoIHsKICAgICAgICAgIGNhc2UgU29tZSh0dXBsZSkgPT4gdHVwbGUgOjogYWNjCiAgICAgICAgICBjYXNlIE5vbmUgPT4gYWNjCiAgICAgICAgfQogICAgICB9KQogICAgICAuZ3JvdXBCeShfLl8xKQogICAgICAubWFwVmFsdWVzKF8ubWFwKF8uXzIpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5oZWFkT3B0aW9uIG1hdGNoIHsKICAgICAgICAgIGNhc2UgU29tZSh0dXBsZSkgPT4gdHVwbGUgOjogYWNjCiAgICAgICAgICBjYXNlIE5vbmUgPT4gYWNjCiAgICAgICAgfQogICAgICB9KQogICAgICAuZ3JvdXBCeShfLl8xKQogICAgICAubWFwVmFsdWVzKF8ubWFwKF8uXzIpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5oZWFkT3B0aW9uIG1hdGNoIHsKICAgICAgICAgIGNhc2UgU29tZSh0dXBsZSkgPT4gdHVwbGUgOjogYWNjCiAgICAgICAgICBjYXNlIE5vbmUgPT4gYWNjCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgLm1hcFZhbHVlcyhfLm1hcChfLl8yKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
