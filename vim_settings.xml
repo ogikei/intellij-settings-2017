@@ -171,12 +171,11 @@
         <mark key="." line="91" column="46" />
         <mark key="^" line="91" column="46" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" timestamp="1494235989544">
-        <mark key="'" line="32" column="77" />
-        <mark key="[" line="221" column="5" />
-        <mark key="]" line="222" column="32" />
-        <mark key="." line="222" column="32" />
-        <mark key="^" line="222" column="32" />
+      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" timestamp="1494241476011">
+        <mark key="[" line="282" column="0" />
+        <mark key="]" line="282" column="0" />
+        <mark key="." line="282" column="0" />
+        <mark key="^" line="242" column="7" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" timestamp="1489548824794">
         <mark key="'" line="139" column="0" />
@@ -376,16 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="110" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
-      <jump line="74" column="14" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
-      <jump line="109" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
-      <jump line="161" column="10" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
-      <jump line="47" column="29" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
-      <jump line="237" column="2" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
-      <jump line="46" column="10" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
-      <jump line="285" column="20" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="404" column="8" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="203" column="77" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="205" column="41" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="206" column="28" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="208" column="66" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
@@ -476,61 +465,70 @@
       <jump line="83" column="38" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="76" column="37" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="30" column="77" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="275" column="8" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="274" column="8" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="264" column="69" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="276" column="8" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="218" column="14" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="219" column="14" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="220" column="14" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="240" column="13" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="241" column="13" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="242" column="13" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>pri</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLm9yZGVyQnkoJ3dvcmtpbmcsICdzZXgsICdhZ2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>pri</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb2x1bW5zXD4=</text>
+        <text>avg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBncm91cHM6IE1hcFtJbnQsIExpc3RbQ29sdW1uXV0gPSBjb2x1bW5OYW1lcwogICAgICAuZm9sZExlZnQoTGlzdC5lbXB0eVsoSW50LCBDb2x1bW4pXSkoKGFjYywgbmFtZSkgPT4gewogICAgICAgIGNhdGVnb3J5TWFwcGluZ3MKICAgICAgICAgIC5tYXAgewogICAgICAgICAgICBjYXNlIChwcmVmaXhlcywgaW5kZXgpIGlmIHByZWZpeGVzLmV4aXN0cyhuYW1lLnN0YXJ0c1dpdGgpID0+CiAgICAgICAgICAgICAgU29tZShpbmRleCwgbmV3IENvbHVtbihuYW1lKSkKICAgICAgICAgICAgY2FzZSBfID0+IE5vbmUKICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgICAgLm9yZGVyQnkoJ3dvcmtpbmcsICdzZXgsICdhZ2UpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHMiU0VMRUNUIHdvcmtpbmcsc2V4LCBhZ2UsIiArCiAgICAgIHMiUk9VTkQoQVZHKHByaW1hcnlOZWVkcyksIDEpIGFzIHByaW1hcnlOZWVkcywiICsKICAgICAgcyJST1VORChBVkcod29yayksIDEpIGFzIHdvcmssIiArCiAgICAgIHMiUk9VTkQoQVZHKG90aGVyKSwgMSkgYXMgb3RoZXIiICsKICAgICAgcyJGUk9NICR2aWV3TmFtZSBHUk9VUCBCWSB3b3JraW5nLCBzZXgsIGFnZSBPUkRFUiBCWSB3b3JraW5nLCBzZXgsIGFnZSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdmcoXy4pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXN1bHRzID0gCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLnNvcnRCeShfLl8xKQogICAgICAuaGVhZE9wdGlvbiBtYXRjaCB7CiAgICAgIGNhc2UgU29tZSh0dXBsZSkgPT4gdHVwbGUgOjogYWNjCiAgICAgIGNhc2UgTm9uZSA9PiBhY2MKICAgIH0K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5zb3J0QnkoXy5fMSkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb2x1bW5zXD4=</last-search>
+      <last-search>avg</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb2x1bW5zXD4=</last-pattern>
+      <last-pattern>avg</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>`</entry>
         <entry>find</entry>
         <entry>langspread</entry>
         <entry>spread</entry>
@@ -550,6 +548,7 @@
         <entry>package</entry>
         <entry>row</entry>
         <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
+        <entry>avg</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
