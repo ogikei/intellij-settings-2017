@@ -315,6 +315,13 @@
       <file name="/Dummy.txt" timestamp="1494232029544">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeWork/stork-batch/src/stash.arms.dmm.com/stork/stork-batch/common/mainprocess.go" timestamp="1496656773379">
+        <mark key="'" line="18" column="10" />
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/EmrScheduler.java" timestamp="1488431898407">
         <mark key="[" line="29" column="88" />
         <mark key="]" line="29" column="1" />
@@ -387,7 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="41" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="206" column="28" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="208" column="66" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="373" column="44" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
@@ -487,6 +493,7 @@
       <jump line="240" column="13" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="241" column="13" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="242" column="13" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="18" column="10" filename="$USER_HOME$/OfficeWork/stork-batch/src/stash.arms.dmm.com/stork/stork-batch/common/mainprocess.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -496,7 +503,7 @@
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>avg</text>
+        <text>11</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBncm91cHM6IE1hcFtJbnQsIExpc3RbQ29sdW1uXV0gPSBjb2x1bW5OYW1lcwogICAgICAuZm9sZExlZnQoTGlzdC5lbXB0eVsoSW50LCBDb2x1bW4pXSkoKGFjYywgbmFtZSkgPT4gewogICAgICAgIGNhdGVnb3J5TWFwcGluZ3MKICAgICAgICAgIC5tYXAgewogICAgICAgICAgICBjYXNlIChwcmVmaXhlcywgaW5kZXgpIGlmIHByZWZpeGVzLmV4aXN0cyhuYW1lLnN0YXJ0c1dpdGgpID0+CiAgICAgICAgICAgICAgU29tZShpbmRleCwgbmV3IENvbHVtbihuYW1lKSkKICAgICAgICAgICAgY2FzZSBfID0+IE5vbmUKICAgICAgICAgIH0K</text>
@@ -533,15 +540,14 @@
       </register>
     </registers>
     <search>
-      <last-search>avg</last-search>
+      <last-search>11</last-search>
       <last-offset />
-      <last-pattern>avg</last-pattern>
+      <last-pattern>11</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>find</entry>
         <entry>langspread</entry>
         <entry>spread</entry>
         <entry>tags</entry>
@@ -561,6 +567,7 @@
         <entry>row</entry>
         <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
         <entry>avg</entry>
+        <entry>11</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
