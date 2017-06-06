@@ -364,7 +364,8 @@
         <mark key="." line="59" column="36" />
         <mark key="^" line="59" column="36" />
       </file>
-      <file name="$USER_HOME$/OfficeWork/stork-batch/sql/search_hotwords_raw.sql" timestamp="1496734021940">
+      <file name="$USER_HOME$/OfficeWork/stork-batch/sql/search_hotwords_raw.sql" timestamp="1496735095624">
+        <mark key="'" line="57" column="0" />
         <mark key="[" line="52" column="5" />
         <mark key="]" line="52" column="8" />
         <mark key="^" line="52" column="8" />
@@ -413,9 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="477" column="15" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="480" column="10" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="483" column="67" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="489" column="74" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="518" column="6" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="547" column="47" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
@@ -513,6 +511,9 @@
       <jump line="29" column="53" filename="$USER_HOME$/OfficeWork/stork-batch/main.go" />
       <jump line="13" column="11" filename="$USER_HOME$/OfficeWork/stork-batch/main.go" />
       <jump line="5" column="42" filename="$USER_HOME$/OfficeWork/stork-batch/main.go" />
+      <jump line="19" column="0" filename="$USER_HOME$/OfficeWork/stork-batch/sql/search_hotwords_raw.sql" />
+      <jump line="40" column="4" filename="$USER_HOME$/OfficeWork/stork-batch/sql/search_hotwords_raw.sql" />
+      <jump line="57" column="0" filename="$USER_HOME$/OfficeWork/stork-batch/sql/search_hotwords_raw.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -522,7 +523,7 @@
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text encoding="base64">XDxzdW1tYXJ5X3JhbmtcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBncm91cHM6IE1hcFtJbnQsIExpc3RbQ29sdW1uXV0gPSBjb2x1bW5OYW1lcwogICAgICAuZm9sZExlZnQoTGlzdC5lbXB0eVsoSW50LCBDb2x1bW4pXSkoKGFjYywgbmFtZSkgPT4gewogICAgICAgIGNhdGVnb3J5TWFwcGluZ3MKICAgICAgICAgIC5tYXAgewogICAgICAgICAgICBjYXNlIChwcmVmaXhlcywgaW5kZXgpIGlmIHByZWZpeGVzLmV4aXN0cyhuYW1lLnN0YXJ0c1dpdGgpID0+CiAgICAgICAgICAgICAgU29tZShpbmRleCwgbmV3IENvbHVtbihuYW1lKSkKICAgICAgICAgICAgY2FzZSBfID0+IE5vbmUKICAgICAgICAgIH0K</text>
@@ -559,16 +560,14 @@
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search encoding="base64">XDxzdW1tYXJ5X3JhbmtcPg==</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern encoding="base64">XDxzdW1tYXJ5X3JhbmtcPg==</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YXNrSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3NcPg==</entry>
-        <entry>modify</entry>
         <entry>specifi</entry>
         <entry>=====</entry>
         <entry>todo</entry>
@@ -587,6 +586,8 @@
         <entry>sql</entry>
         <entry>params</entry>
         <entry>create</entry>
+        <entry encoding="base64">XDxzdW1tYXJ5X2Jhc2VcPg==</entry>
+        <entry encoding="base64">XDxzdW1tYXJ5X3JhbmtcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
