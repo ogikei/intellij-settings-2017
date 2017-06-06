@@ -312,7 +312,9 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeWork/stork-batch/sql/bdmail_video-recommendation-for-subscriber.sql" timestamp="1496736802870" />
+      <file name="$USER_HOME$/OfficeWork/stork-batch/sql/bdmail_video-recommendation-for-subscriber.sql" timestamp="1496746650844">
+        <mark key="'" line="62" column="49" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/EmrScheduler.java" timestamp="1488431898407">
         <mark key="[" line="29" column="88" />
         <mark key="]" line="29" column="1" />
@@ -392,10 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="518" column="6" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="547" column="47" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="470" column="36" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="503" column="10" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="668" column="34" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="525" column="13" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="238" column="24" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
@@ -492,6 +490,10 @@
       <jump line="40" column="4" filename="$USER_HOME$/OfficeWork/stork-batch/sql/search_hotwords_raw.sql" />
       <jump line="57" column="0" filename="$USER_HOME$/OfficeWork/stork-batch/sql/search_hotwords_raw.sql" />
       <jump line="15" column="36" filename="$USER_HOME$/OfficeWork/stork-batch/params/search_hotwords.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/OfficeWork/stork-batch/sql/bdmail_video-recommendation-for-subscriber.sql" />
+      <jump line="71" column="2" filename="$USER_HOME$/OfficeWork/stork-batch/sql/bdmail_video-recommendation-for-subscriber.sql" />
+      <jump line="49" column="4" filename="$USER_HOME$/OfficeWork/stork-batch/sql/bdmail_video-recommendation-for-subscriber.sql" />
+      <jump line="62" column="49" filename="$USER_HOME$/OfficeWork/stork-batch/sql/bdmail_video-recommendation-for-subscriber.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -501,7 +503,7 @@
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>nowdate</text>
+        <text encoding="base64">XDxyZXF1ZXN0X2tleVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBncm91cHM6IE1hcFtJbnQsIExpc3RbQ29sdW1uXV0gPSBjb2x1bW5OYW1lcwogICAgICAuZm9sZExlZnQoTGlzdC5lbXB0eVsoSW50LCBDb2x1bW4pXSkoKGFjYywgbmFtZSkgPT4gewogICAgICAgIGNhdGVnb3J5TWFwcGluZ3MKICAgICAgICAgIC5tYXAgewogICAgICAgICAgICBjYXNlIChwcmVmaXhlcywgaW5kZXgpIGlmIHByZWZpeGVzLmV4aXN0cyhuYW1lLnN0YXJ0c1dpdGgpID0+CiAgICAgICAgICAgICAgU29tZShpbmRleCwgbmV3IENvbHVtbihuYW1lKSkKICAgICAgICAgICAgY2FzZSBfID0+IE5vbmUKICAgICAgICAgIH0K</text>
@@ -538,16 +540,14 @@
       </register>
     </registers>
     <search>
-      <last-search>nowdate</last-search>
+      <last-search encoding="base64">XDxyZXF1ZXN0X2tleVw+</last-search>
       <last-offset />
-      <last-pattern>nowdate</last-pattern>
+      <last-pattern encoding="base64">XDxyZXF1ZXN0X2tleVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>=====</entry>
-        <entry>todo</entry>
         <entry>iterable</entry>
         <entry>time</entry>
         <entry>list</entry>
@@ -566,6 +566,8 @@
         <entry encoding="base64">XDxzdW1tYXJ5X2Jhc2VcPg==</entry>
         <entry encoding="base64">XDxzdW1tYXJ5X3JhbmtcPg==</entry>
         <entry>nowdate</entry>
+        <entry>request</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0X2tleVw+</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
