@@ -25,6 +25,9 @@
         <mark key="." line="2" column="1" />
         <mark key="^" line="2" column="1" />
       </file>
+      <file name="$USER_HOME$/OfficeWork/stork-batch/sql/search_hotwords_normalized.sql" timestamp="1496730134818">
+        <mark key="'" line="65" column="15" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/build.sbt" timestamp="1494146929751">
         <mark key="'" line="56" column="67" />
       </file>
@@ -173,6 +176,12 @@
         <mark key="." line="21" column="1" />
         <mark key="^" line="21" column="1" />
       </file>
+      <file name="$USER_HOME$/OfficeWork/stork-batch/common/mainprocess.go" timestamp="1496730631641">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="5" />
+        <mark key="." line="21" column="5" />
+        <mark key="^" line="21" column="5" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/assignment.sbt" timestamp="1494146884068">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="32" />
@@ -193,7 +202,9 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/OfficeWork/stork-batch/params/search_hotwords.go" timestamp="1496715836560" />
+      <file name="$USER_HOME$/OfficeWork/stork-batch/params/search_hotwords.go" timestamp="1496729836330">
+        <mark key="'" line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/wikipedia/test.scala" timestamp="1492765466172">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -258,7 +269,8 @@
         <mark key="^" line="71" column="24" />
         <mark key="." line="71" column="24" />
       </file>
-      <file name="$USER_HOME$/OfficeWork/stork-batch/main.go" timestamp="1496657670509">
+      <file name="$USER_HOME$/OfficeWork/stork-batch/main.go" timestamp="1496730353819">
+        <mark key="'" line="5" column="42" />
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="11" />
         <mark key="^" line="6" column="12" />
@@ -313,7 +325,7 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="4" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494232029544">
+      <file name="/Dummy.txt" timestamp="1496732010100">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeWork/stork-batch/src/stash.arms.dmm.com/stork/stork-batch/common/mainprocess.go" timestamp="1496656773379">
@@ -395,16 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="28" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="208" column="66" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="373" column="44" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="204" column="14" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="207" column="6" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="209" column="8" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="210" column="8" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="466" column="44" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="469" column="24" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="474" column="8" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="477" column="15" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="480" column="10" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
       <jump line="483" column="67" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
@@ -495,6 +497,16 @@
       <jump line="241" column="13" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="242" column="13" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="18" column="10" filename="$USER_HOME$/OfficeWork/stork-batch/src/stash.arms.dmm.com/stork/stork-batch/common/mainprocess.go" />
+      <jump line="45" column="0" filename="$USER_HOME$/OfficeWork/stork-batch/params/search_hotwords.go" />
+      <jump line="65" column="15" filename="$USER_HOME$/OfficeWork/stork-batch/sql/search_hotwords_normalized.sql" />
+      <jump line="47" column="14" filename="$USER_HOME$/OfficeWork/stork-batch/main.go" />
+      <jump line="43" column="14" filename="$USER_HOME$/OfficeWork/stork-batch/main.go" />
+      <jump line="39" column="14" filename="$USER_HOME$/OfficeWork/stork-batch/main.go" />
+      <jump line="35" column="14" filename="$USER_HOME$/OfficeWork/stork-batch/main.go" />
+      <jump line="31" column="14" filename="$USER_HOME$/OfficeWork/stork-batch/main.go" />
+      <jump line="29" column="53" filename="$USER_HOME$/OfficeWork/stork-batch/main.go" />
+      <jump line="13" column="11" filename="$USER_HOME$/OfficeWork/stork-batch/main.go" />
+      <jump line="5" column="42" filename="$USER_HOME$/OfficeWork/stork-batch/main.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -504,7 +516,7 @@
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>11</text>
+        <text>create</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBncm91cHM6IE1hcFtJbnQsIExpc3RbQ29sdW1uXV0gPSBjb2x1bW5OYW1lcwogICAgICAuZm9sZExlZnQoTGlzdC5lbXB0eVsoSW50LCBDb2x1bW4pXSkoKGFjYywgbmFtZSkgPT4gewogICAgICAgIGNhdGVnb3J5TWFwcGluZ3MKICAgICAgICAgIC5tYXAgewogICAgICAgICAgICBjYXNlIChwcmVmaXhlcywgaW5kZXgpIGlmIHByZWZpeGVzLmV4aXN0cyhuYW1lLnN0YXJ0c1dpdGgpID0+CiAgICAgICAgICAgICAgU29tZShpbmRleCwgbmV3IENvbHVtbihuYW1lKSkKICAgICAgICAgICAgY2FzZSBfID0+IE5vbmUKICAgICAgICAgIH0K</text>
@@ -537,24 +549,18 @@
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>22</text>
       </register>
     </registers>
     <search>
-      <last-search>11</last-search>
+      <last-search>create</last-search>
       <last-offset />
-      <last-pattern>11</last-pattern>
+      <last-pattern>create</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>langspread</entry>
-        <entry>spread</entry>
-        <entry>tags</entry>
-        <entry>tag</entry>
-        <entry encoding="base64">XDx0YWdzXD4=</entry>
-        <entry>task</entry>
         <entry encoding="base64">XDx0YXNrSW5zdGFuY2VHcm91cE1vZGlmeUNvbmZpZ3NcPg==</entry>
         <entry>modify</entry>
         <entry>specifi</entry>
@@ -569,6 +575,12 @@
         <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
         <entry>avg</entry>
         <entry>11</entry>
+        <entry>create bind</entry>
+        <entry>bind</entry>
+        <entry encoding="base64">XDxUaHJlc2hvbGRTdWJDb3VudFw+</entry>
+        <entry>sql</entry>
+        <entry>params</entry>
+        <entry>create</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
@@ -579,6 +591,8 @@
         <entry>%d</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>2</entry>
+        <entry>22</entry>
       </history-cmd>
       <history-expr />
       <history-input />
