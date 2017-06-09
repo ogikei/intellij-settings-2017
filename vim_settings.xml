@@ -13,6 +13,9 @@
       <file name="$USER_HOME$/OfficeTools/git/yzw/config/spring/queries.xml" timestamp="1488881571355">
         <mark key="'" line="699" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw.sql" timestamp="1496993031307">
+        <mark key="'" line="15" column="48" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler-scala/src/main/scala/jp/co/recruit/rtc/hoc/services/EMRScheduler.scala" timestamp="1487909951533">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="1" />
@@ -227,6 +230,13 @@
         <mark key="." line="175" column="27" />
         <mark key="^" line="207" column="5" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" timestamp="1496994159368">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+        <mark key="^" line="19" column="32" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" timestamp="1494241476011">
         <mark key="[" line="282" column="0" />
         <mark key="]" line="282" column="0" />
@@ -269,6 +279,13 @@
         <mark key="^" line="16" column="2" />
         <mark key="." line="16" column="1" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" timestamp="1496994331802">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="10" column="55" />
+        <mark key="]" line="10" column="62" />
+        <mark key="^" line="10" column="62" />
+        <mark key="." line="10" column="62" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/controllers/ClusterController.java" timestamp="1489545683059">
         <mark key="'" line="51" column="20" />
       </file>
@@ -289,6 +306,13 @@
       <file name="/HTML File.txt.ft" timestamp="1490172376934">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" timestamp="1496994198848">
+        <mark key="'" line="84" column="4" />
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="22" column="32" />
+        <mark key="^" line="22" column="32" />
+        <mark key="." line="22" column="32" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/test/scala/barneshut/BarnesHutSuite.scala" timestamp="1489398594692">
         <mark key="'" line="57" column="28" />
       </file>
@@ -302,7 +326,7 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="4" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496819051963">
+      <file name="/Dummy.txt" timestamp="1496994224917">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeWork/stork-batch/src/stash.arms.dmm.com/stork/stork-batch/common/mainprocess.go" timestamp="1496656773379">
@@ -394,35 +418,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="668" column="34" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="525" column="13" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="238" column="24" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="697" column="2" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" />
-      <jump line="127" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
-      <jump line="146" column="4" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
-      <jump line="85" column="5" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
-      <jump line="317" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
-      <jump line="116" column="4" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
-      <jump line="233" column="32" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
-      <jump line="232" column="32" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
-      <jump line="225" column="23" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
-      <jump line="215" column="27" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
-      <jump line="272" column="25" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" />
-      <jump line="8" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/wikipedia/test.scala" />
-      <jump line="5" column="10" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/example/test.scala" />
-      <jump line="1" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/example/test.scala" />
-      <jump line="16" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/build.sbt" />
-      <jump line="38" column="67" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/build.sbt" />
-      <jump line="47" column="67" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/build.sbt" />
-      <jump line="48" column="5" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/build.sbt" />
-      <jump line="49" column="21" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/build.sbt" />
-      <jump line="56" column="67" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/build.sbt" />
-      <jump line="67" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="124" column="25" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="125" column="17" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="126" column="18" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="37" column="31" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="40" column="50" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="47" column="29" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="64" column="28" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="71" column="16" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
@@ -494,61 +489,89 @@
       <jump line="71" column="2" filename="$USER_HOME$/OfficeWork/stork-batch/sql/bdmail_video-recommendation-for-subscriber.sql" />
       <jump line="49" column="4" filename="$USER_HOME$/OfficeWork/stork-batch/sql/bdmail_video-recommendation-for-subscriber.sql" />
       <jump line="62" column="49" filename="$USER_HOME$/OfficeWork/stork-batch/sql/bdmail_video-recommendation-for-subscriber.sql" />
+      <jump line="90" column="11" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
+      <jump line="5" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
+      <jump line="88" column="2" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
+      <jump line="97" column="31" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
+      <jump line="91" column="14" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
+      <jump line="9" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
+      <jump line="17" column="1" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
+      <jump line="43" column="1" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw.sql" />
+      <jump line="55" column="11" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw.sql" />
+      <jump line="15" column="48" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw.sql" />
+      <jump line="13" column="19" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
+      <jump line="18" column="1" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
+      <jump line="24" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
+      <jump line="83" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
+      <jump line="19" column="1" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
+      <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
+      <jump line="90" column="2" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
+      <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
+      <jump line="66" column="1" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
+      <jump line="82" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
+      <jump line="89" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
+      <jump line="11" column="7" filename="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" />
+      <jump line="63" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" />
+      <jump line="18" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" />
+      <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" />
+      <jump line="59" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" />
+      <jump line="84" column="4" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text encoding="base64">IGBhcmc6InJlcXVpcmVkImAgLy8g6KGo56S644K/44Kk44OXKHNwIG9yIHBjKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text encoding="base64">IGBhcmc6InJlcXVpcmVkImAgLy8g6KGo56S644K/44Kk44OXKHNwIG9yIHBjKQ==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXF1ZXN0X2tleVw+</text>
+        <text encoding="base64">XDxUaHJlc2hvbGRTdWJDb3VudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBncm91cHM6IE1hcFtJbnQsIExpc3RbQ29sdW1uXV0gPSBjb2x1bW5OYW1lcwogICAgICAuZm9sZExlZnQoTGlzdC5lbXB0eVsoSW50LCBDb2x1bW4pXSkoKGFjYywgbmFtZSkgPT4gewogICAgICAgIGNhdGVnb3J5TWFwcGluZ3MKICAgICAgICAgIC5tYXAgewogICAgICAgICAgICBjYXNlIChwcmVmaXhlcywgaW5kZXgpIGlmIHByZWZpeGVzLmV4aXN0cyhuYW1lLnN0YXJ0c1dpdGgpID0+CiAgICAgICAgICAgICAgU29tZShpbmRleCwgbmV3IENvbHVtbihuYW1lKSkKICAgICAgICAgICAgY2FzZSBfID0+IE5vbmUKICAgICAgICAgIH0K</text>
+        <text encoding="base64">CVZpZXdUeXBlIHN0cmluZyBgYXJnOiJyZXF1aXJlZCJgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLm9yZGVyQnkoJ3dvcmtpbmcsICdzZXgsICdhZ2UpCg==</text>
+        <text encoding="base64">CVZpZXdUeXBlICAgICAgICAgIHN0cmluZyBgYXJnOiJyZXF1aXJlZCJgIC8vIOihqOekuuOCv+OCpOODlyhzcCBvciBwYykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CVZpZXdUeXBlIHN0cmluZyBgYXJnOiJyZXF1aXJlZCJgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHMiU0VMRUNUIHdvcmtpbmcsc2V4LCBhZ2UsIiArCiAgICAgIHMiUk9VTkQoQVZHKHByaW1hcnlOZWVkcyksIDEpIGFzIHByaW1hcnlOZWVkcywiICsKICAgICAgcyJST1VORChBVkcod29yayksIDEpIGFzIHdvcmssIiArCiAgICAgIHMiUk9VTkQoQVZHKG90aGVyKSwgMSkgYXMgb3RoZXIiICsKICAgICAgcyJGUk9NICR2aWV3TmFtZSBHUk9VUCBCWSB3b3JraW5nLCBzZXgsIGFnZSBPUkRFUiBCWSB3b3JraW5nLCBzZXgsIGFnZSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhdmcoXy4pCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNoZyA+PSAzMDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">KSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>22</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXF1ZXN0X2tleVw+</last-search>
+      <last-search encoding="base64">XDxUaHJlc2hvbGRTdWJDb3VudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXF1ZXN0X2tleVw+</last-pattern>
+      <last-pattern encoding="base64">XDxUaHJlc2hvbGRTdWJDb3VudFw+</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>iterable</entry>
         <entry>time</entry>
         <entry>list</entry>
         <entry>::</entry>
@@ -559,7 +582,6 @@
         <entry>11</entry>
         <entry>create bind</entry>
         <entry>bind</entry>
-        <entry encoding="base64">XDxUaHJlc2hvbGRTdWJDb3VudFw+</entry>
         <entry>sql</entry>
         <entry>params</entry>
         <entry>create</entry>
@@ -568,6 +590,8 @@
         <entry>nowdate</entry>
         <entry>request</entry>
         <entry encoding="base64">XDxyZXF1ZXN0X2tleVw+</entry>
+        <entry>{{</entry>
+        <entry encoding="base64">XDxUaHJlc2hvbGRTdWJDb3VudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
@@ -576,10 +600,11 @@
         <entry>192</entry>
         <entry>597</entry>
         <entry>%d</entry>
-        <entry>W</entry>
-        <entry>w</entry>
         <entry>2</entry>
         <entry>22</entry>
+        <entry>go fmt</entry>
+        <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
