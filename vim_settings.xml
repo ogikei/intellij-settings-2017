@@ -86,6 +86,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/stork-batch/.gitignore" timestamp="1496996106053">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1488800727819">
         <mark key="'" line="102" column="0" />
         <mark key="[" line="45" column="39" />
@@ -418,8 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="29" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="64" column="28" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="71" column="16" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="89" column="81" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="97" column="33" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
@@ -518,10 +522,12 @@
       <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" />
       <jump line="59" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" />
       <jump line="84" column="4" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
+      <jump line="12" column="13" filename="$USER_HOME$/OfficeTools/stork-batch/.gitignore" />
+      <jump line="16" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGBhcmc6InJlcXVpcmVkImAgLy8g6KGo56S644K/44Kk44OXKHNwIG9yIHBjKQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGBhcmc6InJlcXVpcmVkImAgLy8g6KGo56S644K/44Kk44OXKHNwIG9yIHBjKQ==</text>
@@ -533,31 +539,31 @@
         <text encoding="base64">CVZpZXdUeXBlIHN0cmluZyBgYXJnOiJyZXF1aXJlZCJgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CVZpZXdUeXBlICAgICAgICAgIHN0cmluZyBgYXJnOiJyZXF1aXJlZCJgIC8vIOihqOekuuOCv+OCpOODlyhzcCBvciBwYykK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CVZpZXdUeXBlIHN0cmluZyBgYXJnOiJyZXF1aXJlZCJgCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyBpZ25vcmUgZ2xpZGUubG9jawpnbGlkZS5sb2NrCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">c3RvcmstYmF0Y2gK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">c3RvcmstYmF0Y2gK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNoZyA+PSAzMDAK</text>
+        <text encoding="base64">IyBpZ25vcmUgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KSwK</text>
+        <text encoding="base64">c3RvcmstYmF0Y2guaW1sCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CVZpZXdUeXBlICAgICAgICAgIHN0cmluZyBgYXJnOiJyZXF1aXJlZCJgIC8vIOihqOekuuOCv+OCpOODlyhzcCBvciBwYykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
