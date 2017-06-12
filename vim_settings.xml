@@ -280,6 +280,12 @@
         <mark key="^" line="10" column="62" />
         <mark key="." line="10" column="62" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/stork-migration/.gitignore" timestamp="1497234999834">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/controllers/ClusterController.java" timestamp="1489545683059">
         <mark key="'" line="51" column="20" />
       </file>
@@ -325,6 +331,12 @@
       </file>
       <file name="$USER_HOME$/OfficeTools/stork-batch/params/bdmail_video-recommendation-for-subscriber.go" timestamp="1497002746821">
         <mark key="'" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/stork-migration/src/main/resources/db/migration/V1.7__add_new_storage.sql" timestamp="1497234866283">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="46" />
+        <mark key="^" line="6" column="46" />
+        <mark key="." line="6" column="46" />
       </file>
       <file name="$USER_HOME$/OfficeWork/stork-batch/src/stash.arms.dmm.com/stork/stork-batch/common/mainprocess.go" timestamp="1496656773379">
         <mark key="'" line="18" column="10" />
@@ -507,44 +519,44 @@
       <jump line="7" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/params/bdmail_video-recommendation-for-subscriber.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>hotwords-daily-raw-adult-pc-unique</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGBhcmc6InJlcXVpcmVkImAgLy8g6KGo56S644K/44Kk44OXKHNwIG9yIHBjKQ==</text>
+        <text>hotwords-daily-raw-adult-pc-unique</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaHJlc2hvbGRTdWJDb3VudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CVZpZXdUeXBlIHN0cmluZyBgYXJnOiJyZXF1aXJlZCJgCg==</text>
+        <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1wYy11bmlxdWUnLCAnJywgMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KCdzZWFyY2gnLCAnaG90d29yZHMtZGFpbHktbm9ybWFsaXplZC1nZW5lcmFsJywgJycsIDApCiwoJ3NlYXJjaCcsICdob3R3b3Jkcy1kYWlseS1ub3JtYWxpemVkLWFkdWx0JywgJycsIDApCiwoJ3NlYXJjaCcsICdob3R3b3Jkcy1kYWlseS1yYXctZ2VuZXJhbCcsICcnLCAwKQosKCdzZWFyY2gnLCAnaG90d29yZHMtZGFpbHktcmF3LWFkdWx0JywgJycsIDApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBpZ25vcmUgZ2xpZGUubG9jawpnbGlkZS5sb2NrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3RvcmstYmF0Y2gK</text>
+        <text encoding="base64">IyBpZ25vcmUgZ2xpZGUubG9jawpnbGlkZS5sb2NrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">c3RvcmstYmF0Y2gK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBpZ25vcmUgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">c3RvcmstYmF0Y2guaW1sCg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">c3RvcmstYmF0Y2gK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBpZ25vcmUgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">c3RvcmstYmF0Y2guaW1sCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CVZpZXdUeXBlICAgICAgICAgIHN0cmluZyBgYXJnOiJyZXF1aXJlZCJgIC8vIOihqOekuuOCv+OCpOODlyhzcCBvciBwYykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
