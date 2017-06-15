@@ -25,6 +25,9 @@
       <file name="$USER_HOME$/OfficeWork/stork-batch/sql/search_hotwords_normalized.sql" timestamp="1496737847347">
         <mark key="'" line="65" column="15" />
       </file>
+      <file name="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" timestamp="1497496284297">
+        <mark key="'" line="1317" column="16" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/build.sbt" timestamp="1494146929751">
         <mark key="'" line="56" column="67" />
       </file>
@@ -121,6 +124,12 @@
         <mark key="]" line="7" column="37" />
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" timestamp="1497496310648">
+        <mark key="[" line="30" column="5" />
+        <mark key="]" line="31" column="19" />
+        <mark key="^" line="31" column="19" />
+        <mark key="." line="31" column="19" />
       </file>
       <file name="$USER_HOME$/Downloads/reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1488800022417">
         <mark key="'" line="123" column="0" />
@@ -326,7 +335,7 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="4" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496994224917">
+      <file name="/Dummy.txt" timestamp="1497495856538">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/stork-batch/params/bdmail_video-recommendation-for-subscriber.go" timestamp="1497002746821">
@@ -417,23 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="64" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="69" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="66" column="66" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="24" column="11" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="592" column="23" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="39" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="51" column="10" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/package.scala" />
-      <jump line="3" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="298" column="24" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="593" column="24" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="7" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="296" column="24" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="293" column="36" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="1" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="295" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="48" column="13" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="29" column="9" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="198" column="92" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="169" column="48" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
@@ -517,61 +509,77 @@
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
       <jump line="70" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
       <jump line="91" column="4" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
+      <jump line="1243" column="105" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
+      <jump line="1254" column="122" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
+      <jump line="1261" column="25" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
+      <jump line="1263" column="12" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
+      <jump line="1270" column="52" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
+      <jump line="1272" column="21" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
+      <jump line="1275" column="29" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
+      <jump line="1277" column="12" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
+      <jump line="1278" column="19" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
+      <jump line="1293" column="18" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
+      <jump line="1300" column="44" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
+      <jump line="1302" column="13" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
+      <jump line="1305" column="21" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
+      <jump line="1308" column="4" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
+      <jump line="1309" column="11" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
+      <jump line="1316" column="4" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
+      <jump line="1317" column="16" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>where</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="-" type="4">
         <text>where</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdW1tYXJ5X2hpdF9jb3VudFw+</text>
+        <text>rows</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1wYy11bmlxdWUnLCAnJywgMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KCdzZWFyY2gnLCAnaG90d29yZHMtZGFpbHktbm9ybWFsaXplZC1nZW5lcmFsJywgJycsIDApCiwoJ3NlYXJjaCcsICdob3R3b3Jkcy1kYWlseS1ub3JtYWxpemVkLWFkdWx0JywgJycsIDApCiwoJ3NlYXJjaCcsICdob3R3b3Jkcy1kYWlseS1yYXctZ2VuZXJhbCcsICcnLCAwKQosKCdzZWFyY2gnLCAnaG90d29yZHMtZGFpbHktcmF3LWFkdWx0JywgJycsIDApCg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWlmIHJvd3MgPT0gMCB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBpZ25vcmUgZ2xpZGUubG9jawpnbGlkZS5sb2NrCg==</text>
+        <text encoding="base64">KCdzZWFyY2gnLCAnaG90d29yZHMtZGFpbHktbm9ybWFsaXplZC1nZW5lcmFsJywgJycsIDApCiwoJ3NlYXJjaCcsICdob3R3b3Jkcy1kYWlseS1ub3JtYWxpemVkLWFkdWx0JywgJycsIDApCiwoJ3NlYXJjaCcsICdob3R3b3Jkcy1kYWlseS1yYXctZ2VuZXJhbCcsICcnLCAwKQosKCdzZWFyY2gnLCAnaG90d29yZHMtZGFpbHktcmF3LWFkdWx0JywgJycsIDApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3RvcmstYmF0Y2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBpZ25vcmUgZ2xpZGUubG9jawpnbGlkZS5sb2NrCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">c3RvcmstYmF0Y2gK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBpZ25vcmUgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3RvcmstYmF0Y2guaW1sCg==</text>
+        <text encoding="base64">c3RvcmstYmF0Y2gK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBpZ25vcmUgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdW1tYXJ5X2hpdF9jb3VudFw+</last-search>
+      <last-search>rows</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdW1tYXJ5X2hpdF9jb3VudFw+</last-pattern>
+      <last-pattern>rows</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>list</entry>
         <entry>::</entry>
         <entry>package</entry>
         <entry>row</entry>
@@ -591,6 +599,7 @@
         <entry>{{</entry>
         <entry encoding="base64">XDxUaHJlc2hvbGRTdWJDb3VudFw+</entry>
         <entry encoding="base64">XDxzdW1tYXJ5X2hpdF9jb3VudFw+</entry>
+        <entry>rows</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
@@ -600,9 +609,9 @@
         <entry>597</entry>
         <entry>%d</entry>
         <entry>2</entry>
-        <entry>22</entry>
         <entry>go fmt</entry>
         <entry>W</entry>
+        <entry>22</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
