@@ -125,11 +125,12 @@
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" timestamp="1497498291124">
-        <mark key="[" line="32" column="59" />
-        <mark key="]" line="32" column="58" />
-        <mark key="." line="32" column="58" />
-        <mark key="^" line="32" column="58" />
+      <file name="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" timestamp="1497499521012">
+        <mark key="'" line="69" column="12" />
+        <mark key="[" line="69" column="8" />
+        <mark key="]" line="69" column="14" />
+        <mark key="." line="69" column="14" />
+        <mark key="^" line="69" column="14" />
       </file>
       <file name="$USER_HOME$/Downloads/reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1488800022417">
         <mark key="'" line="123" column="0" />
@@ -426,7 +427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="9" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="198" column="92" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="169" column="48" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="167" column="46" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
@@ -526,61 +526,61 @@
       <jump line="1309" column="11" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
       <jump line="1316" column="4" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
       <jump line="1317" column="16" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
+      <jump line="69" column="12" filename="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>fmt.Errorf(&quot;%v or %v you specified don't exist. Please check your parameters.&quot;, namespace, unitname)</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>fmt.Errorf(&quot;%v or %v you specified don't exist. Please check your parameters.&quot;, namespace, unitname)</text>
       </register>
       <register name="/" type="4">
-        <text>rows</text>
+        <text encoding="base64">XDxmbXRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1wYy11bmlxdWUnLCAnJywgMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlhcywgZm10LkVycm9yZigiJXYgb3IgJXYgeW91IHNwZWNpZmllZCBkb24ndCBleGlzdC4gUGxlYXNlIGNoZWNrIHlvdXIgcGFyYW1ldGVycy4iLCBuYW1lc3BhY2UsIHVuaXRuYW1lKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvL3JldHVybiBhcywgZm10LkVycm9yZigibmFtZXNwYWNlIGFuZCB1bml0bmFtZSBkb24ndCBleGlzdC4iKQo=</text>
+        <text encoding="base64">CQlyZXR1cm4gYXMsIGZtdC5FcnJvcmYoIkEgbmFtZXNwYWNlIG9yIHVuaXRuYW1lIHlvdSAgZG9lc24ndCBleGlzdC4gUGxlYXNlIGNoZWNrIHlvdXIgcGFyYW1ldGVycy4iKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHJvd3MpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">CX0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CWlmIHJvd3MgPT0gMCB7Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CWlmIHJvd3MgPT0gIiIgewo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">KCdzZWFyY2gnLCAnaG90d29yZHMtZGFpbHktbm9ybWFsaXplZC1nZW5lcmFsJywgJycsIDApCiwoJ3NlYXJjaCcsICdob3R3b3Jkcy1kYWlseS1ub3JtYWxpemVkLWFkdWx0JywgJycsIDApCiwoJ3NlYXJjaCcsICdob3R3b3Jkcy1kYWlseS1yYXctZ2VuZXJhbCcsICcnLCAwKQosKCdzZWFyY2gnLCAnaG90d29yZHMtZGFpbHktcmF3LWFkdWx0JywgJycsIDApCg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkvL3JldHVybiBhcywgZm10LkVycm9yZigibmFtZXNwYWNlIGFuZCB1bml0bmFtZSBkb24ndCBleGlzdC4iKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CWZtdC5QcmludGxuKHJvd3MpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBpZ25vcmUgZ2xpZGUubG9jawpnbGlkZS5sb2NrCg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>rows</last-search>
+      <last-search encoding="base64">XDxmbXRcPg==</last-search>
       <last-offset />
-      <last-pattern>rows</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxmbXRcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>::</entry>
         <entry>package</entry>
         <entry>row</entry>
         <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
@@ -600,6 +600,7 @@
         <entry encoding="base64">XDxUaHJlc2hvbGRTdWJDb3VudFw+</entry>
         <entry encoding="base64">XDxzdW1tYXJ5X2hpdF9jb3VudFw+</entry>
         <entry>rows</entry>
+        <entry encoding="base64">XDxmbXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
