@@ -125,11 +125,11 @@
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" timestamp="1497496310648">
-        <mark key="[" line="30" column="5" />
-        <mark key="]" line="31" column="19" />
-        <mark key="^" line="31" column="19" />
-        <mark key="." line="31" column="19" />
+      <file name="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" timestamp="1497498291124">
+        <mark key="[" line="32" column="59" />
+        <mark key="]" line="32" column="58" />
+        <mark key="." line="32" column="58" />
+        <mark key="^" line="32" column="58" />
       </file>
       <file name="$USER_HOME$/Downloads/reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1488800022417">
         <mark key="'" line="123" column="0" />
@@ -528,11 +528,11 @@
       <jump line="1317" column="16" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CX0K</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>where</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>rows</text>
@@ -541,31 +541,31 @@
         <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1wYy11bmlxdWUnLCAnJywgMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWlmIHJvd3MgPT0gMCB7Cg==</text>
+        <text encoding="base64">CQkvL3JldHVybiBhcywgZm10LkVycm9yZigibmFtZXNwYWNlIGFuZCB1bml0bmFtZSBkb24ndCBleGlzdC4iKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KCdzZWFyY2gnLCAnaG90d29yZHMtZGFpbHktbm9ybWFsaXplZC1nZW5lcmFsJywgJycsIDApCiwoJ3NlYXJjaCcsICdob3R3b3Jkcy1kYWlseS1ub3JtYWxpemVkLWFkdWx0JywgJycsIDApCiwoJ3NlYXJjaCcsICdob3R3b3Jkcy1kYWlseS1yYXctZ2VuZXJhbCcsICcnLCAwKQosKCdzZWFyY2gnLCAnaG90d29yZHMtZGFpbHktcmF3LWFkdWx0JywgJycsIDApCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHJvd3MpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBpZ25vcmUgZ2xpZGUubG9jawpnbGlkZS5sb2NrCg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RvcmstYmF0Y2gK</text>
+        <text encoding="base64">CWlmIHJvd3MgPT0gMCB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KCdzZWFyY2gnLCAnaG90d29yZHMtZGFpbHktbm9ybWFsaXplZC1nZW5lcmFsJywgJycsIDApCiwoJ3NlYXJjaCcsICdob3R3b3Jkcy1kYWlseS1ub3JtYWxpemVkLWFkdWx0JywgJycsIDApCiwoJ3NlYXJjaCcsICdob3R3b3Jkcy1kYWlseS1yYXctZ2VuZXJhbCcsICcnLCAwKQosKCdzZWFyY2gnLCAnaG90d29yZHMtZGFpbHktcmF3LWFkdWx0JywgJycsIDApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3RvcmstYmF0Y2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBpZ25vcmUgCg==</text>
+        <text encoding="base64">IyBpZ25vcmUgZ2xpZGUubG9jawpnbGlkZS5sb2NrCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
