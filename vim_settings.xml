@@ -126,8 +126,8 @@
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" timestamp="1497506013316">
-        <mark key="'" line="68" column="12" />
+      <file name="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" timestamp="1497509194611">
+        <mark key="'" line="23" column="7" />
         <mark key="[" line="70" column="53" />
         <mark key="]" line="70" column="53" />
         <mark key="." line="70" column="53" />
@@ -428,10 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="46" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="165" column="62" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="161" column="70" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="121" column="83" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="118" column="100" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="115" column="41" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="114" column="41" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
@@ -528,6 +524,10 @@
       <jump line="69" column="12" filename="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" />
       <jump line="32" column="24" filename="$USER_HOME$/OfficeTools/stork-batch/main.go" />
       <jump line="26" column="11" filename="$USER_HOME$/OfficeTools/stork-batch/main.go" />
+      <jump line="19" column="23" filename="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" />
+      <jump line="20" column="83" filename="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" />
+      <jump line="22" column="12" filename="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" />
+      <jump line="23" column="7" filename="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -537,7 +537,7 @@
         <text encoding="base64">IG9yIGhhdmUgcmVjb3Jkcw==</text>
       </register>
       <register name="/" type="4">
-        <text>job</text>
+        <text>err</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1wYy11bmlxdWUnLCAnJywgMCkK</text>
@@ -574,15 +574,14 @@
       </register>
     </registers>
     <search>
-      <last-search>job</last-search>
+      <last-search>err</last-search>
       <last-offset />
-      <last-pattern>job</last-pattern>
+      <last-pattern>err</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>row</entry>
         <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
         <entry>avg</entry>
         <entry>11</entry>
@@ -602,6 +601,7 @@
         <entry>rows</entry>
         <entry encoding="base64">XDxmbXRcPg==</entry>
         <entry>job</entry>
+        <entry>err</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
