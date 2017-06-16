@@ -396,6 +396,12 @@
       <file name="$USER_HOME$/OfficeTools/git/yzw/config/spring/applicationContext.xml" timestamp="1488881267776">
         <mark key="'" line="45" column="18" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/test2/main.go" timestamp="1497593213381">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+        <mark key="^" line="4" column="25" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/test/java/jp/co/recruit/rtc/hoc/services/TestEmrClientService.java" timestamp="1488432035101">
         <mark key="'" line="43" column="3" />
         <mark key="[" line="58" column="72" />
@@ -554,8 +560,8 @@
       <jump line="129" column="0" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -567,31 +573,31 @@
         <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1wYy11bmlxdWUnLCAnJywgMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zm10Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlhcywgZm10LkVycm9yZigiJXYgb3IgJXYgeW91IHNwZWNpZmllZCBkb24ndCBleGlzdC4gUGxlYXNlIGNoZWNrIHlvdXIgcGFyYW1ldGVycy4iLCBuYW1lc3BhY2UsIHVuaXRuYW1lKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4gYXMsIGZtdC5FcnJvcmYoIkEgbmFtZXNwYWNlIG9yIHVuaXRuYW1lIHlvdSAgZG9lc24ndCBleGlzdC4gUGxlYXNlIGNoZWNrIHlvdXIgcGFyYW1ldGVycy4iKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CX0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CWlmIHJvd3MgPT0gIiIgewo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Zm10Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlhcywgZm10LkVycm9yZigiJXYgb3IgJXYgeW91IHNwZWNpZmllZCBkb24ndCBleGlzdC4gUGxlYXNlIGNoZWNrIHlvdXIgcGFyYW1ldGVycy4iLCBuYW1lc3BhY2UsIHVuaXRuYW1lKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlyZXR1cm4gYXMsIGZtdC5FcnJvcmYoIkEgbmFtZXNwYWNlIG9yIHVuaXRuYW1lIHlvdSAgZG9lc24ndCBleGlzdC4gUGxlYXNlIGNoZWNrIHlvdXIgcGFyYW1ldGVycy4iKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CX0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CWlmIHJvd3MgPT0gIiIgewo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvL3JldHVybiBhcywgZm10LkVycm9yZigibmFtZXNwYWNlIGFuZCB1bml0bmFtZSBkb24ndCBleGlzdC4iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkvL3JldHVybiBhcywgZm10LkVycm9yZigibmFtZXNwYWNlIGFuZCB1bml0bmFtZSBkb24ndCBleGlzdC4iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
