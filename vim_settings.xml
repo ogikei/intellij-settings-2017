@@ -124,6 +124,12 @@
         <mark key="." line="82" column="6" />
         <mark key="^" line="82" column="7" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/src/main/resources/db/migration/V1.8__add_metadata_column_to_available_storages.sql" timestamp="1497610090343">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="33" />
+        <mark key="." line="1" column="33" />
+        <mark key="^" line="1" column="33" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/barneshut/Simulator.scala" timestamp="1489469144147">
         <mark key="'" line="13" column="6" />
         <mark key="[" line="15" column="33" />
@@ -559,11 +565,11 @@
       <jump line="129" column="0" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Z2l0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>varchar(45)</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>varchar(45)</text>
       </register>
       <register name="/" type="4">
         <text>err</text>
