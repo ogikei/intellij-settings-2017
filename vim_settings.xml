@@ -435,6 +435,12 @@
         <mark key="." line="139" column="0" />
         <mark key="^" line="139" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/test/main.go" timestamp="1497584348177">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+      </file>
       <file name="$USER_HOME$/Downloads/reductions/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1488800385306">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -547,10 +553,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IERFRkFVTFQgMA==</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IERFRkFVTFQgMA==</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>err</text>
@@ -559,31 +565,31 @@
         <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1wYy11bmlxdWUnLCAnJywgMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Zm10Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlhcywgZm10LkVycm9yZigiJXYgb3IgJXYgeW91IHNwZWNpZmllZCBkb24ndCBleGlzdC4gUGxlYXNlIGNoZWNrIHlvdXIgcGFyYW1ldGVycy4iLCBuYW1lc3BhY2UsIHVuaXRuYW1lKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlyZXR1cm4gYXMsIGZtdC5FcnJvcmYoIkEgbmFtZXNwYWNlIG9yIHVuaXRuYW1lIHlvdSAgZG9lc24ndCBleGlzdC4gUGxlYXNlIGNoZWNrIHlvdXIgcGFyYW1ldGVycy4iKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CX0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWlmIHJvd3MgPT0gIiIgewo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkvL3JldHVybiBhcywgZm10LkVycm9yZigibmFtZXNwYWNlIGFuZCB1bml0bmFtZSBkb24ndCBleGlzdC4iKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlhcywgZm10LkVycm9yZigiJXYgb3IgJXYgeW91IHNwZWNpZmllZCBkb24ndCBleGlzdC4gUGxlYXNlIGNoZWNrIHlvdXIgcGFyYW1ldGVycy4iLCBuYW1lc3BhY2UsIHVuaXRuYW1lKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlyZXR1cm4gYXMsIGZtdC5FcnJvcmYoIkEgbmFtZXNwYWNlIG9yIHVuaXRuYW1lIHlvdSAgZG9lc24ndCBleGlzdC4gUGxlYXNlIGNoZWNrIHlvdXIgcGFyYW1ldGVycy4iKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CX0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CWlmIHJvd3MgPT0gIiIgewo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkvL3JldHVybiBhcywgZm10LkVycm9yZigibmFtZXNwYWNlIGFuZCB1bml0bmFtZSBkb24ndCBleGlzdC4iKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHJvd3MpCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
