@@ -198,6 +198,12 @@
         <mark key="'" line="15" column="36" />
         <mark key="[" line="46" column="17" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/src/main/resources/db/migration/V1.8__add_records_column_to_available_storages.sql" timestamp="1497576828129">
+        <mark key="[" line="1" column="50" />
+        <mark key="]" line="1" column="50" />
+        <mark key="^" line="1" column="39" />
+        <mark key="." line="1" column="50" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/wikipedia/test.scala" timestamp="1492765466172">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -531,10 +537,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IG9yIGhhdmUgcmVjb3Jkcw==</text>
+        <text encoding="base64">IERFRkFVTFQgMA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG9yIGhhdmUgcmVjb3Jkcw==</text>
+        <text encoding="base64">IERFRkFVTFQgMA==</text>
       </register>
       <register name="/" type="4">
         <text>err</text>
@@ -578,7 +584,7 @@
       <last-offset />
       <last-pattern>err</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
