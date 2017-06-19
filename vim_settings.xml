@@ -62,6 +62,9 @@
         <mark key="." line="45" column="34" />
         <mark key="^" line="45" column="34" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" timestamp="1497849970656">
+        <mark key="'" line="7" column="32" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-api/.gitignore" timestamp="1497595131209">
         <mark key="[" line="15" column="9" />
         <mark key="]" line="17" column="21" />
@@ -363,6 +366,9 @@
       <file name="/Dummy.txt" timestamp="1497596475292">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" timestamp="1497849833014">
+        <mark key="'" line="8" column="29" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/stork-batch/params/bdmail_video-recommendation-for-subscriber.go" timestamp="1497002746821">
         <mark key="'" line="7" column="0" />
       </file>
@@ -466,10 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="41" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="113" column="41" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="110" column="66" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="87" column="51" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="86" column="43" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="84" column="76" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="83" column="38" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
@@ -566,6 +568,10 @@
       <jump line="23" column="7" filename="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" />
       <jump line="36" column="18" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
       <jump line="129" column="0" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
+      <jump line="23" column="41" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
+      <jump line="22" column="14" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
+      <jump line="8" column="29" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
+      <jump line="7" column="32" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -575,7 +581,7 @@
         <text>varchar(45)</text>
       </register>
       <register name="/" type="4">
-        <text>err</text>
+        <text>mysql</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1wYy11bmlxdWUnLCAnJywgMCkK</text>
@@ -612,16 +618,14 @@
       </register>
     </registers>
     <search>
-      <last-search>err</last-search>
+      <last-search>mysql</last-search>
       <last-offset />
-      <last-pattern>err</last-pattern>
+      <last-pattern>mysql</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
-        <entry>avg</entry>
         <entry>11</entry>
         <entry>create bind</entry>
         <entry>bind</entry>
@@ -640,6 +644,8 @@
         <entry encoding="base64">XDxmbXRcPg==</entry>
         <entry>job</entry>
         <entry>err</entry>
+        <entry encoding="base64">XDxwcmVzdG9cPg==</entry>
+        <entry>mysql</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
