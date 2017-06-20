@@ -86,6 +86,12 @@
         <mark key="." line="1" column="33" />
         <mark key="^" line="1" column="33" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-dig/search_hotwords-daily-raw-adult-unique.dig" timestamp="1497928803086">
+        <mark key="[" line="27" column="140" />
+        <mark key="]" line="27" column="140" />
+        <mark key="." line="27" column="140" />
+        <mark key="^" line="17" column="20" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" timestamp="1497509194611">
         <mark key="'" line="23" column="7" />
         <mark key="[" line="70" column="53" />
@@ -203,6 +209,13 @@
         <mark key="]" line="194" column="20" />
         <mark key="." line="194" column="20" />
         <mark key="^" line="194" column="20" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-dig/search_hotwords-daily-raw-general-unique.dig" timestamp="1497928860734">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="23" />
+        <mark key="." line="16" column="23" />
+        <mark key="^" line="16" column="23" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1490172376934">
         <mark key="[" line="0" column="0" />
@@ -535,7 +548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="2" filename="$USER_HOME$/OfficeWork/stork-batch/sql/bdmail_video-recommendation-for-subscriber.sql" />
       <jump line="49" column="4" filename="$USER_HOME$/OfficeWork/stork-batch/sql/bdmail_video-recommendation-for-subscriber.sql" />
       <jump line="62" column="49" filename="$USER_HOME$/OfficeWork/stork-batch/sql/bdmail_video-recommendation-for-subscriber.sql" />
       <jump line="90" column="11" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
@@ -635,61 +647,61 @@
       <jump line="30" column="0" filename="$USER_HOME$/OfficeTools/git/stork-dig/search_hotwords-daily-raw-general-sp.dig" />
       <jump line="30" column="32" filename="$USER_HOME$/OfficeTools/git/stork-dig/search_hotwords-daily-raw-adult-pc-unique.dig" />
       <jump line="31" column="0" filename="$USER_HOME$/OfficeTools/git/stork-dig/search_hotwords-daily-raw-adult-sp-unique.dig" />
+      <jump line="28" column="0" filename="$USER_HOME$/OfficeTools/git/stork-dig/search_hotwords-daily-raw-general-unique.dig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>250</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>250</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>response</text>
+        <text>view</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1wYy11bmlxdWUnLCAnJywgMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2aWV3dHlwZTogcGMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z2l0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
+        <text encoding="base64">Z2l0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LmlkZWEvdmNzLnhtbAo=</text>
+        <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LmlkZWEvbW9kdWxlcy54bWwK</text>
+        <text encoding="base64">LmlkZWEvdmNzLnhtbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LmlkZWEvbWlzYy54bWwK</text>
+        <text encoding="base64">LmlkZWEvbW9kdWxlcy54bWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LmlkZWEvZGJuYXZpZ2F0b3IueG1sCg==</text>
+        <text encoding="base64">LmlkZWEvbWlzYy54bWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LmlkZWEvYXRsYXNzaWFuLWlkZS1wbHVnaW4ueG1sCg==</text>
+        <text encoding="base64">LmlkZWEvZGJuYXZpZ2F0b3IueG1sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmlkZWEvYXRsYXNzaWFuLWlkZS1wbHVnaW4ueG1sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>response</last-search>
+      <last-search>view</last-search>
       <last-offset />
-      <last-pattern>response</last-pattern>
+      <last-pattern>view</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>nowdate</entry>
         <entry>request</entry>
         <entry encoding="base64">XDxyZXF1ZXN0X2tleVw+</entry>
         <entry>{{</entry>
@@ -709,6 +721,7 @@
         <entry>respo</entry>
         <entry>111</entry>
         <entry>response</entry>
+        <entry>view</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
