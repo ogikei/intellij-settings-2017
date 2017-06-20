@@ -309,6 +309,12 @@
         <mark key="." line="63" column="53" />
         <mark key="^" line="63" column="53" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/src/main/resources/db/migration/V1.8__delete_records_storage.sql" timestamp="1497936789308">
+        <mark key="[" line="3" column="65" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/kmeans/KMeans.scala" timestamp="1489383200601">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="76" column="85" />
@@ -491,7 +497,7 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="4" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497930802047">
+      <file name="/Dummy.txt" timestamp="1497936389420">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/stork-batch/params/bdmail_video-recommendation-for-subscriber.go" timestamp="1497002746821">
@@ -520,11 +526,11 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-migration/src/main/resources/db/migration/V1.7__add_new_storage.sql" timestamp="1497931211808">
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="2" column="38" />
-        <mark key="." line="2" column="38" />
-        <mark key="^" line="2" column="38" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/src/main/resources/db/migration/V1.7__add_new_storage.sql" timestamp="1497936757359">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="38" />
+        <mark key="." line="6" column="38" />
+        <mark key="^" line="6" column="38" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/yzw/config/spring/applicationContext.xml" timestamp="1488881267776">
         <mark key="'" line="45" column="18" />
@@ -668,10 +674,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>adult</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>adult</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>unit</text>
@@ -680,31 +686,31 @@
         <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1wYy11bmlxdWUnLCAnJywgMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KCdzZWFyY2gnLCAnaG90d29yZHMtZGFpbHktcmF3LWdlbmVyYWwtcGMnLCAnJywgMCkK</text>
+        <text encoding="base64">T1IgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1zcC11bmlxdWUnLCAnJywgMCkK</text>
+        <text encoding="base64">ZGVsZXRlIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">KCdzZWFyY2gnLCAnaG90d29yZHMtZGFpbHktcmF3LWdlbmVyYWwtcGMnLCAnJywgMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1zcCcsICcnLCAwKQo=</text>
+        <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1zcC11bmlxdWUnLCAnJywgMCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1wYycsICcnLCAwKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1nZW5lcmFsLXNwJywgJycsIDApCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">KCdzZWFyY2gnLCAnaG90d29yZHMtZGFpbHktcmF3LWdlbmVyYWwtcGMnLCAnJywgMCkK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1zcCcsICcnLCAwKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1wYycsICcnLCAwKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CVZpZXdUeXBlICAgICAgICAgIHN0cmluZyAgICAgICAgICAgICAgICAgIC8vIOihqOekuuOCv+OCpOODlyhzcCBvciBwYykK</text>
+        <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1nZW5lcmFsLXNwJywgJycsIDApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFORCB2aWV3X3R5cGUgPSAne3sgLlZpZXdUeXBlIH19Jwo=</text>
+        <text encoding="base64">KCdzZWFyY2gnLCAnaG90d29yZHMtZGFpbHktcmF3LWdlbmVyYWwtcGMnLCAnJywgMCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
