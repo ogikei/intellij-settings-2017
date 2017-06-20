@@ -520,6 +520,12 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="20" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/src/main/resources/db/migration/V1.7__add_new_storage.sql" timestamp="1497931211808">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="38" />
+        <mark key="." line="2" column="38" />
+        <mark key="^" line="2" column="38" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/yzw/config/spring/applicationContext.xml" timestamp="1488881267776">
         <mark key="'" line="45" column="18" />
       </file>
@@ -661,11 +667,11 @@
       <jump line="16" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw_unique.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CVZpZXdUeXBlICAgICAgICAgIHN0cmluZyAgICAgICAgICAgICAgICAgIC8vIOihqOekuuOCv+OCpOODlyhzcCBvciBwYykK</text>
+      <register name="&quot;" type="4">
+        <text>adult</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>adult</text>
       </register>
       <register name="/" type="4">
         <text>unit</text>
@@ -674,31 +680,31 @@
         <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1wYy11bmlxdWUnLCAnJywgMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CVZpZXdUeXBlICAgICAgICAgIHN0cmluZyAgICAgICAgICAgICAgICAgIC8vIOihqOekuuOCv+OCpOODlyhzcCBvciBwYykK</text>
+        <text encoding="base64">KCdzZWFyY2gnLCAnaG90d29yZHMtZGFpbHktcmF3LWdlbmVyYWwtcGMnLCAnJywgMCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEFORCB2aWV3X3R5cGUgPSAne3sgLlZpZXdUeXBlIH19Jwo=</text>
+        <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1zcC11bmlxdWUnLCAnJywgMCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2aWV3dHlwZTogcGMK</text>
+        <text encoding="base64">KCdzZWFyY2gnLCAnaG90d29yZHMtZGFpbHktcmF3LWdlbmVyYWwtcGMnLCAnJywgMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1zcCcsICcnLCAwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z2l0Cg==</text>
+        <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1wYycsICcnLCAwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
+        <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1nZW5lcmFsLXNwJywgJycsIDApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LmlkZWEvdmNzLnhtbAo=</text>
+        <text encoding="base64">KCdzZWFyY2gnLCAnaG90d29yZHMtZGFpbHktcmF3LWdlbmVyYWwtcGMnLCAnJywgMCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LmlkZWEvbW9kdWxlcy54bWwK</text>
+        <text encoding="base64">CVZpZXdUeXBlICAgICAgICAgIHN0cmluZyAgICAgICAgICAgICAgICAgIC8vIOihqOekuuOCv+OCpOODlyhzcCBvciBwYykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LmlkZWEvbWlzYy54bWwK</text>
+        <text encoding="base64">ICAgIEFORCB2aWV3X3R5cGUgPSAne3sgLlZpZXdUeXBlIH19Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
