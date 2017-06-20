@@ -112,6 +112,12 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/src/main/resources/db/migration/V1.9__add_new_storage.sql" timestamp="1497938765851">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="43" />
+        <mark key="^" line="2" column="43" />
+        <mark key="." line="2" column="43" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/example/Lists.scala" timestamp="1492765616384">
         <mark key="'" line="28" column="1" />
         <mark key="[" line="42" column="33" />
@@ -526,7 +532,7 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-migration/src/main/resources/db/migration/V1.7__add_new_storage.sql" timestamp="1497936757359">
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/src/main/resources/db/migration/V1.7__add_new_storage.sql" timestamp="1497938723831">
         <mark key="[" line="6" column="32" />
         <mark key="]" line="6" column="38" />
         <mark key="." line="6" column="38" />
@@ -674,10 +680,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>hotwords-daily-raw-general-sp</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>hotwords-daily-raw-general-sp</text>
       </register>
       <register name="/" type="4">
         <text>unit</text>
