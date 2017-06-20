@@ -35,6 +35,7 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="12" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/sh/release_production.sh" timestamp="1497942821862" />
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1488800785549">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="45" column="29" />
@@ -457,6 +458,10 @@
         <mark key="." line="71" column="35" />
         <mark key="^" line="71" column="40" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose.yml" timestamp="1497942572077">
+        <mark key="'" line="2" column="0" />
+        <mark key="." line="17" column="21" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-dig/search_hotwords-daily-normalized-general.dig" timestamp="1497925530765">
         <mark key="[" line="23" column="13" />
         <mark key="]" line="23" column="5" />
@@ -503,7 +508,7 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="4" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497936389420">
+      <file name="/Dummy.txt" timestamp="1497942899435">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/stork-batch/params/bdmail_video-recommendation-for-subscriber.go" timestamp="1497002746821">
@@ -577,9 +582,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="31" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
-      <jump line="91" column="14" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
-      <jump line="9" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
       <jump line="17" column="1" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
       <jump line="43" column="1" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw.sql" />
       <jump line="55" column="11" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw.sql" />
@@ -677,6 +679,9 @@
       <jump line="105" column="2" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw_unique.sql" />
       <jump line="16" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw_unique.sql" />
       <jump line="21" column="0" filename="$USER_HOME$/OfficeTools/git/stork-dig/search_hotwords-daily-raw-general-unique.dig" />
+      <jump line="17" column="21" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose.yml" />
+      <jump line="14" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose.yml" />
+      <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
