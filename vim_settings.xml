@@ -26,6 +26,9 @@
         <mark key="." line="2" column="1" />
         <mark key="^" line="2" column="1" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/postprocess.go" timestamp="1498016229307">
+        <mark key="'" line="20" column="21" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/utils/InstanceTypes.java" timestamp="1489131432762">
         <mark key="'" line="72" column="0" />
         <mark key="[" line="63" column="53" />
@@ -377,6 +380,9 @@
         <mark key="." line="17" column="22" />
         <mark key="^" line="17" column="22" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/job_runner.go" timestamp="1498016257506">
+        <mark key="'" line="12" column="11" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1490172376934">
         <mark key="[" line="0" column="0" />
       </file>
@@ -387,6 +393,9 @@
         <mark key="." line="872" column="9" />
         <mark key="^" line="872" column="9" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_normalized.sql" timestamp="1498016496823">
+        <mark key="'" line="11" column="42" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" timestamp="1497250312914">
         <mark key="'" line="91" column="4" />
         <mark key="[" line="76" column="7" />
@@ -394,6 +403,7 @@
         <mark key="^" line="77" column="14" />
         <mark key="." line="77" column="14" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw_nonunique.sql" timestamp="1498016676644" />
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/test/scala/example/ListsSuite.scala" timestamp="1488791864664">
         <mark key="'" line="26" column="24" />
         <mark key="[" line="4" column="2" />
@@ -401,7 +411,7 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="4" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498015976053">
+      <file name="/Dummy.txt" timestamp="1498016468367">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/stork-migration/src/main/resources/db/migration/V1.7__add_new_storage.sql" timestamp="1497234866283">
@@ -423,7 +433,9 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/main.go" timestamp="1498016062725" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/main.go" timestamp="1498016246835">
+        <mark key="'" line="9" column="32" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-dig/search_hotwords-daily-raw-adult-pc-unique.dig" timestamp="1497927052104">
         <mark key="'" line="30" column="32" />
         <mark key="[" line="28" column="203" />
@@ -525,20 +537,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="1" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw.sql" />
-      <jump line="55" column="11" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw.sql" />
-      <jump line="15" column="48" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw.sql" />
-      <jump line="13" column="19" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
-      <jump line="18" column="1" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
-      <jump line="24" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
-      <jump line="83" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
-      <jump line="19" column="1" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
-      <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
-      <jump line="90" column="2" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
-      <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
-      <jump line="66" column="1" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
-      <jump line="89" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
       <jump line="11" column="7" filename="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" />
       <jump line="63" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" />
       <jump line="18" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" />
@@ -625,6 +623,20 @@
       <jump line="14" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose.yml" />
       <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose.yml" />
       <jump line="18" column="24" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/netgame_event-banner-ctr.sql" />
+      <jump line="25" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/postprocess.go" />
+      <jump line="3" column="14" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/postprocess.go" />
+      <jump line="20" column="21" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/postprocess.go" />
+      <jump line="30" column="23" filename="$USER_HOME$/OfficeTools/git/stork-batch/main.go" />
+      <jump line="10" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/main.go" />
+      <jump line="9" column="32" filename="$USER_HOME$/OfficeTools/git/stork-batch/main.go" />
+      <jump line="14" column="4" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/job_runner.go" />
+      <jump line="3" column="14" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/job_runner.go" />
+      <jump line="5" column="34" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/job_runner.go" />
+      <jump line="11" column="15" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/job_runner.go" />
+      <jump line="12" column="11" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/job_runner.go" />
+      <jump line="25" column="17" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_normalized.sql" />
+      <jump line="15" column="52" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_normalized.sql" />
+      <jump line="11" column="42" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_normalized.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -634,7 +646,7 @@
         <text>納</text>
       </register>
       <register name="/" type="4">
-        <text>time</text>
+        <text>nowdate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1wYy11bmlxdWUnLCAnJywgMCkK</text>
@@ -671,17 +683,14 @@
       </register>
     </registers>
     <search>
-      <last-search>time</last-search>
+      <last-search>nowdate</last-search>
       <last-offset />
-      <last-pattern>time</last-pattern>
+      <last-pattern>nowdate</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdW1tYXJ5X2hpdF9jb3VudFw+</entry>
-        <entry>rows</entry>
-        <entry encoding="base64">XDxmbXRcPg==</entry>
         <entry>job</entry>
         <entry>err</entry>
         <entry encoding="base64">XDxwcmVzdG9cPg==</entry>
@@ -699,6 +708,9 @@
         <entry>unitname</entry>
         <entry>unit</entry>
         <entry>time</entry>
+        <entry>sql</entry>
+        <entry>nowdata</entry>
+        <entry>nowdate</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
