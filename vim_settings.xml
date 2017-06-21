@@ -438,8 +438,12 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/main.go" timestamp="1498025648036">
-        <mark key="'" line="9" column="32" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/main.go" timestamp="1498027111421">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="58" column="24" />
+        <mark key="]" line="58" column="24" />
+        <mark key="^" line="59" column="14" />
+        <mark key="." line="58" column="24" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-dig/search_hotwords-daily-raw-adult-pc-unique.dig" timestamp="1497927052104">
         <mark key="'" line="30" column="32" />
@@ -542,7 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" />
       <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" />
       <jump line="59" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" />
       <jump line="84" column="4" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
@@ -642,13 +645,14 @@
       <jump line="11" column="42" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_normalized.sql" />
       <jump line="52" column="29" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
       <jump line="19" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" />
+      <jump line="33" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/main.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>納</text>
+        <text encoding="base64">Ym9vbCA=</text>
       </register>
       <register name="-" type="4">
-        <text>納</text>
+        <text encoding="base64">Ym9vbCA=</text>
       </register>
       <register name="/" type="4">
         <text>query</text>
@@ -657,28 +661,28 @@
         <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1wYy11bmlxdWUnLCAnJywgMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">T1IgCg==</text>
+        <text encoding="base64">CXJldHVybiB0cnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVsZXRlIAo=</text>
+        <text encoding="base64">CXRtYgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KCdzZWFyY2gnLCAnaG90d29yZHMtZGFpbHktcmF3LWdlbmVyYWwtcGMnLCAnJywgMCkK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1zcC11bmlxdWUnLCAnJywgMCkK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KCdzZWFyY2gnLCAnaG90d29yZHMtZGFpbHktcmF3LWdlbmVyYWwtcGMnLCAnJywgMCkK</text>
+        <text encoding="base64">T1IgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1zcCcsICcnLCAwKQo=</text>
+        <text encoding="base64">ZGVsZXRlIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1wYycsICcnLCAwKQo=</text>
+        <text encoding="base64">KCdzZWFyY2gnLCAnaG90d29yZHMtZGFpbHktcmF3LWdlbmVyYWwtcGMnLCAnJywgMCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1nZW5lcmFsLXNwJywgJycsIDApCg==</text>
+        <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1zcC11bmlxdWUnLCAnJywgMCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">KCdzZWFyY2gnLCAnaG90d29yZHMtZGFpbHktcmF3LWdlbmVyYWwtcGMnLCAnJywgMCkK</text>
