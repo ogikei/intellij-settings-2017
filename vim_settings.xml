@@ -62,6 +62,7 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="16" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/params/param.go" timestamp="1498017650266" />
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1488800785549">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="45" column="29" />
@@ -411,8 +412,11 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="4" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498016468367">
+      <file name="/Dummy.txt" timestamp="1498017631406">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" timestamp="1498016865543">
+        <mark key="'" line="52" column="29" />
       </file>
       <file name="$USER_HOME$/OfficeTools/stork-migration/src/main/resources/db/migration/V1.7__add_new_storage.sql" timestamp="1497234866283">
         <mark key="[" line="6" column="13" />
@@ -433,7 +437,7 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/main.go" timestamp="1498016246835">
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/main.go" timestamp="1498017104050">
         <mark key="'" line="9" column="32" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-dig/search_hotwords-daily-raw-adult-pc-unique.dig" timestamp="1497927052104">
@@ -537,7 +541,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="7" filename="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" />
       <jump line="63" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" />
       <jump line="18" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" />
       <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" />
@@ -637,6 +640,7 @@
       <jump line="25" column="17" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_normalized.sql" />
       <jump line="15" column="52" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_normalized.sql" />
       <jump line="11" column="42" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_normalized.sql" />
+      <jump line="52" column="29" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -646,7 +650,7 @@
         <text>納</text>
       </register>
       <register name="/" type="4">
-        <text>nowdate</text>
+        <text>query</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1wYy11bmlxdWUnLCAnJywgMCkK</text>
@@ -683,15 +687,14 @@
       </register>
     </registers>
     <search>
-      <last-search>nowdate</last-search>
+      <last-search>query</last-search>
       <last-offset />
-      <last-pattern>nowdate</last-pattern>
+      <last-pattern>query</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>job</entry>
         <entry>err</entry>
         <entry encoding="base64">XDxwcmVzdG9cPg==</entry>
         <entry>mysql</entry>
@@ -711,6 +714,7 @@
         <entry>sql</entry>
         <entry>nowdata</entry>
         <entry>nowdate</entry>
+        <entry>query</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
