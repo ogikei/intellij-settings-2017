@@ -77,8 +77,8 @@
         <mark key="." line="28" column="160" />
         <mark key="^" line="28" column="160" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" timestamp="1498027893406">
-        <mark key="'" line="28" column="18" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" timestamp="1498028601815">
+        <mark key="'" line="21" column="27" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-api/.gitignore" timestamp="1497595131209">
         <mark key="[" line="15" column="9" />
@@ -385,8 +385,8 @@
         <mark key="." line="17" column="22" />
         <mark key="^" line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/job_runner.go" timestamp="1498016257506">
-        <mark key="'" line="12" column="11" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/job_runner.go" timestamp="1498028468062">
+        <mark key="'" line="10" column="0" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1490172376934">
         <mark key="[" line="0" column="0" />
@@ -416,11 +416,11 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="4" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498025592977">
+      <file name="/Dummy.txt" timestamp="1498028458932">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" timestamp="1498016865543">
-        <mark key="'" line="52" column="29" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" timestamp="1498029189767">
+        <mark key="'" line="23" column="68" />
       </file>
       <file name="$USER_HOME$/OfficeTools/stork-migration/src/main/resources/db/migration/V1.7__add_new_storage.sql" timestamp="1497234866283">
         <mark key="[" line="6" column="13" />
@@ -549,21 +549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="16" filename="$USER_HOME$/OfficeTools/stork-batch/main.go" />
-      <jump line="7" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/params/bdmail_video-recommendation-for-subscriber.go" />
-      <jump line="82" column="4" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
-      <jump line="59" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
-      <jump line="70" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
-      <jump line="91" column="4" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
-      <jump line="1243" column="105" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
-      <jump line="1254" column="122" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
-      <jump line="1261" column="25" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
-      <jump line="1263" column="12" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
-      <jump line="1270" column="52" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
-      <jump line="1272" column="21" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
-      <jump line="1275" column="29" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
-      <jump line="1277" column="12" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
       <jump line="1278" column="19" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
       <jump line="1293" column="18" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
       <jump line="1300" column="44" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
@@ -582,7 +567,6 @@
       <jump line="23" column="7" filename="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" />
       <jump line="36" column="18" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
       <jump line="129" column="0" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
-      <jump line="23" column="41" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
       <jump line="22" column="14" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
       <jump line="8" column="29" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
       <jump line="7" column="32" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" />
@@ -649,6 +633,22 @@
       <jump line="25" column="4" filename="$USER_HOME$/OfficeTools/git/stork-batch/main.go" />
       <jump line="53" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/main.go" />
       <jump line="28" column="18" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" />
+      <jump line="10" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/job_runner.go" />
+      <jump line="53" column="25" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" />
+      <jump line="58" column="29" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" />
+      <jump line="2" column="4" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" />
+      <jump line="38" column="12" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" />
+      <jump line="39" column="39" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" />
+      <jump line="43" column="11" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" />
+      <jump line="48" column="12" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" />
+      <jump line="35" column="4" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
+      <jump line="37" column="42" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
+      <jump line="40" column="34" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
+      <jump line="2" column="4" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
+      <jump line="14" column="8" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
+      <jump line="20" column="29" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
+      <jump line="23" column="68" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
+      <jump line="21" column="27" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -658,7 +658,7 @@
         <text>info</text>
       </register>
       <register name="/" type="4">
-        <text>query</text>
+        <text>target</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1wYy11bmlxdWUnLCAnJywgMCkK</text>
@@ -695,17 +695,14 @@
       </register>
     </registers>
     <search>
-      <last-search>query</last-search>
+      <last-search>target</last-search>
       <last-offset />
-      <last-pattern>query</last-pattern>
+      <last-pattern>target</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>err</entry>
-        <entry encoding="base64">XDxwcmVzdG9cPg==</entry>
-        <entry>mysql</entry>
         <entry>helth</entry>
         <entry>api</entry>
         <entry>page</entry>
@@ -723,6 +720,9 @@
         <entry>nowdata</entry>
         <entry>nowdate</entry>
         <entry>query</entry>
+        <entry>rt</entry>
+        <entry>refe</entry>
+        <entry>target</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
