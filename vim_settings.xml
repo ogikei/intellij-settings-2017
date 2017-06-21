@@ -390,12 +390,12 @@
         <mark key="." line="17" column="22" />
         <mark key="^" line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/job_runner.go" timestamp="1498033728716">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="35" column="4" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/job_runner.go" timestamp="1498034509914">
+        <mark key="'" line="28" column="4" />
+        <mark key="[" line="30" column="63" />
+        <mark key="]" line="30" column="64" />
+        <mark key="^" line="30" column="64" />
+        <mark key="." line="30" column="64" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1490172376934">
         <mark key="[" line="0" column="0" />
@@ -425,11 +425,11 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="4" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498030186921">
+      <file name="/Dummy.txt" timestamp="1498035534540">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" timestamp="1498033298949">
-        <mark key="'" line="23" column="68" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" timestamp="1498035582374">
+        <mark key="'" line="19" column="0" />
         <mark key="[" line="47" column="5" />
         <mark key="]" line="47" column="24" />
         <mark key="." line="47" column="24" />
@@ -448,11 +448,12 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/metaprocess.go" timestamp="1498033827804">
-        <mark key="[" line="4" column="53" />
-        <mark key="]" line="4" column="53" />
-        <mark key="." line="4" column="53" />
-        <mark key="^" line="4" column="53" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/metaprocess.go" timestamp="1498035394517">
+        <mark key="'" line="2" column="70" />
+        <mark key="[" line="2" column="127" />
+        <mark key="]" line="3" column="60" />
+        <mark key="." line="3" column="60" />
+        <mark key="^" line="3" column="60" />
       </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/EmrScheduler.java" timestamp="1488431898407">
         <mark key="[" line="29" column="88" />
@@ -568,12 +569,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1308" column="4" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
-      <jump line="1309" column="11" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
-      <jump line="1316" column="4" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
-      <jump line="1317" column="16" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
-      <jump line="69" column="12" filename="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" />
-      <jump line="32" column="24" filename="$USER_HOME$/OfficeTools/stork-batch/main.go" />
       <jump line="26" column="11" filename="$USER_HOME$/OfficeTools/stork-batch/main.go" />
       <jump line="19" column="23" filename="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" />
       <jump line="20" column="83" filename="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" />
@@ -638,7 +633,6 @@
       <jump line="25" column="17" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_normalized.sql" />
       <jump line="15" column="52" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_normalized.sql" />
       <jump line="11" column="42" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_normalized.sql" />
-      <jump line="52" column="29" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
       <jump line="19" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" />
       <jump line="33" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/main.go" />
       <jump line="20" column="5" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" />
@@ -658,8 +652,6 @@
       <jump line="37" column="42" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
       <jump line="40" column="34" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
       <jump line="2" column="4" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
-      <jump line="14" column="8" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
-      <jump line="20" column="29" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
       <jump line="23" column="68" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
       <jump line="21" column="27" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" />
       <jump line="58" column="19" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/common.go" />
@@ -668,64 +660,71 @@
       <jump line="26" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" />
       <jump line="112" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" />
       <jump line="20" column="5" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/postprocess.go" />
+      <jump line="28" column="4" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/job_runner.go" />
+      <jump line="14" column="40" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
+      <jump line="20" column="41" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
+      <jump line="52" column="70" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
+      <jump line="18" column="63" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
+      <jump line="17" column="92" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
+      <jump line="64" column="15" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
+      <jump line="2" column="70" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/metaprocess.go" />
+      <jump line="19" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>referenced_table</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="-" type="4">
-        <text>referenced_table</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
-        <text>insert</text>
+        <text>go fmt</text>
       </register>
       <register name="0" type="4">
         <text>updateTemplate = &quot;UPDATE `available_storages` SET referenced_table='%s', records=%d WHERE namespace = '%s' and unitname = '%s'&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">aW1wb3J0ICJmbXQiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aQo=</text>
+        <text encoding="base64">CWJpbmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIG1ldGEgcHIK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>go fmt</text>
       </register>
     </registers>
     <search>
-      <last-search>insert</last-search>
+      <last-search>go fmt</last-search>
       <last-offset />
-      <last-pattern>insert</last-pattern>
+      <last-pattern>go fmt</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxhc1w+</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>api</entry>
-        <entry>page</entry>
-        <entry>filter</entry>
-        <entry>version</entry>
         <entry>respo</entry>
         <entry>111</entry>
         <entry>response</entry>
@@ -742,6 +741,10 @@
         <entry>refe</entry>
         <entry>target</entry>
         <entry>insert</entry>
+        <entry encoding="base64">XDxhc1w+</entry>
+        <entry encoding="base64">XDxiaW5kUGFyYW1hdGVyXD4=</entry>
+        <entry encoding="base64">XDxiaW5kUGFyYW1ldGVyXD4=</entry>
+        <entry>go fmt</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
@@ -750,13 +753,13 @@
         <entry>597</entry>
         <entry>%d</entry>
         <entry>2</entry>
-        <entry>go fmt</entry>
         <entry>22</entry>
         <entry>W</entry>
         <entry>111</entry>
-        <entry>fmt</entry>
         <entry>s</entry>
         <entry>w</entry>
+        <entry>fmt</entry>
+        <entry>go fmt</entry>
       </history-cmd>
       <history-expr />
       <history-input />
