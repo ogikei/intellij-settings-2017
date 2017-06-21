@@ -64,7 +64,12 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/params/param.go" timestamp="1498017650266" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/params/param.go" timestamp="1498039512218">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/common.go" timestamp="1498032123366">
         <mark key="'" line="55" column="11" />
       </file>
@@ -82,8 +87,8 @@
         <mark key="." line="28" column="160" />
         <mark key="^" line="28" column="160" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" timestamp="1498038092340">
-        <mark key="'" line="101" column="4" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" timestamp="1498038112644">
+        <mark key="'" line="113" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-api/.gitignore" timestamp="1497595131209">
         <mark key="[" line="15" column="9" />
@@ -247,12 +252,12 @@
         <mark key="." line="21" column="5" />
         <mark key="^" line="21" column="5" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" timestamp="1498037565928">
-        <mark key="'" line="65" column="23" />
-        <mark key="[" line="23" column="32" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" timestamp="1498039880461">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="67" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/assignment.sbt" timestamp="1494146884068">
         <mark key="[" line="1" column="15" />
@@ -432,7 +437,7 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="4" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498037685311">
+      <file name="/Dummy.txt" timestamp="1498039377012">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" timestamp="1498038021658">
@@ -576,18 +581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="32" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" />
-      <jump line="0" column="8" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
-      <jump line="11" column="27" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
-      <jump line="12" column="27" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
-      <jump line="45" column="25" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork_test.go" />
-      <jump line="46" column="0" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork_test.go" />
-      <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/git/stork-api/middleware/auth.go" />
-      <jump line="61" column="43" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
-      <jump line="21" column="39" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
-      <jump line="85" column="57" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
-      <jump line="83" column="57" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
-      <jump line="81" column="39" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
       <jump line="79" column="20" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
       <jump line="78" column="19" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
       <jump line="97" column="2" filename="$USER_HOME$/go/src/github.com/labstack/echo/echo.go" />
@@ -669,17 +662,29 @@
       <jump line="30" column="37" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/job_runner.go" />
       <jump line="19" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/netgame_ctr.go" />
       <jump line="24" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" />
-      <jump line="45" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" />
       <jump line="12" column="4" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" />
       <jump line="65" column="23" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" />
       <jump line="27" column="5" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/postprocess.go" />
       <jump line="31" column="4" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
       <jump line="64" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" />
       <jump line="101" column="4" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" />
+      <jump line="3" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" />
+      <jump line="115" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" />
+      <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" />
+      <jump line="113" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/preprocess.go" />
+      <jump line="25" column="36" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" />
+      <jump line="56" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" />
+      <jump line="21" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" />
+      <jump line="64" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" />
+      <jump line="5" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" />
+      <jump line="52" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" />
+      <jump line="45" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">CQ==</text>
@@ -691,31 +696,31 @@
         <text>updateTemplate = &quot;UPDATE `available_storages` SET referenced_table='%s', records=%d WHERE namespace = '%s' and unitname = '%s'&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CXJldHVybiBuaWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHlwZSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CW1ldGFkYXRhLCBlcnIgOj0gCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICJmbXQiCg==</text>
+        <text encoding="base64">dHlwZSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CW1ldGFkYXRhLCBlcnIgOj0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">aW1wb3J0ICJmbXQiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWJpbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

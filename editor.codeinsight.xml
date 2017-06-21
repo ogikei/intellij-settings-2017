@@ -10,4 +10,7 @@
     <option name="CAST_EXPRESSIONS" value="false" />
     <option name="VAR_EXPRESSIONS" value="false" />
   </component>
+  <component name="Go">
+    <option name="formatOnSave" value="GOIMPORTS" />
+  </component>
 </application>
