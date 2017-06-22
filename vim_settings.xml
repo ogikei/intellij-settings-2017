@@ -114,8 +114,8 @@
         <mark key="^" line="66" column="24" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" timestamp="1498111154926">
-        <mark key="'" line="129" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" timestamp="1498115061280">
+        <mark key="'" line="113" column="8" />
       </file>
       <file name="$USER_HOME$/OfficeTools/stork-batch/.gitignore" timestamp="1497508514859">
         <mark key="'" line="16" column="0" />
@@ -405,6 +405,12 @@
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" timestamp="1498107465485">
         <mark key="'" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-api/router/router.go" timestamp="1498114665982">
+        <mark key="[" line="41" column="44" />
+        <mark key="]" line="41" column="55" />
+        <mark key="^" line="41" column="55" />
+        <mark key="." line="41" column="55" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/stork-batch/params/bdmail_video-recommendation-for-subscriber.go" timestamp="1497002746821">
         <mark key="'" line="7" column="0" />
       </file>
@@ -509,6 +515,12 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-api/api/stork_meta.go" timestamp="1498114647655">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="2" column="3" />
+      </file>
       <file name="$USER_HOME$/Downloads/reductions/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1488800385306">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -521,13 +533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="69" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="276" column="8" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="218" column="14" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="219" column="14" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="220" column="14" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="240" column="13" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="241" column="13" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="242" column="13" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="18" column="10" filename="$USER_HOME$/OfficeWork/stork-batch/src/stash.arms.dmm.com/stork/stork-batch/common/mainprocess.go" />
       <jump line="45" column="0" filename="$USER_HOME$/OfficeWork/stork-batch/params/search_hotwords.go" />
@@ -621,16 +626,23 @@
       <jump line="5" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" />
       <jump line="32" column="23" filename="$USER_HOME$/OfficeTools/git/stork-batch/main.go" />
       <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/netgame_ctr.go" />
+      <jump line="18" column="10" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
+      <jump line="109" column="28" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
+      <jump line="26" column="24" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
+      <jump line="108" column="30" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
+      <jump line="16" column="4" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
+      <jump line="110" column="16" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
+      <jump line="113" column="8" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Param</text>
+        <text>fumc</text>
       </register>
       <register name="/" type="4">
-        <text>param</text>
+        <text>cache</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1wYy11bmlxdWUnLCAnJywgMCkK</text>
@@ -639,45 +651,42 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuYyAobiAqU2VhcmNoSG90d29yZHNCaW5kZXIpIENyZWF0ZU1ldGFKc29uKCkgKHN0cmluZywgZXJyb3IpIHsKCWpzb25CeXRlLCBlcnIgOj0ganNvbi5NYXJzaGFsKG4uU2VhcmNoSG90d29yZHNQYXJhbSkKCWlmIGVyciAhPSBuaWwgewoJCXJldHVybiAiIiwgZm10LkVycm9yZigiZmFpbGVkIGpzb24gcGFyc2Ugb2YgU2VhcmNoSG90d29yZHNQYXJhbS4iKQoJfQoJcmV0dXJuIHN0cmluZyhqc29uQnl0ZSksIG5pbAp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSJlbmNvZGluZy9qc29uIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSJlbmNvZGluZy9qc29uIgo=</text>
+        <text encoding="base64">ZnVuYyAobiAqU2VhcmNoSG90d29yZHNCaW5kZXIpIENyZWF0ZU1ldGFKc29uKCkgKHN0cmluZywgZXJyb3IpIHsKCWpzb25CeXRlLCBlcnIgOj0ganNvbi5NYXJzaGFsKG4uU2VhcmNoSG90d29yZHNQYXJhbSkKCWlmIGVyciAhPSBuaWwgewoJCXJldHVybiAiIiwgZm10LkVycm9yZigiZmFpbGVkIGpzb24gcGFyc2Ugb2YgU2VhcmNoSG90d29yZHNQYXJhbS4iKQoJfQoJcmV0dXJuIHN0cmluZyhqc29uQnl0ZSksIG5pbAp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnVuYyAobiAqTmV0Z2FtZVNlZ21lbnRCaW5kZXIpIENyZWF0ZU1ldGFKc29uKCkgKHN0cmluZywgZXJyb3IpIHsKCWpzb25CeXRlLCBlcnIgOj0ganNvbi5NYXJzaGFsKG4uTmV0Z2FtZVNlZ21lbnRQYXJhbSkKCWlmIGVyciAhPSBuaWwgewoJCXJldHVybiAiIiwgZm10LkVycm9yZigiZmFpbGVkIGpzb24gcGFyc2Ugb2YgTmV0Z2FtZVNlZ21lbnRQYXJhbS4iKQoJfQoJcmV0dXJuIHN0cmluZyhqc29uQnl0ZSksIG5pbAp9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CSJlbmNvZGluZy9qc29uIgo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">CSJlbmNvZGluZy9qc29uIgo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnVuYyAobiAqTmV0Z2FtZVNlZ21lbnRCaW5kZXIpIENyZWF0ZU1ldGFKc29uKCkgKHN0cmluZywgZXJyb3IpIHsKCWpzb25CeXRlLCBlcnIgOj0ganNvbi5NYXJzaGFsKG4uTmV0Z2FtZVNlZ21lbnRQYXJhbSkKCWlmIGVyciAhPSBuaWwgewoJCXJldHVybiAiIiwgZm10LkVycm9yZigiZmFpbGVkIGpzb24gcGFyc2Ugb2YgTmV0Z2FtZVNlZ21lbnRQYXJhbS4iKQoJfQoJcmV0dXJuIHN0cmluZyhqc29uQnl0ZSksIG5pbAp9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuYyAobiAqTmV0Z2FtZUN0ckJpbmRlcikgQ3JlYXRlTWV0YUpzb24oKSAoc3RyaW5nLCBlcnJvcikgewoJanNvbkJ5dGUsIGVyciA6PSBqc29uLk1hcnNoYWwobi5OZXRnYW1lQ3RyUGFyYW0pCglpZiBlcnIgIT0gbmlsIHsKCQlyZXR1cm4gIiIsIGZtdC5FcnJvcmYoImZhaWxlZCBqc29uIHBhcnNlIG9mIE5ldGdhbWVDdHJQYXJhbS4iKQoJfQoJcmV0dXJuIHN0cmluZyhqc29uQnl0ZSksIG5pbAp9Cg==</text>
+        <text encoding="base64">CSJlbmNvZGluZy9qc29uIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>param</last-search>
+      <last-search>cache</last-search>
       <last-offset />
-      <last-pattern>param</last-pattern>
+      <last-pattern>cache</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>11</entry>
-        <entry>create bind</entry>
-        <entry>bind</entry>
         <entry>sql</entry>
         <entry>params</entry>
         <entry>create</entry>
@@ -695,6 +704,9 @@
         <entry>err</entry>
         <entry>meta</entry>
         <entry>param</entry>
+        <entry>start_time</entry>
+        <entry encoding="base64">XDxzdGFydFw+</entry>
+        <entry>cache</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
