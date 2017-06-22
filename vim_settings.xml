@@ -40,6 +40,13 @@
       <file name="$USER_HOME$/OfficeWork/stork-batch/sql/search_hotwords_normalized.sql" timestamp="1496737847347">
         <mark key="'" line="65" column="15" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" timestamp="1498128600493">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+      </file>
       <file name="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" timestamp="1497496284297">
         <mark key="'" line="1317" column="16" />
       </file>
@@ -527,7 +534,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="14" filename="$USER_HOME$/OfficeWork/stork-batch/main.go" />
       <jump line="39" column="14" filename="$USER_HOME$/OfficeWork/stork-batch/main.go" />
       <jump line="35" column="14" filename="$USER_HOME$/OfficeWork/stork-batch/main.go" />
       <jump line="31" column="14" filename="$USER_HOME$/OfficeWork/stork-batch/main.go" />
@@ -627,13 +633,14 @@
       <jump line="15" column="15" filename="$USER_HOME$/OfficeTools/git/stork-api/api/healthcheck_test.go" />
       <jump line="22" column="7" filename="$USER_HOME$/OfficeTools/git/stork-batch/circle.yml" />
       <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/circle.yml" />
+      <jump line="12" column="0" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmU6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>build</text>
+        <text>docker-compose up -d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodHRwdGVzdFw+</text>
@@ -642,31 +649,31 @@
         <text encoding="base64">ICAgIC0gZG9ja2VyLWNvbXBvc2UgYnVpbGQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmU6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwZXJpbWVudGFsOgogIG5vdGlmeToKICAgIGJyYW5jaGVzOgogICAgICBvbmx5OgogICAgICAgIC0gbWFzdGVyCiAgICAgICAgLSBkZXZlbG9wCg==</text>
+        <text encoding="base64">ICAgIC0gZG9ja2VyLWNvbXBvc2UgLS12ZXJzaW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyLWNvbXBvc2UgYnVpbGQK</text>
+        <text encoding="base64">ICBwcmU6CiAgICAtIGN1cmwgLXNTTCBodHRwczovL3MzLmFtYXpvbmF3cy5jb20vY2lyY2xlLWRvd25sb2Fkcy9pbnN0YWxsLWNpcmNsZWNpLWRvY2tlci5zaCB8IGJhc2ggLXMgLS0gMS4xMC4wCiAgICAtIHN1ZG8gY3VybCAtTCAiaHR0cHM6Ly9naXRodWIuY29tL2RvY2tlci9jb21wb3NlL3JlbGVhc2VzL2Rvd25sb2FkLzEuOC4xL2RvY2tlci1jb21wb3NlLSQodW5hbWUgLXMpLSQodW5hbWUgLW0pIiAtbyAvdXNyL2xvY2FsL2Jpbi9kb2NrZXItY29tcG9zZQogICAgLSBzdWRvIGNobW9kICt4IC91c3IvbG9jYWwvYmluL2RvY2tlci1jb21wb3NlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyLWNvbXBvc2UgcHVsbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZXhwZXJpbWVudGFsOgogIG5vdGlmeToKICAgIGJyYW5jaGVzOgogICAgICBvbmx5OgogICAgICAgIC0gbWFzdGVyCiAgICAgICAgLSBkZXZlbG9wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC0gZG9ja2VyLWNvbXBvc2UgYnVpbGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzOgo=</text>
+        <text encoding="base64">ICAgIC0gZG9ja2VyLWNvbXBvc2UgcHVsbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
