@@ -262,11 +262,12 @@
       <file name="$USER_HOME$/OfficeTools/stork-batch/main.go" timestamp="1497504259939">
         <mark key="'" line="26" column="11" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/circle.yml" timestamp="1498123463469">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/circle.yml" timestamp="1498125630578">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="24" column="17" />
+        <mark key="]" line="25" column="7" />
+        <mark key="." line="25" column="7" />
+        <mark key="^" line="25" column="7" />
       </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/.gitignore" timestamp="1488801418394">
         <mark key="'" line="28" column="1" />
@@ -526,8 +527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="15" filename="$USER_HOME$/OfficeWork/stork-batch/sql/search_hotwords_normalized.sql" />
-      <jump line="47" column="14" filename="$USER_HOME$/OfficeWork/stork-batch/main.go" />
       <jump line="43" column="14" filename="$USER_HOME$/OfficeWork/stork-batch/main.go" />
       <jump line="39" column="14" filename="$USER_HOME$/OfficeWork/stork-batch/main.go" />
       <jump line="35" column="14" filename="$USER_HOME$/OfficeWork/stork-batch/main.go" />
@@ -626,49 +625,51 @@
       <jump line="32" column="10" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
       <jump line="4" column="14" filename="$USER_HOME$/OfficeTools/git/stork-api/api/healthcheck_test.go" />
       <jump line="15" column="15" filename="$USER_HOME$/OfficeTools/git/stork-api/api/healthcheck_test.go" />
+      <jump line="22" column="7" filename="$USER_HOME$/OfficeTools/git/stork-batch/circle.yml" />
+      <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/circle.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>build</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>build</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodHRwdGVzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LCgnc2VhcmNoJywgJ2hvdHdvcmRzLWRhaWx5LXJhdy1hZHVsdC1wYy11bmlxdWUnLCAnJywgMCkK</text>
+        <text encoding="base64">ICAgIC0gZG9ja2VyLWNvbXBvc2UgYnVpbGQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWFjCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzOgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGVzdDoK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXJlcXVlc3REYXRhLlZlcnNpb24gPSAidjEiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>48</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -711,9 +712,9 @@
         <entry>go fmt</entry>
         <entry>22</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>48</entry>
         <entry>s</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
