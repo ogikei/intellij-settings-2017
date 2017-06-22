@@ -81,11 +81,12 @@
         <mark key="." line="45" column="34" />
         <mark key="^" line="45" column="34" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-api/.gitignore" timestamp="1497583239942">
-        <mark key="[" line="15" column="9" />
-        <mark key="]" line="17" column="21" />
-        <mark key="^" line="17" column="21" />
-        <mark key="." line="17" column="21" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-api/.gitignore" timestamp="1498129013632">
+        <mark key="'" line="21" column="9" />
+        <mark key="[" line="21" column="13" />
+        <mark key="]" line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+        <mark key="." line="21" column="16" />
       </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/test/java/jp/co/recruit/rtc/hoc/services/TestSpotInstanceClientService.java" timestamp="1488273166199">
         <mark key="[" line="12" column="28" />
@@ -380,6 +381,7 @@
         <mark key="^" line="29" column="49" />
         <mark key="." line="29" column="49" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-api/circle.yml" timestamp="1498128900299" />
       <file name="/HTML File.txt.ft" timestamp="1490172376934">
         <mark key="[" line="0" column="0" />
       </file>
@@ -534,7 +536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="14" filename="$USER_HOME$/OfficeWork/stork-batch/main.go" />
       <jump line="35" column="14" filename="$USER_HOME$/OfficeWork/stork-batch/main.go" />
       <jump line="31" column="14" filename="$USER_HOME$/OfficeWork/stork-batch/main.go" />
       <jump line="29" column="53" filename="$USER_HOME$/OfficeWork/stork-batch/main.go" />
@@ -634,6 +635,7 @@
       <jump line="22" column="7" filename="$USER_HOME$/OfficeTools/git/stork-batch/circle.yml" />
       <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/circle.yml" />
       <jump line="12" column="0" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
+      <jump line="21" column="9" filename="$USER_HOME$/OfficeTools/git/stork-api/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -643,7 +645,7 @@
         <text>docker-compose up -d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxodHRwdGVzdFw+</text>
+        <text encoding="base64">XDxjb3ZlcmFnZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gZG9ja2VyLWNvbXBvc2UgYnVpbGQK</text>
@@ -680,15 +682,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxodHRwdGVzdFw+</last-search>
+      <last-search encoding="base64">XDxjb3ZlcmFnZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxodHRwdGVzdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxjb3ZlcmFnZVw+</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdW1tYXJ5X2Jhc2VcPg==</entry>
         <entry encoding="base64">XDxzdW1tYXJ5X3JhbmtcPg==</entry>
         <entry>nowdate</entry>
         <entry>request</entry>
@@ -708,6 +709,7 @@
         <entry>db</entry>
         <entry>harp</entry>
         <entry encoding="base64">XDxodHRwdGVzdFw+</entry>
+        <entry encoding="base64">XDxjb3ZlcmFnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
