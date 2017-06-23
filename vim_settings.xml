@@ -71,12 +71,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" timestamp="1498199451118">
-        <mark key="'" line="19" column="25" />
-        <mark key="[" line="32" column="15" />
-        <mark key="]" line="32" column="28" />
-        <mark key="." line="32" column="28" />
-        <mark key="^" line="32" column="28" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" timestamp="1498200664014">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="13" column="28" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler-scala/src/main/scala/jp/co/recruit/rtc/hoc/conf/EMRConf.scala" timestamp="1487919236874">
         <mark key="'" line="46" column="0" />
@@ -367,7 +366,12 @@
         <mark key="." line="46" column="34" />
         <mark key="^" line="46" column="34" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local.sh" timestamp="1498198903467" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local.sh" timestamp="1498200525220">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="15" />
+        <mark key="^" line="16" column="16" />
+        <mark key="." line="16" column="15" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1488799638455">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="82" column="6" />
@@ -682,8 +686,8 @@
       <jump line="19" column="25" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -695,31 +699,31 @@
         <text encoding="base64">Q09NTUFORD1gZG9ja2VyIGV4ZWMgLWl0ICIke0NPTlRBSU5FUl9OQU1FfSIgbXlzcWwgLXVyb290IC1wMXFhenhzdzIgLWUgIkNSRUFURSBEQVRBQkFTRSBzdG9yayBDSEFSQUNURVIgU0VUIHV0ZjgiYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZG9ja2VyIGV4ZWMgLWl0ICR7Q09OVEFJTkVSX05BTUV9IG15c3FsIC11cm9vdCAtcCIxcWF6eHN3MiIgc3RvcmsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBSdW4gbWlncmF0aW9uIHRvIE1hcmlhREIgY29udGFpbmVyCg==</text>
+        <text encoding="base64">ZG9ja2VyIGV4ZWMgLWl0ICR7Q09OVEFJTkVSX05BTUV9IG15c3FsIC11cm9vdCAtcCIxcWF6eHN3MiIgc3RvcmsgLWUgIlNFTEVDVCAqIEZST00gYXZhaWxhYmxlX3N0b3JhZ2VzIgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZG9uZQo=</text>
+        <text encoding="base64">ZG9ja2VyIHJ1biBcCiAgLWUgY29uc3RyYWludDpnbG9iYWw9PWVuYWJsZSBcCiAgLXYgIiRQV0Q6L2FwcCIgXAogIC12ICIkSE9NRS8uaXZ5MiI6L3Jvb3QvLml2eTIgXAogIC0tbGluayAke0NPTlRBSU5FUl9OQU1FfToke0NPTlRBSU5FUl9OQU1FfSBcCiAgLWl0IC0tcm0gMXNjaWVuY2Uvc2J0IFwKICBzYnQgZmx5d2F5TWlncmF0ZQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzbGVlcCAkKCggTkVYVF9XQUlUX1RJTUUrKyApKQo=</text>
+        <text encoding="base64">TkVYVF9XQUlUX1RJTUU9MApSRVNVTFQ9MQp1bnRpbCAke1JFU1VMVH0gfHwgWyAke05FWFRfV0FJVF9USU1FfSAtZXEgMjAgXTsgZG8KICBSRVNVTFQ9YGRvY2tlciBleGVjIC1pdCAiJHtDT05UQUlORVJfTkFNRX0iIG15c3FsIC11cm9vdCAtcDFxYXp4c3cyIC1lICJDUkVBVEUgREFUQUJBU0Ugc3RvcmsgQ0hBUkFDVEVSIFNFVCB1dGY4ImAKICBzbGVlcCAkKChORVhUX1dBSVRfVElNRSsrKSkKZG9uZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q09NTUFORD1gZG9ja2VyIGV4ZWMgLWl0ICIke0NPTlRBSU5FUl9OQU1FfSIgbXlzcWwgLXVyb290IC1wMXFhenhzdzIgLWUgIkNSRUFURSBEQVRBQkFTRSBzdG9yayBDSEFSQUNURVIgU0VUIHV0ZjgiYAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">TkVYVF9XQUlUX1RJTUU9MApSRVNVTFQ9MQp1bnRpbCAke1JFU1VMVH0gfHwgWyAke05FWFRfV0FJVF9USU1FfSAtZXEgMjAgXTsgZG8KICBSRVNVTFQ9YGRvY2tlciBleGVjIC1pdCAiJHtDT05UQUlORVJfTkFNRX0iIG15c3FsIC11cm9vdCAtcDFxYXp4c3cyIC1lICJDUkVBVEUgREFUQUJBU0Ugc3RvcmsgQ0hBUkFDVEVSIFNFVCB1dGY4ImAKICBzbGVlcCAkKChORVhUX1dBSVRfVElNRSsrKSkKZG9uZQoKZG9ja2VyIHJ1biBcCiAgLWUgY29uc3RyYWludDpnbG9iYWw9PWVuYWJsZSBcCiAgLXYgIiRQV0Q6L2FwcCIgXAogIC12ICIkSE9NRS8uaXZ5MiI6L3Jvb3QvLml2eTIgXAogIC0tbGluayAke0NPTlRBSU5FUl9OQU1FfToke0NPTlRBSU5FUl9OQU1FfSBcCiAgLWl0IC0tcm0gMXNjaWVuY2Uvc2J0IFwKICBzYnQgZmx5d2F5TWlncmF0ZQoKZG9ja2VyIGV4ZWMgLWl0ICR7Q09OVEFJTkVSX05BTUV9IG15c3FsIC11cm9vdCAtcCIxcWF6eHN3MiIgc3RvcmsgLWUgIlNFTEVDVCAqIEZST00gYXZhaWxhYmxlX3N0b3JhZ2VzIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
