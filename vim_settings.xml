@@ -97,11 +97,11 @@
         <mark key="." line="91" column="46" />
         <mark key="^" line="91" column="46" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-api/api/stork_meta_test.go" timestamp="1498179627126">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="5" />
-        <mark key="." line="4" column="5" />
-        <mark key="^" line="4" column="5" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-api/api/stork_meta_test.go" timestamp="1498181377106">
+        <mark key="[" line="6" column="52" />
+        <mark key="]" line="6" column="53" />
+        <mark key="." line="6" column="53" />
+        <mark key="^" line="6" column="62" />
       </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/.gitignore" timestamp="1490333362839">
         <mark key="[" line="3" column="10" />
@@ -203,7 +203,7 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-api/api/stork_test.go" timestamp="1498179584160" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-api/api/stork_test.go" timestamp="1498181020786" />
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/params/bdmail_video-recommendation-for-subscriber.go" timestamp="1498112875684">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -648,58 +648,57 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TestStorkMeta</text>
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>TestStorkMeta</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3ZlcmFnZVw+</text>
+        <text>newserver</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gZG9ja2VyLWNvbXBvc2UgYnVpbGQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBwcmU6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyLWNvbXBvc2UgLS12ZXJzaW9uCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBwcmU6CiAgICAtIGN1cmwgLXNTTCBodHRwczovL3MzLmFtYXpvbmF3cy5jb20vY2lyY2xlLWRvd25sb2Fkcy9pbnN0YWxsLWNpcmNsZWNpLWRvY2tlci5zaCB8IGJhc2ggLXMgLS0gMS4xMC4wCiAgICAtIHN1ZG8gY3VybCAtTCAiaHR0cHM6Ly9naXRodWIuY29tL2RvY2tlci9jb21wb3NlL3JlbGVhc2VzL2Rvd25sb2FkLzEuOC4xL2RvY2tlci1jb21wb3NlLSQodW5hbWUgLXMpLSQodW5hbWUgLW0pIiAtbyAvdXNyL2xvY2FsL2Jpbi9kb2NrZXItY29tcG9zZQogICAgLSBzdWRvIGNobW9kICt4IC91c3IvbG9jYWwvYmluL2RvY2tlci1jb21wb3NlCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnVuYyAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwZXJpbWVudGFsOgogIG5vdGlmeToKICAgIGJyYW5jaGVzOgogICAgICBvbmx5OgogICAgICAgIC0gbWFzdGVyCiAgICAgICAgLSBkZXZlbG9wCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyLWNvbXBvc2UgYnVpbGQK</text>
+        <text encoding="base64">ago=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb3ZlcmFnZVw+</last-search>
+      <last-search>newserver</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3ZlcmFnZVw+</last-pattern>
+      <last-pattern>newserver</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdW1tYXJ5X3JhbmtcPg==</entry>
         <entry>nowdate</entry>
         <entry>request</entry>
         <entry encoding="base64">XDxyZXF1ZXN0X2tleVw+</entry>
@@ -719,6 +718,7 @@
         <entry>harp</entry>
         <entry encoding="base64">XDxodHRwdGVzdFw+</entry>
         <entry encoding="base64">XDxjb3ZlcmFnZVw+</entry>
+        <entry>newserver</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
