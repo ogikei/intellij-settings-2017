@@ -71,6 +71,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="5" column="35" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" timestamp="1498191203280">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler-scala/src/main/scala/jp/co/recruit/rtc/hoc/conf/EMRConf.scala" timestamp="1487919236874">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="15" column="50" />
@@ -360,6 +365,7 @@
         <mark key="." line="46" column="34" />
         <mark key="^" line="46" column="34" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local.sh" timestamp="1498191518792" />
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1488799638455">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="82" column="6" />
@@ -675,7 +681,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -687,31 +693,31 @@
         <text encoding="base64">CQlyZXAgOj0gcmVnZXhwLk11c3RDb21waWxlKGAiZWxhcHNlZCI6XGQrLGApCgkJZXhwZWN0ZWQgPSByZXAuUmVwbGFjZUFsbFN0cmluZyhleHBlY3RlZCwgIiIpCgkJYWN0dWFsID0gcmVwLlJlcGxhY2VBbGxTdHJpbmcoZXhwZWN0ZWQsICIiKQoJCWFzc2VydC5FcXVhbCh0LCBodHRwLlN0YXR1c09LLCByZWMuQ29kZSkKCQlhc3NlcnQuRXF1YWwodCwgZXhwZWN0ZWQsIGFjdHVhbCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">cy8gICAgICAtIG1hcmlhZGIKICAgICAgLSBwcmVzdG8K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyBDb25uZWN0IHRvIE1hcmlhREIgY29udGFpbmVyCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZG9ja2VyIGV4ZWMgLWl0ICR7Q09OVEFJTkVSX05BTUV9IG15c3FsIC11cm9vdCAtcCIxcWF6eHN3MiIgc3RvcmsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CWFjdHVhbCA6PSByZWMuQm9keS5TdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgIGRlcGVuZHNfb246Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWEK</text>
+        <text encoding="base64">cy8gICAgICAtIG1hcmlhZGIKICAgICAgLSBwcmVzdG8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWtrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWFzc2VydAo=</text>
+        <text encoding="base64">CWFjdHVhbCA6PSByZWMuQm9keS5TdHJpbmcoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWUK</text>
+        <text encoding="base64">CWEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXJlYy5Cb2R5KCkuU3RyaW5nKCkK</text>
+        <text encoding="base64">CWtrCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
