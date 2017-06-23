@@ -228,12 +228,12 @@
         <mark key="." line="194" column="20" />
         <mark key="^" line="194" column="20" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/job_runner.go" timestamp="1498188227709">
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/job_runner.go" timestamp="1498207244061">
         <mark key="'" line="15" column="18" />
-        <mark key="[" line="30" column="50" />
-        <mark key="]" line="30" column="50" />
-        <mark key="." line="30" column="50" />
-        <mark key="^" line="30" column="51" />
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="10" />
+        <mark key="." line="25" column="10" />
+        <mark key="^" line="25" column="10" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1490172376934">
         <mark key="[" line="0" column="0" />
@@ -686,11 +686,11 @@
       <jump line="19" column="25" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gbWFyaWFkYgogICAgICAtIHByZXN0bwo=</text>
+      <register name="&quot;" type="4">
+        <text>records</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>records</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
@@ -775,6 +775,7 @@
         <entry>go lint main.go</entry>
         <entry>%d</entry>
         <entry>w</entry>
+        <entry>golint</entry>
       </history-cmd>
       <history-expr />
       <history-input />
