@@ -71,11 +71,10 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" timestamp="1498193214768">
-        <mark key="[" line="14" column="2" />
-        <mark key="]" line="14" column="33" />
-        <mark key="." line="14" column="33" />
-        <mark key="^" line="14" column="33" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" timestamp="1498194995145">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler-scala/src/main/scala/jp/co/recruit/rtc/hoc/conf/EMRConf.scala" timestamp="1487919236874">
         <mark key="'" line="46" column="0" />
@@ -579,9 +578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="31" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
-      <jump line="91" column="14" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
-      <jump line="9" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
       <jump line="17" column="1" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
       <jump line="43" column="1" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw.sql" />
       <jump line="55" column="11" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw.sql" />
@@ -679,46 +675,49 @@
       <jump line="31" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/main.go" />
       <jump line="63" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/main.go" />
       <jump line="18" column="11" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" />
+      <jump line="25" column="0" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" />
+      <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" />
+      <jump line="20" column="0" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1qazxsw2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1qazxsw2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZG9ja2VyIGV4ZWMgLWl0ICR7Q09OVEFJTkVSX05BTUV9IG15c3FsIC11cm9vdCAtcCIxcWF6eHN3MiIgc3RvcmsK</text>
+        <text encoding="base64">I2RvY2tlciBleGVjIC1pdCAke0NPTlRBSU5FUl9OQU1FfSBcCiMgIG15c3FsIC11cm9vdCAtcDFxYXp4c3cyIC1lICJDUkVBVEUgREFUQUJBU0Ugc3RvcmsgQ0hBUkFDVEVSIFNFVCB1dGY4Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBSdW4gbWlncmF0aW9uIHRvIE1hcmlhREIgY29udGFpbmVyCmRvY2tlciBydW4gXAogIC1lIGNvbnN0cmFpbnQ6Z2xvYmFsPT1lbmFibGUgXAogIC12ICIkUFdEOi9hcHAiIFwKICAtdiAiJEhPTUUvLml2eTIiOi9yb290Ly5pdnkyIFwKICAtLWxpbmsgJHtDT05UQUlORVJfTkFNRX06JHtDT05UQUlORVJfTkFNRX0gXAogIC1pdCAtLXJtIDFzY2llbmNlL3NidCBcCiAgc2J0IGZseXdheU1pZ3JhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBSdW4gbWlncmF0aW9uIHRvIE1hcmlhREIgY29udGFpbmVyCmRvY2tlciBydW4gXAogIC1lIGNvbnN0cmFpbnQ6Z2xvYmFsPT1lbmFibGUgXAogIC12ICIkUFdEOi9hcHAiIFwKICAtdiAiJEhPTUUvLml2eTIiOi9yb290Ly5pdnkyIFwKICAtLWxpbmsgJHtDT05UQUlORVJfTkFNRX06JHtDT05UQUlORVJfTkFNRX0gXAogIC1pdCAtLXJtIDFzY2llbmNlL3NidCBcCiAgc2J0IGZseXdheU1pZ3JhdGUKCiMgQ29ubmVjdCB0byBNYXJpYURCIGNvbnRhaW5lcgpkb2NrZXIgZXhlYyAtaXQgJHtDT05UQUlORVJfTkFNRX0gbXlzcWwgLXVyb290IC1wIjFxYXp4c3cyIiBzdG9yawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBDb25uZWN0IHRvIE1hcmlhREIgY29udGFpbmVyCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZG9ja2VyIGV4ZWMgLWl0ICR7Q09OVEFJTkVSX05BTUV9IG15c3FsIC11cm9vdCAtcCIxcWF6eHN3MiIgc3RvcmsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">cy8gICAgICAtIG1hcmlhZGIKICAgICAgLSBwcmVzdG8K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyEvYmluL2Jhc2gKCkNPTlRBSU5FUl9OQU1FPSJzdG9yay1tYXJpYWRiIgoKIyBSZW1vdmUgZXhpc3RpbmcgTWFyaWFEQiBjb250YWluZXIKZG9ja2VyIHJtIC1mICR7Q09OVEFJTkVSX05BTUV9CgojIFJ1biBNYXJpYURCIGNvbnRhaW5lcgpkb2NrZXIgcnVuIFwKICAtLW5hbWUgJHtDT05UQUlORVJfTkFNRX0gXAogIC1lIE1ZU1FMX1JPT1RfUEFTU1dPUkQ9MXFhenhzdzIgXAogIC1kIG1hcmlhZGI6MTAuMAoKIyBDcmVhdGUgc3Rvcmsgc2NoZW1hCiNkb2NrZXIgZXhlYyAtaXQgJHtDT05UQUlORVJfTkFNRX0gXAojICBteXNxbCAtdXJvb3QgLXAxcWF6eHN3MiAtZSAiQ1JFQVRFIERBVEFCQVNFIHN0b3JrIENIQVJBQ1RFUiBTRVQgdXRmOCIKCmRvY2tlciBleGVjIC1pdCAke0NPTlRBSU5FUl9OQU1FfSBcCiAgbXlzcWwgLXVyb290IC1wMXFhenhzdzIgLWUgInNob3cgZGF0YWJhc2VzIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">c2xlZXAgNXMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBSdW4gbWlncmF0aW9uIHRvIE1hcmlhREIgY29udGFpbmVyCmRvY2tlciBydW4gXAogIC1lIGNvbnN0cmFpbnQ6Z2xvYmFsPT1lbmFibGUgXAogIC12ICIkUFdEOi9hcHAiIFwKICAtdiAiJEhPTUUvLml2eTIiOi9yb290Ly5pdnkyIFwKICAtLWxpbmsgJHtDT05UQUlORVJfTkFNRX06JHtDT05UQUlORVJfTkFNRX0gXAogIC1pdCAtLXJtIDFzY2llbmNlL3NidCBcCiAgc2J0IGZseXdheU1pZ3JhdGUK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CWFjdHVhbCA6PSByZWMuQm9keS5TdHJpbmcoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWEK</text>
+        <text encoding="base64">IyBDb25uZWN0IHRvIE1hcmlhREIgY29udGFpbmVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -759,7 +758,6 @@
         <entry>372</entry>
         <entry>192</entry>
         <entry>597</entry>
-        <entry>%d</entry>
         <entry>2</entry>
         <entry>go fmt</entry>
         <entry>22</entry>
@@ -769,6 +767,7 @@
         <entry>33</entry>
         <entry>go lint</entry>
         <entry>go lint main.go</entry>
+        <entry>%d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
