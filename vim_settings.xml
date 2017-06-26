@@ -95,12 +95,12 @@
         <mark key="." line="91" column="46" />
         <mark key="^" line="91" column="46" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-api/api/stork_meta_test.go" timestamp="1498459218647">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="35" column="17" />
-        <mark key="]" line="35" column="232" />
-        <mark key="." line="35" column="232" />
-        <mark key="^" line="35" column="232" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-api/api/stork_meta_test.go" timestamp="1498460682027">
+        <mark key="'" line="28" column="4" />
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="17" column="43" />
+        <mark key="." line="17" column="43" />
+        <mark key="^" line="17" column="43" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-api/.docker/mariadb/docker-entrypoint-initdb.d/ddl/11_available_storages.sql" timestamp="1498458208341">
         <mark key="[" line="4" column="18" />
@@ -202,7 +202,7 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-api/api/stork_test.go" timestamp="1498458003951">
+      <file name="$USER_HOME$/OfficeTools/git/stork-api/api/stork_test.go" timestamp="1498460602009">
         <mark key="'" line="16" column="10" />
         <mark key="[" line="49" column="0" />
         <mark key="]" line="53" column="40" />
@@ -654,7 +654,6 @@
       <jump line="20" column="21" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork_test.go" />
       <jump line="16" column="10" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork_test.go" />
       <jump line="15" column="29" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork_meta_test.go" />
-      <jump line="24" column="0" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork_meta_test.go" />
       <jump line="22" column="0" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork_meta_test.go" />
       <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork_meta_test.go" />
       <jump line="15" column="18" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/job_runner.go" />
@@ -683,61 +682,61 @@
       <jump line="24" column="0" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local_test.sh" />
       <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
       <jump line="0" column="3434" filename="$USER_HOME$/OfficeTools/git/stork-api/cov.json" />
+      <jump line="24" column="4" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork_meta_test.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>unitname</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>unitname</text>
       </register>
       <register name="/" type="4">
-        <text>stork</text>
+        <text>refe</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBgcmVmZXJlbmNlZF90YWJsZWAgVkFSQ0hBUig0NSkgTk9UIE5VTEwsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXZhcgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2xlZXAgMjAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2xlZXAgMjAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzOgogIGNhY2hlX2RpcmVjdG9yaWVzOgogICAgLSAifi8uaXYyL2NhY2hlIgogICAgLSAifi8uc2J0IgogICAgLSAifi8ubTIiCiAgICAtICJ0YXJnZXQvcmVzb2x1dGlvbi1jYWNoZSIKICAgIC0gInRhcmdldC9zdHJlYW1zIgogICAgLSAicHJvamVjdC90YXJnZXQvcmVzb2x1dGlvbi1jYWNoZSIKICAgIC0gInByb2plY3QvdGFyZ2V0L3N0cmVhbXMiCiAgb3ZlcnJpZGU6CiAgICAtIHNidCBjb21waWxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Uwo=</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzOgogIGNhY2hlX2RpcmVjdG9yaWVzOgogICAgLSAifi8uaXYyL2NhY2hlIgogICAgLSAifi8uc2J0IgogICAgLSAifi8ubTIiCiAgICAtICJ0YXJnZXQvcmVzb2x1dGlvbi1jYWNoZSIKICAgIC0gInRhcmdldC9zdHJlYW1zIgogICAgLSAicHJvamVjdC90YXJnZXQvcmVzb2x1dGlvbi1jYWNoZSIKICAgIC0gInByb2plY3QvdGFyZ2V0L3N0cmVhbXMiCiAgb3ZlcnJpZGU6CiAgICAtIHNidCBjb21waWxlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwb3N0OgogICAgLSBkb2NrZXIgcm0gLWYgc3RvcmstbWFyaWFkYgo=</text>
+        <text encoding="base64">Uwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmVyc2lvbjogMgo=</text>
+        <text encoding="base64">ICBwb3N0OgogICAgLSBkb2NrZXIgcm0gLWYgc3RvcmstbWFyaWFkYgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmVyc2lvbjogMgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>stork</last-search>
+      <last-search>refe</last-search>
       <last-offset />
-      <last-pattern>stork</last-pattern>
+      <last-pattern>refe</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rows</entry>
         <entry encoding="base64">XDxmbXRcPg==</entry>
         <entry>job</entry>
         <entry>err</entry>
@@ -757,6 +756,7 @@
         <entry>json</entry>
         <entry encoding="base64">XDxzdG9ya1w+</entry>
         <entry>stork</entry>
+        <entry>refe</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
@@ -775,6 +775,7 @@
         <entry>%d</entry>
         <entry>golint</entry>
         <entry>wq</entry>
+        <entry>25</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
