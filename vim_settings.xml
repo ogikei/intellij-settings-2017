@@ -35,12 +35,12 @@
       <file name="$USER_HOME$/OfficeWork/stork-batch/sql/search_hotwords_normalized.sql" timestamp="1496737847347">
         <mark key="'" line="65" column="15" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" timestamp="1498212742742">
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" timestamp="1498439454722">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="12" column="100" />
-        <mark key="]" line="14" column="35" />
-        <mark key="." line="14" column="35" />
-        <mark key="^" line="14" column="35" />
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="39" />
+        <mark key="^" line="12" column="39" />
       </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1488800785549">
         <mark key="'" line="2" column="0" />
@@ -71,12 +71,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" timestamp="1498213742209">
-        <mark key="'" line="16" column="18" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="11" column="18" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" timestamp="1498439730906">
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="19" />
+        <mark key="." line="17" column="19" />
+        <mark key="^" line="17" column="19" />
       </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler-scala/src/main/scala/jp/co/recruit/rtc/hoc/conf/EMRConf.scala" timestamp="1487919236874">
         <mark key="'" line="46" column="0" />
@@ -367,7 +366,7 @@
         <mark key="." line="46" column="34" />
         <mark key="^" line="46" column="34" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local.sh" timestamp="1498208764702">
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local.sh" timestamp="1498439684151">
         <mark key="'" line="16" column="7" />
         <mark key="[" line="16" column="15" />
         <mark key="]" line="16" column="15" />
@@ -481,6 +480,13 @@
         <mark key="^" line="10" column="62" />
         <mark key="." line="10" column="62" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local_test.sh" timestamp="1498440565323">
+        <mark key="'" line="31" column="64" />
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="17" />
+        <mark key="^" line="11" column="18" />
+        <mark key="." line="11" column="17" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/controllers/ClusterController.java" timestamp="1489545683059">
         <mark key="'" line="51" column="20" />
       </file>
@@ -586,8 +592,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="48" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw.sql" />
-      <jump line="13" column="19" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
       <jump line="18" column="1" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
       <jump line="24" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
       <jump line="83" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
@@ -686,13 +690,15 @@
       <jump line="19" column="25" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" />
       <jump line="17" column="18" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" />
       <jump line="16" column="7" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local.sh" />
+      <jump line="15" column="0" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" />
+      <jump line="31" column="64" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local_test.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text encoding="base64">IG15c3FsIC11cm9vdCAtcDFxYXp4c3cyIC1lICJDUkVBVEUgREFUQUJBU0Ugc3RvcmsgQ0hBUkFDVEVSIFNFVCB1dGY4Ig==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IG15c3FsIC11cm9vdCAtcDFxYXp4c3cyIC1lICJDUkVBVEUgREFUQUJBU0Ugc3RvcmsgQ0hBUkFDVEVSIFNFVCB1dGY4Ig==</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
@@ -701,31 +707,31 @@
         <text encoding="base64">ICAgIC0gZG9ja2VyIHJ1biAtLW5hbWUgJHtDT05UQUlORVJfTkFNRX0gLWUgTVlTUUxfUk9PVF9QQVNTV09SRD0xcWF6eHN3MiAtZCBtYXJpYWRiOjEwLjAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyIHJ1biAtLW5hbWUgJHtDT05UQUlORVJfTkFNRX0gLWUgTVlTUUxfUk9PVF9QQVNTV09SRD0xcWF6eHN3MiAtZCBtYXJpYWRiOjEwLjAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZG9ja2VyIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyBDcmVhdGUgc3Rvcmsgc2NoZW1hCiNORVhUX1dBSVRfVElNRT0wCiNSRVNVTFQ9MQojdW50aWwgJHtSRVNVTFR9IHx8IFsgJHtORVhUX1dBSVRfVElNRX0gLWVxIDIwIF07IGRvCiMgIFJFU1VMVD1gZG9ja2VyIHJ1biAtaXQgLS1saW5rICIke0NPTlRBSU5FUl9OQU1FfSI6JHtDT05UQUlORVJfTkFNRX0gbXlzcWwgLXVyb290IC1wMXFhenhzdzIgLWUgIkNSRUFURSBEQVRBQkFTRSBzdG9yayBDSEFSQUNURVIgU0VUIHV0ZjgiYAojICBzbGVlcCAkKChORVhUX1dBSVRfVElNRSsrKSkKI2RvbmUKCiMjIFJ1biBtaWdyYXRpb24gdG8gTWFyaWFEQiBjb250YWluZXIKI2RvY2tlciBydW4gXAojICAtZSBjb25zdHJhaW50Omdsb2JhbD09ZW5hYmxlIFwKIyAgLXYgIiRQV0Q6L2FwcCIgXAojICAtdiAiJEhPTUUvLml2eTIiOi9yb290Ly5pdnkyIFwKIyAgLS1saW5rICR7Q09OVEFJTkVSX05BTUV9OiR7Q09OVEFJTkVSX05BTUV9IFwKIyAgLWl0IC0tcm0gMXNjaWVuY2Uvc2J0IFwKIyAgc2J0IGZseXdheU1pZ3JhdGUKIwojIyBDb25uZWN0IHRvIE1hcmlhREIgY29udGFpbmVyCiNkb2NrZXIgZXhlYyAtaXQgJHtDT05UQUlORVJfTkFNRX0gbXlzcWwgLXVyb290IC1wIjFxYXp4c3cyIiBzdG9yawojCiMgcm0gLWYgJHtDT05UQUlORVJfTkFNRX0K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">dGVzdDoKICBvdmVycmlkZToK</text>
+        <text encoding="base64">ICAgIC0gZG9ja2VyIHJ1biAtLW5hbWUgJHtDT05UQUlORVJfTkFNRX0gLWUgTVlTUUxfUk9PVF9QQVNTV09SRD0xcWF6eHN3MiAtZCBtYXJpYWRiOjEwLjAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyIHJ1biAtLWFkZC1ob3N0IGRiOiQoaXAgYWRkciBzaG93IGRvY2tlcjAgfCBncmVwICJpbmV0XGIiIHwgYXdrICd7cHJpbnQgJDJ9JyB8IGN1dCAtZC8gLWYxKSAtZSBSQUlMU19EQVRBQkFTRV9IT1NUPWRiIGFwcCBidW5kbGUgZXhlYyByc3BlYyBzcGVjCg==</text>
+        <text encoding="base64">ICAgIC0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gYmFzaCAteCBzZXR1cF9sb2NhbC10ZXN0LnNoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0K</text>
+        <text encoding="base64">dGVzdDoKICBvdmVycmlkZToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0K</text>
+        <text encoding="base64">ICAgIC0gZG9ja2VyIHJ1biAtLWFkZC1ob3N0IGRiOiQoaXAgYWRkciBzaG93IGRvY2tlcjAgfCBncmVwICJpbmV0XGIiIHwgYXdrICd7cHJpbnQgJDJ9JyB8IGN1dCAtZC8gLWYxKSAtZSBSQUlMU19EQVRBQkFTRV9IT1NUPWRiIGFwcCBidW5kbGUgZXhlYyByc3BlYyBzcGVjCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcmU6Cg==</text>
+        <text encoding="base64">ICAgIC0gYmFzaCAteCBzZXR1cF9sb2NhbC10ZXN0LnNoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -736,7 +742,7 @@
       <last-offset />
       <last-pattern>json</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
