@@ -62,6 +62,7 @@
       <file name="_mac/path.macros.xml" timestamp="1498110979421">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.yml" timestamp="1498467063402" />
       <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/test/resources/TestEmrClientService-context.xml" timestamp="1488426658361">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -101,6 +102,9 @@
         <mark key="]" line="42" column="28" />
         <mark key="." line="42" column="28" />
         <mark key="^" line="42" column="28" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" timestamp="1498466049681">
+        <mark key="'" line="19" column="28" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-api/.docker/mariadb/docker-entrypoint-initdb.d/ddl/11_available_storages.sql" timestamp="1498458208341">
         <mark key="[" line="4" column="18" />
@@ -584,14 +588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="7" filename="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" />
-      <jump line="63" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" />
-      <jump line="18" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" />
-      <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" />
-      <jump line="59" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" />
-      <jump line="84" column="4" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
-      <jump line="12" column="13" filename="$USER_HOME$/OfficeTools/stork-batch/.gitignore" />
-      <jump line="16" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/.gitignore" />
       <jump line="45" column="16" filename="$USER_HOME$/OfficeTools/stork-batch/main.go" />
       <jump line="7" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/params/bdmail_video-recommendation-for-subscriber.go" />
       <jump line="82" column="4" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
@@ -684,6 +680,14 @@
       <jump line="0" column="3434" filename="$USER_HOME$/OfficeTools/git/stork-api/cov.json" />
       <jump line="24" column="4" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork_meta_test.go" />
       <jump line="19" column="0" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork_meta.go" />
+      <jump line="34" column="0" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" />
+      <jump line="3" column="12" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" />
+      <jump line="5" column="30" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" />
+      <jump line="11" column="18" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" />
+      <jump line="13" column="16" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" />
+      <jump line="15" column="14" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" />
+      <jump line="17" column="10" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" />
+      <jump line="19" column="28" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -693,7 +697,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>refe</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBgcmVmZXJlbmNlZF90YWJsZWAgVkFSQ0hBUig0NSkgTk9UIE5VTEwsCg==</text>
@@ -730,15 +734,14 @@
       </register>
     </registers>
     <search>
-      <last-search>refe</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>refe</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmbXRcPg==</entry>
         <entry>job</entry>
         <entry>err</entry>
         <entry>meta</entry>
@@ -758,6 +761,7 @@
         <entry encoding="base64">XDxzdG9ya1w+</entry>
         <entry>stork</entry>
         <entry>refe</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
