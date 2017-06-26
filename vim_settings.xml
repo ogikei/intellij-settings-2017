@@ -35,12 +35,11 @@
       <file name="$USER_HOME$/OfficeWork/stork-batch/sql/search_hotwords_normalized.sql" timestamp="1496737847347">
         <mark key="'" line="65" column="15" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" timestamp="1498444663991">
-        <mark key="'" line="12" column="80" />
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="10" column="51" />
-        <mark key="." line="10" column="51" />
-        <mark key="^" line="10" column="51" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" timestamp="1498446321650">
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="10" column="38" />
+        <mark key="." line="10" column="38" />
+        <mark key="^" line="20" column="31" />
       </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1488800785549">
         <mark key="'" line="2" column="0" />
@@ -71,7 +70,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" timestamp="1498439730906">
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" timestamp="1498446040917">
         <mark key="[" line="17" column="17" />
         <mark key="]" line="17" column="19" />
         <mark key="." line="17" column="19" />
@@ -366,7 +365,7 @@
         <mark key="." line="46" column="34" />
         <mark key="^" line="46" column="34" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local.sh" timestamp="1498443335971">
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local.sh" timestamp="1498446052663">
         <mark key="'" line="16" column="7" />
         <mark key="[" line="16" column="15" />
         <mark key="]" line="16" column="15" />
@@ -695,10 +694,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>${CONTAINER_NAME}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>${CONTAINER_NAME}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdG9ya1w+</text>
@@ -707,34 +706,34 @@
         <text encoding="base64">ICAgIC0gbXlzcWwgLS1ob3N0PTEyNy4wLjAuMSAtLXBvcnQ9e3BvcnR9IC0tdXNlcj1yb290IC0tZXhlY3V0ZSAiQ1JFQVRFIERBVEFCQVNFIHN0b3JrIENIQVJBQ1RFUiBTRVQgdXRmOCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBvdmVycmlkZToKICAgIC0gYmFzaCAteCBzZXR1cF9sb2NhbC10ZXN0LnNoCg==</text>
+        <text encoding="base64">ICAgIC0gbXlzcWwgLS1ob3N0PTEyNy4wLjAuMSAtLXBvcnQ9e3BvcnR9IC0tdXNlcj1yb290IC0tZXhlY3V0ZSAiU0VMRUNUICogRlJPTSBzdG9yay5hdmFpbGFibGVfc3RvcmFnZXMiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA1NGQ0MTZiM2E2ZGFjNWVjZTVhNWVmM2YxM2IwMmVhNzZkZDBkMDM1Cg==</text>
+        <text encoding="base64">ICAgIC0gbXlzcWwgLS1ob3N0PTEyNy4wLjAuMSAtLXBvcnQ9MzMzMyAtLXVzZXI9cm9vdCAtLWV4ZWN1dGUgIkNSRUFURSBEQVRBQkFTRSBzdG9yayBDSEFSQUNURVIgU0VUIHV0ZjgiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIC0gZG9ja2VyIHJ1biAtLW5hbWUgc3RvcmstbWlnYXJ0aW9uIC1wIDMzMDY6MzMwNiAtZSBNWVNRTF9ST09UX1BBU1NXT1JEPTFxYXp4c3cyIC1kIG1hcmlhZGI6MTAuMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICBvdmVycmlkZToKICAgIC0gYmFzaCAteCBzZXR1cF9sb2NhbC10ZXN0LnNoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyIHJ1biAtLW5hbWUgc3RvcmstbWlnYXJ0aW9uIC1lIE1ZU1FMX1JPT1RfUEFTU1dPUkQ9MXFhenhzdzIgLWQgbWFyaWFkYjoxMC4wCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiA1NGQ0MTZiM2E2ZGFjNWVjZTVhNWVmM2YxM2IwMmVhNzZkZDBkMDM1Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gbXlzcWwgLS1ob3N0PTEyNy4wLjAuMSAtLXBvcnQ9e3BvcnR9IC0tdXNlcj1yb290IC0tZXhlY3V0ZSAiQ1JFQVRFIERBVEFCQVNFIHN0b3JrIENIQVJBQ1RFUiBTRVQgdXRmOCIK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyIAo=</text>
+        <text encoding="base64">ICAgIC0gZG9ja2VyIHJ1biAtLW5hbWUgc3RvcmstbWlnYXJ0aW9uIC1lIE1ZU1FMX1JPT1RfUEFTU1dPUkQ9MXFhenhzdzIgLWQgbWFyaWFkYjoxMC4wCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gZG9jawo=</text>
+        <text encoding="base64">ICAgIC0gbXlzcWwgLS1ob3N0PTEyNy4wLjAuMSAtLXBvcnQ9e3BvcnR9IC0tdXNlcj1yb290IC0tZXhlY3V0ZSAiQ1JFQVRFIERBVEFCQVNFIHN0b3JrIENIQVJBQ1RFUiBTRVQgdXRmOCIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -784,6 +783,7 @@
         <entry>%d</entry>
         <entry>golint</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
