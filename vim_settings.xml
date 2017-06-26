@@ -35,11 +35,11 @@
       <file name="$USER_HOME$/OfficeWork/stork-batch/sql/search_hotwords_normalized.sql" timestamp="1496737847347">
         <mark key="'" line="65" column="15" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" timestamp="1498446321650">
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="10" column="38" />
-        <mark key="." line="10" column="38" />
-        <mark key="^" line="20" column="31" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" timestamp="1498450985160">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+        <mark key="^" line="14" column="16" />
       </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1488800785549">
         <mark key="'" line="2" column="0" />
@@ -365,12 +365,11 @@
         <mark key="." line="46" column="34" />
         <mark key="^" line="46" column="34" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local.sh" timestamp="1498446052663">
-        <mark key="'" line="16" column="7" />
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="15" />
-        <mark key="^" line="16" column="16" />
-        <mark key="." line="16" column="15" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local.sh" timestamp="1498450080644">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="14" column="7" />
       </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1488799638455">
         <mark key="'" line="2" column="0" />
@@ -479,12 +478,10 @@
         <mark key="^" line="10" column="62" />
         <mark key="." line="10" column="62" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local_test.sh" timestamp="1498442337063">
-        <mark key="'" line="30" column="64" />
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="17" />
-        <mark key="^" line="11" column="18" />
-        <mark key="." line="11" column="17" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local_test.sh" timestamp="1498450093795">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/controllers/ClusterController.java" timestamp="1489545683059">
         <mark key="'" line="51" column="20" />
@@ -591,10 +588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
-      <jump line="90" column="2" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
-      <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
-      <jump line="66" column="1" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
       <jump line="89" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
       <jump line="11" column="7" filename="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" />
@@ -691,6 +684,10 @@
       <jump line="22" column="19" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
       <jump line="10" column="24" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
       <jump line="12" column="80" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
+      <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
+      <jump line="13" column="6" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
+      <jump line="24" column="0" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local_test.sh" />
+      <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -703,37 +700,37 @@
         <text encoding="base64">XDxzdG9ya1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gbXlzcWwgLS1ob3N0PTEyNy4wLjAuMSAtLXBvcnQ9e3BvcnR9IC0tdXNlcj1yb290IC0tZXhlY3V0ZSAiQ1JFQVRFIERBVEFCQVNFIHN0b3JrIENIQVJBQ1RFUiBTRVQgdXRmOCIK</text>
+        <text encoding="base64">ICAgIC0gbWtkaXIgLXAgfi8uc2J0Ly5saWIvMC4xMy4xMS8KICAgIC0gY3VybCAtTCAtbyB+Ly5zYnQvLmxpYi8wLjEzLjExL3NidC1sYXVuY2guamFyIGh0dHBzOi8vcmVwby50eXBlc2FmZS5jb20vdHlwZXNhZmUvaXZ5LXJlbGVhc2VzL29yZy5zY2FsYS1zYnQvc2J0LWxhdW5jaC8wLjEzLjExL3NidC1sYXVuY2guamFyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gbXlzcWwgLS1ob3N0PTEyNy4wLjAuMSAtLXBvcnQ9e3BvcnR9IC0tdXNlcj1yb290IC0tZXhlY3V0ZSAiU0VMRUNUICogRlJPTSBzdG9yay5hdmFpbGFibGVfc3RvcmFnZXMiCg==</text>
+        <text encoding="base64">ICBwb3N0OgogICAgLSBkb2NrZXIgcm0gLWYgc3RvcmstbWFyaWFkYgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gbXlzcWwgLS1ob3N0PTEyNy4wLjAuMSAtLXBvcnQ9MzMzMyAtLXVzZXI9cm9vdCAtLWV4ZWN1dGUgIkNSRUFURSBEQVRBQkFTRSBzdG9yayBDSEFSQUNURVIgU0VUIHV0ZjgiCg==</text>
+        <text encoding="base64">dmVyc2lvbjogMgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyIHJ1biAtLW5hbWUgc3RvcmstbWlnYXJ0aW9uIC1wIDMzMDY6MzMwNiAtZSBNWVNRTF9ST09UX1BBU1NXT1JEPTFxYXp4c3cyIC1kIG1hcmlhZGI6MTAuMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBvdmVycmlkZToKICAgIC0gYmFzaCAteCBzZXR1cF9sb2NhbC10ZXN0LnNoCg==</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA1NGQ0MTZiM2E2ZGFjNWVjZTVhNWVmM2YxM2IwMmVhNzZkZDBkMDM1Cg==</text>
+        <text encoding="base64">ICBvdmVycmlkZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIC0gc2J0IGNvbXBpbGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICBjYWNoZV9kaXJlY3RvcmllczoKICAgIC0gIn4vLml2Mi9jYWNoZSIKICAgIC0gIn4vLnNidCIKICAgIC0gIn4vLm0yIgogICAgLSAidGFyZ2V0L3Jlc29sdXRpb24tY2FjaGUiCiAgICAtICJ0YXJnZXQvc3RyZWFtcyIKICAgIC0gInByb2plY3QvdGFyZ2V0L3Jlc29sdXRpb24tY2FjaGUiCiAgICAtICJwcm9qZWN0L3RhcmdldC9zdHJlYW1zIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyIHJ1biAtLW5hbWUgc3RvcmstbWlnYXJ0aW9uIC1lIE1ZU1FMX1JPT1RfUEFTU1dPUkQ9MXFhenhzdzIgLWQgbWFyaWFkYjoxMC4wCg==</text>
+        <text encoding="base64">ICAgIC0gZG9ja2VyIHJ1biBcCiAgICAgICAgLWUgY29uc3RyYWludDpnbG9iYWw9PWVuYWJsZSBcCiAgICAgICAgLS1saW5rIHN0b3JrLW1hcmlhZGI6c3RvcmstbWFyaWFkYiBcCiAgICAgICAgLWl0IC0tcm0gMXNjaWVuY2Uvc2J0IFwKICAgICAgICBzYnQgZmx5d2F5TWlncmF0ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gbXlzcWwgLS1ob3N0PTEyNy4wLjAuMSAtLXBvcnQ9e3BvcnR9IC0tdXNlcj1yb290IC0tZXhlY3V0ZSAiQ1JFQVRFIERBVEFCQVNFIHN0b3JrIENIQVJBQ1RFUiBTRVQgdXRmOCIK</text>
+        <text encoding="base64">ICBwcmU6CiAgICAtIGRvY2tlciBydW4gLS1uYW1lIHN0b3JrLW1hcmlhZGIgLWUgTVlTUUxfREFUQUJBU0U9c3RvcmsgLWUgTVlTUUxfUk9PVF9QQVNTV09SRD0xcWF6eHN3MiAtZCBtYXJpYWRiOjEwLjAK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -782,8 +779,8 @@
         <entry>go lint main.go</entry>
         <entry>%d</entry>
         <entry>golint</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
