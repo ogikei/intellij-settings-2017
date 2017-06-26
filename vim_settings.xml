@@ -35,11 +35,10 @@
       <file name="$USER_HOME$/OfficeWork/stork-batch/sql/search_hotwords_normalized.sql" timestamp="1496737847347">
         <mark key="'" line="65" column="15" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" timestamp="1498450985160">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="14" column="16" />
-        <mark key="^" line="14" column="16" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" timestamp="1498453914046">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1488800785549">
         <mark key="'" line="2" column="0" />
@@ -365,11 +364,11 @@
         <mark key="." line="46" column="34" />
         <mark key="^" line="46" column="34" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local.sh" timestamp="1498450080644">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="7" />
-        <mark key="." line="14" column="7" />
-        <mark key="^" line="14" column="7" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local.sh" timestamp="1498454002791">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+        <mark key="^" line="3" column="16" />
       </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1488799638455">
         <mark key="'" line="2" column="0" />
@@ -478,10 +477,11 @@
         <mark key="^" line="10" column="62" />
         <mark key="." line="10" column="62" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local_test.sh" timestamp="1498450093795">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local_test.sh" timestamp="1498453986119">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="20" />
+        <mark key="^" line="15" column="20" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/controllers/ClusterController.java" timestamp="1489545683059">
         <mark key="'" line="51" column="20" />
@@ -690,44 +690,44 @@
       <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2xlZXAgJE5FWFRfV0FJVF9USU1FCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>20</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdG9ya1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gbWtkaXIgLXAgfi8uc2J0Ly5saWIvMC4xMy4xMS8KICAgIC0gY3VybCAtTCAtbyB+Ly5zYnQvLmxpYi8wLjEzLjExL3NidC1sYXVuY2guamFyIGh0dHBzOi8vcmVwby50eXBlc2FmZS5jb20vdHlwZXNhZmUvaXZ5LXJlbGVhc2VzL29yZy5zY2FsYS1zYnQvc2J0LWxhdW5jaC8wLjEzLjExL3NidC1sYXVuY2guamFyCg==</text>
+        <text encoding="base64">c2xlZXAgJE5FWFRfV0FJVF9USU1FCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwb3N0OgogICAgLSBkb2NrZXIgcm0gLWYgc3RvcmstbWFyaWFkYgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmVyc2lvbjogMgo=</text>
+        <text encoding="base64">c2xlZXAgMjAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzOgo=</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzOgogIGNhY2hlX2RpcmVjdG9yaWVzOgogICAgLSAifi8uaXYyL2NhY2hlIgogICAgLSAifi8uc2J0IgogICAgLSAifi8ubTIiCiAgICAtICJ0YXJnZXQvcmVzb2x1dGlvbi1jYWNoZSIKICAgIC0gInRhcmdldC9zdHJlYW1zIgogICAgLSAicHJvamVjdC90YXJnZXQvcmVzb2x1dGlvbi1jYWNoZSIKICAgIC0gInByb2plY3QvdGFyZ2V0L3N0cmVhbXMiCiAgb3ZlcnJpZGU6CiAgICAtIHNidCBjb21waWxlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvdmVycmlkZToK</text>
+        <text encoding="base64">Uwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gc2J0IGNvbXBpbGUK</text>
+        <text encoding="base64">ICBwb3N0OgogICAgLSBkb2NrZXIgcm0gLWYgc3RvcmstbWFyaWFkYgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjYWNoZV9kaXJlY3RvcmllczoKICAgIC0gIn4vLml2Mi9jYWNoZSIKICAgIC0gIn4vLnNidCIKICAgIC0gIn4vLm0yIgogICAgLSAidGFyZ2V0L3Jlc29sdXRpb24tY2FjaGUiCiAgICAtICJ0YXJnZXQvc3RyZWFtcyIKICAgIC0gInByb2plY3QvdGFyZ2V0L3Jlc29sdXRpb24tY2FjaGUiCiAgICAtICJwcm9qZWN0L3RhcmdldC9zdHJlYW1zIgo=</text>
+        <text encoding="base64">dmVyc2lvbjogMgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyIHJ1biBcCiAgICAgICAgLWUgY29uc3RyYWludDpnbG9iYWw9PWVuYWJsZSBcCiAgICAgICAgLS1saW5rIHN0b3JrLW1hcmlhZGI6c3RvcmstbWFyaWFkYiBcCiAgICAgICAgLWl0IC0tcm0gMXNjaWVuY2Uvc2J0IFwKICAgICAgICBzYnQgZmx5d2F5TWlncmF0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcmU6CiAgICAtIGRvY2tlciBydW4gLS1uYW1lIHN0b3JrLW1hcmlhZGIgLWUgTVlTUUxfREFUQUJBU0U9c3RvcmsgLWUgTVlTUUxfUk9PVF9QQVNTV09SRD0xcWF6eHN3MiAtZCBtYXJpYWRiOjEwLjAK</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
