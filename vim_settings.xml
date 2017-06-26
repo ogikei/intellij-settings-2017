@@ -62,7 +62,9 @@
       <file name="_mac/path.macros.xml" timestamp="1498110979421">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.yml" timestamp="1498467063402" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.yml" timestamp="1498467922972">
+        <mark key="'" line="42" column="25" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/test/resources/TestEmrClientService-context.xml" timestamp="1488426658361">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -588,7 +590,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="16" filename="$USER_HOME$/OfficeTools/stork-batch/main.go" />
       <jump line="7" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/params/bdmail_video-recommendation-for-subscriber.go" />
       <jump line="82" column="4" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
       <jump line="59" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
@@ -688,6 +689,7 @@
       <jump line="15" column="14" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" />
       <jump line="17" column="10" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" />
       <jump line="19" column="28" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" />
+      <jump line="42" column="25" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -697,7 +699,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text encoding="base64">XDxtYW5hZ2VyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBgcmVmZXJlbmNlZF90YWJsZWAgVkFSQ0hBUig0NSkgTk9UIE5VTEwsCg==</text>
@@ -734,15 +736,14 @@
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search encoding="base64">XDxtYW5hZ2VyXD4=</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern encoding="base64">XDxtYW5hZ2VyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>job</entry>
         <entry>err</entry>
         <entry>meta</entry>
         <entry>param</entry>
@@ -762,6 +763,7 @@
         <entry>stork</entry>
         <entry>refe</entry>
         <entry>test</entry>
+        <entry encoding="base64">XDxtYW5hZ2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
