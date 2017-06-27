@@ -71,6 +71,9 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="5" column="35" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" timestamp="1498560798905">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" timestamp="1498446040917">
         <mark key="[" line="17" column="17" />
         <mark key="]" line="17" column="19" />
@@ -84,6 +87,7 @@
         <mark key="^" line="15" column="1" />
         <mark key="." line="15" column="1" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/ann/LossFunction.scala" timestamp="1498560035977" />
       <file name="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" timestamp="1497509194611">
         <mark key="'" line="23" column="7" />
         <mark key="[" line="70" column="53" />
@@ -464,6 +468,9 @@
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/wikipedia/WikipediaSuite.scala" timestamp="1490344783351">
         <mark key="'" line="90" column="2" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/spark/graphx/src/main/scala/org/apache/spark/graphx/GraphOps.scala" timestamp="1498560395837">
+        <mark key="'" line="448" column="3" />
+      </file>
       <file name="$USER_HOME$/OfficeWork/stork-batch/.gitignore" timestamp="1496640564206">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="16" column="1" />
@@ -594,16 +601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1278" column="19" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
-      <jump line="1293" column="18" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
-      <jump line="1300" column="44" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
-      <jump line="1302" column="13" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
-      <jump line="1305" column="21" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
-      <jump line="1308" column="4" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
-      <jump line="1309" column="11" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
-      <jump line="1316" column="4" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
-      <jump line="1317" column="16" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
-      <jump line="69" column="12" filename="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" />
       <jump line="32" column="24" filename="$USER_HOME$/OfficeTools/stork-batch/main.go" />
       <jump line="26" column="11" filename="$USER_HOME$/OfficeTools/stork-batch/main.go" />
       <jump line="19" column="23" filename="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" />
@@ -694,6 +691,16 @@
       <jump line="13615" column="0" filename="$USER_HOME$/MyWork/git/hive/ql/src/java/org/apache/hadoop/hive/ql/parse/SemanticAnalyzer.java" />
       <jump line="16" column="1" filename="$USER_HOME$/MyWork/git/hive/ql/src/java/org/apache/hadoop/hive/ql/parse/SemanticAnalyzer.java" />
       <jump line="422" column="16" filename="$USER_HOME$/MyWork/git/hive/ql/src/java/org/apache/hadoop/hive/ql/parse/SemanticAnalyzer.java" />
+      <jump line="448" column="3" filename="$USER_HOME$/MyWork/git/spark/graphx/src/main/scala/org/apache/spark/graphx/GraphOps.scala" />
+      <jump line="15" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
+      <jump line="328" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
+      <jump line="355" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
+      <jump line="3" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
+      <jump line="352" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
+      <jump line="17" column="26" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
+      <jump line="351" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
