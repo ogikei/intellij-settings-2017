@@ -431,12 +431,12 @@
       <file name="$USER_HOME$/OfficeTools/stork-batch/main.go" timestamp="1497504259939">
         <mark key="'" line="26" column="11" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/circle.yml" timestamp="1498201162719">
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/circle.yml" timestamp="1498552078542">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="15" column="50" />
-        <mark key="]" line="15" column="61" />
-        <mark key="^" line="15" column="61" />
-        <mark key="." line="15" column="61" />
+        <mark key="[" line="15" column="48" />
+        <mark key="]" line="15" column="50" />
+        <mark key="^" line="15" column="50" />
+        <mark key="." line="15" column="50" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" timestamp="1498543215719">
         <mark key="'" line="7" column="26" />
@@ -694,13 +694,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stork</text>
+        <text>up</text>
       </register>
       <register name="-" type="4">
-        <text>stork</text>
+        <text>up</text>
       </register>
       <register name="/" type="4">
-        <text>com</text>
+        <text>up</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBgcmVmZXJlbmNlZF90YWJsZWAgVkFSQ0hBUig0NSkgTk9UIE5VTEwsCg==</text>
@@ -737,15 +737,14 @@
       </register>
     </registers>
     <search>
-      <last-search>com</last-search>
+      <last-search>up</last-search>
       <last-offset />
-      <last-pattern>com</last-pattern>
+      <last-pattern>up</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>param</entry>
         <entry>start_time</entry>
         <entry encoding="base64">XDxzdGFydFw+</entry>
         <entry>cache</entry>
@@ -765,6 +764,7 @@
         <entry encoding="base64">XDxtYW5hZ2VyXD4=</entry>
         <entry>sta</entry>
         <entry>com</entry>
+        <entry>up</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
