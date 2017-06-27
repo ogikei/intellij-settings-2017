@@ -438,12 +438,12 @@
         <mark key="^" line="15" column="61" />
         <mark key="." line="15" column="61" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" timestamp="1498536483610">
-        <mark key="'" line="26" column="8" />
-        <mark key="[" line="39" column="2" />
-        <mark key="]" line="39" column="5" />
-        <mark key="." line="39" column="5" />
-        <mark key="^" line="39" column="5" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" timestamp="1498543215719">
+        <mark key="'" line="7" column="26" />
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="8" column="39" />
+        <mark key="." line="8" column="39" />
+        <mark key="^" line="8" column="39" />
       </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" timestamp="1494241476011">
         <mark key="[" line="282" column="0" />
@@ -591,8 +591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1254" column="122" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
-      <jump line="1261" column="25" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
       <jump line="1263" column="12" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
       <jump line="1270" column="52" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
       <jump line="1272" column="21" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
@@ -686,18 +684,20 @@
       <jump line="42" column="25" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.yml" />
       <jump line="12" column="13" filename="$USER_HOME$/OfficeTools/git/stork-batch/.gitignore" />
       <jump line="16" column="13" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
-      <jump line="8" column="33" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
-      <jump line="7" column="26" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
       <jump line="22" column="11" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
       <jump line="10" column="11" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
       <jump line="26" column="8" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
+      <jump line="15" column="9" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
+      <jump line="11" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
+      <jump line="8" column="33" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
+      <jump line="7" column="26" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>stork</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>stork</text>
       </register>
       <register name="/" type="4">
         <text>com</text>
@@ -741,7 +741,7 @@
       <last-offset />
       <last-pattern>com</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
