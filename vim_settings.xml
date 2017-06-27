@@ -271,7 +271,6 @@
         <mark key="." line="19" column="46" />
         <mark key="^" line="19" column="46" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-api/Dockerfile" timestamp="1498455484556" />
       <file name="$USER_HOME$/OfficeTools/git/test/main.go" timestamp="1497584348177">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="30" />
@@ -288,11 +287,11 @@
       <file name="$USER_HOME$/OfficeTools/git/yzw/config/spring/queries.xml" timestamp="1488881571355">
         <mark key="'" line="699" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/.gitignore" timestamp="1498189241358">
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="21" column="18" />
-        <mark key="^" line="21" column="18" />
-        <mark key="." line="21" column="18" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/.gitignore" timestamp="1498529522215">
+        <mark key="'" line="12" column="13" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw.sql" timestamp="1496993031307">
         <mark key="'" line="15" column="48" />
@@ -439,10 +438,12 @@
         <mark key="^" line="15" column="61" />
         <mark key="." line="15" column="61" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" timestamp="1498201098628">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" timestamp="1498529632481">
+        <mark key="'" line="10" column="11" />
+        <mark key="[" line="27" column="26" />
+        <mark key="]" line="27" column="28" />
+        <mark key="." line="27" column="28" />
+        <mark key="^" line="27" column="28" />
       </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" timestamp="1494241476011">
         <mark key="[" line="282" column="0" />
@@ -590,12 +591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/params/bdmail_video-recommendation-for-subscriber.go" />
-      <jump line="82" column="4" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
-      <jump line="59" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
-      <jump line="70" column="0" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
-      <jump line="91" column="4" filename="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" />
       <jump line="1243" column="105" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
       <jump line="1254" column="122" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
       <jump line="1261" column="25" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
@@ -690,62 +685,66 @@
       <jump line="17" column="10" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" />
       <jump line="19" column="28" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" />
       <jump line="42" column="25" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.yml" />
+      <jump line="12" column="13" filename="$USER_HOME$/OfficeTools/git/stork-batch/.gitignore" />
+      <jump line="16" column="13" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
+      <jump line="8" column="33" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
+      <jump line="7" column="26" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
+      <jump line="22" column="11" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
+      <jump line="10" column="11" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>152</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>152</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYW5hZ2VyXD4=</text>
+        <text>com</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBgcmVmZXJlbmNlZF90YWJsZWAgVkFSQ0hBUig0NSkgTk9UIE5VTEwsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlhY3R1YWwgOj0gZXJyb3IuRXJyb3IoYykK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CWV4cGVjdGVkCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CXN0YXR1cwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Z2xpZGUubG9jawo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyBpZ25vcmUgZ2xpZGUgZmlsZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Z2xpZGUubG9jawo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CWYK</text>
+        <text encoding="base64">IyBpZ25vcmUgZ2xpZGUgZmlsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWV4cGUK</text>
+        <text encoding="base64">CQlhY3R1YWwgOj0gZXJyb3IuRXJyb3IoYykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CWV4cGVjdGVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYW5hZ2VyXD4=</last-search>
+      <last-search>com</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYW5hZ2VyXD4=</last-pattern>
+      <last-pattern>com</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>err</entry>
-        <entry>meta</entry>
         <entry>param</entry>
         <entry>start_time</entry>
         <entry encoding="base64">XDxzdGFydFw+</entry>
@@ -764,6 +763,8 @@
         <entry>refe</entry>
         <entry>test</entry>
         <entry encoding="base64">XDxtYW5hZ2VyXD4=</entry>
+        <entry>sta</entry>
+        <entry>com</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
