@@ -438,10 +438,12 @@
         <mark key="^" line="15" column="61" />
         <mark key="." line="15" column="61" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" timestamp="1498530439000">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" timestamp="1498536483610">
+        <mark key="'" line="26" column="8" />
+        <mark key="[" line="39" column="2" />
+        <mark key="]" line="39" column="5" />
+        <mark key="." line="39" column="5" />
+        <mark key="^" line="39" column="5" />
       </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" timestamp="1494241476011">
         <mark key="[" line="282" column="0" />
@@ -589,7 +591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1243" column="105" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
       <jump line="1254" column="122" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
       <jump line="1261" column="25" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
       <jump line="1263" column="12" filename="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" />
@@ -689,13 +690,14 @@
       <jump line="7" column="26" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
       <jump line="22" column="11" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
       <jump line="10" column="11" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
+      <jump line="26" column="8" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAtIGRldgo+Pj4+Pj4+IGQ4NjdhZGVhZjVkMTNmNjU3MjFjZjliZjQxNDM2ZGQyZDNiYzVjOWIK</text>
+      <register name="&quot;" type="4">
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>152</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>com</text>
@@ -739,7 +741,7 @@
       <last-offset />
       <last-pattern>com</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
