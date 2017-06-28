@@ -28,11 +28,6 @@
       <file name="$USER_HOME$/OfficeWork/stork-batch/sql/search_hotwords_normalized.sql" timestamp="1496737847347">
         <mark key="'" line="65" column="15" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" timestamp="1498453914046">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-api/.docker/mariadb/docker-entrypoint-initdb.d/dml/91_ins_available_storages.sql" timestamp="1498462294957">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="24" />
@@ -215,11 +210,6 @@
         <mark key="'" line="16" column="10" />
         <mark key="[" line="49" column="0" />
         <mark key="]" line="53" column="40" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/params/bdmail_video-recommendation-for-subscriber.go" timestamp="1498112875684">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" timestamp="1496634393058">
         <mark key="'" line="271" column="25" />
@@ -434,6 +424,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/spark/streaming/src/main/scala/org/apache/spark/streaming/api/python/PythonDStream.scala" timestamp="1498637966310">
+        <mark key="'" line="33" column="45" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/stork-batch/main.go" timestamp="1497504259939">
         <mark key="'" line="26" column="11" />
       </file>
@@ -535,11 +528,6 @@
       <file name="$USER_HOME$/OfficeWork/stork-batch/sql/bdmail_video-recommendation-for-subscriber.sql" timestamp="1496746650844">
         <mark key="'" line="62" column="49" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.dev.yml" timestamp="1498455426088">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/main.go" timestamp="1498188838388">
         <mark key="'" line="68" column="0" />
         <mark key="[" line="33" column="9" />
@@ -583,10 +571,10 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/spark/streaming/src/main/scala/org/apache/spark/streaming/StreamingContext.scala" timestamp="1498637561716">
-        <mark key="[" line="644" column="5" />
-        <mark key="]" line="644" column="6" />
-        <mark key="^" line="644" column="6" />
-        <mark key="." line="644" column="6" />
+        <mark key="[" line="643" column="5" />
+        <mark key="]" line="643" column="6" />
+        <mark key="^" line="643" column="6" />
+        <mark key="." line="643" column="6" />
       </file>
       <file name="$USER_HOME$/Downloads/reductions 2/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1488793065580">
         <mark key="[" line="0" column="0" />
@@ -601,13 +589,14 @@
         <mark key="." line="17" column="33" />
         <mark key="^" line="17" column="33" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/spark/streaming/src/main/scala/org/apache/spark/streaming/Interval.scala" timestamp="1498637941545">
+        <mark key="'" line="58" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1498558117311">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="24" filename="$USER_HOME$/OfficeTools/stork-batch/main.go" />
-      <jump line="26" column="11" filename="$USER_HOME$/OfficeTools/stork-batch/main.go" />
       <jump line="19" column="23" filename="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" />
       <jump line="20" column="83" filename="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" />
       <jump line="22" column="12" filename="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" />
@@ -706,6 +695,8 @@
       <jump line="17" column="26" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
       <jump line="351" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
+      <jump line="58" column="0" filename="$USER_HOME$/MyWork/git/spark/streaming/src/main/scala/org/apache/spark/streaming/Interval.scala" />
+      <jump line="33" column="45" filename="$USER_HOME$/MyWork/git/spark/streaming/src/main/scala/org/apache/spark/streaming/api/python/PythonDStream.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -715,7 +706,7 @@
         <text>up</text>
       </register>
       <register name="/" type="4">
-        <text>up</text>
+        <text>interval</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBgcmVmZXJlbmNlZF90YWJsZWAgVkFSQ0hBUig0NSkgTk9UIE5VTEwsCg==</text>
@@ -752,15 +743,14 @@
       </register>
     </registers>
     <search>
-      <last-search>up</last-search>
+      <last-search>interval</last-search>
       <last-offset />
-      <last-pattern>up</last-pattern>
+      <last-pattern>interval</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>start_time</entry>
         <entry encoding="base64">XDxzdGFydFw+</entry>
         <entry>cache</entry>
         <entry>db</entry>
@@ -780,6 +770,7 @@
         <entry>sta</entry>
         <entry>com</entry>
         <entry>up</entry>
+        <entry>interval</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
