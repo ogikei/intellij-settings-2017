@@ -283,7 +283,7 @@
       <file name="$USER_HOME$/OfficeTools/git/yzw/config/spring/queries.xml" timestamp="1488881571355">
         <mark key="'" line="699" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/.gitignore" timestamp="1498529522215">
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/.gitignore" timestamp="1498640083863">
         <mark key="'" line="12" column="13" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -702,11 +702,11 @@
       <jump line="57" column="0" filename="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5.jar!/org/apache/hadoop/fs/FileSystem.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>up</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>up</text>
+        <text># ignore glide file</text>
       </register>
       <register name="/" type="4">
         <text>interval</text>
@@ -715,31 +715,31 @@
         <text encoding="base64">ICBgcmVmZXJlbmNlZF90YWJsZWAgVkFSQ0hBUig0NSkgTk9UIE5VTEwsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAtIGRldgo+Pj4+Pj4+IGQ4NjdhZGVhZjVkMTNmNjU3MjFjZjliZjQxNDM2ZGQyZDNiYzVjOWIK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAtIGRldgoKICBwcmVzdG86CiAgICBpbWFnZTogc2thbWUvcHJlc3RvOjAuMTUyCj4+Pj4+Pj4gZDg2N2FkZWFmNWQxM2Y2NTcyMWNmOWJmNDE0MzZkZDJkM2JjNWM5Ygo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAtIC46L2dvL3NyYy9zdGFzaC5hcm1zLmRtbS5jb20vc3Rvcmsvc3RvcmstYmF0Y2gKICAgIHdvcmtpbmdfZGlyOiAvZ28vc3JjL3N0YXNoLmFybXMuZG1tLmNvbS9zdG9yay9zdG9yay1iYXRjaAogICAgbmV0d29ya3M6CiAgICAgIC0gZGV2Cj4+Pj4+Pj4gZDg2N2FkZWFmNWQxM2Y2NTcyMWNmOWJmNDE0MzZkZDJkM2JjNWM5Ygo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Z2xpZGUubG9jawo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">PT09PT09PQogICAgICAtIGRldgo+Pj4+Pj4+IGQ4NjdhZGVhZjVkMTNmNjU3MjFjZjliZjQxNDM2ZGQyZDNiYzVjOWIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PT09PT09PQogICAgICAtIGRldgoKICBwcmVzdG86CiAgICBpbWFnZTogc2thbWUvcHJlc3RvOjAuMTUyCj4+Pj4+Pj4gZDg2N2FkZWFmNWQxM2Y2NTcyMWNmOWJmNDE0MzZkZDJkM2JjNWM5Ygo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PT09PT09PQogICAgICAtIC46L2dvL3NyYy9zdGFzaC5hcm1zLmRtbS5jb20vc3Rvcmsvc3RvcmstYmF0Y2gKICAgIHdvcmtpbmdfZGlyOiAvZ28vc3JjL3N0YXNoLmFybXMuZG1tLmNvbS9zdG9yay9zdG9yay1iYXRjaAogICAgbmV0d29ya3M6CiAgICAgIC0gZGV2Cj4+Pj4+Pj4gZDg2N2FkZWFmNWQxM2Y2NTcyMWNmOWJmNDE0MzZkZDJkM2JjNWM5Ygo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBpZ25vcmUgZ2xpZGUgZmlsZQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
