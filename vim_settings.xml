@@ -25,6 +25,9 @@
         <mark key="^" line="17" column="73" />
         <mark key="." line="17" column="73" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/params/datorama_load.go" timestamp="1498724205545">
+        <mark key="[" line="5" column="10" />
+      </file>
       <file name="$USER_HOME$/OfficeWork/stork-batch/sql/search_hotwords_normalized.sql" timestamp="1496737847347">
         <mark key="'" line="65" column="15" />
       </file>
@@ -212,11 +215,6 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-api/api/stork_test.go" timestamp="1498460602009">
-        <mark key="'" line="16" column="10" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="53" column="40" />
-      </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" timestamp="1496634393058">
         <mark key="'" line="271" column="25" />
         <mark key="[" line="194" column="4" />
@@ -373,6 +371,12 @@
         <mark key="." line="3" column="16" />
         <mark key="^" line="3" column="16" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/sql/bdmail_video-recommendation-for-subscriber.sql" timestamp="1498724241689">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1488799638455">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="82" column="6" />
@@ -386,6 +390,9 @@
         <mark key="]" line="15" column="47" />
         <mark key="." line="15" column="47" />
         <mark key="^" line="15" column="47" />
+      </file>
+      <file name="$USER_HOME$/go/src/gopkg.in/godo.v2/context.go" timestamp="1498724012263">
+        <mark key="'" line="51" column="24" />
       </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/reductions/LineOfSight.scala" timestamp="1488523124325">
         <mark key="'" line="1" column="0" />
@@ -468,6 +475,9 @@
         <mark key="]" line="71" column="35" />
         <mark key="." line="71" column="35" />
         <mark key="^" line="71" column="40" />
+      </file>
+      <file name="/usr/local/Cellar/go/1.8.3/libexec/src/cmd/go/context.go" timestamp="1498724061325">
+        <mark key="'" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/wikipedia/WikipediaSuite.scala" timestamp="1490344783351">
         <mark key="'" line="90" column="2" />
@@ -597,6 +607,9 @@
         <mark key="." line="139" column="0" />
         <mark key="^" line="139" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw_unique.sql" timestamp="1498724667380">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-api/api/stork_meta.go" timestamp="1498462538629">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="17" column="21" />
@@ -612,10 +625,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="12" filename="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" />
-      <jump line="23" column="7" filename="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" />
-      <jump line="36" column="18" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
-      <jump line="129" column="0" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
       <jump line="22" column="8" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/datorama_load.go" />
       <jump line="32" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/datorama_load.go" />
       <jump line="9" column="4" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/netgame_ctr.go" />
@@ -712,6 +721,10 @@
       <jump line="33" column="45" filename="$USER_HOME$/MyWork/git/spark/streaming/src/main/scala/org/apache/spark/streaming/api/python/PythonDStream.scala" />
       <jump line="9" column="22" filename="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5.jar!/org/apache/hadoop/fs/FileSystem.class" />
       <jump line="57" column="0" filename="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5.jar!/org/apache/hadoop/fs/FileSystem.class" />
+      <jump line="51" column="24" filename="$USER_HOME$/go/src/gopkg.in/godo.v2/context.go" />
+      <jump line="6" column="0" filename="/usr/local/Cellar/go/1.8.3/libexec/src/cmd/go/context.go" />
+      <jump line="22" column="1" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw_unique.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw_unique.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
