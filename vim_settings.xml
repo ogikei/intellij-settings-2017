@@ -28,6 +28,12 @@
       <file name="$USER_HOME$/OfficeWork/stork-batch/sql/search_hotwords_normalized.sql" timestamp="1496737847347">
         <mark key="'" line="65" column="15" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/sh/release_production.sh" timestamp="1498711326401">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="1" />
+        <mark key="^" line="18" column="1" />
+        <mark key="." line="18" column="1" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-api/.docker/mariadb/docker-entrypoint-initdb.d/dml/91_ins_available_storages.sql" timestamp="1498462294957">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="24" />
@@ -750,7 +756,7 @@
       <last-offset />
       <last-pattern>interval</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
