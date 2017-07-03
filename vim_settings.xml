@@ -85,12 +85,12 @@
         <mark key="^" line="10" column="6" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" timestamp="1499074613421">
-        <mark key="'" line="125" column="18" />
-        <mark key="[" line="143" column="42" />
-        <mark key="]" line="144" column="1" />
-        <mark key="^" line="144" column="1" />
-        <mark key="." line="144" column="1" />
+      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" timestamp="1499076470733">
+        <mark key="'" line="66" column="6" />
+        <mark key="[" line="67" column="37" />
+        <mark key="]" line="68" column="31" />
+        <mark key="^" line="68" column="31" />
+        <mark key="." line="68" column="31" />
       </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/test/resources/TestEmrClientService-context.xml" timestamp="1488426658361">
         <mark key="[" line="12" column="0" />
@@ -226,6 +226,13 @@
       <file name="/usr/local/Cellar/go/1.8.3/libexec/src/cmd/go/context.go" timestamp="1498724061325">
         <mark key="'" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/presto/templates/etc/catalog/kinesis.properties.j2" timestamp="1499076692343">
+        <mark key="'" line="1" column="26" />
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="33" />
+        <mark key="^" line="4" column="33" />
+        <mark key="." line="4" column="33" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/README.md" timestamp="1488948713711">
         <mark key="[" line="71" column="20" />
         <mark key="]" line="71" column="24" />
@@ -282,7 +289,7 @@
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" timestamp="1498107465485">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499074464614">
+      <file name="/Dummy.txt" timestamp="1499075894849">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-api/router/router.go" timestamp="1498455171810">
@@ -341,6 +348,12 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/presto/vars/stress.yml" timestamp="1499076734575">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="18" column="29" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/yzw/DDL/oracle/ORACLE_EXAMPLE_INPUT_TABLE.ddl" timestamp="1488878222939">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -398,13 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/main.go" />
-      <jump line="31" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/main.go" />
-      <jump line="63" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/main.go" />
-      <jump line="18" column="11" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" />
-      <jump line="25" column="0" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" />
-      <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" />
-      <jump line="20" column="0" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" />
       <jump line="19" column="25" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" />
       <jump line="17" column="18" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" />
       <jump line="16" column="7" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local.sh" />
@@ -487,27 +493,34 @@
       <jump line="52" column="12" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="19" column="0" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="120" column="0" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
-      <jump line="48" column="10" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
-      <jump line="65" column="6" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
-      <jump line="66" column="6" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
-      <jump line="67" column="6" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
-      <jump line="69" column="13" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="76" column="6" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="50" column="10" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="130" column="4" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="140" column="41" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="139" column="39" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="125" column="18" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
+      <jump line="128" column="0" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
+      <jump line="126" column="13" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
+      <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/templates/etc/catalog/kinesis.properties.j2" />
+      <jump line="3" column="0" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/templates/etc/catalog/kinesis.properties.j2" />
+      <jump line="0" column="15" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/templates/etc/catalog/kinesis.properties.j2" />
+      <jump line="1" column="26" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/templates/etc/catalog/kinesis.properties.j2" />
+      <jump line="86" column="16" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
+      <jump line="48" column="10" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
+      <jump line="65" column="6" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
+      <jump line="69" column="13" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
+      <jump line="67" column="6" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
+      <jump line="66" column="6" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>presto-audit-log</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>presto-audit-log</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dcPg==</text>
+        <text>cata</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LSBuYW1lOiBjb3B5IHByZXN0by1hdWRpdCBwbHVnaW4KICBjb3B5OgogICAgc3JjPW9wdC9wcmVzdG8vcGx1Z2luL3ByZXN0by1hdWRpdC1sb2cvCiAgICBkZXN0PS9vcHQvcHJlc3RvL3BsdWdpbi9wcmVzdG8tYXVkaXQtbG9nCiAgICBncm91cD17eyB1c2VyIH19CiAgICBvd25lcj17eyB1c2VyIH19CiAgd2hlbjogaW52ZW50b3J5X2hvc3RuYW1lIGluIGNvb3JkaW5hdG9ycwo=</text>
@@ -519,43 +532,39 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIGBiYXNrZXRgICgKYGJhc2tldF9pZGAgaW50KDEwKSB1bnNpZ25lZCBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBDT01NRU5UICfjg5DjgrnjgrHjg4Pjg4hJRCcsCmBtZW1iZXJfaWRgIGNoYXIoMTIpIE5PVCBOVUxMIENPTU1FTlQgJ+S8muWToUlEJywKYG1lbWJlcl9pZF9jYXRlZ29yeWAgZW51bSgnbWVtYmVyJywnZ3Vlc3QnKSBOT1QgTlVMTCBDT01NRU5UICfkvJrlk6FJROeoruWIpScsCmBzdGF0dXNgIGVudW0oJ2FjdGl2ZScsJ2xvY2snKSBOT1QgTlVMTCBDT01NRU5UICfjg5DjgrnjgrHjg4Pjg4jjgrnjg4bjg7zjgr/jgrknLApgYmFza2V0X3NlcnZpY2VfdHlwZWAgdmFyY2hhcigxNikgTk9UIE5VTEwgQ09NTUVOVCAn6LO85YWl5YWD44K144O844OT44K556iu5YilJywKYHNlcnZpY2VfaWRgIGludCgxMCkgdW5zaWduZWQgTk9UIE5VTEwgQ09NTUVOVCAn44K144O844OT44K5SUQnLApgcGFzc3BvcnRfaWRgIHZhcmNoYXIoMTYpIERFRkFVTFQgTlVMTCBDT01NRU5UICfjg5Hjgrnjg53jg7zjg4hJRCcsCmBzdGFtcGAgdGltZXN0YW1wIE5PVCBOVUxMIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAgT04gVVBEQVRFIENVUlJFTlRfVElNRVNUQU1QIENPTU1FTlQgJ+OCueOCv+ODs+ODlycsClBSSU1BUlkgS0VZIChgYmFza2V0X2lkYCksCktFWSBgbWVtYmVyX2lkYCAoYG1lbWJlcl9pZGApLApLRVkgYG1lbWJlcl9pZF9jYXRlZ29yeWAgKGBtZW1iZXJfaWRfY2F0ZWdvcnlgKSwKS0VZIGBwYXNzcG9ydF9pZGAgKGBwYXNzcG9ydF9pZGApCikgRU5HSU5FPUlubm9EQiBBVVRPX0lOQ1JFTUVOVD0zMTkwOCBERUZBVUxUIENIQVJTRVQ9dWppcwoKQ1JFQVRFIFRBQkxFIGBiYXNrZXRfcHJvZHVjdF9pbmZvYCAoCmBwcm9kdWN0X2luZm9faWRgIGludCgxMCkgdW5zaWduZWQgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQgQ09NTUVOVCAn5ZWG5ZOB5oOF5aCxSUQnLApgYmFza2V0X2lkYCBpbnQoMTApIHVuc2lnbmVkIE5PVCBOVUxMIENPTU1FTlQgJ+ODkOOCueOCseODg+ODiElEJywKYHByb2R1Y3RfaWRgIHZhcmNoYXIoNTApIE5PVCBOVUxMIENPTU1FTlQgJ+WVhuWTgUlEJywKYHNob3BfbmFtZWAgdmFyY2hhcigxNikgTk9UIE5VTEwgQ09NTUVOVCAn44K344On44OD44OX5ZCNJywKYGJhc2tldF9pbl9wcmljZWAgaW50KDEwKSB1bnNpZ25lZCBOT1QgTlVMTCBDT01NRU5UICfjg5DjgrnjgrHjg4Pjg4jnmbvpjLLmmYLkvqHmoLzvvIjnqI7mipzjgY3vvIknLApgYXR0cmlidXRlYCB2YXJjaGFyKDE2KSBOT1QgTlVMTCBDT01NRU5UICfllYblk4HliIbpoZ4nLApgc3RhbXBgIHRpbWVzdGFtcCBOT1QgTlVMTCBERUZBVUxUIENVUlJFTlRfVElNRVNUQU1QIE9OIFVQREFURSBDVVJSRU5UX1RJTUVTVEFNUCBDT01NRU5UICfjgrnjgr/jg7Pjg5cnLApQUklNQVJZIEtFWSAoYHByb2R1Y3RfaW5mb19pZGApLApLRVkgYGJhc2tldF9pZGAgKGBiYXNrZXRfaWRgKSwKS0VZIGBzaG9wX25hbWVgIChgc2hvcF9uYW1lYCksCktFWSBgcHJvZHVjdF9pZGAgKGBwcm9kdWN0X2lkYCkKKSBFTkdJTkU9SW5ub0RCIEFVVE9fSU5DUkVNRU5UPTc3ODQzIERFRkFVTFQgQ0hBUlNFVD11amlzCg==</text>
+        <text encoding="base64">a2luZXNpcy50YWJsZS1kZXNjcmlwdGlvbnMtczM9czM6Ly95b3VyLmJ1Y2tldC95b3VyL2ZvbGRlci9wYXRoIChpZiByZWFkaW5nIHRhYmxlIGRlZmluaXRpb25zIGZyb20gUzMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW5zZXJ0IG92ZXJ3cml0ZSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIGBiYXNrZXRgICgKYGJhc2tldF9pZGAgaW50KDEwKSB1bnNpZ25lZCBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBDT01NRU5UICfjg5DjgrnjgrHjg4Pjg4hJRCcsCmBtZW1iZXJfaWRgIGNoYXIoMTIpIE5PVCBOVUxMIENPTU1FTlQgJ+S8muWToUlEJywKYG1lbWJlcl9pZF9jYXRlZ29yeWAgZW51bSgnbWVtYmVyJywnZ3Vlc3QnKSBOT1QgTlVMTCBDT01NRU5UICfkvJrlk6FJROeoruWIpScsCmBzdGF0dXNgIGVudW0oJ2FjdGl2ZScsJ2xvY2snKSBOT1QgTlVMTCBDT01NRU5UICfjg5DjgrnjgrHjg4Pjg4jjgrnjg4bjg7zjgr/jgrknLApgYmFza2V0X3NlcnZpY2VfdHlwZWAgdmFyY2hhcigxNikgTk9UIE5VTEwgQ09NTUVOVCAn6LO85YWl5YWD44K144O844OT44K556iu5YilJywKYHNlcnZpY2VfaWRgIGludCgxMCkgdW5zaWduZWQgTk9UIE5VTEwgQ09NTUVOVCAn44K144O844OT44K5SUQnLApgcGFzc3BvcnRfaWRgIHZhcmNoYXIoMTYpIERFRkFVTFQgTlVMTCBDT01NRU5UICfjg5Hjgrnjg53jg7zjg4hJRCcsCmBzdGFtcGAgdGltZXN0YW1wIE5PVCBOVUxMIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAgT04gVVBEQVRFIENVUlJFTlRfVElNRVNUQU1QIENPTU1FTlQgJ+OCueOCv+ODs+ODlycsClBSSU1BUlkgS0VZIChgYmFza2V0X2lkYCksCktFWSBgbWVtYmVyX2lkYCAoYG1lbWJlcl9pZGApLApLRVkgYG1lbWJlcl9pZF9jYXRlZ29yeWAgKGBtZW1iZXJfaWRfY2F0ZWdvcnlgKSwKS0VZIGBwYXNzcG9ydF9pZGAgKGBwYXNzcG9ydF9pZGApCikgRU5HSU5FPUlubm9EQiBBVVRPX0lOQ1JFTUVOVD0zMTkwOCBERUZBVUxUIENIQVJTRVQ9dWppcwoKQ1JFQVRFIFRBQkxFIGBiYXNrZXRfcHJvZHVjdF9pbmZvYCAoCmBwcm9kdWN0X2luZm9faWRgIGludCgxMCkgdW5zaWduZWQgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQgQ09NTUVOVCAn5ZWG5ZOB5oOF5aCxSUQnLApgYmFza2V0X2lkYCBpbnQoMTApIHVuc2lnbmVkIE5PVCBOVUxMIENPTU1FTlQgJ+ODkOOCueOCseODg+ODiElEJywKYHByb2R1Y3RfaWRgIHZhcmNoYXIoNTApIE5PVCBOVUxMIENPTU1FTlQgJ+WVhuWTgUlEJywKYHNob3BfbmFtZWAgdmFyY2hhcigxNikgTk9UIE5VTEwgQ09NTUVOVCAn44K344On44OD44OX5ZCNJywKYGJhc2tldF9pbl9wcmljZWAgaW50KDEwKSB1bnNpZ25lZCBOT1QgTlVMTCBDT01NRU5UICfjg5DjgrnjgrHjg4Pjg4jnmbvpjLLmmYLkvqHmoLzvvIjnqI7mipzjgY3vvIknLApgYXR0cmlidXRlYCB2YXJjaGFyKDE2KSBOT1QgTlVMTCBDT01NRU5UICfllYblk4HliIbpoZ4nLApgc3RhbXBgIHRpbWVzdGFtcCBOT1QgTlVMTCBERUZBVUxUIENVUlJFTlRfVElNRVNUQU1QIE9OIFVQREFURSBDVVJSRU5UX1RJTUVTVEFNUCBDT01NRU5UICfjgrnjgr/jg7Pjg5cnLApQUklNQVJZIEtFWSAoYHByb2R1Y3RfaW5mb19pZGApLApLRVkgYGJhc2tldF9pZGAgKGBiYXNrZXRfaWRgKSwKS0VZIGBzaG9wX25hbWVgIChgc2hvcF9uYW1lYCksCktFWSBgcHJvZHVjdF9pZGAgKGBwcm9kdWN0X2lkYCkKKSBFTkdJTkU9SW5ub0RCIEFVVE9fSU5DUkVNRU5UPTc3ODQzIERFRkFVTFQgQ0hBUlNFVD11amlzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsgREJfVEFCTEU6ICJ3aXRoZHJhd2FsX2luZm8iLCBISVZFX1RBQkxFOiAicmF3X3ZpZGVvX21vbnRobHkud2l0aGRyYXdhbF9pbmZvIiwgT1BUUzogIi0tbnVtLW1hcHBlcnMgMyAtLXNwbGl0LWJ5IHN0YW1wIiwgV0hFUkU6ICJDQVNUKHN0YW1wIEFTIERBVEUpID0gJyR7RFR9JyIgfSwKICAgIHsgREJfVEFCTEU6ICJ0cmlhbF9hZG1pc3Npb24iLCBISVZFX1RBQkxFOiAicmF3X3ZpZGVvX21vbnRobHkudHJpYWxfYWRtaXNzaW9uIiwgT1BUUzogIi0tbnVtLW1hcHBlcnMgMyAtLXNwbGl0LWJ5IHN0YW1wIiwgV0hFUkU6ICJDQVNUKHN0YW1wIEFTIERBVEUpID0gJyR7RFR9JyIgfSwKICAgIHsgREJfVEFCTEU6ICJvcmRlcl9pdGVtIiwgSElWRV9UQUJMRTogInJhd192aWRlb19tb250aGx5Lm9yZGVyX2l0ZW0iLCBPUFRTOiAiLS1udW0tbWFwcGVycyAzIC0tc3BsaXQtYnkgc3RhbXAiLCBXSEVSRTogIkNBU1Qoc3RhbXAgQVMgREFURSkgPSAnJHtEVH0nIiB9LAogICAgeyBEQl9UQUJMRTogIm9yZGVyX2l0ZW1fY2hlY2tfbG9nIiwgSElWRV9UQUJMRTogInJhd192aWRlb19tb250aGx5Lm9yZGVyX2l0ZW1fY2hlY2tfbG9nIiwgT1BUUzogIi0tbnVtLW1hcHBlcnMgMyAtLXNwbGl0LWJ5IHN0YW1wIiwgV0hFUkU6ICJDQVNUKHN0YW1wIEFTIERBVEUpID0gJyR7RFR9JyIgfSwKICAgIHsgREJfVEFCTEU6ICJvcmRlcl9kZXZpY2UiLCBISVZFX1RBQkxFOiAicmF3X3ZpZGVvX21vbnRobHkub3JkZXJfZGV2aWNlIiwgT1BUUzogIi0tbnVtLW1hcHBlcnMgMyAtLXNwbGl0LWJ5IHN0YW1wIiwgV0hFUkU6ICJDQVNUKHN0YW1wIEFTIERBVEUpID0gJyR7RFR9JyIgfSwK</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIGBiYXNrZXRgICgKYGJhc2tldF9pZGAgaW50KDEwKSB1bnNpZ25lZCBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBDT01NRU5UICfjg5DjgrnjgrHjg4Pjg4hJRCcsCmBtZW1iZXJfaWRgIGNoYXIoMTIpIE5PVCBOVUxMIENPTU1FTlQgJ+S8muWToUlEJywKYG1lbWJlcl9pZF9jYXRlZ29yeWAgZW51bSgnbWVtYmVyJywnZ3Vlc3QnKSBOT1QgTlVMTCBDT01NRU5UICfkvJrlk6FJROeoruWIpScsCmBzdGF0dXNgIGVudW0oJ2FjdGl2ZScsJ2xvY2snKSBOT1QgTlVMTCBDT01NRU5UICfjg5DjgrnjgrHjg4Pjg4jjgrnjg4bjg7zjgr/jgrknLApgYmFza2V0X3NlcnZpY2VfdHlwZWAgdmFyY2hhcigxNikgTk9UIE5VTEwgQ09NTUVOVCAn6LO85YWl5YWD44K144O844OT44K556iu5YilJywKYHNlcnZpY2VfaWRgIGludCgxMCkgdW5zaWduZWQgTk9UIE5VTEwgQ09NTUVOVCAn44K144O844OT44K5SUQnLApgcGFzc3BvcnRfaWRgIHZhcmNoYXIoMTYpIERFRkFVTFQgTlVMTCBDT01NRU5UICfjg5Hjgrnjg53jg7zjg4hJRCcsCmBzdGFtcGAgdGltZXN0YW1wIE5PVCBOVUxMIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAgT04gVVBEQVRFIENVUlJFTlRfVElNRVNUQU1QIENPTU1FTlQgJ+OCueOCv+ODs+ODlycsClBSSU1BUlkgS0VZIChgYmFza2V0X2lkYCksCktFWSBgbWVtYmVyX2lkYCAoYG1lbWJlcl9pZGApLApLRVkgYG1lbWJlcl9pZF9jYXRlZ29yeWAgKGBtZW1iZXJfaWRfY2F0ZWdvcnlgKSwKS0VZIGBwYXNzcG9ydF9pZGAgKGBwYXNzcG9ydF9pZGApCikgRU5HSU5FPUlubm9EQiBBVVRPX0lOQ1JFTUVOVD0zMTkwOCBERUZBVUxUIENIQVJTRVQ9dWppcwoKQ1JFQVRFIFRBQkxFIGBiYXNrZXRfcHJvZHVjdF9pbmZvYCAoCmBwcm9kdWN0X2luZm9faWRgIGludCgxMCkgdW5zaWduZWQgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQgQ09NTUVOVCAn5ZWG5ZOB5oOF5aCxSUQnLApgYmFza2V0X2lkYCBpbnQoMTApIHVuc2lnbmVkIE5PVCBOVUxMIENPTU1FTlQgJ+ODkOOCueOCseODg+ODiElEJywKYHByb2R1Y3RfaWRgIHZhcmNoYXIoNTApIE5PVCBOVUxMIENPTU1FTlQgJ+WVhuWTgUlEJywKYHNob3BfbmFtZWAgdmFyY2hhcigxNikgTk9UIE5VTEwgQ09NTUVOVCAn44K344On44OD44OX5ZCNJywKYGJhc2tldF9pbl9wcmljZWAgaW50KDEwKSB1bnNpZ25lZCBOT1QgTlVMTCBDT01NRU5UICfjg5DjgrnjgrHjg4Pjg4jnmbvpjLLmmYLkvqHmoLzvvIjnqI7mipzjgY3vvIknLApgYXR0cmlidXRlYCB2YXJjaGFyKDE2KSBOT1QgTlVMTCBDT01NRU5UICfllYblk4HliIbpoZ4nLApgc3RhbXBgIHRpbWVzdGFtcCBOT1QgTlVMTCBERUZBVUxUIENVUlJFTlRfVElNRVNUQU1QIE9OIFVQREFURSBDVVJSRU5UX1RJTUVTVEFNUCBDT01NRU5UICfjgrnjgr/jg7Pjg5cnLApQUklNQVJZIEtFWSAoYHByb2R1Y3RfaW5mb19pZGApLApLRVkgYGJhc2tldF9pZGAgKGBiYXNrZXRfaWRgKSwKS0VZIGBzaG9wX25hbWVgIChgc2hvcF9uYW1lYCksCktFWSBgcHJvZHVjdF9pZGAgKGBwcm9kdWN0X2lkYCkKKSBFTkdJTkU9SW5ub0RCIEFVVE9fSU5DUkVNRU5UPTc3ODQzIERFRkFVTFQgQ0hBUlNFVD11amlzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsgREJfVEFCTEU6ICJ3aXRoZHJhd2FsX2luZm8iLCBISVZFX1RBQkxFOiAicmF3X3ZpZGVvX21vbnRobHkud2l0aGRyYXdhbF9pbmZvIiwgT1BUUzogIi0tbnVtLW1hcHBlcnMgMyAtLXNwbGl0LWJ5IHN0YW1wIiwgV0hFUkU6ICJDQVNUKHN0YW1wIEFTIERBVEUpID0gJyR7RFR9JyIgfSwKICAgIHsgREJfVEFCTEU6ICJ0cmlhbF9hZG1pc3Npb24iLCBISVZFX1RBQkxFOiAicmF3X3ZpZGVvX21vbnRobHkudHJpYWxfYWRtaXNzaW9uIiwgT1BUUzogIi0tbnVtLW1hcHBlcnMgMyAtLXNwbGl0LWJ5IHN0YW1wIiwgV0hFUkU6ICJDQVNUKHN0YW1wIEFTIERBVEUpID0gJyR7RFR9JyIgfSwKICAgIHsgREJfVEFCTEU6ICJvcmRlcl9pdGVtIiwgSElWRV9UQUJMRTogInJhd192aWRlb19tb250aGx5Lm9yZGVyX2l0ZW0iLCBPUFRTOiAiLS1udW0tbWFwcGVycyAzIC0tc3BsaXQtYnkgc3RhbXAiLCBXSEVSRTogIkNBU1Qoc3RhbXAgQVMgREFURSkgPSAnJHtEVH0nIiB9LAogICAgeyBEQl9UQUJMRTogIm9yZGVyX2l0ZW1fY2hlY2tfbG9nIiwgSElWRV9UQUJMRTogInJhd192aWRlb19tb250aGx5Lm9yZGVyX2l0ZW1fY2hlY2tfbG9nIiwgT1BUUzogIi0tbnVtLW1hcHBlcnMgMyAtLXNwbGl0LWJ5IHN0YW1wIiwgV0hFUkU6ICJDQVNUKHN0YW1wIEFTIERBVEUpID0gJyR7RFR9JyIgfSwKICAgIHsgREJfVEFCTEU6ICJvcmRlcl9kZXZpY2UiLCBISVZFX1RBQkxFOiAicmF3X3ZpZGVvX21vbnRobHkub3JkZXJfZGV2aWNlIiwgT1BUUzogIi0tbnVtLW1hcHBlcnMgMyAtLXNwbGl0LWJ5IHN0YW1wIiwgV0hFUkU6ICJDQVNUKHN0YW1wIEFTIERBVEUpID0gJyR7RFR9JyIgfSwK</text>
+        <text encoding="base64">aW5zZXJ0IG92ZXJ3cml0ZSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7VFlQRTogImhpdmUiLCBISVZFX0ZJTEU6ICJsaWIvaGl2ZS9kbWwvdmlkZW8vbW9udGhseS90cmFuc2Zvcm1fd2l0aGRyYXdhbF9pbmZvLnEifSwK</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIGBiYXNrZXRgICgKYGJhc2tldF9pZGAgaW50KDEwKSB1bnNpZ25lZCBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBDT01NRU5UICfjg5DjgrnjgrHjg4Pjg4hJRCcsCmBtZW1iZXJfaWRgIGNoYXIoMTIpIE5PVCBOVUxMIENPTU1FTlQgJ+S8muWToUlEJywKYG1lbWJlcl9pZF9jYXRlZ29yeWAgZW51bSgnbWVtYmVyJywnZ3Vlc3QnKSBOT1QgTlVMTCBDT01NRU5UICfkvJrlk6FJROeoruWIpScsCmBzdGF0dXNgIGVudW0oJ2FjdGl2ZScsJ2xvY2snKSBOT1QgTlVMTCBDT01NRU5UICfjg5DjgrnjgrHjg4Pjg4jjgrnjg4bjg7zjgr/jgrknLApgYmFza2V0X3NlcnZpY2VfdHlwZWAgdmFyY2hhcigxNikgTk9UIE5VTEwgQ09NTUVOVCAn6LO85YWl5YWD44K144O844OT44K556iu5YilJywKYHNlcnZpY2VfaWRgIGludCgxMCkgdW5zaWduZWQgTk9UIE5VTEwgQ09NTUVOVCAn44K144O844OT44K5SUQnLApgcGFzc3BvcnRfaWRgIHZhcmNoYXIoMTYpIERFRkFVTFQgTlVMTCBDT01NRU5UICfjg5Hjgrnjg53jg7zjg4hJRCcsCmBzdGFtcGAgdGltZXN0YW1wIE5PVCBOVUxMIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAgT04gVVBEQVRFIENVUlJFTlRfVElNRVNUQU1QIENPTU1FTlQgJ+OCueOCv+ODs+ODlycsClBSSU1BUlkgS0VZIChgYmFza2V0X2lkYCksCktFWSBgbWVtYmVyX2lkYCAoYG1lbWJlcl9pZGApLApLRVkgYG1lbWJlcl9pZF9jYXRlZ29yeWAgKGBtZW1iZXJfaWRfY2F0ZWdvcnlgKSwKS0VZIGBwYXNzcG9ydF9pZGAgKGBwYXNzcG9ydF9pZGApCikgRU5HSU5FPUlubm9EQiBBVVRPX0lOQ1JFTUVOVD0zMTkwOCBERUZBVUxUIENIQVJTRVQ9dWppcwoKQ1JFQVRFIFRBQkxFIGBiYXNrZXRfcHJvZHVjdF9pbmZvYCAoCmBwcm9kdWN0X2luZm9faWRgIGludCgxMCkgdW5zaWduZWQgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQgQ09NTUVOVCAn5ZWG5ZOB5oOF5aCxSUQnLApgYmFza2V0X2lkYCBpbnQoMTApIHVuc2lnbmVkIE5PVCBOVUxMIENPTU1FTlQgJ+ODkOOCueOCseODg+ODiElEJywKYHByb2R1Y3RfaWRgIHZhcmNoYXIoNTApIE5PVCBOVUxMIENPTU1FTlQgJ+WVhuWTgUlEJywKYHNob3BfbmFtZWAgdmFyY2hhcigxNikgTk9UIE5VTEwgQ09NTUVOVCAn44K344On44OD44OX5ZCNJywKYGJhc2tldF9pbl9wcmljZWAgaW50KDEwKSB1bnNpZ25lZCBOT1QgTlVMTCBDT01NRU5UICfjg5DjgrnjgrHjg4Pjg4jnmbvpjLLmmYLkvqHmoLzvvIjnqI7mipzjgY3vvIknLApgYXR0cmlidXRlYCB2YXJjaGFyKDE2KSBOT1QgTlVMTCBDT01NRU5UICfllYblk4HliIbpoZ4nLApgc3RhbXBgIHRpbWVzdGFtcCBOT1QgTlVMTCBERUZBVUxUIENVUlJFTlRfVElNRVNUQU1QIE9OIFVQREFURSBDVVJSRU5UX1RJTUVTVEFNUCBDT01NRU5UICfjgrnjgr/jg7Pjg5cnLApQUklNQVJZIEtFWSAoYHByb2R1Y3RfaW5mb19pZGApLApLRVkgYGJhc2tldF9pZGAgKGBiYXNrZXRfaWRgKSwKS0VZIGBzaG9wX25hbWVgIChgc2hvcF9uYW1lYCksCktFWSBgcHJvZHVjdF9pZGAgKGBwcm9kdWN0X2lkYCkKKSBFTkdJTkU9SW5ub0RCIEFVVE9fSU5DUkVNRU5UPTc3ODQzIERFRkFVTFQgQ0hBUlNFVD11amlzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7VFlQRTogImhpdmUiLCBISVZFX0ZJTEU6ICJsaWIvaGl2ZS9kbWwvdmlkZW8vbW9udGhseS90cmFuc2Zvcm1fdHJpYWxfYWRtaXNzaW9uLnEifSwKICAgICAgICB7VFlQRTogImhpdmUiLCBISVZFX0ZJTEU6ICJsaWIvaGl2ZS9kbWwvdmlkZW8vbW9udGhseS90cmFuc2Zvcm1fb3JkZXJfaXRlbS5xIn0sCiAgICAgICAge1RZUEU6ICJoaXZlIiwgSElWRV9GSUxFOiAibGliL2hpdmUvZG1sL3ZpZGVvL21vbnRobHkvdHJhbnNmb3JtX29yZGVyX2l0ZW1fY2hlY2tfbG9nLnEifSwKICAgICAgICB7VFlQRTogImhpdmUiLCBISVZFX0ZJTEU6ICJsaWIvaGl2ZS9kbWwvdmlkZW8vbW9udGhseS90cmFuc2Zvcm1fb3JkZXJfZGV2aWNlLnEifSwK</text>
+        <text encoding="base64">ICAgIHsgREJfVEFCTEU6ICJ3aXRoZHJhd2FsX2luZm8iLCBISVZFX1RBQkxFOiAicmF3X3ZpZGVvX21vbnRobHkud2l0aGRyYXdhbF9pbmZvIiwgT1BUUzogIi0tbnVtLW1hcHBlcnMgMyAtLXNwbGl0LWJ5IHN0YW1wIiwgV0hFUkU6ICJDQVNUKHN0YW1wIEFTIERBVEUpID0gJyR7RFR9JyIgfSwKICAgIHsgREJfVEFCTEU6ICJ0cmlhbF9hZG1pc3Npb24iLCBISVZFX1RBQkxFOiAicmF3X3ZpZGVvX21vbnRobHkudHJpYWxfYWRtaXNzaW9uIiwgT1BUUzogIi0tbnVtLW1hcHBlcnMgMyAtLXNwbGl0LWJ5IHN0YW1wIiwgV0hFUkU6ICJDQVNUKHN0YW1wIEFTIERBVEUpID0gJyR7RFR9JyIgfSwKICAgIHsgREJfVEFCTEU6ICJvcmRlcl9pdGVtIiwgSElWRV9UQUJMRTogInJhd192aWRlb19tb250aGx5Lm9yZGVyX2l0ZW0iLCBPUFRTOiAiLS1udW0tbWFwcGVycyAzIC0tc3BsaXQtYnkgc3RhbXAiLCBXSEVSRTogIkNBU1Qoc3RhbXAgQVMgREFURSkgPSAnJHtEVH0nIiB9LAogICAgeyBEQl9UQUJMRTogIm9yZGVyX2l0ZW1fY2hlY2tfbG9nIiwgSElWRV9UQUJMRTogInJhd192aWRlb19tb250aGx5Lm9yZGVyX2l0ZW1fY2hlY2tfbG9nIiwgT1BUUzogIi0tbnVtLW1hcHBlcnMgMyAtLXNwbGl0LWJ5IHN0YW1wIiwgV0hFUkU6ICJDQVNUKHN0YW1wIEFTIERBVEUpID0gJyR7RFR9JyIgfSwKICAgIHsgREJfVEFCTEU6ICJvcmRlcl9kZXZpY2UiLCBISVZFX1RBQkxFOiAicmF3X3ZpZGVvX21vbnRobHkub3JkZXJfZGV2aWNlIiwgT1BUUzogIi0tbnVtLW1hcHBlcnMgMyAtLXNwbGl0LWJ5IHN0YW1wIiwgV0hFUkU6ICJDQVNUKHN0YW1wIEFTIERBVEUpID0gJyR7RFR9JyIgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dcPg==</last-search>
+      <last-search>cata</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dcPg==</last-pattern>
+      <last-pattern>cata</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>test</entry>
-        <entry encoding="base64">XDxtYW5hZ2VyXD4=</entry>
-        <entry>sta</entry>
-        <entry>com</entry>
         <entry>up</entry>
         <entry>interval</entry>
         <entry>dt</entry>
@@ -569,9 +578,13 @@
         <entry>dis</entry>
         <entry>cluster</entry>
         <entry>node</entry>
-        <entry>cata</entry>
         <entry>plugin</entry>
         <entry encoding="base64">XDxsb2dcPg==</entry>
+        <entry>catalog</entry>
+        <entry encoding="base64">XDxraW5lc2lzXD4=</entry>
+        <entry encoding="base64">XDxraW5lc2lzX2RlZmF1bHRfc2NoZW1hXD4=</entry>
+        <entry>kinesis</entry>
+        <entry>cata</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
