@@ -85,12 +85,12 @@
         <mark key="^" line="10" column="6" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" timestamp="1499079153237">
-        <mark key="'" line="130" column="16" />
-        <mark key="[" line="67" column="37" />
-        <mark key="]" line="68" column="31" />
-        <mark key="^" line="68" column="31" />
-        <mark key="." line="68" column="31" />
+      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" timestamp="1499080095156">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="140" column="35" />
+        <mark key="]" line="140" column="41" />
+        <mark key="^" line="140" column="41" />
+        <mark key="." line="140" column="41" />
       </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/test/resources/TestEmrClientService-context.xml" timestamp="1488426658361">
         <mark key="[" line="12" column="0" />
@@ -405,7 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="64" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local_test.sh" />
       <jump line="17" column="31" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
       <jump line="20" column="80" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
       <jump line="22" column="19" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
@@ -473,8 +472,6 @@
       <jump line="91" column="23" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="105" column="12" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="107" column="28" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
-      <jump line="113" column="13" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
-      <jump line="115" column="12" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="88" column="8" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="111" column="8" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="119" column="8" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
@@ -505,16 +502,19 @@
       <jump line="3" column="16" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="1" column="30" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="130" column="16" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
+      <jump line="16" column="7" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
+      <jump line="113" column="0" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
+      <jump line="115" column="0" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>audit-log</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>audit-log</text>
       </register>
       <register name="/" type="4">
-        <text>yml</text>
+        <text>audit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LSBuYW1lOiBjb3B5IHByZXN0by1hdWRpdCBwbHVnaW4KICBjb3B5OgogICAgc3JjPW9wdC9wcmVzdG8vcGx1Z2luL3ByZXN0by1hdWRpdC1sb2cvCiAgICBkZXN0PS9vcHQvcHJlc3RvL3BsdWdpbi9wcmVzdG8tYXVkaXQtbG9nCiAgICBncm91cD17eyB1c2VyIH19CiAgICBvd25lcj17eyB1c2VyIH19CiAgd2hlbjogaW52ZW50b3J5X2hvc3RuYW1lIGluIGNvb3JkaW5hdG9ycwo=</text>
@@ -551,15 +551,14 @@
       </register>
     </registers>
     <search>
-      <last-search>yml</last-search>
+      <last-search>audit</last-search>
       <last-offset />
-      <last-pattern>yml</last-pattern>
+      <last-pattern>audit</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>interval</entry>
         <entry>dt</entry>
         <entry>null</entry>
         <entry>date</entry>
@@ -579,6 +578,7 @@
         <entry>kinesis</entry>
         <entry>cata</entry>
         <entry>yml</entry>
+        <entry>audit</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
