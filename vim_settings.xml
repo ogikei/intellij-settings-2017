@@ -226,11 +226,12 @@
       <file name="/usr/local/Cellar/go/1.8.3/libexec/src/cmd/go/context.go" timestamp="1498724061325">
         <mark key="'" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/presto/templates/etc/catalog/kinesis.properties.j2" timestamp="1499130036933">
+      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/presto/templates/etc/catalog/kinesis.properties.j2" timestamp="1499131507379">
         <mark key="'" line="1" column="26" />
-        <mark key="[" line="6" column="63" />
-        <mark key="]" line="6" column="63" />
-        <mark key="." line="6" column="63" />
+        <mark key="[" line="6" column="59" />
+        <mark key="]" line="6" column="60" />
+        <mark key="." line="6" column="60" />
+        <mark key="^" line="6" column="46" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/README.md" timestamp="1488948713711">
         <mark key="[" line="71" column="20" />
@@ -345,6 +346,13 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/presto/vars/stress.yml" timestamp="1499131848490">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="19" column="87" />
+        <mark key="]" line="19" column="87" />
+        <mark key="^" line="19" column="87" />
+        <mark key="." line="19" column="87" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/yzw/DDL/oracle/ORACLE_EXAMPLE_INPUT_TABLE.ddl" timestamp="1488878222939">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -384,6 +392,12 @@
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw_unique.sql" timestamp="1498724667380">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/ansible/group_vars/batch_presto_stress" timestamp="1499131301746">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="5" />
+        <mark key="." line="7" column="5" />
+        <mark key="^" line="7" column="5" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/test/main.go" timestamp="1497584348177">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="30" />
@@ -401,7 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="19" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
       <jump line="10" column="24" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
       <jump line="12" column="80" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
       <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
@@ -501,16 +514,17 @@
       <jump line="115" column="0" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="136" column="19" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="87" column="13" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
+      <jump line="19" column="0" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/vars/stress.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IChpZiByZWFkaW5nIHRhYmxlIGRlZmluaXRpb25zIGZyb20gUzMp</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IChpZiByZWFkaW5nIHRhYmxlIGRlZmluaXRpb25zIGZyb20gUzMp</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>json</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LSBuYW1lOiBjb3B5IHByZXN0by1hdWRpdCBwbHVnaW4KICBjb3B5OgogICAgc3JjPW9wdC9wcmVzdG8vcGx1Z2luL3ByZXN0by1hdWRpdC1sb2cvCiAgICBkZXN0PS9vcHQvcHJlc3RvL3BsdWdpbi9wcmVzdG8tYXVkaXQtbG9nCiAgICBncm91cD17eyB1c2VyIH19CiAgICBvd25lcj17eyB1c2VyIH19CiAgd2hlbjogaW52ZW50b3J5X2hvc3RuYW1lIGluIGNvb3JkaW5hdG9ycwo=</text>
@@ -547,16 +561,14 @@
       </register>
     </registers>
     <search>
-      <last-search>json</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>json</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>null</entry>
-        <entry>date</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>task</entry>
         <entry>presto</entry>
@@ -575,6 +587,8 @@
         <entry>yml</entry>
         <entry>audit</entry>
         <entry>json</entry>
+        <entry>tst</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
