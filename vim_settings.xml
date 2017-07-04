@@ -226,12 +226,11 @@
       <file name="/usr/local/Cellar/go/1.8.3/libexec/src/cmd/go/context.go" timestamp="1498724061325">
         <mark key="'" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/presto/templates/etc/catalog/kinesis.properties.j2" timestamp="1499082645286">
+      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/presto/templates/etc/catalog/kinesis.properties.j2" timestamp="1499130036933">
         <mark key="'" line="1" column="26" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="5" />
-        <mark key="." line="7" column="5" />
-        <mark key="^" line="7" column="5" />
+        <mark key="[" line="6" column="63" />
+        <mark key="]" line="6" column="63" />
+        <mark key="." line="6" column="63" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/README.md" timestamp="1488948713711">
         <mark key="[" line="71" column="20" />
@@ -261,7 +260,6 @@
         <mark key="^" line="16" column="2" />
         <mark key="." line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto_cli.yml" timestamp="1499072724318" />
       <file name="$USER_HOME$/OfficeTools/stork-migration/.gitignore" timestamp="1497234999834">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="2" column="22" />
@@ -298,7 +296,6 @@
         <mark key="." line="41" column="36" />
         <mark key="^" line="41" column="36" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-collector/lib/hive/dml/video/monthly/transform_order_device.q" timestamp="1499052960862" />
       <file name="$USER_HOME$/OfficeTools/stork-migration/src/main/resources/db/migration/V1.7__add_new_storage.sql" timestamp="1497234866283">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="46" />
@@ -378,7 +375,6 @@
         <mark key="." line="19" column="46" />
         <mark key="^" line="19" column="46" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-collector/env/production/collecting/video/monthly/import.json5" timestamp="1499052252559" />
       <file name="$USER_HOME$/Downloads/reductions 2/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1488793065580">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="139" column="0" />
@@ -507,11 +503,11 @@
       <jump line="87" column="13" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dG9vCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IChpZiByZWFkaW5nIHRhYmxlIGRlZmluaXRpb25zIGZyb20gUzMp</text>
       </register>
       <register name="-" type="4">
-        <text>audit-log</text>
+        <text encoding="base64">IChpZiByZWFkaW5nIHRhYmxlIGRlZmluaXRpb25zIGZyb20gUzMp</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
@@ -520,16 +516,16 @@
         <text encoding="base64">LSBuYW1lOiBjb3B5IHByZXN0by1hdWRpdCBwbHVnaW4KICBjb3B5OgogICAgc3JjPW9wdC9wcmVzdG8vcGx1Z2luL3ByZXN0by1hdWRpdC1sb2cvCiAgICBkZXN0PS9vcHQvcHJlc3RvL3BsdWdpbi9wcmVzdG8tYXVkaXQtbG9nCiAgICBncm91cD17eyB1c2VyIH19CiAgICBvd25lcj17eyB1c2VyIH19CiAgd2hlbjogaW52ZW50b3J5X2hvc3RuYW1lIGluIGNvb3JkaW5hdG9ycwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dG9vCg==</text>
+        <text encoding="base64">IGtpbmVzaXMudGFibGUtZGVzY3JpcHRpb24tZGlyPWV0Yy9raW5lc2lzLyAgKGlmIHJlYWRpbmcgdGFibGUgZGVmaW5pdGlvbnMgbG9jYWxseSkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly90b2RvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">a2luZXNpcy50YWJsZS1kZXNjcmlwdGlvbnMtczM9czM6Ly95b3VyLmJ1Y2tldC95b3VyL2ZvbGRlci9wYXRoIChpZiByZWFkaW5nIHRhYmxlIGRlZmluaXRpb25zIGZyb20gUzMpCg==</text>
+        <text encoding="base64">dG9vCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -538,13 +534,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIGBiYXNrZXRgICgKYGJhc2tldF9pZGAgaW50KDEwKSB1bnNpZ25lZCBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBDT01NRU5UICfjg5DjgrnjgrHjg4Pjg4hJRCcsCmBtZW1iZXJfaWRgIGNoYXIoMTIpIE5PVCBOVUxMIENPTU1FTlQgJ+S8muWToUlEJywKYG1lbWJlcl9pZF9jYXRlZ29yeWAgZW51bSgnbWVtYmVyJywnZ3Vlc3QnKSBOT1QgTlVMTCBDT01NRU5UICfkvJrlk6FJROeoruWIpScsCmBzdGF0dXNgIGVudW0oJ2FjdGl2ZScsJ2xvY2snKSBOT1QgTlVMTCBDT01NRU5UICfjg5DjgrnjgrHjg4Pjg4jjgrnjg4bjg7zjgr/jgrknLApgYmFza2V0X3NlcnZpY2VfdHlwZWAgdmFyY2hhcigxNikgTk9UIE5VTEwgQ09NTUVOVCAn6LO85YWl5YWD44K144O844OT44K556iu5YilJywKYHNlcnZpY2VfaWRgIGludCgxMCkgdW5zaWduZWQgTk9UIE5VTEwgQ09NTUVOVCAn44K144O844OT44K5SUQnLApgcGFzc3BvcnRfaWRgIHZhcmNoYXIoMTYpIERFRkFVTFQgTlVMTCBDT01NRU5UICfjg5Hjgrnjg53jg7zjg4hJRCcsCmBzdGFtcGAgdGltZXN0YW1wIE5PVCBOVUxMIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAgT04gVVBEQVRFIENVUlJFTlRfVElNRVNUQU1QIENPTU1FTlQgJ+OCueOCv+ODs+ODlycsClBSSU1BUlkgS0VZIChgYmFza2V0X2lkYCksCktFWSBgbWVtYmVyX2lkYCAoYG1lbWJlcl9pZGApLApLRVkgYG1lbWJlcl9pZF9jYXRlZ29yeWAgKGBtZW1iZXJfaWRfY2F0ZWdvcnlgKSwKS0VZIGBwYXNzcG9ydF9pZGAgKGBwYXNzcG9ydF9pZGApCikgRU5HSU5FPUlubm9EQiBBVVRPX0lOQ1JFTUVOVD0zMTkwOCBERUZBVUxUIENIQVJTRVQ9dWppcwoKQ1JFQVRFIFRBQkxFIGBiYXNrZXRfcHJvZHVjdF9pbmZvYCAoCmBwcm9kdWN0X2luZm9faWRgIGludCgxMCkgdW5zaWduZWQgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQgQ09NTUVOVCAn5ZWG5ZOB5oOF5aCxSUQnLApgYmFza2V0X2lkYCBpbnQoMTApIHVuc2lnbmVkIE5PVCBOVUxMIENPTU1FTlQgJ+ODkOOCueOCseODg+ODiElEJywKYHByb2R1Y3RfaWRgIHZhcmNoYXIoNTApIE5PVCBOVUxMIENPTU1FTlQgJ+WVhuWTgUlEJywKYHNob3BfbmFtZWAgdmFyY2hhcigxNikgTk9UIE5VTEwgQ09NTUVOVCAn44K344On44OD44OX5ZCNJywKYGJhc2tldF9pbl9wcmljZWAgaW50KDEwKSB1bnNpZ25lZCBOT1QgTlVMTCBDT01NRU5UICfjg5DjgrnjgrHjg4Pjg4jnmbvpjLLmmYLkvqHmoLzvvIjnqI7mipzjgY3vvIknLApgYXR0cmlidXRlYCB2YXJjaGFyKDE2KSBOT1QgTlVMTCBDT01NRU5UICfllYblk4HliIbpoZ4nLApgc3RhbXBgIHRpbWVzdGFtcCBOT1QgTlVMTCBERUZBVUxUIENVUlJFTlRfVElNRVNUQU1QIE9OIFVQREFURSBDVVJSRU5UX1RJTUVTVEFNUCBDT01NRU5UICfjgrnjgr/jg7Pjg5cnLApQUklNQVJZIEtFWSAoYHByb2R1Y3RfaW5mb19pZGApLApLRVkgYGJhc2tldF9pZGAgKGBiYXNrZXRfaWRgKSwKS0VZIGBzaG9wX25hbWVgIChgc2hvcF9uYW1lYCksCktFWSBgcHJvZHVjdF9pZGAgKGBwcm9kdWN0X2lkYCkKKSBFTkdJTkU9SW5ub0RCIEFVVE9fSU5DUkVNRU5UPTc3ODQzIERFRkFVTFQgQ0hBUlNFVD11amlzCg==</text>
+        <text encoding="base64">a2luZXNpcy50YWJsZS1kZXNjcmlwdGlvbnMtczM9czM6Ly95b3VyLmJ1Y2tldC95b3VyL2ZvbGRlci9wYXRoIChpZiByZWFkaW5nIHRhYmxlIGRlZmluaXRpb25zIGZyb20gUzMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW5zZXJ0IG92ZXJ3cml0ZSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIGBiYXNrZXRgICgKYGJhc2tldF9pZGAgaW50KDEwKSB1bnNpZ25lZCBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBDT01NRU5UICfjg5DjgrnjgrHjg4Pjg4hJRCcsCmBtZW1iZXJfaWRgIGNoYXIoMTIpIE5PVCBOVUxMIENPTU1FTlQgJ+S8muWToUlEJywKYG1lbWJlcl9pZF9jYXRlZ29yeWAgZW51bSgnbWVtYmVyJywnZ3Vlc3QnKSBOT1QgTlVMTCBDT01NRU5UICfkvJrlk6FJROeoruWIpScsCmBzdGF0dXNgIGVudW0oJ2FjdGl2ZScsJ2xvY2snKSBOT1QgTlVMTCBDT01NRU5UICfjg5DjgrnjgrHjg4Pjg4jjgrnjg4bjg7zjgr/jgrknLApgYmFza2V0X3NlcnZpY2VfdHlwZWAgdmFyY2hhcigxNikgTk9UIE5VTEwgQ09NTUVOVCAn6LO85YWl5YWD44K144O844OT44K556iu5YilJywKYHNlcnZpY2VfaWRgIGludCgxMCkgdW5zaWduZWQgTk9UIE5VTEwgQ09NTUVOVCAn44K144O844OT44K5SUQnLApgcGFzc3BvcnRfaWRgIHZhcmNoYXIoMTYpIERFRkFVTFQgTlVMTCBDT01NRU5UICfjg5Hjgrnjg53jg7zjg4hJRCcsCmBzdGFtcGAgdGltZXN0YW1wIE5PVCBOVUxMIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAgT04gVVBEQVRFIENVUlJFTlRfVElNRVNUQU1QIENPTU1FTlQgJ+OCueOCv+ODs+ODlycsClBSSU1BUlkgS0VZIChgYmFza2V0X2lkYCksCktFWSBgbWVtYmVyX2lkYCAoYG1lbWJlcl9pZGApLApLRVkgYG1lbWJlcl9pZF9jYXRlZ29yeWAgKGBtZW1iZXJfaWRfY2F0ZWdvcnlgKSwKS0VZIGBwYXNzcG9ydF9pZGAgKGBwYXNzcG9ydF9pZGApCikgRU5HSU5FPUlubm9EQiBBVVRPX0lOQ1JFTUVOVD0zMTkwOCBERUZBVUxUIENIQVJTRVQ9dWppcwoKQ1JFQVRFIFRBQkxFIGBiYXNrZXRfcHJvZHVjdF9pbmZvYCAoCmBwcm9kdWN0X2luZm9faWRgIGludCgxMCkgdW5zaWduZWQgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQgQ09NTUVOVCAn5ZWG5ZOB5oOF5aCxSUQnLApgYmFza2V0X2lkYCBpbnQoMTApIHVuc2lnbmVkIE5PVCBOVUxMIENPTU1FTlQgJ+ODkOOCueOCseODg+ODiElEJywKYHByb2R1Y3RfaWRgIHZhcmNoYXIoNTApIE5PVCBOVUxMIENPTU1FTlQgJ+WVhuWTgUlEJywKYHNob3BfbmFtZWAgdmFyY2hhcigxNikgTk9UIE5VTEwgQ09NTUVOVCAn44K344On44OD44OX5ZCNJywKYGJhc2tldF9pbl9wcmljZWAgaW50KDEwKSB1bnNpZ25lZCBOT1QgTlVMTCBDT01NRU5UICfjg5DjgrnjgrHjg4Pjg4jnmbvpjLLmmYLkvqHmoLzvvIjnqI7mipzjgY3vvIknLApgYXR0cmlidXRlYCB2YXJjaGFyKDE2KSBOT1QgTlVMTCBDT01NRU5UICfllYblk4HliIbpoZ4nLApgc3RhbXBgIHRpbWVzdGFtcCBOT1QgTlVMTCBERUZBVUxUIENVUlJFTlRfVElNRVNUQU1QIE9OIFVQREFURSBDVVJSRU5UX1RJTUVTVEFNUCBDT01NRU5UICfjgrnjgr/jg7Pjg5cnLApQUklNQVJZIEtFWSAoYHByb2R1Y3RfaW5mb19pZGApLApLRVkgYGJhc2tldF9pZGAgKGBiYXNrZXRfaWRgKSwKS0VZIGBzaG9wX25hbWVgIChgc2hvcF9uYW1lYCksCktFWSBgcHJvZHVjdF9pZGAgKGBwcm9kdWN0X2lkYCkKKSBFTkdJTkU9SW5ub0RCIEFVVE9fSU5DUkVNRU5UPTc3ODQzIERFRkFVTFQgQ0hBUlNFVD11amlzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -555,7 +551,7 @@
       <last-offset />
       <last-pattern>json</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
