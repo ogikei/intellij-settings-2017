@@ -204,6 +204,9 @@
         <mark key="^" line="16" column="5" />
         <mark key="." line="16" column="5" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/presto/pom.xml" timestamp="1499156032410">
+        <mark key="'" line="49" column="16" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/timeusage/test.sc" timestamp="1494179773950">
         <mark key="[" line="14" column="100" />
         <mark key="]" line="14" column="100" />
@@ -226,7 +229,7 @@
       <file name="/usr/local/Cellar/go/1.8.3/libexec/src/cmd/go/context.go" timestamp="1498724061325">
         <mark key="'" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/presto/templates/etc/catalog/kinesis.properties.j2" timestamp="1499146287616">
+      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/presto/templates/etc/catalog/kinesis.properties.j2" timestamp="1499155616251">
         <mark key="'" line="5" column="33" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -414,9 +417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="25" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.yml" />
-      <jump line="12" column="13" filename="$USER_HOME$/OfficeTools/git/stork-batch/.gitignore" />
-      <jump line="16" column="13" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
       <jump line="22" column="11" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
       <jump line="10" column="11" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
       <jump line="26" column="8" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
@@ -514,6 +514,9 @@
       <jump line="6" column="0" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/templates/etc/catalog/kinesis.properties.j2" />
       <jump line="5" column="33" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/templates/etc/catalog/kinesis.properties.j2" />
       <jump line="173" column="37" filename="$USER_HOME$/MyWork/git/presto/presto-main/src/main/java/com/facebook/presto/connector/ConnectorManager.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/MyWork/git/presto/pom.xml" />
+      <jump line="5" column="23" filename="$USER_HOME$/MyWork/git/presto/pom.xml" />
+      <jump line="49" column="16" filename="$USER_HOME$/MyWork/git/presto/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -523,7 +526,7 @@
         <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>no fa</text>
+        <text>lift</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LSBuYW1lOiBjb3B5IHByZXN0by1hdWRpdCBwbHVnaW4KICBjb3B5OgogICAgc3JjPW9wdC9wcmVzdG8vcGx1Z2luL3ByZXN0by1hdWRpdC1sb2cvCiAgICBkZXN0PS9vcHQvcHJlc3RvL3BsdWdpbi9wcmVzdG8tYXVkaXQtbG9nCiAgICBncm91cD17eyB1c2VyIH19CiAgICBvd25lcj17eyB1c2VyIH19CiAgd2hlbjogaW52ZW50b3J5X2hvc3RuYW1lIGluIGNvb3JkaW5hdG9ycwo=</text>
@@ -560,15 +563,14 @@
       </register>
     </registers>
     <search>
-      <last-search>no fa</last-search>
+      <last-search>lift</last-search>
       <last-offset />
-      <last-pattern>no fa</last-pattern>
+      <last-pattern>lift</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb29yZGluYXRvcnNcPg==</entry>
         <entry encoding="base64">XDxpbnZlbnRvcnlfaG9zdG5hbWVcPg==</entry>
         <entry>dis</entry>
         <entry>cluster</entry>
@@ -588,6 +590,7 @@
         <entry>kinesis</entry>
         <entry>kinesis_table_descriptions_s3</entry>
         <entry>no fa</entry>
+        <entry>lift</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
