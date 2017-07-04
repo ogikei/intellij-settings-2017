@@ -249,6 +249,9 @@
         <mark key="'" line="13" column="189" />
         <mark key="[" line="15" column="1" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/presto/presto-main/src/main/java/com/facebook/presto/connector/ConnectorManager.java" timestamp="1499153975892">
+        <mark key="'" line="173" column="37" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/wikipedia/WikipediaSuite.scala" timestamp="1490344783351">
         <mark key="'" line="90" column="2" />
       </file>
@@ -411,7 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="28" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" />
       <jump line="42" column="25" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.yml" />
       <jump line="12" column="13" filename="$USER_HOME$/OfficeTools/git/stork-batch/.gitignore" />
       <jump line="16" column="13" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
@@ -511,6 +513,7 @@
       <jump line="18" column="0" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/vars/stress.yml" />
       <jump line="6" column="0" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/templates/etc/catalog/kinesis.properties.j2" />
       <jump line="5" column="33" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/templates/etc/catalog/kinesis.properties.j2" />
+      <jump line="173" column="37" filename="$USER_HOME$/MyWork/git/presto/presto-main/src/main/java/com/facebook/presto/connector/ConnectorManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -520,7 +523,7 @@
         <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>kinesis_table_descriptions_s3</text>
+        <text>no fa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LSBuYW1lOiBjb3B5IHByZXN0by1hdWRpdCBwbHVnaW4KICBjb3B5OgogICAgc3JjPW9wdC9wcmVzdG8vcGx1Z2luL3ByZXN0by1hdWRpdC1sb2cvCiAgICBkZXN0PS9vcHQvcHJlc3RvL3BsdWdpbi9wcmVzdG8tYXVkaXQtbG9nCiAgICBncm91cD17eyB1c2VyIH19CiAgICBvd25lcj17eyB1c2VyIH19CiAgd2hlbjogaW52ZW50b3J5X2hvc3RuYW1lIGluIGNvb3JkaW5hdG9ycwo=</text>
@@ -557,15 +560,14 @@
       </register>
     </registers>
     <search>
-      <last-search>kinesis_table_descriptions_s3</last-search>
+      <last-search>no fa</last-search>
       <last-offset />
-      <last-pattern>kinesis_table_descriptions_s3</last-pattern>
+      <last-pattern>no fa</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>presto</entry>
         <entry encoding="base64">XDxjb29yZGluYXRvcnNcPg==</entry>
         <entry encoding="base64">XDxpbnZlbnRvcnlfaG9zdG5hbWVcPg==</entry>
         <entry>dis</entry>
@@ -585,6 +587,7 @@
         <entry>copy</entry>
         <entry>kinesis</entry>
         <entry>kinesis_table_descriptions_s3</entry>
+        <entry>no fa</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
