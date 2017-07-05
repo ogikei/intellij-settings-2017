@@ -84,12 +84,12 @@
       <file name="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.yml" timestamp="1498467922972">
         <mark key="'" line="42" column="25" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-collector/lib/hive/dml/video/digitalbasket/transform_basket_product_info.q" timestamp="1499069542810">
+      <file name="$USER_HOME$/OfficeTools/git/i3-collector/lib/hive/dml/video/digitalbasket/transform_basket_product_info.q" timestamp="1499221224560">
         <mark key="'" line="10" column="2" />
-        <mark key="[" line="10" column="3" />
-        <mark key="]" line="10" column="6" />
+        <mark key="[" line="0" column="66" />
+        <mark key="]" line="0" column="66" />
         <mark key="^" line="10" column="6" />
-        <mark key="." line="10" column="6" />
+        <mark key="." line="0" column="66" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" timestamp="1499136478724">
         <mark key="'" line="45" column="19" />
@@ -134,12 +134,12 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-collector/lib/hive/dml/video/digitalbasket/transform_basket.q" timestamp="1499069550370">
+      <file name="$USER_HOME$/OfficeTools/git/i3-collector/lib/hive/dml/video/digitalbasket/transform_basket.q" timestamp="1499221216449">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="11" column="3" />
-        <mark key="]" line="11" column="6" />
+        <mark key="[" line="0" column="53" />
+        <mark key="]" line="0" column="53" />
         <mark key="^" line="11" column="6" />
-        <mark key="." line="11" column="6" />
+        <mark key="." line="0" column="53" />
       </file>
       <file name="$USER_HOME$/go/src/gopkg.in/godo.v2/context.go" timestamp="1498724012263">
         <mark key="'" line="51" column="24" />
@@ -321,12 +321,12 @@
       <file name="$USER_HOME$/OfficeTools/stork-batch/params/bdmail_video-recommendation-for-subscriber.go" timestamp="1497002746821">
         <mark key="'" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-collector/env/production/collecting/video/digitalbasket/import.json5" timestamp="1499064024592">
+      <file name="$USER_HOME$/OfficeTools/git/i3-collector/env/production/collecting/video/digitalbasket/import.json5" timestamp="1499221158214">
         <mark key="'" line="21" column="12" />
-        <mark key="[" line="15" column="105" />
-        <mark key="]" line="15" column="105" />
-        <mark key="^" line="15" column="214" />
-        <mark key="." line="15" column="105" />
+        <mark key="[" line="15" column="121" />
+        <mark key="]" line="15" column="121" />
+        <mark key="^" line="15" column="121" />
+        <mark key="." line="15" column="121" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/sql/bdmarketing_olg-user-segments-by-activity.sql" timestamp="1498717810654">
         <mark key="[" line="11" column="95" />
@@ -394,6 +394,7 @@
         <mark key="." line="19" column="46" />
         <mark key="^" line="19" column="46" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/i3-collector/env/production/collecting/video/monthly/import.json5" timestamp="1499221030883" />
       <file name="$USER_HOME$/Downloads/reductions 2/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1488793065580">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="139" column="0" />
@@ -528,11 +529,11 @@
       <jump line="46" column="72" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.pom" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IFBBUlRJVElPTihkdD0nJHtlbnY6RFR9Jyk=</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text encoding="base64">IFBBUlRJVElPTihkdD0nJHtlbnY6RFR9Jyk=</text>
       </register>
       <register name="/" type="4">
         <text>common</text>
@@ -576,7 +577,7 @@
       <last-offset />
       <last-pattern>common</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
