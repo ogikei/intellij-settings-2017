@@ -74,13 +74,6 @@
         <mark key="^" line="10" column="6" />
         <mark key="." line="0" column="66" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" timestamp="1499136478724">
-        <mark key="'" line="45" column="19" />
-        <mark key="[" line="140" column="35" />
-        <mark key="]" line="140" column="41" />
-        <mark key="^" line="140" column="41" />
-        <mark key="." line="140" column="41" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/test/resources/TestEmrClientService-context.xml" timestamp="1488426658361">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -103,6 +96,11 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/i3-collector/job/extract_production/r18com-monthly" timestamp="1499231801367">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="21" column="114" />
+      </file>
       <file name="/Users/keisukeogiwara/.m2/repository/varlog/varlog-core/v3.2.4/varlog-core-v3.2.4.jar!/varlog/core/runner/Main.class" timestamp="1488869593168">
         <mark key="'" line="74" column="210" />
       </file>
@@ -111,6 +109,12 @@
         <mark key="]" line="1" column="15" />
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/i3-collector/job/extract_production/video-digitalbasket" timestamp="1499232124689">
+        <mark key="[" line="21" column="84" />
+        <mark key="]" line="21" column="96" />
+        <mark key="^" line="21" column="96" />
+        <mark key="." line="21" column="96" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" timestamp="1498466049681">
         <mark key="'" line="19" column="28" />
@@ -156,13 +160,6 @@
         <mark key="]" line="14" column="100" />
         <mark key="." line="14" column="100" />
         <mark key="^" line="14" column="100" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/presto/templates/etc/catalog/kinesis.properties.j2" timestamp="1499155616251">
-        <mark key="'" line="5" column="33" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="46" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/README.md" timestamp="1488948713711">
         <mark key="[" line="71" column="20" />
@@ -366,13 +363,6 @@
         <mark key="." line="282" column="0" />
         <mark key="^" line="242" column="7" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-collector/lib/python/check_import_db.py" timestamp="1499064723480">
-        <mark key="'" line="33" column="1" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="4" column="28" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="/usr/local/Cellar/go/1.8.3/libexec/src/cmd/go/context.go" timestamp="1498724061325">
         <mark key="'" line="6" column="0" />
       </file>
@@ -409,7 +399,7 @@
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/controllers/ClusterController.java" timestamp="1489545683059">
         <mark key="'" line="51" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499226824239">
+      <file name="/Dummy.txt" timestamp="1499232680506">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-api/router/router.go" timestamp="1498455171810">
@@ -474,7 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="12" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="19" column="0" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="120" column="0" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="76" column="6" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
@@ -574,19 +563,20 @@
       <jump line="9" column="0" filename="$USER_HOME$/OfficeTools/git/i3-dwh/ddl/video_digitalbasket/content_info.q" />
       <jump line="15" column="0" filename="$USER_HOME$/OfficeTools/git/i3-dwh/ddl/video_digitalbasket/content_info.q" />
       <jump line="6" column="30" filename="$USER_HOME$/OfficeTools/git/i3-mole/.gitignore" />
+      <jump line="4" column="0" filename="$USER_HOME$/OfficeTools/git/i3-collector/job/extract_production/r18com-monthly" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>monthly</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>monthly</text>
       </register>
       <register name="/" type="4">
         <text>common</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICArbW9udGhseWJvb2ttYXJrOgogICAgY2FsbD46ICR7d29ya2Zsb3dfbmFtZX0vZXh0cmFjdF9tb250aGx5Ym9va21hcmsKICAgIF9jaGVjazoKICAgICAgc2xhY2s+OiB0ZW1wbGF0ZXMvc3VjY2Vzcy55bWwK</text>
+        <text encoding="base64">PDwgQ09NTUVOVAo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQo8ZGwgc3R5bGU9J2ZvbnQtc2l6ZTpsYXJnZSc+CiAgPGR0PkRlc2NyaXB0aW9uPC9kdD4KICA8ZGQ+CiAgICDmtbflpJZtb250aGx544OH44O844K/44OZ44O844K5IGV4dHJhY3QvYWN0aXZhdGUgSk9CPGJyIC8+CiAgICDlkITnqK7jg4bjg7zjg5bjg6vlrprnvqnjga/jgIE8YSBocmVmPSJodHRwczovL2NvbmZsLmFybXMuZG1tLmNvbS9kaXNwbGF5L2JpZ2RhdGEvcjE4Y29tLW1vbnRobHkiIHRhcmdldD0iX2JsYW5rIj7jgZPjgaHjgok8L2E+CiAgPC9kZD4KICA8ZHQ+QnVpbGQgcGVyaW9kaWNhbGx5PC9kdD4KICA8ZGQ+SCAwICogKiAqPC9kZD4KICA8ZHQ+UmVxdWlyZWQgUGFyYW1ldGVyczwvZHQ+CiAgPGRkPkRUIGRlZmF1bHQgbm9uZSh5ZXN0ZXJkYXkpPC9kZD4KICA8ZHQ+TGFiZWw8L2R0PgogIDxkZD5jZGhfY2x1c3Rlcl9hX3NsYXZlXzE8L2RkPgo8L2RsPgo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpDT01NRU5UCgpST09UX0RJUj0vb3B0L2kzL2kzLWNvbGxlY3RvcgpjZCAke1JPT1RfRElSfSAmJiBweXRob24gbGliL3B5dGhvbi9jb2xsZWN0X2RhdGEucHkgZW52L3Byb2R1Y3Rpb24vY29sbGVjdGluZy9yMThjb20vbW9udGhseS9jb2xsZWN0aW5nLmpzb241ICR7RFR9Cg==</text>
       </register>
       <register name="1" type="8">
         <text encoding="base64">ICAKICA=</text>
