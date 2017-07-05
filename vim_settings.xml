@@ -27,14 +27,17 @@
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/params/datorama_load.go" timestamp="1498724205545">
         <mark key="[" line="5" column="10" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.pom" timestamp="1499217923670">
+        <mark key="'" line="46" column="72" />
+      </file>
       <file name="$USER_HOME$/OfficeWork/stork-batch/sql/search_hotwords_normalized.sql" timestamp="1496737847347">
         <mark key="'" line="65" column="15" />
       </file>
       <file name="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" timestamp="1497496284297">
         <mark key="'" line="1317" column="16" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" timestamp="1499162387672">
-        <mark key="'" line="46" column="24" />
+      <file name="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" timestamp="1499217692763">
+        <mark key="'" line="108" column="25" />
       </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/build.sbt" timestamp="1494146929751">
         <mark key="'" line="56" column="67" />
@@ -140,6 +143,9 @@
       </file>
       <file name="$USER_HOME$/go/src/gopkg.in/godo.v2/context.go" timestamp="1498724012263">
         <mark key="'" line="51" column="24" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/presto-kinesis/src/main/java/com/facebook/presto/kinesis/KinesisPlugin.java" timestamp="1499217331048">
+        <mark key="'" line="60" column="23" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" timestamp="1498466049681">
         <mark key="'" line="19" column="28" />
@@ -297,7 +303,7 @@
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" timestamp="1498107465485">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499161410291">
+      <file name="/Dummy.txt" timestamp="1499217768563">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-api/router/router.go" timestamp="1498455171810">
@@ -420,42 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
-      <jump line="8" column="33" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
-      <jump line="7" column="26" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
-      <jump line="256" column="13" filename="$USER_HOME$/MyWork/git/hive/ql/src/java/org/apache/hadoop/hive/ql/parse/SemanticAnalyzer.java" />
-      <jump line="19" column="0" filename="$USER_HOME$/MyWork/git/hive/ql/src/java/org/apache/hadoop/hive/ql/parse/SemanticAnalyzer.java" />
-      <jump line="13615" column="0" filename="$USER_HOME$/MyWork/git/hive/ql/src/java/org/apache/hadoop/hive/ql/parse/SemanticAnalyzer.java" />
-      <jump line="16" column="1" filename="$USER_HOME$/MyWork/git/hive/ql/src/java/org/apache/hadoop/hive/ql/parse/SemanticAnalyzer.java" />
-      <jump line="422" column="16" filename="$USER_HOME$/MyWork/git/hive/ql/src/java/org/apache/hadoop/hive/ql/parse/SemanticAnalyzer.java" />
-      <jump line="448" column="3" filename="$USER_HOME$/MyWork/git/spark/graphx/src/main/scala/org/apache/spark/graphx/GraphOps.scala" />
-      <jump line="15" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
-      <jump line="328" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
-      <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
-      <jump line="355" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
-      <jump line="3" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
-      <jump line="352" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
-      <jump line="17" column="26" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
-      <jump line="351" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
-      <jump line="58" column="0" filename="$USER_HOME$/MyWork/git/spark/streaming/src/main/scala/org/apache/spark/streaming/Interval.scala" />
-      <jump line="33" column="45" filename="$USER_HOME$/MyWork/git/spark/streaming/src/main/scala/org/apache/spark/streaming/api/python/PythonDStream.scala" />
-      <jump line="9" column="22" filename="/Users/keisukeogiwara/.m2/repository/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5.jar!/org/apache/hadoop/fs/FileSystem.class" />
-      <jump line="57" column="0" filename="/Users/keisukeogiwara/.m2/repository/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5.jar!/org/apache/hadoop/fs/FileSystem.class" />
-      <jump line="51" column="24" filename="$USER_HOME$/go/src/gopkg.in/godo.v2/context.go" />
-      <jump line="6" column="0" filename="/usr/local/Cellar/go/1.8.3/libexec/src/cmd/go/context.go" />
-      <jump line="22" column="1" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw_unique.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw_unique.sql" />
-      <jump line="13" column="23" filename="$USER_HOME$/OfficeTools/git/i3-collector/env/production/collecting/video/digitalbasket/import.json5" />
-      <jump line="13" column="189" filename="$USER_HOME$/OfficeTools/git/i3-collector/env/production/collecting/video/play_history_db/import.json5" />
-      <jump line="12" column="0" filename="$USER_HOME$/OfficeTools/git/i3-collector/lib/python/check_import_db.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/OfficeTools/git/i3-collector/lib/python/check_import_db.py" />
-      <jump line="20" column="22" filename="$USER_HOME$/OfficeTools/git/i3-collector/env/production/collecting/video/digitalbasket/import.json5" />
-      <jump line="45" column="3" filename="$USER_HOME$/OfficeTools/git/i3-collector/env/production/collecting/video/digitalbasket/import.json5" />
-      <jump line="18" column="14" filename="$USER_HOME$/OfficeTools/git/i3-collector/lib/python/check_import_db.py" />
-      <jump line="10" column="2" filename="$USER_HOME$/OfficeTools/git/i3-collector/lib/hive/dml/video/digitalbasket/transform_basket_product_info.q" />
-      <jump line="21" column="12" filename="$USER_HOME$/OfficeTools/git/i3-collector/env/production/collecting/video/digitalbasket/import.json5" />
-      <jump line="11" column="0" filename="$USER_HOME$/OfficeTools/git/i3-collector/lib/hive/dml/video/digitalbasket/transform_basket.q" />
       <jump line="33" column="1" filename="$USER_HOME$/OfficeTools/git/i3-collector/lib/python/check_import_db.py" />
       <jump line="91" column="23" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="105" column="12" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
@@ -520,6 +490,42 @@
       <jump line="15" column="67" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
       <jump line="41" column="24" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
       <jump line="46" column="24" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="29" column="0" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/src/main/java/com/facebook/presto/kinesis/KinesisPlugin.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/src/main/java/com/facebook/presto/kinesis/KinesisPlugin.java" />
+      <jump line="60" column="23" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/src/main/java/com/facebook/presto/kinesis/KinesisPlugin.java" />
+      <jump line="19" column="14" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="65" column="24" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="71" column="24" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="63" column="19" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="70" column="19" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="72" column="19" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="115" column="19" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="16" column="76" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="89" column="19" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="83" column="19" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="37" column="19" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="81" column="40" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="247" column="32" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="272" column="29" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="273" column="32" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="160" column="29" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="161" column="32" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="184" column="29" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="185" column="32" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="188" column="29" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="189" column="32" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="219" column="29" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="220" column="32" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="246" column="29" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="141" column="25" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="196" column="33" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="98" column="25" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="103" column="25" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="108" column="25" filename="$USER_HOME$/OfficeTools/git/presto-kinesis/pom.xml" />
+      <jump line="10" column="0" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.pom" />
+      <jump line="98" column="34" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.pom" />
+      <jump line="90" column="42" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.pom" />
+      <jump line="46" column="72" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.pom" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -529,7 +535,7 @@
         <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>airlift</text>
+        <text>common</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LSBuYW1lOiBjb3B5IHByZXN0by1hdWRpdCBwbHVnaW4KICBjb3B5OgogICAgc3JjPW9wdC9wcmVzdG8vcGx1Z2luL3ByZXN0by1hdWRpdC1sb2cvCiAgICBkZXN0PS9vcHQvcHJlc3RvL3BsdWdpbi9wcmVzdG8tYXVkaXQtbG9nCiAgICBncm91cD17eyB1c2VyIH19CiAgICBvd25lcj17eyB1c2VyIH19CiAgd2hlbjogaW52ZW50b3J5X2hvc3RuYW1lIGluIGNvb3JkaW5hdG9ycwo=</text>
@@ -562,24 +568,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>45</text>
       </register>
     </registers>
     <search>
-      <last-search>airlift</last-search>
+      <last-search>common</last-search>
       <last-offset />
-      <last-pattern>airlift</last-pattern>
+      <last-pattern>common</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dis</entry>
-        <entry>cluster</entry>
-        <entry>node</entry>
-        <entry>plugin</entry>
-        <entry encoding="base64">XDxsb2dcPg==</entry>
-        <entry>catalog</entry>
         <entry encoding="base64">XDxraW5lc2lzXD4=</entry>
         <entry encoding="base64">XDxraW5lc2lzX2RlZmF1bHRfc2NoZW1hXD4=</entry>
         <entry>cata</entry>
@@ -594,6 +594,12 @@
         <entry>no fa</entry>
         <entry>lift</entry>
         <entry>airlift</entry>
+        <entry>log</entry>
+        <entry>runtime</entry>
+        <entry>provided</entry>
+        <entry>gommon</entry>
+        <entry>google</entry>
+        <entry>common</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
@@ -614,6 +620,7 @@
         <entry>25</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>45</entry>
       </history-cmd>
       <history-expr />
       <history-input />
