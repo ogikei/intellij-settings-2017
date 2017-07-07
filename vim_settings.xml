@@ -24,12 +24,12 @@
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.pom" timestamp="1499217923670">
         <mark key="'" line="46" column="72" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-dwh/ddl/video_digitalbasket/basket.q" timestamp="1499223636599">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="8" column="15" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-dwh/ddl/video_digitalbasket/basket.q" timestamp="1499388447701">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="0" column="49" />
+        <mark key="." line="0" column="49" />
+        <mark key="^" line="0" column="49" />
       </file>
       <file name="$USER_HOME$/OfficeWork/stork-batch/sql/search_hotwords_normalized.sql" timestamp="1496737847347">
         <mark key="'" line="65" column="15" />
@@ -427,11 +427,12 @@
         <mark key="." line="0" column="48" />
         <mark key="^" line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" timestamp="1499341054506">
+      <file name="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" timestamp="1499390990613">
+        <mark key="'" line="15" column="0" />
         <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="22" />
-        <mark key="^" line="13" column="22" />
-        <mark key="." line="13" column="22" />
+        <mark key="]" line="13" column="25" />
+        <mark key="^" line="13" column="25" />
+        <mark key="." line="13" column="25" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local_test.sh" timestamp="1498453986119">
         <mark key="[" line="15" column="0" />
@@ -513,7 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="15" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/templates/etc/catalog/kinesis.properties.j2" />
       <jump line="1" column="26" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/templates/etc/catalog/kinesis.properties.j2" />
       <jump line="86" column="16" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="48" column="10" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
@@ -612,62 +612,62 @@
       <jump line="14" column="0" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
       <jump line="11" column="19" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
       <jump line="92" column="37" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play-json_2.12/srcs/play-json_2.12-2.6.0-sources.jar!/JsValue.scala" />
-      <jump line="13" column="12" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/i3-dwh/ddl/video_digitalbasket/basket.q" />
+      <jump line="13" column="0" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.asOpt[String]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="-" type="4">
-        <text>.asOpt[String]</text>
+        <text>ja</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxKc29uXD4=</text>
+        <text encoding="base64">XDxDUkVBVEVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAiY29tLnR5cGVzYWZlLnBsYXkiICUlICJwbGF5LWpzb25fMi4xMSIgJSAiMi42LjAiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocmVjb3JkcykK</text>
+        <text encoding="base64">ICAgIHZhbCBib2R5ID0gY29tbWVudCBcXCAiYm9keSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBhID0gSnNvbi5wYXJzZShyZWNvcmRzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlY29yZHMK</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocmVjb3JkcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlY29yZHMuZ2V0T3JFbHNlKCkK</text>
+        <text encoding="base64">ICAgIHZhbCBhID0gSnNvbi5wYXJzZShyZWNvcmRzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJlY29yZHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c25zCg==</text>
+        <text encoding="base64">ICAgIHJlY29yZHMuZ2V0T3JFbHNlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBzbnMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">c25zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxKc29uXD4=</last-search>
+      <last-search encoding="base64">XDxDUkVBVEVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxKc29uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxDUkVBVEVcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
         <entry>tst</entry>
         <entry>test</entry>
         <entry>copy</entry>
@@ -687,6 +687,7 @@
         <entry>jsvalue</entry>
         <entry encoding="base64">XDxKc1ZhbHVlXD4=</entry>
         <entry encoding="base64">XDxKc29uXD4=</entry>
+        <entry encoding="base64">XDxDUkVBVEVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
@@ -707,6 +708,7 @@
         <entry>25</entry>
         <entry>45</entry>
         <entry>W</entry>
+        <entry>24</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
