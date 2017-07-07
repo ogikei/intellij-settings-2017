@@ -427,12 +427,12 @@
         <mark key="." line="0" column="48" />
         <mark key="^" line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" timestamp="1499394071079">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="16" column="10" />
+      <file name="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" timestamp="1499395346694">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="16" column="49" />
+        <mark key="]" line="16" column="58" />
+        <mark key="." line="16" column="58" />
+        <mark key="^" line="16" column="58" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local_test.sh" timestamp="1498453986119">
         <mark key="[" line="15" column="0" />
@@ -616,11 +616,11 @@
       <jump line="13" column="0" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oY29tbWVudCkK</text>
+      <register name="&quot;" type="4">
+        <text>.toString</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>.toString</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDUkVBVEVcPg==</text>
@@ -629,31 +629,31 @@
         <text encoding="base64">ICAiY29tLnR5cGVzYWZlLnBsYXkiICUlICJwbGF5LWpzb25fMi4xMSIgJSAiMi42LjAiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oY29tbWVudCkK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oYSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBjb21tZW50ID0gbWVzc2FnZSBcICJjb21tZW50Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBuYW1lOiBKc0xvb2t1cFJlc3VsdCA9IG1lc3NhZ2UK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oY29tbWVudCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2UgXCAiY29tbWVudCIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBib2R5ID0gIG1lc3NhZ2UK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhbCBuYW1lOiBKc0xvb2t1cFJlc3VsdCA9IG1lc3NhZ2UK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG1lc3NhZ2UgXCAiY29tbWVudCIK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJvZHkuCg==</text>
+        <text encoding="base64">ICAgIHZhbCBib2R5ID0gIG1lc3NhZ2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBib2R5ID0gY29tbWVudCBcXCAiYm9keSIK</text>
+        <text encoding="base64">ICAgIGJvZHkuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
