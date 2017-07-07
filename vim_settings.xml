@@ -428,12 +428,12 @@
         <mark key="." line="0" column="48" />
         <mark key="^" line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" timestamp="1499404395947">
-        <mark key="'" line="27" column="74" />
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="10" column="68" />
-        <mark key="." line="10" column="68" />
-        <mark key="^" line="10" column="68" />
+      <file name="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" timestamp="1499407597838">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+        <mark key="^" line="8" column="32" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local_test.sh" timestamp="1498453986119">
         <mark key="[" line="15" column="0" />
@@ -515,13 +515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="10" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
-      <jump line="34" column="16" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
-      <jump line="3" column="16" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
-      <jump line="1" column="30" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
-      <jump line="130" column="16" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
-      <jump line="16" column="7" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
-      <jump line="113" column="0" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="115" column="0" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="136" column="19" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
       <jump line="87" column="13" filename="$USER_HOME$/OfficeTools/git/ansible/roles/presto/tasks/presto.yml" />
@@ -610,51 +603,58 @@
       <jump line="13" column="0" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
       <jump line="60" column="0" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
       <jump line="15" column="73" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
-      <jump line="28" column="2" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
       <jump line="20" column="0" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
       <jump line="9" column="2" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
       <jump line="23" column="74" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
+      <jump line="7" column="0" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
+      <jump line="42" column="1" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
+      <jump line="3" column="0" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
+      <jump line="50" column="0" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
+      <jump line="25" column="48" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
+      <jump line="28" column="0" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
+      <jump line="27" column="0" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>Object</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">anNvbiA9IA==</text>
+        <text>Object</text>
       </register>
       <register name="/" type="4">
         <text>context</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCkud3JpdGVWYWx1ZUFzU3RyaW5nKGdpdE1lc3NhZ2UpCg==</text>
+      <register name="0" type="4">
+        <text>message: java.util.Map[String, Object], context: Context</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y2xhc3MgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">ICAgIGdpdDJTbGFjay5jb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">b2JqZWN0IE1haW4gewogIGRlZiBtYWluKG1lc3NhZ2U6IGphdmEudXRpbC5NYXBbU3RyaW5nLCBPYmplY3RdLCBjb250ZXh0OiBDb250ZXh0KSB7CiAgICB2YWwgZ2l0MlNsYWNrID0gR2l0MlNsYWNrKCJhYWFhIikKICAgIHByaW50bG4oZ2l0MlNsYWNrKQogIH0KfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEdpdDJTbGFjaygpCg==</text>
+        <text encoding="base64">ICBwcmludGxuKCJ0ZXN0IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEdpdDJTbGFjay4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">b2IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgcGFyc2UK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
