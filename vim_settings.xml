@@ -423,10 +423,11 @@
       <file name="/usr/local/Cellar/go/1.8.3/libexec/src/cmd/go/context.go" timestamp="1498724061325">
         <mark key="'" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/github/Record.scala" timestamp="1499420850726">
-        <mark key="[" line="9" column="3" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/github/Record.scala" timestamp="1499422130927">
+        <mark key="[" line="12" column="52" />
+        <mark key="]" line="12" column="51" />
+        <mark key="." line="12" column="51" />
+        <mark key="^" line="12" column="51" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-collector/.gitignore" timestamp="1499049530255">
         <mark key="[" line="3" column="0" />
@@ -455,12 +456,12 @@
         <mark key="." line="0" column="48" />
         <mark key="^" line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" timestamp="1499420873705">
-        <mark key="'" line="27" column="2" />
-        <mark key="[" line="48" column="44" />
-        <mark key="]" line="49" column="10" />
-        <mark key="." line="49" column="10" />
-        <mark key="^" line="49" column="10" />
+      <file name="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" timestamp="1499421428187">
+        <mark key="'" line="30" column="2" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="25" column="26" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local_test.sh" timestamp="1498453986119">
         <mark key="[" line="15" column="0" />
@@ -644,11 +645,11 @@
       <jump line="10" column="26" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Main.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHRlbmRzXD4=</text>
@@ -657,28 +658,28 @@
         <text encoding="base64">ICBkZWYgcGFyc2VSZWNvcmQoKTogSnNWYWx1ZSA9IHsKICAgIHZhbCBtYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCkud3JpdGVWYWx1ZUFzU3RyaW5nKHJlY29yZCkKICAgIEpzb24ucGFyc2UobWFwcGVyKQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNhc2UgTGlzdChoLCB0KSBpZiBoID09ICIiID0+ID8/Pwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGprawo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJlY29yZHMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgd2l0aFBhcnNlUmVjb3JkKCk6IEpzVmFsdWUgPSB7CiAgICB2YWwgbWFwcGVyID0gbmV3IE9iamVjdE1hcHBlcigpLndyaXRlVmFsdWVBc1N0cmluZyhyZWNvcmQpCiAgICBKc29uLnBhcnNlKG1hcHBlcikKICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
