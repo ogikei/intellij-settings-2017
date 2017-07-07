@@ -108,11 +108,6 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-collector/job/extract_production/r18com-monthly" timestamp="1499234500466">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="21" column="114" />
-      </file>
       <file name="/Users/keisukeogiwara/.m2/repository/varlog/varlog-core/v3.2.4/varlog-core-v3.2.4.jar!/varlog/core/runner/Main.class" timestamp="1488869593168">
         <mark key="'" line="74" column="210" />
       </file>
@@ -420,6 +415,12 @@
         <mark key="." line="282" column="0" />
         <mark key="^" line="242" column="7" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/git2slack/.gitignore" timestamp="1499422755708">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="3" column="5" />
+        <mark key="." line="3" column="5" />
+        <mark key="^" line="3" column="5" />
+      </file>
       <file name="/usr/local/Cellar/go/1.8.3/libexec/src/cmd/go/context.go" timestamp="1498724061325">
         <mark key="'" line="6" column="0" />
       </file>
@@ -646,10 +647,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHRlbmRzXD4=</text>
@@ -658,28 +659,28 @@
         <text encoding="base64">ICBkZWYgcGFyc2VSZWNvcmQoKTogSnNWYWx1ZSA9IHsKICAgIHZhbCBtYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCkud3JpdGVWYWx1ZUFzU3RyaW5nKHJlY29yZCkKICAgIEpzb24ucGFyc2UobWFwcGVyKQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhc2UgTGlzdChoLCB0KSBpZiBoID09ICIiID0+ID8/Pwo=</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNhc2UgTGlzdChoLCB0KSBpZiBoID09ICIiID0+ID8/Pwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlY29yZHMK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlY29yZHMK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
