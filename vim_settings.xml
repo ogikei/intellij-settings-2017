@@ -175,8 +175,12 @@
         <mark key="^" line="1" column="39" />
         <mark key="." line="1" column="50" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler/build.gradle" timestamp="1499649915780">
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler/build.gradle" timestamp="1499650167295">
         <mark key="'" line="6" column="0" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
       </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/.gitignore" timestamp="1499328284826">
         <mark key="'" line="77" column="18" />
@@ -190,6 +194,11 @@
         <mark key="]" line="14" column="100" />
         <mark key="." line="14" column="100" />
         <mark key="^" line="14" column="100" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler/src/main/java/com/dmm/aws/Main.java" timestamp="1499651103918">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/README.md" timestamp="1488948713711">
         <mark key="[" line="71" column="20" />
@@ -650,7 +659,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c3JjL3Rlc3QvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
@@ -662,31 +671,31 @@
         <text encoding="base64">ICBkZWYgcGFyc2VSZWNvcmQoKTogSnNWYWx1ZSA9IHsKICAgIHZhbCBtYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCkud3JpdGVWYWx1ZUFzU3RyaW5nKHJlY29yZCkKICAgIEpzb24ucGFyc2UobWFwcGVyKQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3JjL3Rlc3QvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3JjL21haW4vc2NhbGEvanAvb2dpa2VpL3NsYWNrLwo=</text>
+        <text encoding="base64">ICBwdWJsaWMgbWFpbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">ICBtYWluCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNhc2UgTGlzdChoLCB0KSBpZiBoID09ICIiID0+ID8/Pwo=</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBtYWluCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nLi4uIGFyZ3MpIHsKICAKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">bWFpbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlY29yZHMK</text>
+        <text encoding="base64">cHVibGljIG1haW4gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWFpbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
