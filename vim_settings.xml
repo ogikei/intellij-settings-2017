@@ -189,12 +189,12 @@
         <mark key="." line="95" column="6" />
         <mark key="^" line="95" column="6" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" timestamp="1499678012834">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="59" column="48" />
-        <mark key="]" line="59" column="51" />
-        <mark key="." line="59" column="51" />
-        <mark key="^" line="59" column="51" />
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" timestamp="1499682847200">
+        <mark key="'" line="54" column="2" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="32" column="43" />
       </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/timeusage/test.sc" timestamp="1494179773950">
         <mark key="[" line="14" column="100" />
@@ -392,12 +392,12 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/Main.java" timestamp="1499677880963">
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/Main.java" timestamp="1499682581255">
         <mark key="'" line="27" column="17" />
-        <mark key="[" line="37" column="30" />
-        <mark key="]" line="38" column="37" />
-        <mark key="." line="38" column="37" />
-        <mark key="^" line="38" column="37" />
+        <mark key="[" line="40" column="68" />
+        <mark key="]" line="40" column="68" />
+        <mark key="." line="40" column="68" />
+        <mark key="^" line="40" column="70" />
       </file>
       <file name="$USER_HOME$/MyWork/git/git2slack/project/assembly.sbt" timestamp="1499324054148">
         <mark key="[" line="0" column="0" />
@@ -555,12 +555,12 @@
       <file name="$USER_HOME$/OfficeWork/stork-batch/sql/bdmail_video-recommendation-for-subscriber.sql" timestamp="1496746650844">
         <mark key="'" line="62" column="49" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/emr/Scheduler.java" timestamp="1499674054250">
-        <mark key="'" line="45" column="19" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="72" column="47" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/emr/Scheduler.java" timestamp="1499683295101">
+        <mark key="'" line="54" column="19" />
+        <mark key="[" line="19" column="40" />
+        <mark key="]" line="19" column="58" />
+        <mark key="." line="19" column="58" />
+        <mark key="^" line="19" column="58" />
       </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/assignment.sbt" timestamp="1489123513670">
         <mark key="[" line="1" column="15" />
@@ -619,7 +619,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
       <jump line="15" column="73" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
       <jump line="20" column="0" filename="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Git2Slack.scala" />
@@ -719,61 +718,61 @@
       <jump line="41" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" />
       <jump line="50" column="2" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" />
       <jump line="36" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" />
+      <jump line="54" column="2" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>getobject</text>
+        <text>content</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgSlNPTk9iamVjdCBnZXRKU09OT2JqZWN0RnJvbVMzKFMzT2JqZWN0SW5wdXRTdHJlYW0gczNPYmplY3RJbnB1dFN0cmVhbSkgewogICAgSlNPTk9iamVjdCBqc29uT2JqZWN0ID0gbnVsbDsKICAgIHRyeSB7CiAgICAgIEJ1ZmZlcmVkUmVhZGVyIHJlYWRlciA9CiAgICAgICAgICBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKHMzT2JqZWN0SW5wdXRTdHJlYW0sICJVVEYtOCIpKTsKICAgICAgU3RyaW5nQnVpbGRlciBidWlsZGVyID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgU3RyaW5nIGlucHV0U3RyOwogICAgICB3aGlsZSAoKGlucHV0U3RyID0gcmVhZGVyLnJlYWRMaW5lKCkpICE9IG51bGwpIHsKICAgICAgICBidWlsZGVyLmFwcGVuZChpbnB1dFN0cik7CiAgICAgIH0KICAgICAganNvbk9iamVjdCA9IG5ldyBKU09OT2JqZWN0KGJ1aWxkZXIudG9TdHJpbmcoKSk7CiAgICB9IGNhdGNoIChVbnN1cHBvcnRlZEVuY29kaW5nRXhjZXB0aW9uIHVlZSkgewogICAgICAvLyBUT0RPOiAyMDE3LzA3LzEwCiAgICAgIGxvZ2dlci53YXJuaW5nKCJjYXVnaHQgYW4gVW5zdXBwb3J0ZWRFbmNvZGluZ0V4Y2VwdGlvbiwgcGxlYXNlIGNoZWNrIGpzb24gZm9ybWF0LiIpOwoKICAgICAgbG9nZ2VyLndhcm5pbmcoIkVycm9yIE1lc3NhZ2U6ICIgKyB1ZWUuZ2V0TWVzc2FnZSgpKTsKICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGlvZSkgewogICAgICBsb2dnZXIud2FybmluZygiY2F1Z2h0IGFuIElPRXhjZXB0aW9uLiIpOwoKICAgICAgbG9nZ2VyLndhcm5pbmcoIkVycm9yIE1lc3NhZ2U6ICIgKyBpb2UuZ2V0TWVzc2FnZSgpKTsKICAgIH0KICAgIHJldHVybiBqc29uT2JqZWN0OwogIH0K</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihhcHBzSlNPTkFycmF5LmdldCgwKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZXhpdCAwCg==</text>
+        <text encoding="base64">ICAgIGtrCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbG9nZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaWMgUzNPYmplY3RJbnB1dFN0cmVhbSBnZXRPYmplY3QoQW1hem9uUzMgczNDbGllbnQsIFN0cmluZyBidWNrZXROYW1lLCBTdHJpbmcga2V5KSB7CiAgICBTM09iamVjdElucHV0U3RyZWFtIHMzT2JqZWN0SW5wdXRTdHJlYW0gPSBudWxsOwogICAgdHJ5IHsKICAgICAgbG9nZ2VyLmluZm8oImRvd25sb2FkaW5nIGFuIG9iamVjdCIpOwogICAgICBTM09iamVjdCBzM09iamVjdCA9IHMzQ2xpZW50LmdldE9iamVjdChuZXcgR2V0T2JqZWN0UmVxdWVzdChidWNrZXROYW1lLCBrZXkpKTsKCiAgICAgIGxvZ2dlci5pbmZvKCJDb250ZW50LVR5cGU6ICIgKyBzM09iamVjdC5nZXRPYmplY3RNZXRhZGF0YSgpLmdldENvbnRlbnRUeXBlKCkpOwogICAgICBHZXRPYmplY3RSZXF1ZXN0IHJhbmdlT2JqZWN0UmVxdWVzdCA9CiAgICAgICAgICBuZXcgR2V0T2JqZWN0UmVxdWVzdChidWNrZXROYW1lLCBrZXkpLndpdGhSYW5nZSgwLCAxMCk7CgogICAgICBTM09iamVjdCBvYmplY3RQb3J0aW9uID0gczNDbGllbnQuZ2V0T2JqZWN0KHJhbmdlT2JqZWN0UmVxdWVzdCk7CiAgICAgIHMzT2JqZWN0SW5wdXRTdHJlYW0gPSBvYmplY3RQb3J0aW9uLmdldE9iamVjdENvbnRlbnQoKTsKICAgIH0gY2F0Y2ggKEFtYXpvblNlcnZpY2VFeGNlcHRpb24gYXNlKSB7CiAgICAgIGxvZ2dlci53YXJuaW5nKAogICAgICAgICAgImNhdWdodCBhbiBBbWF6b25TZXJ2aWNlRXhjZXB0aW9uLCB3aGljaCBtZWFucyB5b3VyIHJlcXVlc3QgbWFkZSBpdCB0byBBbWF6b24gUzMsIgogICAgICAgICAgICAgICsgIiBidXQgd2FzIHJlamVjdGVkIHdpdGggYW4gZXJyb3IgcmVzcG9uc2UgZm9yIHNvbWUgcmVhc29uLiIpOwoKICAgICAgbG9nZ2VyLndhcm5pbmcoIkVycm9yIE1lc3NhZ2U6ICAgICIgKyBhc2UuZ2V0TWVzc2FnZSgpKTsKICAgICAgbG9nZ2VyLndhcm5pbmcoIkhUVFAgU3RhdHVzIENvZGU6ICIgKyBhc2UuZ2V0U3RhdHVzQ29kZSgpKTsKICAgICAgbG9nZ2VyLndhcm5pbmcoIkFXUyBFcnJvciBDb2RlOiAgICIgKyBhc2UuZ2V0RXJyb3JDb2RlKCkpOwogICAgICBsb2dnZXIud2FybmluZygiRXJyb3IgVHlwZTogICAgICAgIiArIGFzZS5nZXRFcnJvclR5cGUoKSk7CiAgICAgIGxvZ2dlci53YXJuaW5nKCJSZXF1ZXN0IElEOiAgICAgICAiICsgYXNlLmdldFJlcXVlc3RJZCgpKTsKICAgIH0gY2F0Y2ggKEFtYXpvbkNsaWVudEV4Y2VwdGlvbiBhY2UpIHsKICAgICAgbG9nZ2VyLndhcm5pbmcoImNhdWdodCBhbiBBbWF6b25DbGllbnRFeGNlcHRpb24sIHdoaWNoIG1lYW5zICIKICAgICAgICAgICsgInRoZSBjbGllbnQgZW5jb3VudGVyZWQgYW4gaW50ZXJuYWwgZXJyb3Igd2hpbGUgdHJ5aW5nIHRvICIKICAgICAgICAgICsgImNvbW11bmljYXRlIHdpdGggUzMsIHN1Y2ggYXMgbm90IGJlaW5nIGFibGUgdG8gYWNjZXNzIHRoZSBuZXR3b3JrLiIpOwoKICAgICAgbG9nZ2VyLndhcm5pbmcoIkVycm9yIE1lc3NhZ2U6ICIgKyBhY2UuZ2V0TWVzc2FnZSgpKTsKICAgIH0KICAgIHJldHVybiBzM09iamVjdElucHV0U3RyZWFtOwogIH0KCg==</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKGJ1aWxkZXIudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIENvbmZpZ3VyYXRpb24gY29uZmlndXJhdGlvbiA9IG5ldyBDb25maWd1cmF0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgZXhpdCgwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIFRPRE86IDIwMTcvMDcvMTAK</text>
+        <text encoding="base64">ICAgIE9iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmV0dXJuIG9iamVjdFBvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAganNvbk9iamVjdCA9IG5ldyBKU09OT2JqZWN0KGJ1aWxkZXIudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4aXQoMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgZXhpdCgwKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>39</text>
       </register>
     </registers>
     <search>
-      <last-search>getobject</last-search>
+      <last-search>content</last-search>
       <last-offset />
-      <last-pattern>getobject</last-pattern>
+      <last-pattern>content</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>jsvalue</entry>
         <entry encoding="base64">XDxKc1ZhbHVlXD4=</entry>
         <entry encoding="base64">XDxKc29uXD4=</entry>
         <entry encoding="base64">XDxDUkVBVEVcPg==</entry>
@@ -793,9 +792,9 @@
         <entry>plugin</entry>
         <entry>get</entry>
         <entry>getobject</entry>
+        <entry>content</entry>
       </history-search>
       <history-cmd>
-        <entry>192</entry>
         <entry>597</entry>
         <entry>2</entry>
         <entry>go fmt</entry>
@@ -815,6 +814,7 @@
         <entry>28</entry>
         <entry>30</entry>
         <entry>w</entry>
+        <entry>39</entry>
       </history-cmd>
       <history-expr />
       <history-input />
