@@ -147,8 +147,8 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/Main.java" timestamp="1499761981440">
-        <mark key="'" line="31" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/Main.java" timestamp="1499769270842">
+        <mark key="'" line="25" column="52" />
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -192,7 +192,7 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" timestamp="1499768533133">
+      <file name="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" timestamp="1499769364804">
         <mark key="'" line="42" column="35" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -570,7 +570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="3" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/.gitignore" />
       <jump line="61" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" />
       <jump line="6" column="1" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" />
       <jump line="62" column="2" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" />
@@ -670,6 +669,7 @@
       <jump line="37" column="9" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
       <jump line="38" column="9" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
       <jump line="39" column="35" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
+      <jump line="25" column="52" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -679,7 +679,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>record</text>
+        <text>config</text>
       </register>
       <register name="0" type="4">
         <text>{
@@ -717,9 +717,9 @@
       </register>
     </registers>
     <search>
-      <last-search>record</last-search>
+      <last-search>config</last-search>
       <last-offset />
-      <last-pattern>record</last-pattern>
+      <last-pattern>config</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -734,7 +734,6 @@
         <entry>creden</entry>
         <entry encoding="base64">XDxjcmVkZW50aWFsc1Byb3ZpZGVyXD4=</entry>
         <entry>json</entry>
-        <entry>config</entry>
         <entry>sche</entry>
         <entry encoding="base64">XDxrZXlOYW1lXD4=</entry>
         <entry>plugin</entry>
@@ -745,6 +744,7 @@
         <entry>context</entry>
         <entry>flink</entry>
         <entry>record</entry>
+        <entry>config</entry>
       </history-search>
       <history-cmd>
         <entry>597</entry>
