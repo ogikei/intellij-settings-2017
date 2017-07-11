@@ -183,11 +183,6 @@
         <mark key="." line="8" column="3" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/RunJobFlowRequest.java" timestamp="1499734736241" />
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/util/Calendar.java" timestamp="1499652593812">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.160/1c6bf29132fea69c02c6b514ad0ce2a174c0594e/aws-java-sdk-s3-1.11.160-sources.jar!/com/amazonaws/services/s3/model/GetObjectRequest.java" timestamp="1499665321804" />
       <file name="$USER_HOME$/MyWork/git/parallel-programming/.gitignore" timestamp="1499328284826">
         <mark key="'" line="77" column="18" />
@@ -208,11 +203,6 @@
         <mark key="]" line="14" column="100" />
         <mark key="." line="14" column="100" />
         <mark key="^" line="14" column="100" />
-      </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler/src/main/java/com/dmm/aws/Main.java" timestamp="1499651103918">
-        <mark key="[" line="3" column="43" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/README.md" timestamp="1488948713711">
         <mark key="[" line="71" column="20" />
@@ -257,6 +247,12 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/kinesis/build.sbt" timestamp="1499754484751">
+        <mark key="[" line="7" column="42" />
+        <mark key="]" line="7" column="53" />
+        <mark key="." line="7" column="53" />
+        <mark key="^" line="7" column="53" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/stork-migration/src/main/resources/db/migration/V1.7__add_new_storage.sql" timestamp="1497234866283">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="46" />
@@ -281,6 +277,12 @@
         <mark key="]" line="11" column="95" />
         <mark key="^" line="11" column="95" />
         <mark key="." line="11" column="95" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/kinesis/src/main/scala/com/dmm/aws/Main.scala" timestamp="1499753950261">
+        <mark key="[" line="4" column="41" />
+        <mark key="]" line="14" column="68" />
+        <mark key="." line="14" column="68" />
+        <mark key="^" line="14" column="68" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/.gitignore" timestamp="1499651996521">
         <mark key="'" line="8" column="3" />
@@ -319,6 +321,12 @@
         <mark key="." line="19" column="46" />
         <mark key="^" line="19" column="46" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/kinesis/.gitignore" timestamp="1499752798054">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/test/main.go" timestamp="1497584348177">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="30" />
@@ -356,15 +364,18 @@
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/build.sbt" timestamp="1494146929751">
         <mark key="'" line="56" column="67" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.160/1c6bf29132fea69c02c6b514ad0ce2a174c0594e/aws-java-sdk-s3-1.11.160-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" timestamp="1499655622957">
-        <mark key="'" line="537" column="4" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/build.gradle" timestamp="1499676675013">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="31" column="1" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/kinesis/src/main/scala/com/dmm/aws/kinesis/Stream.scala" timestamp="1499753332009">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="52" />
+        <mark key="." line="2" column="52" />
+        <mark key="^" line="2" column="52" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/params/param.go" timestamp="1498188255484">
         <mark key="[" line="30" column="16" />
@@ -621,7 +632,7 @@
       <file name="$USER_HOME$/MyWork/git/spark/streaming/src/main/scala/org/apache/spark/streaming/Interval.scala" timestamp="1498637941545">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1499051295589">
+      <file name="/fragment.java" timestamp="1499754034052">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -728,11 +739,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/auth/Credential.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IDIwMTcvMDcvMTAgYWRkIGNvbmZpZ3VyYXRpb24gaWYgbmVlZGVkCg==</text>
+      <register name="&quot;" type="4">
+        <text>A</text>
       </register>
       <register name="-" type="4">
-        <text>scheduler</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>context</text>
@@ -741,28 +752,28 @@
         <text encoding="base64">ICAgIG1hc3RlclNlY3VyaXR5R3JvdXAgPSAiIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IDIwMTcvMDcvMTAgYWRkIGNvbmZpZ3VyYXRpb24gaWYgbmVlZGVkCg==</text>
+        <text encoding="base64">ICAiY29tLmFtYXpvbmF3cyIgJSAiYW1hem9uLWtpbmVzaXMtY29ubmVjdG9ycyIgJSAiMS4zLjAiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IDIwMTcvMDcvMTAgcmVnaW9uIG5hbWUgZnJvbSBhcmcgYW5kIGpzb24/Cg==</text>
+        <text encoding="base64">ICAiY29tLmFtYXpvbmF3cyIgJSAiYXdzLWxhbWJkYS1qYXZhLWV2ZW50cyIgJSAiMS4zLjAiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IDIwMTcvMDcvMTAgcmVnaW9uIG5hbWUgZnJvbSBhcmcgYW5kIGpzb24/IAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qc29uLkpTT05PYmplY3Q7Cg==</text>
+        <text encoding="base64">bGlicmFyeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSW5wdXRTdHJlYW07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kbW0uYXdzLmVtci5DbHVzdGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kbW0uYXdzLmNvbmZpZy5Db25maWd1cmF0aW9uOwo=</text>
+        <text encoding="base64">ICBraW5lc2lzLktpbmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMuczMubW9kZWwuUzNPYmplY3RJbnB1dFN0cmVhbTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
