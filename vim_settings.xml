@@ -173,8 +173,8 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" timestamp="1499843743386">
-        <mark key="'" line="72" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" timestamp="1499847643079">
+        <mark key="'" line="78" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/util/Calendar.java" timestamp="1499652593812">
         <mark key="[" line="3" column="0" />
@@ -597,7 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="16" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/config/Configuration.java" />
       <jump line="40" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" />
       <jump line="27" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" />
       <jump line="45" column="14" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" />
@@ -697,6 +696,7 @@
       <jump line="44" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
       <jump line="40" column="4" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
       <jump line="34" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="78" column="0" filename="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
