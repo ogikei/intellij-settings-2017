@@ -310,11 +310,11 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" timestamp="1499822897461">
+      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" timestamp="1499827917206">
         <mark key="[" line="0" column="28" />
-        <mark key="]" line="11" column="81" />
-        <mark key="." line="11" column="81" />
-        <mark key="^" line="10" column="94" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/test/main.go" timestamp="1497584348177">
         <mark key="[" line="2" column="31" />
@@ -420,11 +420,11 @@
         <mark key="^" line="11" column="6" />
         <mark key="." line="0" column="53" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-flink/build.sbt" timestamp="1499823173768">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="7" column="18" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-flink/build.sbt" timestamp="1499828158081">
+        <mark key="[" line="7" column="51" />
+        <mark key="]" line="7" column="51" />
+        <mark key="^" line="7" column="51" />
+        <mark key="." line="7" column="51" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/ProjectProperties.java" timestamp="1489480143831">
         <mark key="[" line="14" column="96" />
@@ -689,45 +689,44 @@
       <jump line="15" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAiY29tLmFtYXpvbmF3cyIgJSAiYXdzLWxhbWJkYS1qYXZhLWV2ZW50cyIgJSAiMS4zLjAiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>com.amazonaws</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
-      <register name="0" type="4">
-        <text>{
-    testCompile group: 'jun</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAib3JnLmFwYWNoZS5mbGluayIgJSAiZmxpbmstY29ubmVjdG9yLWtpbmVzaXNfMi4xMCIgJSAiMS4yLjEiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiY29tLmFtYXpvbmF3cyIgJSAiYXdzLWxhbWJkYS1qYXZhLWV2ZW50cyIgJSAiMS4zLjAiLAo=</text>
+        <text encoding="base64">ICAib3JnLmFwYWNoZS5mbGluayIgJSAiZmxpbmstY29ubmVjdG9yLWtpbmVzaXNfMi4xMCIgJSAiMS4yLjEiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiY29tLnR5cGVzYWZlLnBsYXkiICUgInBsYXktanNvbl8yLjEyIiAlICIyLjYuMCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAiY29tLmFtYXpvbmF3cyIgJSAiYXdzLWxhbWJkYS1qYXZhLWV2ZW50cyIgJSAiMS4zLjAiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAiY29tLmFtYXpvbmF3cyIgJSAiYXdzLWxhbWJkYS1qYXZhLWV2ZW50cyIgJSAiMS4zLjAiLAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMua2luZXNpcy5tb2RlbC5QdXRSZWNvcmRzUmVzdWx0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMua2luZXNpcy5tb2RlbC5QdXRSZWNvcmRzUmVxdWVzdEVudHJ5Owo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>39</text>
