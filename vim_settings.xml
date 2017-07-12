@@ -313,8 +313,8 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" timestamp="1499842138941">
-        <mark key="'" line="7" column="59" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" timestamp="1499845127068">
+        <mark key="'" line="40" column="4" />
         <mark key="[" line="33" column="4" />
         <mark key="]" line="33" column="10" />
         <mark key="." line="33" column="10" />
@@ -597,10 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" />
-      <jump line="20" column="16" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" />
-      <jump line="49" column="34" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" />
       <jump line="15" column="32" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/config/Configuration.java" />
       <jump line="4" column="16" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/config/Configuration.java" />
       <jump line="40" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" />
@@ -681,7 +677,6 @@
       <jump line="45" column="17" filename="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" />
       <jump line="24" column="27" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
       <jump line="11" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
-      <jump line="27" column="35" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
       <jump line="6" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
       <jump line="116" column="41" filename="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" />
       <jump line="132" column="12" filename="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" />
@@ -697,6 +692,11 @@
       <jump line="88" column="12" filename="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" />
       <jump line="276" column="39" filename="$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.10/1.2.0/flink-streaming-java_2.10-1.2.0.jar!/org/apache/flink/streaming/api/datastream/DataStream.class" />
       <jump line="72" column="0" filename="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="4" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="33" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="44" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="40" column="4" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
