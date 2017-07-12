@@ -81,12 +81,11 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/auth/Credential.java" timestamp="1499756620546">
+      <file name="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/auth/Credential.java" timestamp="1499820895196">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="17" column="3" />
-        <mark key="]" line="18" column="1" />
-        <mark key="." line="18" column="1" />
-        <mark key="^" line="18" column="1" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/params/param.go" timestamp="1498188255484">
         <mark key="[" line="30" column="16" />
@@ -147,11 +146,11 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/Main.java" timestamp="1499769270842">
-        <mark key="'" line="25" column="52" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/Main.java" timestamp="1499820906374">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local.sh" timestamp="1498454002791">
         <mark key="[" line="2" column="30" />
@@ -192,11 +191,11 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" timestamp="1499769364804">
-        <mark key="'" line="42" column="35" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" timestamp="1499821326258">
+        <mark key="'" line="27" column="10" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-collector/lib/hive/dml/video/digitalbasket/transform_basket.q" timestamp="1499221216449">
         <mark key="'" line="11" column="0" />
@@ -541,11 +540,11 @@
         <mark key="." line="19" column="46" />
         <mark key="^" line="19" column="46" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis/.gitignore" timestamp="1499754698001">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis/.gitignore" timestamp="1499821187987">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="9" column="5" />
+        <mark key="^" line="9" column="5" />
+        <mark key="." line="9" column="5" />
       </file>
       <file name="$USER_HOME$/Downloads/reductions 2/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1488793065580">
         <mark key="[" line="0" column="0" />
@@ -570,7 +569,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" />
       <jump line="6" column="1" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" />
       <jump line="62" column="2" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" />
       <jump line="13" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" />
@@ -662,7 +660,6 @@
       <jump line="20" column="5" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
       <jump line="18" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
       <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
-      <jump line="32" column="47" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
       <jump line="33" column="7" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
       <jump line="34" column="33" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
       <jump line="36" column="61" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
@@ -670,10 +667,12 @@
       <jump line="38" column="9" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
       <jump line="39" column="35" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
       <jump line="25" column="52" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/Main.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/Main.java" />
+      <jump line="32" column="10" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -686,31 +685,31 @@
     testCompile group: 'jun</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1dFJlY29yZFJlcXVlc3Quc2V0U3RyZWFtTmFtZSgiZiIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMua2luZXNpcy5tb2RlbC5QdXRSZWNvcmRzUmVzdWx0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1dFJFY29yCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMua2luZXNpcy5tb2RlbC5QdXRSZWNvcmRzUmVxdWVzdEVudHJ5Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1dFJlY29yZFJlcXVlc3Quc2V0UmVxdQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMua2luZXNpcy5tb2RlbC5QdXRSZWNvcmRzUmVxdWVzdDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgUHV0UmVjb3Jkc1JlcXVlc3RlbnRyeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcG91dGRkCg==</text>
+        <text encoding="base64">ICAgIC8vIFRlc3QKLy8gICAgUHV0UmVjb3Jkc1JlcXVlc3QgcHV0UmVjb3JkUmVxdWVzdCA9IG5ldyBQdXRSZWNvcmRzUmVxdWVzdCgpOwovLyAgICBwdXRSZWNvcmRSZXF1ZXN0LnNldFN0cmVhbU5hbWUoImZsaW5rLXRlc3QiKTsKLy8gICAgTGlzdDxQdXRSZWNvcmRzUmVxdWVzdEVudHJ5PiByZWNvcmRzUmVxdWVzdEVudHJpZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKLy8gICAgZm9yIChpbnQgaSA9IDA7IGkgPCAxMDA7IGkrKykgewovLyAgICAgIFB1dFJlY29yZHNSZXF1ZXN0RW50cnkgcHV0UmVjb3Jkc1JlcXVlc3RFbnRyeSA9IG5ldyBQdXRSZWNvcmRzUmVxdWVzdEVudHJ5KCk7Ci8vICAgICAgcHV0UmVjb3Jkc1JlcXVlc3RFbnRyeS5zZXREYXRhKEJ5dGVCdWZmZXIud3JhcChTdHJpbmcudmFsdWVPZihpKS5nZXRCeXRlcygpKSk7Ci8vICAgICAgcHV0UmVjb3Jkc1JlcXVlc3RFbnRyeS5zZXRQYXJ0aXRpb25LZXkoU3RyaW5nLmZvcm1hdCgicGFydGl0aW9uLWtleS0lZCIsIGkpKTsKLy8gICAgICByZWNvcmRzUmVxdWVzdEVudHJpZXMuYWRkKHB1dFJlY29yZHNSZXF1ZXN0RW50cnkpOwovLyAgICB9Ci8vICAgIHB1dFJlY29yZFJlcXVlc3Quc2V0UmVjb3JkcyhyZWNvcmRzUmVxdWVzdEVudHJpZXMpOwovLyAgICBQdXRSZWNvcmRzUmVzdWx0IHB1dFJlY29yZHNSZXN1bHQgPSBraW5lc2lzQ2xpZW50LnB1dFJlY29yZHMocHV0UmVjb3JkUmVxdWVzdCk7Ci8vICAgIGxvZ2dlci5pbmZvKHB1dFJlY29yZHNSZXN1bHQudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHV0UmVjb3Jkc1JlcXVlc3RFbnRyeUxpCg==</text>
+        <text encoding="base64">ICAgIENyZWRlbnRpYWwuY3JlYXRlQ29uZmlndXJhdGlvbigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHV0UmVjb3JkUmVxdWVzdAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIC53aXRoQ2xpZW50Q29uZmlndXJhdGlvbihDcmVkZW50aWFsLmNsaWVudENvbmZpZykK</text>
       </register>
       <register name=":" type="4">
         <text>39</text>
@@ -721,7 +720,7 @@
       <last-offset />
       <last-pattern>config</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
