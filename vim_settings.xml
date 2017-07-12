@@ -173,7 +173,7 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" timestamp="1499847643079">
+      <file name="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" timestamp="1499848208439">
         <mark key="'" line="78" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/util/Calendar.java" timestamp="1499652593812">
@@ -313,12 +313,12 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" timestamp="1499846438145">
+      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" timestamp="1499848521527">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="10" />
-        <mark key="." line="33" column="10" />
-        <mark key="^" line="33" column="10" />
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="40" />
+        <mark key="." line="19" column="40" />
+        <mark key="^" line="19" column="40" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/test/main.go" timestamp="1497584348177">
         <mark key="[" line="2" column="31" />
@@ -384,6 +384,12 @@
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-flink/project/assembly.sbt" timestamp="1499848704304">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="55" />
+        <mark key="^" line="0" column="55" />
+        <mark key="." line="0" column="55" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local.sh" timestamp="1498454002791">
         <mark key="[" line="2" column="30" />
@@ -700,10 +706,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>env</text>
+        <text>ConsumerConfigConstants</text>
       </register>
       <register name="-" type="4">
-        <text>env</text>
+        <text>ConsumerConfigConstants</text>
       </register>
       <register name="/" type="4">
         <text>speed</text>
@@ -712,31 +718,31 @@
         <text encoding="base64">ICAib3JnLmFwYWNoZS5mbGluayIgJSAiZmxpbmstY2xpZW50c18yLjExIiAlICIxLjIuMSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGtpbmVzaXMuCg==</text>
+        <text encoding="base64">ICAgIENvbnN1bWVyQ29uZmlnQ29uc3RhbnRzLkFXUwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVudi4K</text>
+        <text encoding="base64">ICAgIGNvbnN1bWVyQ29uZmlnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGtpbmVzaXMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVudi5hZGRTb3VyY2UoKQo=</text>
+        <text encoding="base64">ICAgIGVudi4K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Z2VuY2VUaHJlc2hvbGQoMC4wMDEpCiAgIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGtpbmVzaXMuY291bnQK</text>
+        <text encoding="base64">ICAgIGVudi5hZGRTb3VyY2UoKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG1scgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">Z2VuY2VUaHJlc2hvbGQoMC4wMDEpCiAgIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCB0cmFpbmluZ0RTOiBEYXRhU2V0W0xhYmVsZWRWZWN0b3JdID0ga2luZXNpcy4K</text>
+        <text encoding="base64">ICAgIGtpbmVzaXMuY291bnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG1scgo=</text>
       </register>
       <register name=":" type="4">
         <text>39</text>
