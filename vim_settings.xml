@@ -173,8 +173,8 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" timestamp="1499841158742">
-        <mark key="'" line="88" column="12" />
+      <file name="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" timestamp="1499843743386">
+        <mark key="'" line="72" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/util/Calendar.java" timestamp="1499652593812">
         <mark key="[" line="3" column="0" />
@@ -592,12 +592,11 @@
         <mark key="." line="7" column="5" />
         <mark key="^" line="7" column="5" />
       </file>
-      <file name="/fragment.java" timestamp="1499756257020">
+      <file name="/fragment.java" timestamp="1499842567398">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" />
       <jump line="66" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" />
       <jump line="21" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" />
       <jump line="20" column="16" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" />
@@ -697,6 +696,7 @@
       <jump line="101" column="12" filename="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" />
       <jump line="88" column="12" filename="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" />
       <jump line="276" column="39" filename="$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.10/1.2.0/flink-streaming-java_2.10-1.2.0.jar!/org/apache/flink/streaming/api/datastream/DataStream.class" />
+      <jump line="72" column="0" filename="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -706,7 +706,7 @@
         <text>env</text>
       </register>
       <register name="/" type="4">
-        <text>stream</text>
+        <text>speed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAib3JnLmFwYWNoZS5mbGluayIgJSAiZmxpbmstY2xpZW50c18yLjExIiAlICIxLjIuMSIsCg==</text>
@@ -743,16 +743,14 @@
       </register>
     </registers>
     <search>
-      <last-search>stream</last-search>
+      <last-search>speed</last-search>
       <last-offset />
-      <last-pattern>stream</last-pattern>
+      <last-pattern>speed</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxleHRlbmRzXD4=</entry>
-        <entry encoding="base64">XDxjb21waWxlXD4=</entry>
         <entry>creden</entry>
         <entry encoding="base64">XDxjcmVkZW50aWFsc1Byb3ZpZGVyXD4=</entry>
         <entry>json</entry>
@@ -771,6 +769,8 @@
         <entry>scala</entry>
         <entry>env</entry>
         <entry>stream</entry>
+        <entry>window</entry>
+        <entry>speed</entry>
       </history-search>
       <history-cmd>
         <entry>597</entry>
