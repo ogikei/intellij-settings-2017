@@ -335,11 +335,11 @@
         <mark key="." line="11" column="61" />
         <mark key="^" line="11" column="61" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/com/dmm/aws/Main.scala" timestamp="1500025553387">
-        <mark key="[" line="23" column="73" />
-        <mark key="]" line="32" column="18" />
-        <mark key="." line="32" column="18" />
-        <mark key="^" line="32" column="31" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/com/dmm/aws/Main.scala" timestamp="1500026767462">
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="18" />
+        <mark key="." line="25" column="18" />
+        <mark key="^" line="25" column="18" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/ProjectProperties.java" timestamp="1489480143831">
         <mark key="[" line="14" column="96" />
@@ -592,11 +592,11 @@
       <jump line="35" column="49" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.1.1-sources.jar!/org/apache/spark/mllib/regression/StreamingLinearRegressionWithSGD.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>kinesisStream.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>kinesisStream.</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>sgd</text>
@@ -605,31 +605,31 @@
         <text encoding="base64">ICAib3JnLmFwYWNoZS5zcGFyayIgJSAic3BhcmstY29yZV8yLjExIiAlICIyLjEuMSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMua2luZXNpcy5jbGllbnRsaWJyYXJ5LmxpYi53b3JrZXIuSW5pdGlhbFBvc2l0aW9uSW5TdHJlYW0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWwuZmVhdHVyZS5MYWJlbGVkUG9pbnQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIExhYmVsZWRQb2ludC5wYXJzZShraW5lc2lzU3RyZWFtKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMua2luZXNpcy5jbGllbnRsaWJyYXJ5LmxpYi53b3JrZXIuSW5pdGlhbFBvc2l0aW9uSW5TdHJlYW0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWwuZmVhdHVyZS5MYWJlbGVkUG9pbnQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGtpbmVzaXNTdHJlYW0uZmxhdE1hcCgpCg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGtpbgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
