@@ -216,11 +216,12 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" timestamp="1500447508225">
-        <mark key="[" line="91" column="53" />
-        <mark key="]" line="91" column="53" />
-        <mark key="^" line="91" column="64" />
-        <mark key="." line="91" column="53" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" timestamp="1500457460531">
+        <mark key="'" line="61" column="30" />
+        <mark key="[" line="76" column="21" />
+        <mark key="]" line="76" column="21" />
+        <mark key="^" line="76" column="21" />
+        <mark key="." line="76" column="21" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-collector/env/production/collecting/video/digitalbasket/collecting.json5" timestamp="1499069382418">
         <mark key="[" line="10" column="78" />
@@ -506,23 +507,18 @@
         <mark key="." line="7" column="5" />
         <mark key="^" line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw_unique.sql" timestamp="1500447239838">
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw_unique.sql" timestamp="1500457283072">
         <mark key="'" line="69" column="0" />
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="25" />
+        <mark key="^" line="11" column="25" />
+        <mark key="." line="11" column="25" />
       </file>
       <file name="/fragment.java" timestamp="1499842567398">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="2" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/s3/Bucket.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/auth/Credential.java" />
-      <jump line="21" column="27" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
-      <jump line="0" column="27" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/Main.java" />
-      <jump line="25" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
-      <jump line="32" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/Main.java" />
-      <jump line="20" column="5" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
-      <jump line="18" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
       <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
       <jump line="33" column="7" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
       <jump line="34" column="33" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
@@ -614,16 +610,25 @@
       <jump line="0" column="102" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/95_ins_activity.sql" />
       <jump line="20" column="16" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
       <jump line="16" column="17" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
+      <jump line="19" column="1" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" />
+      <jump line="54" column="12" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" />
+      <jump line="56" column="27" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" />
+      <jump line="81" column="16" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" />
+      <jump line="91" column="87" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" />
+      <jump line="24" column="19" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" />
+      <jump line="30" column="8" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" />
+      <jump line="58" column="12" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" />
+      <jump line="61" column="30" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>show</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>show</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>varchar</text>
+        <text>coun</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LCgnc2VhcmNoJywnaG90d29yZHMtZGFpbHktcmF3LWFkdWx0JywnJywnJywwKQo=</text>
@@ -690,9 +695,9 @@
       </register>
     </registers>
     <search>
-      <last-search>varchar</last-search>
+      <last-search>coun</last-search>
       <last-offset />
-      <last-pattern>varchar</last-pattern>
+      <last-pattern>coun</last-pattern>
       <last-replace />
       <last-substitute>varchar</last-substitute>
       <last-dir>1</last-dir>
@@ -700,8 +705,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stream</entry>
-        <entry>window</entry>
         <entry>speed</entry>
         <entry encoding="base64">XDxDbGFzc1RhZ1w+</entry>
         <entry>kinesis</entry>
@@ -720,6 +723,8 @@
         <entry>string</entry>
         <entry>array</entry>
         <entry>varchar</entry>
+        <entry>count</entry>
+        <entry>coun</entry>
       </history-search>
       <history-cmd>
         <entry>go lint main.go</entry>
