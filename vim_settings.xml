@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/kmeans/fun/PhotoCanvas.scala" timestamp="1489115279457">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="79" column="28" />
-        <mark key="]" line="79" column="28" />
-        <mark key="." line="79" column="28" />
-        <mark key="^" line="79" column="29" />
-      </file>
       <file name="/start_script.py" timestamp="1497592501406">
         <mark key="[" line="0" column="0" />
       </file>
@@ -28,8 +21,17 @@
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/params/datorama_load.go" timestamp="1498724205545">
         <mark key="[" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/OfficeWork/stork-batch/sql/search_hotwords_normalized.sql" timestamp="1496737847347">
-        <mark key="'" line="65" column="15" />
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/emr/Cluster.java" timestamp="1499739188047">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="29" column="15" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/git2slack/build.sbt" timestamp="1499337011036">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="39" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/sh/release_production.sh" timestamp="1498711326401">
         <mark key="[" line="18" column="0" />
@@ -43,19 +45,11 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1488800785549">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="45" column="29" />
-        <mark key="]" line="45" column="34" />
-        <mark key="." line="45" column="34" />
-        <mark key="^" line="45" column="34" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-api/.gitignore" timestamp="1498129013632">
-        <mark key="'" line="21" column="9" />
-        <mark key="[" line="21" column="13" />
-        <mark key="]" line="21" column="16" />
-        <mark key="^" line="21" column="16" />
-        <mark key="." line="21" column="16" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-collector/env/production/collecting/video/play_history_db/collecting.json5" timestamp="1499048688174">
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="15" column="7" />
+        <mark key="^" line="15" column="7" />
+        <mark key="." line="15" column="7" />
       </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/test/java/jp/co/recruit/rtc/hoc/services/TestSpotInstanceClientService.java" timestamp="1488273166199">
         <mark key="[" line="12" column="28" />
@@ -66,17 +60,11 @@
       <file name="_mac/path.macros.xml" timestamp="1498110979421">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.yml" timestamp="1498467922972">
-        <mark key="'" line="42" column="25" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/test/resources/TestEmrClientService-context.xml" timestamp="1488426658361">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="5" column="35" />
-      </file>
-      <file name="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" timestamp="1498560798905">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" timestamp="1498446040917">
         <mark key="[" line="17" column="17" />
@@ -84,36 +72,39 @@
         <mark key="." line="17" column="19" />
         <mark key="^" line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/emr-scheduler-scala/src/main/scala/jp/co/recruit/rtc/hoc/conf/EMRConf.scala" timestamp="1487919236874">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="15" column="50" />
-        <mark key="]" line="15" column="1" />
-        <mark key="^" line="15" column="1" />
-        <mark key="." line="15" column="1" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-flink/.gitignore" timestamp="1499822783409">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+        <mark key="." line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/stork-batch/common/preprocess.go" timestamp="1497509194611">
-        <mark key="'" line="23" column="7" />
-        <mark key="[" line="70" column="53" />
-        <mark key="]" line="70" column="53" />
-        <mark key="." line="70" column="53" />
-        <mark key="^" line="70" column="53" />
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.1.1-sources.jar!/org/apache/spark/mllib/regression/StreamingLinearRegressionWithSGD.scala" timestamp="1500021111055">
+        <mark key="'" line="35" column="49" />
       </file>
-      <file name="$USER_HOME$/Downloads/reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1488800022417">
-        <mark key="'" line="123" column="0" />
-        <mark key="[" line="83" column="80" />
-        <mark key="]" line="91" column="46" />
-        <mark key="." line="91" column="46" />
-        <mark key="^" line="91" column="46" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/video/extract_digitalbasket.dig" timestamp="1499227200810">
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-api/api/stork_meta_test.go" timestamp="1498464207346">
-        <mark key="'" line="29" column="4" />
-        <mark key="[" line="41" column="29" />
-        <mark key="]" line="42" column="28" />
-        <mark key="." line="42" column="28" />
-        <mark key="^" line="42" column="28" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-collector/job/extract_production/video-digitalbasket" timestamp="1499232124689">
+        <mark key="[" line="21" column="84" />
+        <mark key="]" line="21" column="96" />
+        <mark key="^" line="21" column="96" />
+        <mark key="." line="21" column="96" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" timestamp="1498466049681">
-        <mark key="'" line="19" column="28" />
+      <file name="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Message.scala" timestamp="1499412669196">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="6" column="66" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" timestamp="1500455684713">
+        <mark key="'" line="16" column="17" />
+        <mark key="[" line="36" column="2" />
+        <mark key="]" line="36" column="7" />
+        <mark key="." line="36" column="7" />
+        <mark key="^" line="36" column="7" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-api/.docker/mariadb/docker-entrypoint-initdb.d/ddl/11_available_storages.sql" timestamp="1498458208341">
         <mark key="[" line="4" column="18" />
@@ -121,22 +112,19 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="20" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/i3-dwh/.gitignore" timestamp="1499224160517">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="5" />
+        <mark key="^" line="3" column="5" />
+        <mark key="." line="3" column="5" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/.gitignore" timestamp="1490333362839">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="4" column="5" />
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/example/Lists.scala" timestamp="1492765616384">
-        <mark key="'" line="28" column="1" />
-        <mark key="[" line="42" column="33" />
-        <mark key="]" line="43" column="5" />
-        <mark key="." line="43" column="5" />
-        <mark key="^" line="43" column="5" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/varlog/varlog-core/v3.2.4/varlog-core-v3.2.4.jar!/varlog/core/runner/Main.class" timestamp="1488869593168">
-        <mark key="'" line="74" column="210" />
-      </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/params/netgame_ctr.go" timestamp="1500441712089" />
       <file name="$USER_HOME$/OfficeWork/stork-batch/common/mainprocess.go" timestamp="1496730631641">
         <mark key="[" line="21" column="4" />
         <mark key="]" line="21" column="5" />
@@ -155,19 +143,8 @@
         <mark key="^" line="1" column="39" />
         <mark key="." line="1" column="50" />
       </file>
-      <file name="$USER_HOME$/Downloads/reductions 2/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1488792949332">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="75" column="0" />
-      </file>
-      <file name="$USER_HOME$/MyWork/git/parallel-programming/.gitignore" timestamp="1488801418394">
-        <mark key="'" line="28" column="1" />
-        <mark key="[" line="92" column="16" />
-        <mark key="]" line="94" column="5" />
-        <mark key="." line="94" column="5" />
-        <mark key="^" line="94" column="5" />
+      <file name="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" timestamp="1499848208439">
+        <mark key="'" line="78" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/timeusage/test.sc" timestamp="1494179773950">
         <mark key="[" line="14" column="100" />
@@ -175,39 +152,18 @@
         <mark key="." line="14" column="100" />
         <mark key="^" line="14" column="100" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/Configuration.java" timestamp="1489543915006">
-        <mark key="'" line="158" column="0" />
-        <mark key="[" line="175" column="27" />
-        <mark key="]" line="175" column="27" />
-        <mark key="." line="175" column="27" />
-        <mark key="^" line="207" column="5" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_nonunique.sql" timestamp="1497250036991">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="80" column="22" />
-        <mark key="]" line="80" column="21" />
-        <mark key="." line="80" column="21" />
-        <mark key="^" line="80" column="21" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/README.md" timestamp="1488948713711">
         <mark key="[" line="71" column="20" />
         <mark key="]" line="71" column="24" />
         <mark key="^" line="71" column="24" />
         <mark key="." line="71" column="24" />
       </file>
-      <file name="$USER_HOME$/OfficeWork/stork-batch/main.go" timestamp="1496730353819">
-        <mark key="'" line="5" column="42" />
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="11" />
-        <mark key="^" line="6" column="12" />
-        <mark key="." line="6" column="11" />
-      </file>
-      <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/scalashop/PhotoCanvas.scala" timestamp="1488011069069">
-        <mark key="'" line="70" column="14" />
-        <mark key="[" line="74" column="45" />
-        <mark key="]" line="74" column="52" />
-        <mark key="^" line="74" column="52" />
-        <mark key="." line="74" column="52" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/sql/r18_datorama-r18com-customer-cancel-account-log.sql" timestamp="1500449910099" />
+      <file name="$USER_HOME$/MyWork/git/untitled/git2slack/build.sbt" timestamp="1499323421268">
+        <mark key="[" line="7" column="54" />
+        <mark key="]" line="7" column="54" />
+        <mark key="." line="7" column="54" />
+        <mark key="^" line="7" column="54" />
       </file>
       <file name="$USER_HOME$/OfficeTools/stork-migration/.gitignore" timestamp="1497234999834">
         <mark key="[" line="0" column="7" />
@@ -215,24 +171,17 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/stackoverflow/StackOverflow.scala" timestamp="1496634393058">
-        <mark key="'" line="271" column="25" />
-        <mark key="[" line="194" column="4" />
-        <mark key="]" line="194" column="20" />
-        <mark key="." line="194" column="20" />
-        <mark key="^" line="194" column="20" />
-      </file>
       <file name="/HTML File.txt.ft" timestamp="1490172376934">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/parallel-programming/src/test/scala/barneshut/BarnesHutSuite.scala" timestamp="1489398594692">
-        <mark key="'" line="57" column="28" />
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.flink/flink-scala_2.11/srcs/flink-scala_2.11-1.2.1-sources.jar!/org/apache/flink/api/scala/ExecutionEnvironment.scala" timestamp="1499915796589">
+        <mark key="'" line="301" column="22" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/yzw/config/spring/example-batch.xml" timestamp="1488881209435">
-        <mark key="'" line="23" column="2" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/common/mainprocess.go" timestamp="1498107465485">
-        <mark key="'" line="15" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis/build.sbt" timestamp="1499754484751">
+        <mark key="[" line="7" column="42" />
+        <mark key="]" line="7" column="53" />
+        <mark key="." line="7" column="53" />
+        <mark key="^" line="7" column="53" />
       </file>
       <file name="$USER_HOME$/OfficeTools/stork-migration/src/main/resources/db/migration/V1.7__add_new_storage.sql" timestamp="1497234866283">
         <mark key="[" line="6" column="13" />
@@ -240,11 +189,26 @@
         <mark key="^" line="6" column="46" />
         <mark key="." line="6" column="46" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/.gitignore" timestamp="1499225148565">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="6" column="5" />
+        <mark key="^" line="6" column="5" />
+        <mark key="." line="6" column="5" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/sql/bdmarketing_olg-user-segments-by-activity.sql" timestamp="1498717810654">
         <mark key="[" line="11" column="95" />
         <mark key="]" line="11" column="95" />
         <mark key="^" line="11" column="95" />
         <mark key="." line="11" column="95" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/kinesis/src/main/scala/com/dmm/aws/Main.scala" timestamp="1499753950261">
+        <mark key="[" line="4" column="41" />
+        <mark key="]" line="14" column="68" />
+        <mark key="." line="14" column="68" />
+        <mark key="^" line="14" column="68" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/14_r18_datorama.sql" timestamp="1500451798438">
+        <mark key="'" line="65" column="58" />
       </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/EmrScheduler.java" timestamp="1488431898407">
         <mark key="[" line="29" column="88" />
@@ -252,15 +216,18 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-api/cov.json" timestamp="1498457155220">
-        <mark key="'" line="0" column="3434" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" timestamp="1500457460531">
+        <mark key="'" line="61" column="30" />
+        <mark key="[" line="76" column="21" />
+        <mark key="]" line="76" column="21" />
+        <mark key="^" line="76" column="21" />
+        <mark key="." line="76" column="21" />
       </file>
-      <file name="$USER_HOME$/OfficeWork/stork-batch/sql/search_hotwords_raw.sql" timestamp="1496744615735">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="52" column="5" />
-        <mark key="]" line="52" column="8" />
-        <mark key="^" line="52" column="8" />
-        <mark key="." line="52" column="8" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-collector/env/production/collecting/video/digitalbasket/collecting.json5" timestamp="1499069382418">
+        <mark key="[" line="10" column="78" />
+        <mark key="]" line="10" column="78" />
+        <mark key="." line="10" column="78" />
+        <mark key="^" line="10" column="78" />
       </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/ConfigurationService.java" timestamp="1488440803523">
         <mark key="[" line="32" column="4" />
@@ -274,60 +241,62 @@
         <mark key="." line="19" column="46" />
         <mark key="^" line="19" column="46" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/kinesis/.gitignore" timestamp="1499821187987">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="9" column="5" />
+        <mark key="^" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" timestamp="1500028004344">
+        <mark key="'" line="22" column="2" />
+        <mark key="[" line="63" column="60" />
+        <mark key="]" line="63" column="65" />
+        <mark key="." line="63" column="65" />
+        <mark key="^" line="63" column="65" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/test/main.go" timestamp="1497584348177">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="30" />
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/Downloads/reductions/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1488800385306">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.flink/flink-streaming-java_2.11/srcs/flink-streaming-java_2.11-1.2.1-sources.jar!/org/apache/flink/streaming/api/environment/StreamExecutionEnvironment.java" timestamp="1499840754514">
+        <mark key="'" line="1778" column="0" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/.gitignore" timestamp="1500007896544">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/untitled/git2slack/project/plugin.sbt" timestamp="1499322934505">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="75" column="0" />
+        <mark key="]" line="0" column="55" />
+        <mark key="^" line="0" column="55" />
+        <mark key="." line="0" column="55" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/hive/ql/src/java/org/apache/hadoop/hive/ql/parse/SemanticAnalyzer.java" timestamp="1498558852611">
-        <mark key="'" line="422" column="16" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis/settings.gradle" timestamp="1499754893571">
+        <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/yzw/config/spring/queries.xml" timestamp="1488881571355">
-        <mark key="'" line="699" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/94_ins_r18_datorama.sql" timestamp="1500452419895">
+        <mark key="'" line="19" column="65" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="110" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/.gitignore" timestamp="1498640083863">
-        <mark key="'" line="12" column="13" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis/build.gradle" timestamp="1499756319235">
+        <mark key="[" line="28" column="85" />
+        <mark key="]" line="29" column="63" />
+        <mark key="^" line="29" column="63" />
+        <mark key="." line="29" column="63" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw.sql" timestamp="1496993031307">
-        <mark key="'" line="15" column="48" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.10/1.2.0/flink-streaming-java_2.10-1.2.0.jar!/org/apache/flink/streaming/api/datastream/DataStream.class" timestamp="1499841964645">
+        <mark key="'" line="276" column="39" />
       </file>
-      <file name="/usr/local/Cellar/go/1.8.3/libexec/src/database/sql/sql.go" timestamp="1497496284297">
-        <mark key="'" line="1317" column="16" />
-      </file>
-      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/build.sbt" timestamp="1494146929751">
-        <mark key="'" line="56" column="67" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/utils/InstanceTypes.java" timestamp="1489131432762">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="63" column="53" />
-        <mark key="]" line="63" column="53" />
-        <mark key="." line="63" column="53" />
-        <mark key="^" line="63" column="53" />
-      </file>
-      <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/kmeans/KMeans.scala" timestamp="1489383200601">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="76" column="85" />
-        <mark key="]" line="76" column="85" />
-        <mark key="." line="76" column="85" />
-        <mark key="^" line="76" column="84" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/pom.xml" timestamp="1490848962319">
-        <mark key="'" line="62" column="14" />
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="16" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="7" column="16" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis/src/main/scala/com/dmm/aws/kinesis/Stream.scala" timestamp="1499753332009">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="52" />
+        <mark key="." line="2" column="52" />
+        <mark key="^" line="2" column="52" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/params/param.go" timestamp="1498188255484">
         <mark key="[" line="30" column="16" />
@@ -335,35 +304,17 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/package.scala" timestamp="1494149862511">
-        <mark key="'" line="51" column="10" />
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Backet.java" timestamp="1499653038829">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/kmeans/fun/package.scala" timestamp="1489121768190">
-        <mark key="'" line="40" column="8" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/SpotInstanceClientService.java" timestamp="1489548824794">
-        <mark key="'" line="139" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="66" column="24" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" timestamp="1498118125274">
-        <mark key="'" line="32" column="10" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/stork-batch/.gitignore" timestamp="1497508514859">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="19" column="10" />
-        <mark key="." line="19" column="10" />
-        <mark key="^" line="19" column="10" />
-      </file>
-      <file name="$USER_HOME$/Downloads/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1488800727819">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="45" column="39" />
-        <mark key="]" line="46" column="34" />
-        <mark key="." line="46" column="34" />
-        <mark key="^" line="46" column="34" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-flink/project/assembly.sbt" timestamp="1499848704304">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="55" />
+        <mark key="^" line="0" column="55" />
+        <mark key="." line="0" column="55" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local.sh" timestamp="1498454002791">
         <mark key="[" line="2" column="30" />
@@ -377,29 +328,23 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1488799638455">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="82" column="6" />
-        <mark key="]" line="82" column="6" />
-        <mark key="." line="82" column="6" />
-        <mark key="^" line="82" column="7" />
+      <file name="$USER_HOME$/MyWork/git/git2slack/project/assembly.sbt" timestamp="1499324054148">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="55" />
+        <mark key="^" line="0" column="55" />
+        <mark key="." line="0" column="55" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/barneshut/Simulator.scala" timestamp="1489469144147">
-        <mark key="'" line="13" column="6" />
-        <mark key="[" line="15" column="33" />
-        <mark key="]" line="15" column="47" />
-        <mark key="." line="15" column="47" />
-        <mark key="^" line="15" column="47" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-flink/build.sbt" timestamp="1500017050244">
+        <mark key="[" line="11" column="55" />
+        <mark key="]" line="11" column="61" />
+        <mark key="." line="11" column="61" />
+        <mark key="^" line="11" column="61" />
       </file>
-      <file name="$USER_HOME$/go/src/gopkg.in/godo.v2/context.go" timestamp="1498724012263">
-        <mark key="'" line="51" column="24" />
-      </file>
-      <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/reductions/LineOfSight.scala" timestamp="1488523124325">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="7" column="37" />
-        <mark key="." line="7" column="37" />
-        <mark key="^" line="7" column="37" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/com/dmm/aws/Main.scala" timestamp="1500027513272">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="25" column="38" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/ProjectProperties.java" timestamp="1489480143831">
         <mark key="[" line="14" column="96" />
@@ -407,61 +352,52 @@
         <mark key="^" line="14" column="97" />
         <mark key="." line="14" column="96" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/build.sbt" timestamp="1500018796863">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="9" column="39" />
+        <mark key="." line="9" column="39" />
+        <mark key="^" line="9" column="39" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/DEVELOPGUIDE.md" timestamp="1489542240554">
         <mark key="[" line="19" column="19" />
         <mark key="]" line="21" column="1" />
         <mark key="." line="21" column="1" />
         <mark key="^" line="21" column="1" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" timestamp="1498112921484">
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" timestamp="1500444468655">
+        <mark key="'" line="24" column="9" />
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="^" line="8" column="27" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/emr-scheduler/pom.xml" timestamp="1488423406902">
-        <mark key="'" line="89" column="12" />
-        <mark key="[" line="116" column="27" />
-        <mark key="]" line="116" column="27" />
-        <mark key="." line="116" column="27" />
-        <mark key="^" line="116" column="17" />
-      </file>
-      <file name="$USER_HOME$/MyWork/git/parallel-programming/src/main/scala/kmeans/fun/IndexedColors.scala" timestamp="1489115205192">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="32" column="15" />
-        <mark key="]" line="32" column="15" />
-        <mark key="." line="32" column="15" />
-        <mark key="^" line="31" column="16" />
-      </file>
       <file name="vim_settings.xml" timestamp="1498110985658">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/wikipedia/test.scala" timestamp="1492765466172">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/video.dig" timestamp="1499227189559">
+        <mark key="[" line="34" column="49" />
+        <mark key="]" line="34" column="49" />
+        <mark key="." line="34" column="49" />
+        <mark key="^" line="34" column="56" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/spark/streaming/src/main/scala/org/apache/spark/streaming/api/python/PythonDStream.scala" timestamp="1498637966310">
-        <mark key="'" line="33" column="45" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-collector/env/production/collecting/maillog_collecting_cuenote_op_log.json5" timestamp="1499049179678">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="5" />
+        <mark key="^" line="16" column="5" />
+        <mark key="." line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/stork-batch/main.go" timestamp="1497504259939">
-        <mark key="'" line="26" column="11" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-dwh/ddl/raw_video_digitalbasket/0_create_db.q" timestamp="1499223097642">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="52" />
+        <mark key="." line="0" column="52" />
+        <mark key="^" line="0" column="52" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/circle.yml" timestamp="1498552078542">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="15" column="48" />
-        <mark key="]" line="15" column="50" />
-        <mark key="^" line="15" column="50" />
-        <mark key="." line="15" column="50" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" timestamp="1498543215719">
-        <mark key="'" line="7" column="26" />
-        <mark key="[" line="8" column="37" />
-        <mark key="]" line="8" column="39" />
-        <mark key="." line="8" column="39" />
-        <mark key="^" line="8" column="39" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/95_ins_activity.sql" timestamp="1500455669568">
+        <mark key="'" line="0" column="102" />
+        <mark key="[" line="4" column="99" />
+        <mark key="]" line="4" column="104" />
+        <mark key="." line="4" column="104" />
+        <mark key="^" line="4" column="104" />
       </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" timestamp="1494241476011">
         <mark key="[" line="282" column="0" />
@@ -469,21 +405,36 @@
         <mark key="." line="282" column="0" />
         <mark key="^" line="242" column="7" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/example/ListsSuite.scala" timestamp="1494146682919">
-        <mark key="'" line="63" column="25" />
-        <mark key="[" line="71" column="35" />
-        <mark key="]" line="71" column="35" />
-        <mark key="." line="71" column="35" />
-        <mark key="^" line="71" column="40" />
+      <file name="$USER_HOME$/MyWork/git/git2slack/.gitignore" timestamp="1499649100620">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="6" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="/usr/local/Cellar/go/1.8.3/libexec/src/cmd/go/context.go" timestamp="1498724061325">
-        <mark key="'" line="6" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose.yml" timestamp="1500445773678" />
+      <file name="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/github/Record.scala" timestamp="1499751051940">
+        <mark key="[" line="12" column="52" />
+        <mark key="]" line="12" column="51" />
+        <mark key="." line="12" column="51" />
+        <mark key="^" line="12" column="51" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/wikipedia/WikipediaSuite.scala" timestamp="1490344783351">
-        <mark key="'" line="90" column="2" />
+      <file name="$USER_HOME$/.ivy2/cache/org.scalanlp/breeze_2.11/srcs/breeze_2.11-0.12-sources.jar!/breeze/linalg/Vector.scala" timestamp="1499927096624">
+        <mark key="'" line="850" column="6" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/spark/graphx/src/main/scala/org/apache/spark/graphx/GraphOps.scala" timestamp="1498560395837">
-        <mark key="'" line="448" column="3" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/91_ins_available_storages.sql" timestamp="1500453955279">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="37" />
+        <mark key="." line="6" column="37" />
+        <mark key="^" line="6" column="37" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/i3-collector/.gitignore" timestamp="1499049530255">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+      </file>
+      <file name="/sbtShell" timestamp="1499326244555">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeWork/stork-batch/.gitignore" timestamp="1496640564206">
         <mark key="[" line="16" column="1" />
@@ -491,12 +442,11 @@
         <mark key="^" line="16" column="2" />
         <mark key="." line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/stork-batch/params/search_hotwords.go" timestamp="1496994331802">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="10" column="55" />
-        <mark key="]" line="10" column="62" />
-        <mark key="^" line="10" column="62" />
-        <mark key="." line="10" column="62" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-dwh/ddl/video_digitalbasket/0_create_db.q" timestamp="1499225275059">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="48" />
+        <mark key="." line="0" column="48" />
+        <mark key="^" line="0" column="48" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local_test.sh" timestamp="1498453986119">
         <mark key="[" line="15" column="0" />
@@ -504,31 +454,7 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/controllers/ClusterController.java" timestamp="1489545683059">
-        <mark key="'" line="51" column="20" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/EmrClientService.java" timestamp="1488422230220">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="872" column="2" />
-        <mark key="]" line="872" column="9" />
-        <mark key="." line="872" column="9" />
-        <mark key="^" line="872" column="9" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/stork-batch/sql/search_hotwords_raw_unique.sql" timestamp="1497250312914">
-        <mark key="'" line="91" column="4" />
-        <mark key="[" line="76" column="7" />
-        <mark key="]" line="77" column="14" />
-        <mark key="^" line="77" column="14" />
-        <mark key="." line="77" column="14" />
-      </file>
-      <file name="$USER_HOME$/MyWork/git/parallel-programming/src/test/scala/example/ListsSuite.scala" timestamp="1488791864664">
-        <mark key="'" line="26" column="24" />
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="2" />
-        <mark key="^" line="4" column="2" />
-        <mark key="." line="4" column="2" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1498459358603">
+      <file name="/Dummy.txt" timestamp="1500451446131">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-api/router/router.go" timestamp="1498455171810">
@@ -537,44 +463,13 @@
         <mark key="." line="41" column="36" />
         <mark key="^" line="41" column="36" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/stork-batch/params/bdmail_video-recommendation-for-subscriber.go" timestamp="1497002746821">
-        <mark key="'" line="7" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5.jar!/org/apache/hadoop/fs/FileSystem.class" timestamp="1498639862210">
-        <mark key="'" line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/OfficeWork/stork-batch/src/stash.arms.dmm.com/stork/stork-batch/common/mainprocess.go" timestamp="1496656773379">
-        <mark key="'" line="18" column="10" />
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/OfficeWork/stork-batch/sql/bdmail_video-recommendation-for-subscriber.sql" timestamp="1496746650844">
-        <mark key="'" line="62" column="49" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/main.go" timestamp="1498188838388">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="33" column="9" />
-        <mark key="]" line="33" column="11" />
-        <mark key="." line="33" column="11" />
-        <mark key="^" line="33" column="11" />
-      </file>
-      <file name="$USER_HOME$/Downloads/reductions 2/src/main/scala/reductions/LineOfSight.scala" timestamp="1488792995864">
-        <mark key="'" line="157" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
-        <mark key="^" line="159" column="0" />
-      </file>
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/92_ins_segment.sql" timestamp="1500447956411" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/main.go" timestamp="1500440626868" />
       <file name="$USER_HOME$/MyWork/git/parallel-programming/assignment.sbt" timestamp="1489123513670">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="20" />
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="20" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/yzw/config/spring/applicationContext.xml" timestamp="1488881267776">
-        <mark key="'" line="45" column="18" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/test2/main.go" timestamp="1497593542905">
         <mark key="[" line="4" column="27" />
@@ -582,18 +477,17 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/test/java/jp/co/recruit/rtc/hoc/services/TestEmrClientService.java" timestamp="1488432035101">
-        <mark key="'" line="43" column="3" />
-        <mark key="[" line="58" column="72" />
-        <mark key="]" line="59" column="36" />
-        <mark key="." line="59" column="36" />
-        <mark key="^" line="59" column="36" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/git/yzw/DDL/oracle/ORACLE_EXAMPLE_INPUT_TABLE.ddl" timestamp="1488878222939">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/untitled/git2slack/src/main/scala/jp/co/ogikei/Git2Slack.scala" timestamp="1499323620160">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+        <mark key="." line="13" column="27" />
       </file>
       <file name="$USER_HOME$/MyWork/git/spark/streaming/src/main/scala/org/apache/spark/streaming/StreamingContext.scala" timestamp="1498637561716">
         <mark key="[" line="643" column="5" />
@@ -607,218 +501,252 @@
         <mark key="." line="139" column="0" />
         <mark key="^" line="139" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw_unique.sql" timestamp="1498724667380">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/ansible/group_vars/batch_presto_stress" timestamp="1499131301746">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="5" />
+        <mark key="." line="7" column="5" />
+        <mark key="^" line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-api/api/stork_meta.go" timestamp="1498462538629">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="17" column="21" />
-        <mark key="]" line="17" column="33" />
-        <mark key="." line="17" column="33" />
-        <mark key="^" line="17" column="33" />
+      <file name="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw_unique.sql" timestamp="1500457283072">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="25" />
+        <mark key="^" line="11" column="25" />
+        <mark key="." line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/spark/streaming/src/main/scala/org/apache/spark/streaming/Interval.scala" timestamp="1498637941545">
-        <mark key="'" line="58" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1498558117311">
+      <file name="/fragment.java" timestamp="1499842567398">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="8" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/datorama_load.go" />
-      <jump line="32" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/datorama_load.go" />
-      <jump line="9" column="4" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/netgame_ctr.go" />
-      <jump line="62" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/netgame_ctr.go" />
-      <jump line="56" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/netgame_ctr.go" />
-      <jump line="18" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/netgame_segment.go" />
-      <jump line="35" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/netgame_segment.go" />
-      <jump line="5" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/netgame_segment.go" />
-      <jump line="5" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" />
-      <jump line="32" column="23" filename="$USER_HOME$/OfficeTools/git/stork-batch/main.go" />
-      <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/netgame_ctr.go" />
-      <jump line="18" column="10" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
-      <jump line="109" column="28" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
-      <jump line="26" column="24" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
-      <jump line="108" column="30" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
-      <jump line="16" column="4" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
-      <jump line="110" column="16" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
-      <jump line="113" column="8" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
-      <jump line="32" column="10" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork.go" />
-      <jump line="4" column="14" filename="$USER_HOME$/OfficeTools/git/stork-api/api/healthcheck_test.go" />
-      <jump line="15" column="15" filename="$USER_HOME$/OfficeTools/git/stork-api/api/healthcheck_test.go" />
-      <jump line="22" column="7" filename="$USER_HOME$/OfficeTools/git/stork-batch/circle.yml" />
-      <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/circle.yml" />
-      <jump line="21" column="9" filename="$USER_HOME$/OfficeTools/git/stork-api/.gitignore" />
-      <jump line="21" column="28" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork_test.go" />
-      <jump line="14" column="26" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork_test.go" />
-      <jump line="20" column="21" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork_test.go" />
-      <jump line="16" column="10" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork_test.go" />
-      <jump line="15" column="29" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork_meta_test.go" />
-      <jump line="22" column="0" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork_meta_test.go" />
-      <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork_meta_test.go" />
-      <jump line="15" column="18" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/job_runner.go" />
-      <jump line="21" column="63" filename="$USER_HOME$/OfficeTools/git/stork-batch/common/postprocess.go" />
-      <jump line="28" column="11" filename="$USER_HOME$/OfficeTools/git/stork-batch/main.go" />
-      <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/main.go" />
-      <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/main.go" />
-      <jump line="31" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/main.go" />
-      <jump line="63" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/main.go" />
-      <jump line="18" column="11" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" />
-      <jump line="25" column="0" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" />
-      <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" />
-      <jump line="20" column="0" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" />
-      <jump line="19" column="25" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" />
-      <jump line="17" column="18" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" />
-      <jump line="16" column="7" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local.sh" />
-      <jump line="15" column="0" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" />
-      <jump line="31" column="64" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local_test.sh" />
-      <jump line="17" column="31" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
-      <jump line="20" column="80" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
-      <jump line="22" column="19" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
-      <jump line="10" column="24" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
-      <jump line="12" column="80" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
-      <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
-      <jump line="13" column="6" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
-      <jump line="24" column="0" filename="$USER_HOME$/OfficeTools/git/stork-migration/setup_local_test.sh" />
-      <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/git/stork-migration/circle.yml" />
-      <jump line="0" column="3434" filename="$USER_HOME$/OfficeTools/git/stork-api/cov.json" />
-      <jump line="24" column="4" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork_meta_test.go" />
-      <jump line="19" column="0" filename="$USER_HOME$/OfficeTools/git/stork-api/api/stork_meta.go" />
-      <jump line="34" column="0" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" />
-      <jump line="3" column="12" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" />
-      <jump line="5" column="30" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" />
-      <jump line="11" column="18" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" />
-      <jump line="13" column="16" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" />
-      <jump line="15" column="14" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" />
-      <jump line="17" column="10" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" />
-      <jump line="19" column="28" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.test.yml" />
-      <jump line="42" column="25" filename="$USER_HOME$/OfficeTools/git/stork-api/docker-compose.yml" />
-      <jump line="12" column="13" filename="$USER_HOME$/OfficeTools/git/stork-batch/.gitignore" />
-      <jump line="16" column="13" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
-      <jump line="22" column="11" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
-      <jump line="10" column="11" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
-      <jump line="26" column="8" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
-      <jump line="15" column="9" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
-      <jump line="11" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
-      <jump line="8" column="33" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
-      <jump line="7" column="26" filename="$USER_HOME$/OfficeTools/git/stork-batch/docker-compose-test.yml" />
-      <jump line="256" column="13" filename="$USER_HOME$/MyWork/git/hive/ql/src/java/org/apache/hadoop/hive/ql/parse/SemanticAnalyzer.java" />
-      <jump line="19" column="0" filename="$USER_HOME$/MyWork/git/hive/ql/src/java/org/apache/hadoop/hive/ql/parse/SemanticAnalyzer.java" />
-      <jump line="13615" column="0" filename="$USER_HOME$/MyWork/git/hive/ql/src/java/org/apache/hadoop/hive/ql/parse/SemanticAnalyzer.java" />
-      <jump line="16" column="1" filename="$USER_HOME$/MyWork/git/hive/ql/src/java/org/apache/hadoop/hive/ql/parse/SemanticAnalyzer.java" />
-      <jump line="422" column="16" filename="$USER_HOME$/MyWork/git/hive/ql/src/java/org/apache/hadoop/hive/ql/parse/SemanticAnalyzer.java" />
-      <jump line="448" column="3" filename="$USER_HOME$/MyWork/git/spark/graphx/src/main/scala/org/apache/spark/graphx/GraphOps.scala" />
-      <jump line="15" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
-      <jump line="328" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
-      <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
-      <jump line="355" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
-      <jump line="3" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
-      <jump line="352" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
-      <jump line="17" column="26" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
-      <jump line="351" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/spark/mllib/src/main/scala/org/apache/spark/ml/Pipeline.scala" />
-      <jump line="58" column="0" filename="$USER_HOME$/MyWork/git/spark/streaming/src/main/scala/org/apache/spark/streaming/Interval.scala" />
-      <jump line="33" column="45" filename="$USER_HOME$/MyWork/git/spark/streaming/src/main/scala/org/apache/spark/streaming/api/python/PythonDStream.scala" />
-      <jump line="9" column="22" filename="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5.jar!/org/apache/hadoop/fs/FileSystem.class" />
-      <jump line="57" column="0" filename="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5.jar!/org/apache/hadoop/fs/FileSystem.class" />
-      <jump line="51" column="24" filename="$USER_HOME$/go/src/gopkg.in/godo.v2/context.go" />
-      <jump line="6" column="0" filename="/usr/local/Cellar/go/1.8.3/libexec/src/cmd/go/context.go" />
-      <jump line="22" column="1" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw_unique.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw_unique.sql" />
+      <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
+      <jump line="33" column="7" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
+      <jump line="34" column="33" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
+      <jump line="36" column="61" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
+      <jump line="37" column="9" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
+      <jump line="38" column="9" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
+      <jump line="39" column="35" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
+      <jump line="25" column="52" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/Main.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/Main.java" />
+      <jump line="32" column="10" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
+      <jump line="27" column="41" filename="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" />
+      <jump line="45" column="17" filename="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" />
+      <jump line="24" column="27" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="11" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="6" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="116" column="41" filename="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" />
+      <jump line="132" column="12" filename="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" />
+      <jump line="20" column="24" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="101" column="22" filename="$USER_HOME$/.ivy2/cache/org.apache.flink/flink-streaming-java_2.11/srcs/flink-streaming-java_2.11-1.2.1-sources.jar!/org/apache/flink/streaming/api/environment/StreamExecutionEnvironment.java" />
+      <jump line="97" column="2" filename="$USER_HOME$/.ivy2/cache/org.apache.flink/flink-streaming-java_2.11/srcs/flink-streaming-java_2.11-1.2.1-sources.jar!/org/apache/flink/streaming/api/environment/StreamExecutionEnvironment.java" />
+      <jump line="1779" column="2" filename="$USER_HOME$/.ivy2/cache/org.apache.flink/flink-streaming-java_2.11/srcs/flink-streaming-java_2.11-1.2.1-sources.jar!/org/apache/flink/streaming/api/environment/StreamExecutionEnvironment.java" />
+      <jump line="1778" column="0" filename="$USER_HOME$/.ivy2/cache/org.apache.flink/flink-streaming-java_2.11/srcs/flink-streaming-java_2.11-1.2.1-sources.jar!/org/apache/flink/streaming/api/environment/StreamExecutionEnvironment.java" />
+      <jump line="30" column="22" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="7" column="59" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="100" column="0" filename="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" />
+      <jump line="101" column="12" filename="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" />
+      <jump line="88" column="12" filename="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" />
+      <jump line="276" column="39" filename="$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.10/1.2.0/flink-streaming-java_2.10-1.2.0.jar!/org/apache/flink/streaming/api/datastream/DataStream.class" />
+      <jump line="72" column="0" filename="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="4" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="33" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="44" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="40" column="4" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="34" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="78" column="0" filename="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="301" column="22" filename="$USER_HOME$/.ivy2/cache/org.apache.flink/flink-scala_2.11/srcs/flink-scala_2.11-1.2.1-sources.jar!/org/apache/flink/api/scala/ExecutionEnvironment.scala" />
+      <jump line="850" column="6" filename="$USER_HOME$/.ivy2/cache/org.scalanlp/breeze_2.11/srcs/breeze_2.11-0.12-sources.jar!/breeze/linalg/Vector.scala" />
+      <jump line="69" column="4" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="46" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="0" column="16" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="3" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="14" column="58" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="15" column="45" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="16" column="45" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="42" column="47" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="45" column="10" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="38" column="41" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="52" column="20" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="13" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="72" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="5" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="22" column="2" filename="$USER_HOME$/OfficeTools/git/kinesis-to-flink/src/main/scala/com/dmm/kinesisflink/Main.scala" />
+      <jump line="7" column="53" filename="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/com/dmm/aws/Main.scala" />
+      <jump line="54" column="6" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.1.1-sources.jar!/org/apache/spark/mllib/regression/StreamingLinearRegressionWithSGD.scala" />
+      <jump line="60" column="42" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.1.1-sources.jar!/org/apache/spark/mllib/regression/StreamingLinearRegressionWithSGD.scala" />
+      <jump line="47" column="78" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.1.1-sources.jar!/org/apache/spark/mllib/regression/StreamingLinearRegressionWithSGD.scala" />
+      <jump line="42" column="35" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.1.1-sources.jar!/org/apache/spark/mllib/regression/StreamingLinearRegressionWithSGD.scala" />
+      <jump line="35" column="49" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.1.1-sources.jar!/org/apache/spark/mllib/regression/StreamingLinearRegressionWithSGD.scala" />
+      <jump line="32" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" />
+      <jump line="11" column="37" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" />
+      <jump line="10" column="37" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" />
+      <jump line="24" column="9" filename="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" />
+      <jump line="20" column="29" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw_unique.sql" />
+      <jump line="11" column="14" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw_unique.sql" />
+      <jump line="90" column="4" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw_unique.sql" />
+      <jump line="69" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw_unique.sql" />
+      <jump line="10" column="1" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/14_r18_datorama.sql" />
+      <jump line="65" column="58" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/14_r18_datorama.sql" />
+      <jump line="15" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/94_ins_r18_datorama.sql" />
+      <jump line="17" column="79" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/94_ins_r18_datorama.sql" />
+      <jump line="18" column="65" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/94_ins_r18_datorama.sql" />
+      <jump line="19" column="65" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/94_ins_r18_datorama.sql" />
+      <jump line="29" column="24" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
+      <jump line="6" column="2" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
+      <jump line="19" column="2" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
+      <jump line="17" column="2" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
+      <jump line="30" column="2" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
+      <jump line="12" column="15" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
+      <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
+      <jump line="31" column="24" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
+      <jump line="5" column="18" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
+      <jump line="22" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
+      <jump line="33" column="14" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
+      <jump line="18" column="15" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
+      <jump line="0" column="102" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/95_ins_activity.sql" />
+      <jump line="20" column="16" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
+      <jump line="16" column="17" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
+      <jump line="19" column="1" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" />
+      <jump line="54" column="12" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" />
+      <jump line="56" column="27" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" />
+      <jump line="81" column="16" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" />
+      <jump line="91" column="87" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" />
+      <jump line="24" column="19" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" />
+      <jump line="30" column="8" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" />
+      <jump line="58" column="12" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" />
+      <jump line="61" column="30" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text># ignore glide file</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>interval</text>
+        <text>coun</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBgcmVmZXJlbmNlZF90YWJsZWAgVkFSQ0hBUig0NSkgTk9UIE5VTEwsCg==</text>
+        <text encoding="base64">LCgnc2VhcmNoJywnaG90d29yZHMtZGFpbHktcmF3LWFkdWx0JywnJywnJywwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KCdpM18yNW9yanMnLCAnMicsICcyJywgJ2FkdWx0JywgJ3BjX2FkdWx0JywgJ21vbnRobHknLCAnbW9udGhseV9rbXAnLCAnbW9udGhseV9rbXAnLCAneHh4eFh4eHh4JywKICd5eXl5WXl5eXknLCAnZmFmYS1mYWZhLWZhZmEtZmFmYScsICdySjlkX05LUUFkOWZjZlBRM0FYRUxLNTFWT0dCdG9vVScsICdwYycsICdNb3ppbGxhLzUuMCcsCiAnenp6elp6enp6JywgJ2h0dHA6Ly93d3cuZG1tLmNvLmpwLycsICdhYWFhQWFhYWEnLCAnYmJiYkJiYmJiJywgJzIwMTctMDYtMDUgMDI6Mzg6MjEnLAogJzExMS4xMTEuMTExLjExMScsICcnLCAnMScsICcyJywgJzMnLCAnNCcsICc1JywgJ2h0dHA6Ly93d3cuZG1tLmNvLmpwL3RvcC8nLCAnNjFtZHRtMDAwMjUnLAogJycsICdqYS1qcCcsICcnLCAnJywgJycpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBQUklNQVJZIEtFWWRkIChpM19zZXJ2aWNlX2NvZGUpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Z2xpZGUubG9jawo=</text>
+      <register name="3" type="8">
+        <text>`
+`
+`
+`
+`
+`
+`
+`
+`
+`
+`
+`
+`
+`
+`
+`
+`
+`
+`
+`
+`
+`
+`
+`
+`
+`
+`
+`
+`
+`
+`</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAtIGRldgo+Pj4+Pj4+IGQ4NjdhZGVhZjVkMTNmNjU3MjFjZjliZjQxNDM2ZGQyZDNiYzVjOWIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAtIGRldgoKICBwcmVzdG86CiAgICBpbWFnZTogc2thbWUvcHJlc3RvOjAuMTUyCj4+Pj4+Pj4gZDg2N2FkZWFmNWQxM2Y2NTcyMWNmOWJmNDE0MzZkZDJkM2JjNWM5Ygo=</text>
+        <text encoding="base64">ICBGUk9NCiAgICBzdW1tYXJ5X3JhdGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAtIC46L2dvL3NyYy9zdGFzaC5hcm1zLmRtbS5jb20vc3Rvcmsvc3RvcmstYmF0Y2gKICAgIHdvcmtpbmdfZGlyOiAvZ28vc3JjL3N0YXNoLmFybXMuZG1tLmNvbS9zdG9yay9zdG9yay1iYXRjaAogICAgbmV0d29ya3M6CiAgICAgIC0gZGV2Cj4+Pj4+Pj4gZDg2N2FkZWFmNWQxM2Y2NTcyMWNmOWJmNDE0MzZkZDJkM2JjNWM5Ygo=</text>
+        <text encoding="base64">ICAgIG1vZGVsLnByZWRpY3RPblZhbHVlcyh0ZXN0RGF0YS5tYXAobHAgPT4gKGxwLmxhYmVsLCBscC5mZWF0dXJlcykpKS5wcmludCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIGtpbmVzaXNEUy5tYXAoTGFiZWxlZFBvaW50LnBhcnNlKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/varchar//g</text>
       </register>
     </registers>
     <search>
-      <last-search>interval</last-search>
+      <last-search>coun</last-search>
       <last-offset />
-      <last-pattern>interval</last-pattern>
+      <last-pattern>coun</last-pattern>
+      <last-replace />
+      <last-substitute>varchar</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGFydFw+</entry>
-        <entry>cache</entry>
-        <entry>db</entry>
-        <entry>harp</entry>
-        <entry encoding="base64">XDxodHRwdGVzdFw+</entry>
-        <entry encoding="base64">XDxjb3ZlcmFnZVw+</entry>
-        <entry>newserver</entry>
-        <entry encoding="base64">XDxuYW1lc3BhY2VcPg==</entry>
-        <entry>rec</entry>
-        <entry>go lint</entry>
-        <entry>json</entry>
-        <entry encoding="base64">XDxzdG9ya1w+</entry>
-        <entry>stork</entry>
-        <entry>refe</entry>
-        <entry>test</entry>
-        <entry encoding="base64">XDxtYW5hZ2VyXD4=</entry>
-        <entry>sta</entry>
-        <entry>com</entry>
-        <entry>up</entry>
-        <entry>interval</entry>
+        <entry>speed</entry>
+        <entry encoding="base64">XDxDbGFzc1RhZ1w+</entry>
+        <entry>kinesis</entry>
+        <entry>sgd</entry>
+        <entry>qu</entry>
+        <entry>query</entry>
+        <entry>que</entry>
+        <entry>exec</entry>
+        <entry>hitcount</entry>
+        <entry>hit_count</entry>
+        <entry encoding="base64">XDxzdW1tYXJ5X2hpdF9jb3VudFw+</entry>
+        <entry>acti</entry>
+        <entry>act</entry>
+        <entry>activity</entry>
+        <entry>`</entry>
+        <entry>string</entry>
+        <entry>array</entry>
+        <entry>varchar</entry>
+        <entry>count</entry>
+        <entry>coun</entry>
       </history-search>
       <history-cmd>
-        <entry>35</entry>
-        <entry>372</entry>
-        <entry>192</entry>
-        <entry>597</entry>
-        <entry>2</entry>
-        <entry>go fmt</entry>
-        <entry>22</entry>
-        <entry>48</entry>
-        <entry>s</entry>
-        <entry>33</entry>
-        <entry>go lint</entry>
         <entry>go lint main.go</entry>
         <entry>%d</entry>
         <entry>golint</entry>
         <entry>wq</entry>
         <entry>25</entry>
+        <entry>45</entry>
         <entry>W</entry>
+        <entry>24</entry>
+        <entry>s</entry>
+        <entry>28</entry>
+        <entry>30</entry>
         <entry>w</entry>
+        <entry>39</entry>
+        <entry>69</entry>
+        <entry>s/`//</entry>
+        <entry>s/`//g</entry>
+        <entry>s/`//G</entry>
+        <entry>%s/`//g</entry>
+        <entry>%s/string/varchar/g</entry>
+        <entry>%s/varchar//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
