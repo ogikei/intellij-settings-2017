@@ -344,12 +344,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="25" column="38" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/go-test/main.go" timestamp="1500534833478">
+      <file name="$USER_HOME$/OfficeTools/git/go-test/main.go" timestamp="1500535937553">
         <mark key="'" line="19" column="4" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="30" column="23" />
+        <mark key="[" line="38" column="25" />
+        <mark key="]" line="38" column="25" />
+        <mark key="." line="38" column="25" />
+        <mark key="^" line="38" column="25" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/ProjectProperties.java" timestamp="1489480143831">
         <mark key="[" line="14" column="96" />
@@ -623,11 +623,11 @@
       <jump line="18" column="4" filename="$USER_HOME$/OfficeTools/git/go-test/main.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>coun</text>
@@ -636,31 +636,31 @@
         <text encoding="base64">LCgnc2VhcmNoJywnaG90d29yZHMtZGFpbHktcmF3LWFkdWx0JywnJywnJywwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIOOBkeOCk+OBleOBj+OBn+OBhOOBl+OCh+OBhgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vIFRoaXMgaW1wbGVtZW50YXRpb24gZG9lc24ndCBkbyBlaXRoZXI6CglpZiBkZXB0aCA8PSAwIHsKCQlyZXR1cm4KCX0KCWJvZHksIHVybHMsIGVyciA6PSBmZXRjaGVyLkZldGNoKHVybCkKCWlmIGVyciAhPSBuaWwgewoJCWZtdC5QcmludGxuKGVycikKCQlyZXR1cm4KCX0KCWZtdC5QcmludGYoImZvdW5kOiAlcyAlcVxuIiwgdXJsLCBib2R5KQoJZm9yIF8sIHUgOj0gcmFuZ2UgdXJscyB7CgkJQ3Jhd2wodSwgZGVwdGgtMSwgZmV0Y2hlcikKCX0KCXJldHVybgo=</text>
+        <text encoding="base64">CQkvLyBtb3Jl44GL44KJ5qSc57Si5a++6LGh44KSMeOBpOWPl+OBkeWPluOBo+OBn+OBruOBpwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyBkZXB0aDoxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CS8vIFRoaXMgaW1wbGVtZW50YXRpb24gZG9lc24ndCBkbyBlaXRoZXI6CglpZiBkZXB0aCA8PSAwIHsKCQlyZXR1cm4KCX0KCWJvZHksIHVybHMsIGVyciA6PSBmZXRjaGVyLkZldGNoKHVybCkKCWlmIGVyciAhPSBuaWwgewoJCWZtdC5QcmludGxuKGVycikKCQlyZXR1cm4KCX0KCWZtdC5QcmludGYoImZvdW5kOiAlcyAlcVxuIiwgdXJsLCBib2R5KQoJZm9yIF8sIHUgOj0gcmFuZ2UgdXJscyB7CgkJQ3Jhd2wodSwgZGVwdGgtMSwgZmV0Y2hlcikKCX0KCXJldHVybgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIHVybCwgZGVwdGjjgpLlj5fjgZHlj5bjgaPjgaYK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>go fmt</text>
