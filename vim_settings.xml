@@ -344,10 +344,11 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="25" column="38" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/go-test/main.go" timestamp="1500523299415">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/go-test/main.go" timestamp="1500528216996">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/models/ProjectProperties.java" timestamp="1489480143831">
         <mark key="[" line="14" column="96" />
@@ -519,10 +520,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
-      <jump line="33" column="7" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
-      <jump line="34" column="33" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
-      <jump line="36" column="61" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
       <jump line="37" column="9" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
       <jump line="38" column="9" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
       <jump line="39" column="35" filename="$USER_HOME$/OfficeTools/git/kinesis/src/main/java/com/dmm/aws/kinesis/Producer.java" />
@@ -619,10 +616,14 @@
       <jump line="30" column="8" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" />
       <jump line="58" column="12" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" />
       <jump line="61" column="30" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw.sql" />
+      <jump line="87" column="0" filename="$USER_HOME$/OfficeTools/git/go-test/main.go" />
+      <jump line="7" column="0" filename="$USER_HOME$/OfficeTools/git/go-test/main.go" />
+      <jump line="81" column="0" filename="$USER_HOME$/OfficeTools/git/go-test/main.go" />
+      <jump line="3" column="0" filename="$USER_HOME$/OfficeTools/git/go-test/main.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>go_test</text>
@@ -634,64 +635,34 @@
         <text encoding="base64">LCgnc2VhcmNoJywnaG90d29yZHMtZGFpbHktcmF3LWFkdWx0JywnJywnJywwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KCdpM18yNW9yanMnLCAnMicsICcyJywgJ2FkdWx0JywgJ3BjX2FkdWx0JywgJ21vbnRobHknLCAnbW9udGhseV9rbXAnLCAnbW9udGhseV9rbXAnLCAneHh4eFh4eHh4JywKICd5eXl5WXl5eXknLCAnZmFmYS1mYWZhLWZhZmEtZmFmYScsICdySjlkX05LUUFkOWZjZlBRM0FYRUxLNTFWT0dCdG9vVScsICdwYycsICdNb3ppbGxhLzUuMCcsCiAnenp6elp6enp6JywgJ2h0dHA6Ly93d3cuZG1tLmNvLmpwLycsICdhYWFhQWFhYWEnLCAnYmJiYkJiYmJiJywgJzIwMTctMDYtMDUgMDI6Mzg6MjEnLAogJzExMS4xMTEuMTExLjExMScsICcnLCAnMScsICcyJywgJzMnLCAnNCcsICc1JywgJ2h0dHA6Ly93d3cuZG1tLmNvLmpwL3RvcC8nLCAnNjFtZHRtMDAwMjUnLAogJycsICdqYS1qcCcsICcnLCAnJywgJycpCg==</text>
+        <text encoding="base64">aW1wb3J0ICJmbXQiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBQUklNQVJZIEtFWWRkIChpM19zZXJ2aWNlX2NvZGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`</text>
+      <register name="4" type="2">
+        <text encoding="base64">cGFja2FnZSBtYWluCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICJmbXQiCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBGUk9NCiAgICBzdW1tYXJ5X3JhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLnByZWRpY3RPblZhbHVlcyh0ZXN0RGF0YS5tYXAobHAgPT4gKGxwLmxhYmVsLCBscC5mZWF0dXJlcykpKS5wcmludCgpCg==</text>
+        <text encoding="base64">ZnVuYyBtYWluKCkgewoJCn1rCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/varchar//g</text>
+        <text>go fmt</text>
       </register>
     </registers>
     <search>
@@ -727,8 +698,6 @@
         <entry>coun</entry>
       </history-search>
       <history-cmd>
-        <entry>go lint main.go</entry>
-        <entry>%d</entry>
         <entry>golint</entry>
         <entry>wq</entry>
         <entry>25</entry>
@@ -747,6 +716,8 @@
         <entry>%s/`//g</entry>
         <entry>%s/string/varchar/g</entry>
         <entry>%s/varchar//g</entry>
+        <entry>go import</entry>
+        <entry>go fmt</entry>
       </history-cmd>
       <history-expr />
       <history-input />
