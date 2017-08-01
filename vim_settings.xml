@@ -142,12 +142,11 @@
         <mark key="^" line="1" column="39" />
         <mark key="." line="1" column="50" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/pigeon/common/log.go" timestamp="1501558600729">
+      <file name="$USER_HOME$/OfficeTools/git/pigeon/common/log.go" timestamp="1501559954690">
         <mark key="'" line="45" column="8" />
-        <mark key="[" line="34" column="26" />
-        <mark key="]" line="34" column="8" />
-        <mark key="." line="34" column="8" />
-        <mark key="^" line="34" column="8" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" timestamp="1499848208439">
         <mark key="'" line="78" column="0" />
@@ -668,8 +667,8 @@
       <jump line="49" column="8" filename="$USER_HOME$/OfficeTools/git/pigeon/common/log.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSJlbmNvZGluZy9qc29uIgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -681,31 +680,31 @@
         <text encoding="base64">dHlwZSBSb3RhdGVBcHBMb2cgc3RydWN0IHsKCWxvY2sgICAgIHN5bmMuTXV0ZXgKCWZpbGVuYW1lIHN0cmluZwoJZnAgICAgICAgKm9zLkZpbGUKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWZsYWcgICAgIGNoYW4gYm9vbAo=</text>
+        <text encoding="base64">CSJlbmNvZGluZy9qc29uIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWdvIGZ1bmMoKSB7CgkJZm9yIHsKCQkJdy5Xcml0ZSgpCgkJCWlmIAoJCX0KCX0oKQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CXcudG9KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWYK</text>
+        <text encoding="base64">CXcudG9KCglyZXR1cm4gdy5mcC5Xcml0ZShvdXRwdXQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWxvZy5TZXRPdXRwdXQoKQoJbG9nLlNldEZsYWdzKCkKCWlvLk11bHRpV3JpdGVyKCkK</text>
+        <text encoding="base64">CWpzb24uTWFyc2hhbCh3LmZwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXcuZnAsIGVyciA9IG9zLkNyZWF0ZSh3LmZpbGVuYW1lKQoJcmV0dXJuCn0K</text>
+        <text encoding="base64">CWZsYWcgICAgIGNoYW4gYm9vbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJZm10LkZwcmludGYob3MuU3RkZXJyLCAiJXM6IFJlb3BlbmluZyAlcVxuIiwgdGltZS5Ob3coKSwgbHIucGF0aCkKCQkJaWYgZXJyIDo9IGxyLnJlb3BlbigpOyBlcnIgIT0gbmlsIHsKCQkJCWZtdC5GcHJpbnRmKG9zLlN0ZGVyciwgIiVzOiBFcnJvciByZW9wZW5pbmc6ICVzXG4iLCB0aW1lLk5vdygpLCBlcnIpCgkJCX0K</text>
+        <text encoding="base64">CWdvIGZ1bmMoKSB7CgkJZm9yIHsKCQkJdy5Xcml0ZSgpCgkJCWlmIAoJCX0KCX0oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlzaWduYWwuTm90aWZ5KGxyLnNpZ2h1cCwgc3lzY2FsbC5TSUdIVVApCg==</text>
+        <text encoding="base64">CWYK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
