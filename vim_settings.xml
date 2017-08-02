@@ -241,6 +241,7 @@
         <mark key="^" line="76" column="21" />
         <mark key="." line="76" column="21" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/labstack/echo/middleware/middleware.go" timestamp="1501640706761" />
       <file name="$USER_HOME$/OfficeTools/git/i3-collector/env/production/collecting/video/digitalbasket/collecting.json5" timestamp="1499069382418">
         <mark key="[" line="10" column="78" />
         <mark key="]" line="10" column="78" />
@@ -293,13 +294,13 @@
         <mark key="^" line="0" column="55" />
         <mark key="." line="0" column="55" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" timestamp="1501640982658">
+        <mark key="'" line="155" column="10" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="19" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis/settings.gradle" timestamp="1499754893571">
         <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/94_ins_r18_datorama.sql" timestamp="1500452419895">
-        <mark key="'" line="19" column="65" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="110" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis/build.gradle" timestamp="1499756319235">
         <mark key="[" line="28" column="85" />
@@ -324,6 +325,13 @@
         <mark key="]" line="30" column="18" />
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/pigeon/middleware/log.go" timestamp="1501641071249">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="28" column="40" />
+        <mark key="." line="28" column="40" />
+        <mark key="^" line="28" column="40" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Backet.java" timestamp="1499653038829">
         <mark key="[" line="2" column="13" />
@@ -587,25 +595,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/sql/search_hotwords_raw_unique.sql" />
-      <jump line="10" column="1" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/14_r18_datorama.sql" />
-      <jump line="65" column="58" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/14_r18_datorama.sql" />
-      <jump line="15" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/94_ins_r18_datorama.sql" />
-      <jump line="17" column="79" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/94_ins_r18_datorama.sql" />
-      <jump line="18" column="65" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/94_ins_r18_datorama.sql" />
-      <jump line="19" column="65" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/94_ins_r18_datorama.sql" />
-      <jump line="29" column="24" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
-      <jump line="6" column="2" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
-      <jump line="19" column="2" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
-      <jump line="17" column="2" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
-      <jump line="30" column="2" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
-      <jump line="12" column="15" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
-      <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
-      <jump line="31" column="24" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
-      <jump line="5" column="18" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
-      <jump line="22" column="0" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
-      <jump line="33" column="14" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
-      <jump line="18" column="15" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
       <jump line="0" column="102" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/95_ins_activity.sql" />
       <jump line="20" column="16" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
       <jump line="16" column="17" filename="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/ddl/15_activity.sql" />
@@ -687,55 +676,74 @@
       <jump line="48" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
       <jump line="11" column="30" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
       <jump line="39" column="10" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
+      <jump line="22" column="7" filename="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" />
+      <jump line="118" column="69" filename="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" />
+      <jump line="119" column="15" filename="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" />
+      <jump line="179" column="33" filename="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" />
+      <jump line="180" column="59" filename="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" />
+      <jump line="181" column="33" filename="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" />
+      <jump line="182" column="49" filename="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" />
+      <jump line="183" column="33" filename="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" />
+      <jump line="184" column="48" filename="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" />
+      <jump line="185" column="33" filename="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" />
+      <jump line="186" column="36" filename="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" />
+      <jump line="18" column="0" filename="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" />
+      <jump line="81" column="2" filename="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" />
+      <jump line="20" column="12" filename="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" />
+      <jump line="82" column="12" filename="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" />
+      <jump line="63" column="4" filename="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" />
+      <jump line="14" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/log.go" />
+      <jump line="155" column="10" filename="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" />
+      <jump line="25" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/log.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Newで勝手にRotateされる</text>
+        <text>string</text>
       </register>
       <register name="-" type="4">
-        <text>Newで勝手にRotateされる</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
-        <text>middle</text>
+        <text>color</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWUuVXNlKG1pZGRsZXdhcmUuTG9nZ2VyV2l0aENvbmZpZyhtaWRkbGV3YXJlLkxvZ2dlckNvbmZpZ3sKCQlPdXRwdXQ6IG9zLlN0ZG91dCwKCX0pKQo=</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2xhYnN0YWNrL2VjaG8iCgkiZ2l0aHViLmNvbS9sYWJzdGFjay9lY2hvL21pZGRsZXdhcmUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWUuCg==</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2xhYnN0YWNrL2VjaG8iCgkiZ2l0aHViLmNvbS9sYWJzdGFjay9lY2hvL21pZGRsZXdhcmUiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWUuQ29udGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWMuU2V0KCkK</text>
+        <text encoding="base64">CVBlcmlvZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWUuQ2xvc2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlleGVjTG9nLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/filename/fileName/g</text>
       </register>
     </registers>
     <search>
-      <last-search>middle</last-search>
+      <last-search>color</last-search>
       <last-offset />
-      <last-pattern>middle</last-pattern>
+      <last-pattern>color</last-pattern>
       <last-replace>fileName</last-replace>
       <last-substitute>filename</last-substitute>
       <last-dir>1</last-dir>
@@ -743,9 +751,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdW1tYXJ5X2hpdF9jb3VudFw+</entry>
-        <entry>acti</entry>
-        <entry>act</entry>
         <entry>activity</entry>
         <entry>`</entry>
         <entry>string</entry>
@@ -763,6 +768,9 @@
         <entry>fp</entry>
         <entry>write</entry>
         <entry>middle</entry>
+        <entry>tag</entry>
+        <entry encoding="base64">XDxTa2lwcGVyXD4=</entry>
+        <entry>color</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
