@@ -152,12 +152,12 @@
       <file name="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" timestamp="1499848208439">
         <mark key="'" line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/pigeon/main.go" timestamp="1501656070593">
-        <mark key="'" line="6" column="6" />
-        <mark key="[" line="45" column="4" />
-        <mark key="]" line="45" column="53" />
-        <mark key="." line="45" column="53" />
-        <mark key="^" line="45" column="53" />
+      <file name="$USER_HOME$/OfficeTools/git/pigeon/main.go" timestamp="1501659824851">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="41" column="28" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/timeusage/test.sc" timestamp="1494179773950">
         <mark key="[" line="14" column="100" />
@@ -189,10 +189,10 @@
       <file name="$USER_HOME$/.ivy2/cache/org.apache.flink/flink-scala_2.11/srcs/flink-scala_2.11-1.2.1-sources.jar!/org/apache/flink/api/scala/ExecutionEnvironment.scala" timestamp="1499915796589">
         <mark key="'" line="301" column="22" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/pigeon/middleware/log.xml" timestamp="1501655671962">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="2" column="12" />
-        <mark key="." line="2" column="12" />
+      <file name="$USER_HOME$/OfficeTools/git/pigeon/middleware/log.xml" timestamp="1501659230800">
+        <mark key="[" line="4" column="58" />
+        <mark key="]" line="4" column="86" />
+        <mark key="." line="4" column="58" />
         <mark key="^" line="2" column="12" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis/build.sbt" timestamp="1499754484751">
@@ -333,11 +333,11 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/pigeon/middleware/log.go" timestamp="1501657000151">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="13" />
-        <mark key="." line="15" column="13" />
-        <mark key="^" line="15" column="13" />
+      <file name="$USER_HOME$/OfficeTools/git/pigeon/middleware/log.go" timestamp="1501660043137">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+        <mark key="^" line="7" column="14" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Backet.java" timestamp="1499653038829">
         <mark key="[" line="2" column="13" />
@@ -418,11 +418,11 @@
         <mark key="^" line="14" column="97" />
         <mark key="." line="14" column="96" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/pigeon/api/test.go" timestamp="1501574798155">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="19" column="10" />
+      <file name="$USER_HOME$/OfficeTools/git/pigeon/api/test.go" timestamp="1501660295095">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+        <mark key="^" line="5" column="13" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/build.sbt" timestamp="1500018796863">
         <mark key="[" line="9" column="39" />
@@ -601,7 +601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="20" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
       <jump line="18" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
       <jump line="34" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
       <jump line="13" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/docker/nginx/nginx.conf" />
@@ -701,46 +700,49 @@
       <jump line="6" column="6" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
       <jump line="14" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/log.go" />
       <jump line="20" column="4" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/log.go" />
+      <jump line="49" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>echo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJaWYgZXJyID0gbmV4dChjKTsgZXJyICE9IG5pbCB7CgkJCQljLkVycm9yKGVycikKCQkJfQo=</text>
+        <text encoding="base64">CWUuVXNlKG1pZGRsZXdhcmUuTG9nZ2VyV2l0aENvbmZpZyhtaWRkbGV3YXJlLkxvZ2dlckNvbmZpZ3sKCQlPdXRwdXQ6IG9zLlN0ZG91dCwKCX0pKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmV4dChjKQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlsb2cuSW5mbygpCg==</text>
+        <text encoding="base64">CWUuVXNlKG1pZGRsZXdhcmUuTG9nZ2VyV2l0aENvbmZpZyhtaWRkbGV3YXJlLkxvZ2dlckNvbmZpZ3sKCQlPdXRwdXQ6IG9zLlN0ZG91dCwKCX0pKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlsb2cuCg==</text>
+      <register name="3" type="4">
+        <text>LoggerWithConfig(middleware.LoggerConfig{
+		Output: os.Stdout,
+	})</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlDdXN0b21NaWRkbGV3YXJlCg==</text>
+        <text encoding="base64">CWUuVXNlKG1pZGRsZXdhcmUuTG9nZ2VyV2l0aENvbmZpZyguewoJfSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlDdXN0b21NaWRkbGV3YXJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpZiBjb25maWcuU2tpcHBlcihjKSB7CgkJCXJldHVybiBuZXh0KGMpCgkJfQo=</text>
+        <text encoding="base64">Ly8gdG9kbyDnkrDlooPlpInmlbDjgpLkvb/jgYYKLy8gdG9kbyBOZXfjgafjg5XjgqHjgqTjg6vkvZzmiJAKLy8gdG9kbyDjg5XjgqHjgqTjg6vjgYzlrZjlnKjjgZfjgZ/jgolSb3RhdGXjgZXjgozjgosKLy8gdG9kbyBOZXfjgpIK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuYyBMb2dnZXJXaXRoQ29uZmlnKGNvbmZpZyBMb2dnZXJDb25maWcpIGVjaG8uTWlkZGxld2FyZUZ1bmMgewoJaWYgY29uZmlnLlNraXBwZXIgPT0gbmlsIHsKCQljb25maWcuU2tpcHBlciA9IERlZmF1bHRMb2dnZXJDb25maWcuU2tpcHBlcgoJfQoJcmV0dXJuIGZ1bmMobmV4dCBlY2hvLkhhbmRsZXJGdW5jKSBlY2hvLkhhbmRsZXJGdW5jIHsKCQlyZXR1cm4gZnVuYyhjIGVjaG8uQ29udGV4dCkgKGVyciBlcnJvcikgewoJCQlpZiBjb25maWcuU2tpcHBlcihjKSB7CgkJCQlyZXR1cm4gbmV4dChjKQoJCQl9CgkJCWMuUmVzcG9uc2UoKQoJCQlyZXR1cm4KCQl9Cgl9Cn0K</text>
+        <text encoding="base64">CWFwcExvZywgZXJyIDo9IGNvbW1vbi5OZXcoYy5TdHJpbmcoImFwcExvZyIpKQoJaWYgZXJyICE9IG5pbCB7CgkJZS5Mb2dnZXIuRmF0YWwoZXJyKQoJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/filename/fileName/g</text>
