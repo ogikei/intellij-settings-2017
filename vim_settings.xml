@@ -240,12 +240,12 @@
         <mark key="^" line="76" column="21" />
         <mark key="." line="76" column="21" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" timestamp="1501668251121">
-        <mark key="'" line="27" column="15" />
-        <mark key="[" line="17" column="22" />
-        <mark key="]" line="17" column="44" />
-        <mark key="." line="17" column="44" />
-        <mark key="^" line="17" column="44" />
+      <file name="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" timestamp="1501669680290">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="62" column="18" />
+        <mark key="]" line="62" column="18" />
+        <mark key="." line="62" column="18" />
+        <mark key="^" line="62" column="18" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-collector/env/production/collecting/video/digitalbasket/collecting.json5" timestamp="1499069382418">
         <mark key="[" line="10" column="78" />
@@ -333,12 +333,12 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/pigeon/middleware/log.go" timestamp="1501667844557">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="19" column="9" />
-        <mark key="." line="19" column="9" />
-        <mark key="^" line="19" column="9" />
+      <file name="$USER_HOME$/OfficeTools/git/pigeon/middleware/log.go" timestamp="1501669622341">
+        <mark key="'" line="12" column="9" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="7" column="4" />
+        <mark key="^" line="7" column="4" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Backet.java" timestamp="1499653038829">
         <mark key="[" line="2" column="13" />
@@ -601,8 +601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="14" filename="$USER_HOME$/go/src/github.com/labstack/echo/echo.go" />
-      <jump line="284" column="20" filename="$USER_HOME$/go/src/github.com/labstack/echo/echo.go" />
       <jump line="30" column="8" filename="$USER_HOME$/OfficeTools/git/pigeon/common/common.go" />
       <jump line="53" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/common/common.go" />
       <jump line="63" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/common/applog.go" />
@@ -690,7 +688,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/common/common.go" />
       <jump line="26" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/common/common.go" />
       <jump line="11" column="20" filename="$USER_HOME$/OfficeTools/git/pigeon/common/common.go" />
-      <jump line="12" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/log.go" />
       <jump line="3" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/log.go" />
       <jump line="59" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/log.go" />
       <jump line="27" column="47" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/log.go" />
@@ -701,55 +698,61 @@
       <jump line="13" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
       <jump line="30" column="16" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
       <jump line="27" column="15" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
+      <jump line="8" column="4" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/log.go" />
+      <jump line="12" column="9" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/log.go" />
+      <jump line="32" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="&quot;" type="4">
+        <text>LogFile</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>LogFile</text>
       </register>
       <register name="/" type="4">
-        <text>write</text>
+        <text encoding="base64">XDxFeGVjTG9nRmlsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWZwLCBlcnIgOj0KCQlvcy5PcGVuRmlsZSh3LmZpbGVOYW1lKyItIisiLmxvZyIsIG9zLk9fUkRXUnxvcy5PX0NSRUFURXxvcy5PX0FQUEVORCwgMDY2NikKCWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBuaWwsIGVycgoJfQoJdy5mcCA9IGZwCg==</text>
+        <text encoding="base64">ZnVuYyBXaGV0aGVyUm90YXRpb24oKSAoZXJyIGVycm9yKSB7CgljdXJyZW50VGltZSA6PSB0aW1lLk5vdygpCglpZiBMb2dGaWxlLlRpbWVTdGFtcC5CZWZvcmUoY3VycmVudFRpbWUpICYmIExvZ0ZpbGUuVGltZVN0YW1wLk1pbnV0ZSgpICE9IGN1cnJlbnRUaW1lLk1pbnV0ZSgpIHsKCQlMb2dGaWxlLlRpbWVTdGFtcCA9IGN1cnJlbnRUaW1lCgkJaWYgZXJyIDo9IExvZ0ZpbGUuUm90YXRlKCk7IGVyciAhPSBuaWwgewoJCQlyZXR1cm4gZm10LkVycm9yZigiZmFpbGQgdG8gcm90YXRlIGxvZzogJXMiLCBlcnIpCgkJfQoJfQoJcmV0dXJuCn0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWlmIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXRpbWUuU2xlZXAodGltZS5NaW51dGUpCg==</text>
+        <text encoding="base64">CWlmCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlMb2dGaWxlLlJvdGF0ZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="5" type="4">
+        <text>var (
+	ExecLogFile File
+	AppLogFile  File
+) struct</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlsb2dQcmVmaXggOj0gTG9nRmlsZS5UaW1lU3RhbXAuRm9ybWF0KCIyMDA2LTAxLTAyLTAzLTA0IikKCQllcnIgOj0gTG9nRmlsZS5jcmVhdGVMb2dnZXJTdHJlYW0obG9nUHJlZml4KQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXRpbWUuU2xlZXAodGltZS5NaW51dGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuYyAodyAqRmlsZSkgQ3JlYXRlKCkgKGYgKkZpbGUsIGVyciBlcnJvcikgewoJZnAsIGVyciA6PQoJCW9zLk9wZW5GaWxlKHcuZmlsZU5hbWUrIi0iKyIubG9nIiwgb3MuT19SRFdSfG9zLk9fQ1JFQVRFfG9zLk9fQVBQRU5ELCAwNjY2KQoJaWYgZXJyICE9IG5pbCB7CgkJcmV0dXJuIG5pbCwgZXJyCgl9Cgl3LmZwID0gZnAKCXJldHVybiB3Cn0K</text>
+        <text encoding="base64">CQlMb2dGaWxlLlJvdGF0ZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>write</last-search>
+      <last-search encoding="base64">XDxFeGVjTG9nRmlsZVw+</last-search>
       <last-offset />
-      <last-pattern>write</last-pattern>
+      <last-pattern encoding="base64">XDxFeGVjTG9nRmlsZVw+</last-pattern>
       <last-replace>fileName</last-replace>
       <last-substitute>filename</last-substitute>
       <last-dir>1</last-dir>
@@ -757,7 +760,6 @@
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
         <entry>remove</entry>
         <entry>log</entry>
         <entry>return</entry>
@@ -777,6 +779,7 @@
         <entry encoding="base64">XDxGaWxlXD4=</entry>
         <entry>fp</entry>
         <entry>write</entry>
+        <entry encoding="base64">XDxFeGVjTG9nRmlsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
