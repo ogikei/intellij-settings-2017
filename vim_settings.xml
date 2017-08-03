@@ -152,12 +152,12 @@
       <file name="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" timestamp="1499848208439">
         <mark key="'" line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/pigeon/main.go" timestamp="1501741563111">
-        <mark key="'" line="46" column="4" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="49" column="14" />
+      <file name="$USER_HOME$/OfficeTools/git/pigeon/main.go" timestamp="1501746319605">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="48" column="4" />
+        <mark key="]" line="48" column="12" />
+        <mark key="." line="48" column="12" />
+        <mark key="^" line="48" column="12" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon/sh/docker_local_deployment.sh" timestamp="1501743961896">
         <mark key="[" line="11" column="113" />
@@ -426,12 +426,12 @@
         <mark key="^" line="14" column="97" />
         <mark key="." line="14" column="96" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/pigeon/api/test.go" timestamp="1501740516980">
+      <file name="$USER_HOME$/OfficeTools/git/pigeon/api/test.go" timestamp="1501746328715">
         <mark key="'" line="16" column="13" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="20" column="26" />
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="19" column="26" />
+        <mark key="^" line="19" column="26" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/build.sbt" timestamp="1500018796863">
         <mark key="[" line="9" column="39" />
@@ -609,7 +609,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="6" filename="$USER_HOME$/OfficeTools/git/pigeon/common/file.go" />
       <jump line="10" column="4" filename="$USER_HOME$/OfficeTools/git/pigeon/common/file.go" />
       <jump line="33" column="9" filename="$USER_HOME$/OfficeTools/git/pigeon/common/file.go" />
       <jump line="23" column="15" filename="$USER_HOME$/OfficeTools/git/pigeon/common/file.go" />
@@ -709,16 +708,17 @@
       <jump line="71" column="26" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
       <jump line="69" column="23" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
       <jump line="42" column="29" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
+      <jump line="13" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICsgIi5sb2ci</text>
+        <text>Mw</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgIi5sb2ci</text>
+        <text>Mw</text>
       </register>
       <register name="/" type="4">
-        <text>filename</text>
+        <text>middle</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlTZXRUaW1lU3RhbXAodGltZS5Ob3coKSkK</text>
@@ -755,9 +755,9 @@
       </register>
     </registers>
     <search>
-      <last-search>filename</last-search>
+      <last-search>middle</last-search>
       <last-offset />
-      <last-pattern>filename</last-pattern>
+      <last-pattern>middle</last-pattern>
       <last-replace>fileName</last-replace>
       <last-substitute>filename</last-substitute>
       <last-dir>1</last-dir>
@@ -782,9 +782,9 @@
         <entry>fp</entry>
         <entry>write</entry>
         <entry encoding="base64">XDxFeGVjTG9nRmlsZVw+</entry>
-        <entry>middle</entry>
         <entry>print</entry>
         <entry>filename</entry>
+        <entry>middle</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
