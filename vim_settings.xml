@@ -240,12 +240,12 @@
         <mark key="^" line="76" column="21" />
         <mark key="." line="76" column="21" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" timestamp="1501670528598">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="58" column="15" />
-        <mark key="]" line="58" column="16" />
-        <mark key="." line="58" column="16" />
-        <mark key="^" line="62" column="18" />
+      <file name="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" timestamp="1501725789001">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="17" />
+        <mark key="." line="32" column="17" />
+        <mark key="^" line="32" column="17" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-collector/env/production/collecting/video/digitalbasket/collecting.json5" timestamp="1499069382418">
         <mark key="[" line="10" column="78" />
@@ -703,11 +703,11 @@
       <jump line="32" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>LogFile</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQl7fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>LogFile</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFeGVjTG9nRmlsZVw+</text>
@@ -716,34 +716,34 @@
         <text encoding="base64">ZnVuYyBXaGV0aGVyUm90YXRpb24oKSAoZXJyIGVycm9yKSB7CgljdXJyZW50VGltZSA6PSB0aW1lLk5vdygpCglpZiBMb2dGaWxlLlRpbWVTdGFtcC5CZWZvcmUoY3VycmVudFRpbWUpICYmIExvZ0ZpbGUuVGltZVN0YW1wLk1pbnV0ZSgpICE9IGN1cnJlbnRUaW1lLk1pbnV0ZSgpIHsKCQlMb2dGaWxlLlRpbWVTdGFtcCA9IGN1cnJlbnRUaW1lCgkJaWYgZXJyIDo9IExvZ0ZpbGUuUm90YXRlKCk7IGVyciAhPSBuaWwgewoJCQlyZXR1cm4gZm10LkVycm9yZigiZmFpbGQgdG8gcm90YXRlIGxvZzogJXMiLCBlcnIpCgkJfQoJfQoJcmV0dXJuCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQl7fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWlmIAo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWlmCg==</text>
+        <text encoding="base64">CWlmIAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CWlmCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>var (
 	ExecLogFile File
 	AppLogFile  File
 ) struct</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
       <register name="7" type="2">
         <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXRpbWUuU2xlZXAodGltZS5NaW51dGUpCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlMb2dGaWxlLlJvdGF0ZSgpCg==</text>
+        <text encoding="base64">CXRpbWUuU2xlZXAodGltZS5NaW51dGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
@@ -756,7 +756,7 @@
       <last-replace>fileName</last-replace>
       <last-substitute>filename</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
