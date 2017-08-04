@@ -152,10 +152,12 @@
       <file name="$USER_HOME$/OfficeTools/git/flink-stream-processing-refarch/flink-taxi-stream-processor/src/main/java/com/amazonaws/flink/refarch/ProcessTaxiStream.java" timestamp="1499848208439">
         <mark key="'" line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/pigeon/main.go" timestamp="1501838911992">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/pigeon/main.go" timestamp="1501840240328">
+        <mark key="'" line="65" column="17" />
+        <mark key="[" line="65" column="23" />
+        <mark key="]" line="65" column="25" />
+        <mark key="." line="65" column="25" />
+        <mark key="^" line="65" column="25" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon/middleware/error_handler.go" timestamp="1501750718066">
         <mark key="[" line="16" column="0" />
@@ -244,12 +246,12 @@
         <mark key="^" line="76" column="21" />
         <mark key="." line="76" column="21" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" timestamp="1501839646662">
-        <mark key="'" line="72" column="62" />
-        <mark key="[" line="68" column="20" />
-        <mark key="]" line="68" column="28" />
-        <mark key="." line="68" column="28" />
-        <mark key="^" line="68" column="28" />
+      <file name="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" timestamp="1501840437137">
+        <mark key="'" line="59" column="12" />
+        <mark key="[" line="59" column="12" />
+        <mark key="]" line="59" column="20" />
+        <mark key="." line="59" column="20" />
+        <mark key="^" line="59" column="20" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-collector/env/production/collecting/video/digitalbasket/collecting.json5" timestamp="1499069382418">
         <mark key="[" line="10" column="78" />
@@ -340,12 +342,12 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/pigeon/middleware/log.go" timestamp="1501838421362">
+      <file name="$USER_HOME$/OfficeTools/git/pigeon/middleware/log.go" timestamp="1501840165425">
         <mark key="'" line="50" column="9" />
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="14" />
-        <mark key="." line="12" column="14" />
-        <mark key="^" line="12" column="38" />
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="12" />
+        <mark key="." line="14" column="12" />
+        <mark key="^" line="14" column="12" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Backet.java" timestamp="1499653038829">
         <mark key="[" line="2" column="13" />
@@ -426,11 +428,11 @@
         <mark key="^" line="14" column="97" />
         <mark key="." line="14" column="96" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/pigeon/api/test.go" timestamp="1501838857672">
-        <mark key="'" line="19" column="7" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/pigeon/api/test.go" timestamp="1501840444201">
+        <mark key="'" line="19" column="16" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/build.sbt" timestamp="1500018796863">
         <mark key="[" line="9" column="39" />
@@ -614,12 +616,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="4" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
-      <jump line="8" column="6" filename="$USER_HOME$/OfficeTools/git/pigeon/api/test.go" />
-      <jump line="12" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/api/test.go" />
-      <jump line="11" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/api/test.go" />
-      <jump line="17" column="13" filename="$USER_HOME$/OfficeTools/git/pigeon/api/test.go" />
-      <jump line="59" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
       <jump line="6" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
       <jump line="18" column="37" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
       <jump line="11" column="13" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
@@ -672,11 +668,9 @@
       <jump line="103" column="28" filename="$USER_HOME$/go/src/github.com/labstack/echo/echo.go" />
       <jump line="105" column="9" filename="$USER_HOME$/go/src/github.com/labstack/echo/echo.go" />
       <jump line="9" column="12" filename="$USER_HOME$/OfficeTools/git/pigeon/api/test.go" />
-      <jump line="23" column="30" filename="$USER_HOME$/OfficeTools/git/pigeon/api/test.go" />
       <jump line="60" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
       <jump line="61" column="7" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
       <jump line="56" column="10" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
-      <jump line="38" column="38" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
       <jump line="63" column="23" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
       <jump line="40" column="11" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
       <jump line="67" column="4" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
@@ -684,13 +678,10 @@
       <jump line="39" column="38" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
       <jump line="59" column="40" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
       <jump line="64" column="7" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
-      <jump line="65" column="7" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
       <jump line="47" column="25" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
       <jump line="41" column="22" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
-      <jump line="39" column="14" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
       <jump line="53" column="8" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
       <jump line="49" column="8" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
-      <jump line="51" column="11" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
       <jump line="52" column="25" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
       <jump line="29" column="11" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
       <jump line="25" column="4" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
@@ -709,21 +700,32 @@
       <jump line="68" column="20" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
       <jump line="27" column="10" filename="$USER_HOME$/OfficeTools/git/pigeon/api/test.go" />
       <jump line="16" column="34" filename="$USER_HOME$/OfficeTools/git/pigeon/api/test.go" />
-      <jump line="19" column="7" filename="$USER_HOME$/OfficeTools/git/pigeon/api/test.go" />
       <jump line="20" column="13" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
       <jump line="58" column="20" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
       <jump line="42" column="4" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
       <jump line="71" column="62" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
+      <jump line="23" column="12" filename="$USER_HOME$/OfficeTools/git/pigeon/api/test.go" />
+      <jump line="31" column="4" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
+      <jump line="38" column="4" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
+      <jump line="43" column="4" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
+      <jump line="54" column="60" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
+      <jump line="65" column="17" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
+      <jump line="62" column="4" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
+      <jump line="27" column="8" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
+      <jump line="39" column="12" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
+      <jump line="51" column="12" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
+      <jump line="59" column="12" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
+      <jump line="19" column="16" filename="$USER_HOME$/OfficeTools/git/pigeon/api/test.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>currenly</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>currenly</text>
+        <text>AppLog</text>
       </register>
       <register name="/" type="4">
-        <text>minu</text>
+        <text>info</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXBpZ2Vvbk13ICJnaXQuZG1tLmNvbS9kcmUvcGlnZW9uL21pZGRsZXdhcmUiCg==</text>
@@ -732,37 +734,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXBpZ2Vvbk13LkFwcExvZy5JbmZvKCJ0ZXN0IikK</text>
+        <text encoding="base64">CXBpZ2Vvbk13LkFwcExvZ2dlci5JbmZvKCJ0ZXN0IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CXBpZ2Vvbk13LkFwcExvZy5JbmZvKCJ0ZXN0IikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CXBpZ2Vvbk13ICIuLi9taWRkbGV3YXJlIgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CW0K</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CXBpZ2Vvbk13LkFwcExvZy5JbmZvKCJ0ZXN0IikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CUFwcAo=</text>
+        <text encoding="base64">CXBpZ2Vvbk13LkFwcExvZy5JbmZvKCJ0ZXN0IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUFwcAo=</text>
+        <text encoding="base64">CXBpZ2Vvbk13ICIuLi9taWRkbGV3YXJlIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CW0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/fileName/FileName/g</text>
       </register>
     </registers>
     <search>
-      <last-search>minu</last-search>
+      <last-search>info</last-search>
       <last-offset />
-      <last-pattern>minu</last-pattern>
+      <last-pattern>info</last-pattern>
       <last-replace>FileName</last-replace>
       <last-substitute>fileName</last-substitute>
       <last-dir>1</last-dir>
@@ -770,10 +772,6 @@
     </search>
     <history>
       <history-search>
-        <entry>echo</entry>
-        <entry encoding="base64">XDxpbml0TG9nZ2VyXD4=</entry>
-        <entry encoding="base64">XDxGaWxlXD4=</entry>
-        <entry>fp</entry>
         <entry>write</entry>
         <entry encoding="base64">XDxFeGVjTG9nRmlsZVw+</entry>
         <entry>print</entry>
@@ -788,8 +786,12 @@
         <entry encoding="base64">XDxBcHBMb2dcPg==</entry>
         <entry>er</entry>
         <entry>err</entry>
-        <entry>info</entry>
         <entry>minu</entry>
+        <entry>log</entry>
+        <entry>app</entry>
+        <entry encoding="base64">XDxBcHBMb2dnZXJcPg==</entry>
+        <entry>AppLogger</entry>
+        <entry>info</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
