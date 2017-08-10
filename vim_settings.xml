@@ -161,10 +161,11 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" timestamp="1502347538874">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" timestamp="1502348395293">
+        <mark key="[" line="23" column="68" />
+        <mark key="]" line="24" column="27" />
+        <mark key="." line="24" column="27" />
+        <mark key="^" line="24" column="27" />
       </file>
       <file name="$USER_HOME$/OfficeWork/stork-batch/common/mainprocess.go" timestamp="1496730631641">
         <mark key="[" line="21" column="4" />
@@ -805,8 +806,8 @@
       <jump line="115" column="66" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAud2l0aENvbmZpZ3VyYXRpb25zKCkK</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -818,31 +819,31 @@
         <text encoding="base64">ICBwcml2YXRlIEluc3RhbmNlRmxlZXRDb25maWcgaW5zdGFuY2VGbGVldENvbmZpZyA9IG5ldyBJbnN0YW5jZUZsZWV0Q29uZmlnKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGpzb25PYmplY3QK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEFkZGluc3RhbmNlZmxlZXRyZXF1ZXN0Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aGpqZAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAud2l0aENvbmZpZ3VyYXRpb25zKCkK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGpzb25PYmplY3QK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEFkZGluc3RhbmNlZmxlZXRyZXF1ZXN0Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAud2l0aAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAud2l0aGpqZAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAud2l0aAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoCg==</text>
+        <text encoding="base64">ICAgICAgICAud2l0aENvbmZpZ3VyYXRpb25zKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aHQK</text>
+        <text encoding="base64">ICAgICAgICBzCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
