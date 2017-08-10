@@ -157,11 +157,12 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" timestamp="1502356033380">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" timestamp="1502357288636">
+        <mark key="'" line="39" column="27" />
+        <mark key="[" line="71" column="1" />
+        <mark key="]" line="73" column="78" />
+        <mark key="." line="73" column="78" />
+        <mark key="^" line="73" column="78" />
       </file>
       <file name="$USER_HOME$/OfficeWork/stork-batch/common/mainprocess.go" timestamp="1496730631641">
         <mark key="[" line="21" column="4" />
@@ -597,6 +598,7 @@
         <mark key="." line="0" column="48" />
         <mark key="^" line="0" column="48" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" timestamp="1502357040025" />
       <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local_test.sh" timestamp="1498453986119">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="21" />
@@ -690,7 +692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="34" filename="$USER_HOME$/OfficeTools/git/pigeon/api/test.go" />
       <jump line="20" column="13" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
       <jump line="58" column="20" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
       <jump line="42" column="4" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
@@ -790,10 +791,11 @@
       <jump line="14" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" />
       <jump line="33" column="6" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/ListInstanceFleetsRequest.java" />
       <jump line="156" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/ListInstanceFleetsRequest.java" />
+      <jump line="39" column="27" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVtckNsaWVudC5hZGRJbnN0YW5jZUZsZWV0KCkK</text>
+        <text encoding="base64">ICAgICAgICAud2l0aGxhdQo=</text>
       </register>
       <register name="-" type="4">
         <text>instanceTypeConfig</text>
@@ -805,31 +807,31 @@
         <text encoding="base64">ICAgIGluc3RhbmNlRmxlZXRDb25maWcKICAgICAgICAud2l0aFRhcmdldFNwb3RDYXBhY2l0eShzbGF2ZUpTT04uZ2V0SW50KCJ0YXJnZXRTcG90Q2FwYWNpdHkiKSkKICAgICAgICAud2l0aFRhcmdldE9uRGVtYW5kQ2FwYWNpdHkoc2xhdmVKU09OLmdldEludCgidGFyZ2V0T25EZW1hbmRDYXBhY2l0eSIpKQogICAgICAgIC53aXRoSW5zdGFuY2VGbGVldFR5cGUoSW5zdGFuY2VGbGVldFR5cGUuQ09SRSkKICAgICAgICAud2l0aEluc3RhbmNlVHlwZUNvbmZpZ3MoaW5zdGFuY2VUeXBlQ29uZmlncyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVtckNsaWVudC5hZGRJbnN0YW5jZUZsZWV0KCkK</text>
+        <text encoding="base64">ICAgICAgICAud2l0aGxhdQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aGpqZAo=</text>
+        <text encoding="base64">ICAgIGVtckNsaWVudC5hZGRJbnN0YW5jZUZsZWV0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aEJpZFByaWNlQXNQZXJjZW50YWdlT2ZPbkRlbWFuZFByaWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAud2l0aGpqZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aAo=</text>
+        <text encoding="base64">ICAgICAgICAud2l0aEJpZFByaWNlQXNQZXJjZW50YWdlT2ZPbkRlbWFuZFByaWNlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGluc3RhbmNlRmxlZXRDb25maWcuYXBwZQo=</text>
+        <text encoding="base64">ICAgICAgICAud2l0aAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGluc3RhbmNlRmxlZXRDb25maWcuYXBwZQoK</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlRmxlZXRDb25maWcuYXBwZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGluc3RhbmNlRmxlZXRDb25maWcuYWRkCgo=</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlRmxlZXRDb25maWcuYXBwZQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGwK</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlRmxlZXRDb25maWcuYWRkCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aEluc3RhbmNlVHlwZUNvbmZpZ3MoKQo=</text>
+        <text encoding="base64">ICAgIGwK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
