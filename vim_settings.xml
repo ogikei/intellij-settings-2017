@@ -108,8 +108,8 @@
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" timestamp="1502343332585">
-        <mark key="'" line="96" column="0" />
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" timestamp="1502345565462">
+        <mark key="'" line="64" column="28" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="81" />
         <mark key="." line="11" column="0" />
@@ -159,11 +159,10 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" timestamp="1502344570979">
-        <mark key="[" line="20" column="22" />
-        <mark key="]" line="21" column="27" />
-        <mark key="." line="21" column="27" />
-        <mark key="^" line="21" column="27" />
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" timestamp="1502345955353">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeWork/stork-batch/common/mainprocess.go" timestamp="1496730631641">
         <mark key="[" line="21" column="4" />
@@ -663,8 +662,8 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" timestamp="1502344471987">
-        <mark key="'" line="46" column="0" />
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" timestamp="1502345858666">
+        <mark key="'" line="26" column="21" />
         <mark key="[" line="45" column="17" />
         <mark key="]" line="47" column="13" />
         <mark key="." line="47" column="13" />
@@ -700,12 +699,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="6" filename="$USER_HOME$/go/src/github.com/labstack/echo/echo.go" />
-      <jump line="103" column="28" filename="$USER_HOME$/go/src/github.com/labstack/echo/echo.go" />
-      <jump line="105" column="9" filename="$USER_HOME$/go/src/github.com/labstack/echo/echo.go" />
-      <jump line="9" column="12" filename="$USER_HOME$/OfficeTools/git/pigeon/api/test.go" />
-      <jump line="60" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
-      <jump line="61" column="7" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
       <jump line="56" column="10" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
       <jump line="63" column="23" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
       <jump line="40" column="11" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
@@ -800,55 +793,61 @@
       <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/resources/test.json" />
       <jump line="20" column="5" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/resources/test.json" />
       <jump line="45" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" />
+      <jump line="31" column="19" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" />
+      <jump line="43" column="19" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" />
+      <jump line="26" column="21" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" />
+      <jump line="17" column="21" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
+      <jump line="64" column="28" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>fleet</text>
+        <text>configuration</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiVGFyZ2V0U3BvdENhcGFjaXR5IjogMiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICBwdWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gIEluc3RhbmNlVHlwZUNvbmZpZwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiaW5zdGFuY2VDb3VudCI6IDIsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNldAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>fleet</last-search>
+      <last-search>configuration</last-search>
       <last-offset />
-      <last-pattern>fleet</last-pattern>
+      <last-pattern>configuration</last-pattern>
       <last-replace>FileName</last-replace>
       <last-substitute>fileName</last-substitute>
       <last-dir>1</last-dir>
@@ -856,7 +855,6 @@
     </search>
     <history>
       <history-search>
-        <entry>er</entry>
         <entry>err</entry>
         <entry>minu</entry>
         <entry>log</entry>
@@ -876,6 +874,7 @@
         <entry>get</entry>
         <entry>response</entry>
         <entry>fleet</entry>
+        <entry>configuration</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
