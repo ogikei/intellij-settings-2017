@@ -74,7 +74,9 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" timestamp="1502343193473" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" timestamp="1502347522040">
+        <mark key="'" line="115" column="66" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/test/java/jp/co/recruit/rtc/hoc/services/TestSpotInstanceClientService.java" timestamp="1488273166199">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="12" column="28" />
@@ -159,11 +161,10 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" timestamp="1502346597469">
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="21" column="24" />
-        <mark key="." line="21" column="24" />
-        <mark key="^" line="21" column="24" />
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" timestamp="1502347538874">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeWork/stork-batch/common/mainprocess.go" timestamp="1496730631641">
         <mark key="[" line="21" column="4" />
@@ -419,7 +420,9 @@
         <mark key="^" line="0" column="55" />
         <mark key="." line="0" column="55" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceFleetConfig.java" timestamp="1502344165421" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceFleetConfig.java" timestamp="1502347361208">
+        <mark key="'" line="149" column="83" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon/api/pigeon.go" timestamp="1502188635645">
         <mark key="'" line="30" column="4" />
         <mark key="[" line="7" column="0" />
@@ -663,12 +666,12 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" timestamp="1502345858666">
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" timestamp="1502348009069">
         <mark key="'" line="26" column="21" />
-        <mark key="[" line="45" column="17" />
-        <mark key="]" line="47" column="13" />
-        <mark key="." line="47" column="13" />
-        <mark key="^" line="47" column="13" />
+        <mark key="[" line="47" column="32" />
+        <mark key="]" line="47" column="32" />
+        <mark key="." line="47" column="32" />
+        <mark key="^" line="47" column="35" />
       </file>
       <file name="$USER_HOME$/MyWork/git/spark/streaming/src/main/scala/org/apache/spark/streaming/StreamingContext.scala" timestamp="1498637561716">
         <mark key="[" line="643" column="5" />
@@ -700,23 +703,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="10" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
-      <jump line="63" column="23" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
-      <jump line="40" column="11" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
-      <jump line="67" column="4" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
-      <jump line="66" column="21" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
-      <jump line="39" column="38" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
-      <jump line="59" column="40" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
-      <jump line="64" column="7" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
-      <jump line="47" column="25" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
-      <jump line="41" column="22" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
-      <jump line="53" column="8" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
-      <jump line="49" column="8" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
-      <jump line="52" column="25" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
-      <jump line="29" column="11" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
-      <jump line="25" column="4" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
-      <jump line="61" column="10" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
-      <jump line="57" column="11" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
       <jump line="56" column="8" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
       <jump line="55" column="7" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
       <jump line="54" column="7" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
@@ -800,55 +786,72 @@
       <jump line="26" column="21" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" />
       <jump line="17" column="21" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
       <jump line="64" column="28" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
+      <jump line="521" column="60" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceFleetConfig.java" />
+      <jump line="43" column="76" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceFleetConfig.java" />
+      <jump line="145" column="76" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceFleetConfig.java" />
+      <jump line="149" column="83" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceFleetConfig.java" />
+      <jump line="25" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
+      <jump line="28" column="9" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
+      <jump line="35" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
+      <jump line="38" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
+      <jump line="82" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
+      <jump line="86" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
+      <jump line="89" column="46" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
+      <jump line="95" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
+      <jump line="98" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
+      <jump line="101" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
+      <jump line="107" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
+      <jump line="111" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
+      <jump line="115" column="66" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aEluc3RhbmNlRmxlZXQoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>withInstanceFleet</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>configuration</text>
+        <text>config</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIEluc3RhbmNlRmxlZXRDb25maWcgaW5zdGFuY2VGbGVldENvbmZpZyA9IG5ldyBJbnN0YW5jZUZsZWV0Q29uZmlnKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aEluc3RhbmNlRmxlZXQoKQo=</text>
+        <text encoding="base64">ICAgIGpzb25PYmplY3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aEluc3RhbmNlRmxlZXQoKQo=</text>
+        <text encoding="base64">ICAgIEFkZGluc3RhbmNlZmxlZXRyZXF1ZXN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEluc3RhbmNlVHlwZUNvbmZpZyBpbnN0YW5jZVR5cGVDb25maWcgCg==</text>
+        <text encoding="base64">ICAgICAgICAud2l0aAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEluc3RhbmNlY29uZmlnCg==</text>
+        <text encoding="base64">ICAgICAgICAud2l0aGpqZAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAud2l0aAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEluc3RhbmNlZmxlZXRjb25maWdzCg==</text>
+        <text encoding="base64">ICAgICAgICAud2l0aENvbmZpZ3VyYXRpb25zKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEludAo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEluc3RhbmNlCg==</text>
+        <text encoding="base64">ICAgICAgICBzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE1vCg==</text>
+        <text encoding="base64">ICAgICAgICAud2l0aHQK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>configuration</last-search>
+      <last-search>config</last-search>
       <last-offset />
-      <last-pattern>configuration</last-pattern>
+      <last-pattern>config</last-pattern>
       <last-replace>FileName</last-replace>
       <last-substitute>fileName</last-substitute>
       <last-dir>1</last-dir>
@@ -856,11 +859,6 @@
     </search>
     <history>
       <history-search>
-        <entry>err</entry>
-        <entry>minu</entry>
-        <entry>log</entry>
-        <entry>app</entry>
-        <entry encoding="base64">XDxBcHBMb2dnZXJcPg==</entry>
         <entry>AppLogger</entry>
         <entry>info</entry>
         <entry>f</entry>
@@ -876,6 +874,11 @@
         <entry>response</entry>
         <entry>fleet</entry>
         <entry>configuration</entry>
+        <entry>core</entry>
+        <entry>instance</entry>
+        <entry>type</entry>
+        <entry>feet</entry>
+        <entry>config</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
