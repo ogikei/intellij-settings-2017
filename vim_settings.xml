@@ -161,8 +161,8 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" timestamp="1502348395293">
-        <mark key="[" line="23" column="68" />
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" timestamp="1502350495940">
+        <mark key="[" line="30" column="23" />
         <mark key="]" line="24" column="27" />
         <mark key="." line="24" column="27" />
         <mark key="^" line="24" column="27" />
@@ -667,12 +667,12 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" timestamp="1502348009069">
-        <mark key="'" line="26" column="21" />
-        <mark key="[" line="47" column="32" />
-        <mark key="]" line="47" column="32" />
-        <mark key="." line="47" column="32" />
-        <mark key="^" line="47" column="35" />
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" timestamp="1502349869421">
+        <mark key="'" line="25" column="21" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="46" column="35" />
       </file>
       <file name="$USER_HOME$/MyWork/git/spark/streaming/src/main/scala/org/apache/spark/streaming/StreamingContext.scala" timestamp="1498637561716">
         <mark key="[" line="643" column="5" />
@@ -807,7 +807,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aENvbmZpZ3VyYXRpb25zKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -819,31 +819,31 @@
         <text encoding="base64">ICBwcml2YXRlIEluc3RhbmNlRmxlZXRDb25maWcgaW5zdGFuY2VGbGVldENvbmZpZyA9IG5ldyBJbnN0YW5jZUZsZWV0Q29uZmlnKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aENvbmZpZ3VyYXRpb25zKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGpzb25PYmplY3QK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEFkZGluc3RhbmNlZmxlZXRyZXF1ZXN0Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aGpqZAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAud2l0aENvbmZpZ3VyYXRpb25zKCkK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGpzb25PYmplY3QK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEFkZGluc3RhbmNlZmxlZXRyZXF1ZXN0Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAud2l0aAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAud2l0aGpqZAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAud2l0aAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoCg==</text>
+        <text encoding="base64">ICAgICAgICAud2l0aENvbmZpZ3VyYXRpb25zKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
