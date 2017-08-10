@@ -159,10 +159,11 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" timestamp="1502345955353">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" timestamp="1502346597469">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="24" />
+        <mark key="." line="21" column="24" />
+        <mark key="^" line="21" column="24" />
       </file>
       <file name="$USER_HOME$/OfficeWork/stork-batch/common/mainprocess.go" timestamp="1496730631641">
         <mark key="[" line="21" column="4" />
@@ -802,43 +803,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAud2l0aEluc3RhbmNlRmxlZXQoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>withInstanceFleet</text>
       </register>
       <register name="/" type="4">
         <text>configuration</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiVGFyZ2V0U3BvdENhcGFjaXR5IjogMiwK</text>
+        <text encoding="base64">ICBwcml2YXRlIEluc3RhbmNlRmxlZXRDb25maWcgaW5zdGFuY2VGbGVldENvbmZpZyA9IG5ldyBJbnN0YW5jZUZsZWV0Q29uZmlnKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAud2l0aEluc3RhbmNlRmxlZXQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWwK</text>
+        <text encoding="base64">ICAgICAgICAud2l0aEluc3RhbmNlRmxlZXQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEluc3RhbmNlVHlwZUNvbmZpZyBpbnN0YW5jZVR5cGVDb25maWcgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEluc3RhbmNlY29uZmlnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAud2l0aAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEluc3RhbmNlZmxlZXRjb25maWdzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEludAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEluc3RhbmNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIE1vCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
