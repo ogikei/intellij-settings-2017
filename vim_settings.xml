@@ -105,12 +105,12 @@
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" timestamp="1503023332831">
-        <mark key="'" line="29" column="17" />
-        <mark key="[" line="63" column="9" />
-        <mark key="]" line="63" column="24" />
-        <mark key="." line="63" column="24" />
-        <mark key="^" line="63" column="24" />
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" timestamp="1503025084218">
+        <mark key="'" line="59" column="17" />
+        <mark key="[" line="90" column="32" />
+        <mark key="]" line="90" column="51" />
+        <mark key="." line="90" column="51" />
+        <mark key="^" line="90" column="51" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-mole/video/extract_digitalbasket.dig" timestamp="1499227200810">
         <mark key="[" line="1" column="3" />
@@ -261,6 +261,12 @@
         <mark key="]" line="6" column="46" />
         <mark key="^" line="6" column="46" />
         <mark key="." line="6" column="46" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/resources/config.json" timestamp="1503025191409">
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="24" column="20" />
+        <mark key="^" line="24" column="20" />
+        <mark key="." line="24" column="20" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-mole/.gitignore" timestamp="1499225148565">
         <mark key="[" line="6" column="1" />
@@ -611,6 +617,9 @@
         <mark key="." line="41" column="36" />
         <mark key="^" line="41" column="36" />
       </file>
+      <file name="/Dummy.txt" timestamp="1503025295819">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon/common/common.go" timestamp="1501664254587">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -647,12 +656,12 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" timestamp="1503023533069">
-        <mark key="'" line="48" column="15" />
-        <mark key="[" line="104" column="46" />
-        <mark key="]" line="104" column="46" />
-        <mark key="." line="104" column="46" />
-        <mark key="^" line="104" column="46" />
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" timestamp="1503025407932">
+        <mark key="'" line="81" column="44" />
+        <mark key="[" line="70" column="32" />
+        <mark key="]" line="70" column="32" />
+        <mark key="." line="70" column="32" />
+        <mark key="^" line="70" column="32" />
       </file>
       <file name="$USER_HOME$/MyWork/git/spark/streaming/src/main/scala/org/apache/spark/streaming/StreamingContext.scala" timestamp="1498637561716">
         <mark key="[" line="643" column="5" />
@@ -684,12 +693,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="28" filename="$USER_HOME$/OfficeTools/git/pigeon/sh/ci.sh" />
-      <jump line="6" column="49" filename="$USER_HOME$/OfficeTools/git/pigeon/sh/ci.sh" />
-      <jump line="18" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/api/healthcheck_test.go" />
-      <jump line="13" column="18" filename="$USER_HOME$/OfficeTools/git/pigeon/api/pigeon_test.go" />
-      <jump line="15" column="38" filename="$USER_HOME$/OfficeTools/git/pigeon/api/pigeon_test.go" />
-      <jump line="23" column="25" filename="$USER_HOME$/OfficeTools/git/pigeon/api/pigeon_test.go" />
       <jump line="34" column="11" filename="$USER_HOME$/OfficeTools/git/pigeon/api/pigeon_test.go" />
       <jump line="21" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/api/pigeon_test.go" />
       <jump line="30" column="4" filename="$USER_HOME$/OfficeTools/git/pigeon/api/pigeon.go" />
@@ -756,7 +759,6 @@
       <jump line="31" column="9" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
       <jump line="57" column="67" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
       <jump line="58" column="24" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
-      <jump line="59" column="25" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
       <jump line="60" column="20" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
       <jump line="117" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/AmazonElasticMapReduce.java" />
       <jump line="137" column="103" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/AmazonElasticMapReduce.java" />
@@ -766,10 +768,7 @@
       <jump line="286" column="7" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/AmazonElasticMapReduce.java" />
       <jump line="291" column="7" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/AmazonElasticMapReduce.java" />
       <jump line="297" column="46" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/AmazonElasticMapReduce.java" />
-      <jump line="88" column="25" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
-      <jump line="87" column="37" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
       <jump line="89" column="49" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
-      <jump line="26" column="17" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
       <jump line="29" column="17" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
       <jump line="1333" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/AmazonElasticMapReduceClient.java" />
       <jump line="1866" column="71" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/AmazonElasticMapReduceClient.java" />
@@ -784,55 +783,65 @@
       <jump line="606" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.160/8d01ec4135388bc0686d68fe339f73442c669275/aws-java-sdk-core-1.11.160-sources.jar!/com/amazonaws/http/AmazonHttpClient.java" />
       <jump line="1533" column="72" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.160/8d01ec4135388bc0686d68fe339f73442c669275/aws-java-sdk-core-1.11.160-sources.jar!/com/amazonaws/http/AmazonHttpClient.java" />
       <jump line="4" column="7" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.160/8d01ec4135388bc0686d68fe339f73442c669275/aws-java-sdk-core-1.11.160-sources.jar!/com/amazonaws/http/AmazonHttpClient.java" />
+      <jump line="90" column="17" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
+      <jump line="87" column="24" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
+      <jump line="86" column="42" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
+      <jump line="88" column="13" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
+      <jump line="26" column="31" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
+      <jump line="27" column="30" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
+      <jump line="55" column="53" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
+      <jump line="59" column="17" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
+      <jump line="80" column="32" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" />
+      <jump line="81" column="44" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>slaveJSON.getInt(&quot;targetSpotCapacity&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>slaveJSON.getInt(&quot;targetSpotCapacity&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>may</text>
+        <text>type</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVtckNsaWVudC5hZGRJbnN0YW5jZUZsZWV0KG5ldyBBZGRJbnN0YW5jZUZsZWV0UmVxdWVzdCgpCiAgICAgICAgLndpdGhDbHVzdGVySWQoam9iRmxvd1Jlc3VsdC5nZXRKb2JGbG93SWQoKSkKICAgICAgICAud2l0aEluc3RhbmNlRmxlZXQoaW5zdGFuY2VGbGVldENvbmZpZzEpCiAgICApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNsdXN0ZXIuY3JlYXRlRU1SQ2x1c3RlcihlbXJDbGllbnQsIGpzb25PYmplY3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAud2l0aENvbmZpZ3VyYXRpb25zKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aGlkCg==</text>
+        <text encoding="base64">ICAgICAgICAud2l0aGdyb3B1Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aAo=</text>
+        <text encoding="base64">ICAgICAgICAud2l0aEluc3RhbmNlVHlwZShtYXN0ZXJKU09OLmdldCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsdXN0ZXIuY3JlYXRlRU1SQ2x1c3RlcihlbXJDbGllbnQsIGpzb25PYmplY3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAud2l0aAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIENsdXN0ZXIgY2x1c3RlciA9IG5ldyBDbHVzdGVyKGpzb25PYmplY3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAud2l0aGluc2pqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIENsdXN0ZXIgY2x1c3RlciA9IG5ldyBDbHVzdGVyKGpzb25PYmplY3QpOwogICAgY2x1c3Rlci5jcmVhdGVFTVJDbHVzdGVyKGVtckNsaWVudCwganNvbk9iamVjdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLndpdGhJbnN0YW5jZUNvdW50KDEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGluc3RhbmNlRmxlZXRDb25maWcK</text>
+        <text encoding="base64">ICAgIGNsdXN0ZXIuY3JlYXRlRU1SQ2x1c3RlcihlbXJDbGllbnQsIGpzb25PYmplY3QpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHVibGljIEZsZWV0KEpTT05PYmplY3QganNvbk9iamVjdCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAud2l0aGlkCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAud2l0aAo=</text>
       </register>
       <register name=":" type="4">
-        <text>49</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>may</last-search>
+      <last-search>type</last-search>
       <last-offset />
-      <last-pattern>may</last-pattern>
+      <last-pattern>type</last-pattern>
       <last-replace>FileName</last-replace>
       <last-substitute>fileName</last-substitute>
       <last-dir>1</last-dir>
@@ -840,15 +849,12 @@
     </search>
     <history>
       <history-search>
-        <entry>lab</entry>
         <entry>glide</entry>
         <entry>api</entry>
         <entry>pigeon</entry>
         <entry>get</entry>
         <entry>response</entry>
         <entry>configuration</entry>
-        <entry>instance</entry>
-        <entry>type</entry>
         <entry>feet</entry>
         <entry>config</entry>
         <entry>core</entry>
@@ -860,11 +866,13 @@
         <entry>handleerror</entry>
         <entry>fleet</entry>
         <entry>may</entry>
+        <entry>group</entry>
+        <entry>instance</entry>
+        <entry>type</entry>
       </history-search>
       <history-cmd>
         <entry>28</entry>
         <entry>30</entry>
-        <entry>w</entry>
         <entry>69</entry>
         <entry>s/`//</entry>
         <entry>s/`//g</entry>
@@ -882,6 +890,7 @@
         <entry>%s/fileName/FileName/g</entry>
         <entry>%d</entry>
         <entry>49</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
