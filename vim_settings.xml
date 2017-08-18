@@ -104,12 +104,11 @@
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" timestamp="1502353102724">
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" timestamp="1503018801343">
         <mark key="'" line="64" column="28" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="81" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-mole/video/extract_digitalbasket.dig" timestamp="1499227200810">
         <mark key="[" line="1" column="3" />
@@ -154,7 +153,7 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" timestamp="1502964175753">
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" timestamp="1503019090944">
         <mark key="'" line="35" column="25" />
         <mark key="[" line="60" column="47" />
         <mark key="]" line="60" column="12" />
@@ -655,11 +654,12 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" timestamp="1502356272939">
-        <mark key="'" line="26" column="21" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" timestamp="1503019130133">
+        <mark key="'" line="32" column="21" />
+        <mark key="[" line="88" column="60" />
+        <mark key="]" line="89" column="46" />
+        <mark key="." line="89" column="46" />
+        <mark key="^" line="89" column="46" />
       </file>
       <file name="$USER_HOME$/MyWork/git/spark/streaming/src/main/scala/org/apache/spark/streaming/StreamingContext.scala" timestamp="1498637561716">
         <mark key="[" line="643" column="5" />
@@ -793,11 +793,11 @@
       <jump line="20" column="7" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/resources/test.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aENsdXN0ZXJJZCgiIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>fleet.createAddInstanceFleetRequest()</text>
       </register>
       <register name="-" type="4">
-        <text>withTargetOnDemandCapacity</text>
+        <text>fleet.createAddInstanceFleetRequest()</text>
       </register>
       <register name="/" type="4">
         <text>core</text>
@@ -806,31 +806,31 @@
         <text encoding="base64">ICAgICAgInNsYXZlIjogewogICAgICAgICJ0eXBlIjogIm00LmxhcmdlIiwKICAgICAgICAic2VjdXJpdHlHcm91cCI6ICJzZy04MThhM2RlNyIsCiAgICAgICAgImJpZFByaWNlIjogIjAuMDUiLAogICAgICAgICJ0YXJnZXRTcG90Q2FwYWNpdHkiOiAyLAogICAgICAgICJ0YXJnZXRPbkRlbWFuZENhcGFjaXR5IjogMiwKICAgICAgICAidGltZW91dER1cmF0aW9uTWludXRlcyI6IDEyMCwKICAgICAgICAidGltZW91dEFjdGlvbiI6ICJURVJNSU5BVEVfQ0xVU1RFUiIKICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aENsdXN0ZXJJZCgiIik7Cg==</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlRmxlZXRDb25maWcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC53aXRoTGF1bmNoU3BlY2lmaWNhdGlvbnMoKTsK</text>
+        <text encoding="base64">ICAgICAgcHVibGljIEZsZWV0KEpTT05PYmplY3QganNvbk9iamVjdCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aFRhcmdldE9uRGVtYW5kQ2FwYWNpdHkoc2xhdmVKU09OLmdldEludCgidGFyZ2V0T25EZW1hbmRDYXBhY2l0eSIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAud2l0aAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aFRhcmdldFNwb3RDYXBhY2l0eShzbGF2ZUpTT04uZ2V0SW50KCJ0YXJnZXRPbkRlbWFuZENhcGFjaXR5IikpCg==</text>
+        <text encoding="base64">ICAgICAgICAud2l0aENsdXN0ZXJJZCgiIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aGpqCg==</text>
+        <text encoding="base64">ICAgIC53aXRoTGF1bmNoU3BlY2lmaWNhdGlvbnMoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aE5hbWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAud2l0aFRhcmdldE9uRGVtYW5kQ2FwYWNpdHkoc2xhdmVKU09OLmdldEludCgidGFyZ2V0T25EZW1hbmRDYXBhY2l0eSIpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAic2VjdXJpdHlHcm91cCI6ICJzZy1kZjg5M2ViOSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAud2l0aFRhcmdldFNwb3RDYXBhY2l0eShzbGF2ZUpTT04uZ2V0SW50KCJ0YXJnZXRPbkRlbWFuZENhcGFjaXR5IikpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aG5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAud2l0aGpqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgICAud2l0aE5hbWUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
