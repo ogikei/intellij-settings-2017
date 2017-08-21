@@ -448,11 +448,12 @@
         <mark key="." line="8" column="47" />
         <mark key="^" line="8" column="47" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/pigeon/utils/file.go" timestamp="1503296927924">
-        <mark key="[" line="69" column="14" />
-        <mark key="]" line="69" column="17" />
-        <mark key="." line="69" column="17" />
-        <mark key="^" line="69" column="17" />
+      <file name="$USER_HOME$/OfficeTools/git/pigeon/utils/file.go" timestamp="1503299755578">
+        <mark key="'" line="58" column="8" />
+        <mark key="[" line="58" column="73" />
+        <mark key="]" line="58" column="73" />
+        <mark key="." line="58" column="73" />
+        <mark key="^" line="58" column="73" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon/docker-compose.yaml" timestamp="1502165733703">
         <mark key="[" line="6" column="23" />
@@ -715,7 +716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
       <jump line="107" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
       <jump line="111" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
       <jump line="115" column="66" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
@@ -815,16 +815,17 @@
       <jump line="6" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/ec2/spot/Fleet.java" />
       <jump line="59" column="6" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
       <jump line="72" column="17" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
+      <jump line="58" column="8" filename="$USER_HOME$/OfficeTools/git/pigeon/utils/file.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>time.Duration()</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>time.Duration()</text>
       </register>
       <register name="/" type="4">
-        <text>file</text>
+        <text>now</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvcmVJbnN0YW5jZUZsZWV0Q29uZmlnID0gbmV3IEluc3RhbmNlRmxlZXRDb25maWcoKQogICAgICAgIC53aXRoSW5zdGFuY2VGbGVldFR5cGUoSW5zdGFuY2VGbGVldFR5cGUuQ09SRSkKICAgICAgICAud2l0aFRhcmdldFNwb3RDYXBhY2l0eShjb3JlSlNPTk9iamVjdC5nZXRJbnQoInRhcmdldFNwb3RDYXBhY2l0eSIpKQogICAgICAgIC53aXRoSW5zdGFuY2VUeXBlQ29uZmlncyhjb3JlSW5zdGFuY2VUeXBlQ29uZmlnKTsK</text>
@@ -861,9 +862,9 @@
       </register>
     </registers>
     <search>
-      <last-search>file</last-search>
+      <last-search>now</last-search>
       <last-offset />
-      <last-pattern>file</last-pattern>
+      <last-pattern>now</last-pattern>
       <last-replace>com.dmm.aws</last-replace>
       <last-substitute>jp.ogikei</last-substitute>
       <last-dir>1</last-dir>
@@ -871,7 +872,6 @@
     </search>
     <history>
       <history-search>
-        <entry>core</entry>
         <entry>job flow</entry>
         <entry>job flow id</entry>
         <entry>slave</entry>
@@ -891,6 +891,7 @@
         <entry>jp.ogikei</entry>
         <entry>arrays</entry>
         <entry>file</entry>
+        <entry>now</entry>
       </history-search>
       <history-cmd>
         <entry>s/`//</entry>
