@@ -412,12 +412,12 @@
         <mark key="^" line="29" column="63" />
         <mark key="." line="29" column="63" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/pigeon-gatling/src/test/scala/computerdatabase/TestPigeonSimulation.scala" timestamp="1503369879393">
+      <file name="$USER_HOME$/OfficeTools/git/pigeon-gatling/src/test/scala/computerdatabase/TestPigeonSimulation.scala" timestamp="1503370673022">
         <mark key="'" line="8" column="9" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="7" column="45" />
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="27" />
+        <mark key="^" line="18" column="27" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis/src/main/scala/com/dmm/aws/kinesis/Stream.scala" timestamp="1499753332009">
         <mark key="[" line="2" column="14" />
@@ -871,11 +871,11 @@
       <jump line="8" column="9" filename="$USER_HOME$/OfficeTools/git/pigeon-gatling/src/test/scala/computerdatabase/TestPigeonSimulation.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyAyNOaZgumWkyA1MHJwcyDjga7osqDojbfjgpLjgYvjgZHjgabjgb/jgovvvIgx44K344OK44Oq44Kq44GnMuODquOCr+OCqOOCueODiOOBquOBruOBpzI144KS5oyH5a6a77yJCg==</text>
+      <register name="&quot;" type="4">
+        <text>request</text>
       </register>
       <register name="-" type="4">
-        <text>v1/push/subscribe/optin</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
         <text>”</text>
