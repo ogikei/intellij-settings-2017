@@ -537,12 +537,12 @@
         <mark key="^" line="0" column="55" />
         <mark key="." line="0" column="55" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" timestamp="1503543222731">
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" timestamp="1503544599633">
         <mark key="'" line="16" column="54" />
-        <mark key="[" line="37" column="15" />
-        <mark key="]" line="37" column="20" />
-        <mark key="." line="37" column="20" />
-        <mark key="^" line="37" column="20" />
+        <mark key="[" line="47" column="13" />
+        <mark key="]" line="47" column="16" />
+        <mark key="." line="47" column="16" />
+        <mark key="^" line="47" column="16" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis-to-flink/build.sbt" timestamp="1500017050244">
         <mark key="[" line="11" column="55" />
@@ -894,10 +894,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>warning</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>warning</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -905,33 +905,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICBpbXBvcnQgY29tLmFtYXpvbmF3cy5BbWF6b25DbGllbnRFeGNlcHRpb24KICBpbXBvcnQgY29tLmFtYXpvbmF3cy5BbWF6b25TZXJ2aWNlRXhjZXB0aW9uCiAgaW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMuczMuQW1hem9uUzMKICBpbXBvcnQgY29tLmFtYXpvbmF3cy5zZXJ2aWNlcy5zMy5tb2RlbC5CdWNrZXQKICBpbXBvcnQgY29tLmFtYXpvbmF3cy5zZXJ2aWNlcy5zMy5tb2RlbC5HZXRPYmplY3RSZXF1ZXN0CiAgaW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMuczMubW9kZWwuUzNPYmplY3QKICBpbXBvcnQgamF2YS5pby5CdWZmZXJlZFJlYWRlcgogIGltcG9ydCBqYXZhLmlvLklPRXhjZXB0aW9uCiAgaW1wb3J0IGphdmEuaW8uSW5wdXRTdHJlYW1SZWFkZXIKICBpbXBvcnQgamF2YS5pby5VbnN1cHBvcnRlZEVuY29kaW5nRXhjZXB0aW9uCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>(&quot;AWS Error Code:   &quot; + ase.getErrorCode)
-        logger.warni</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHZhciBsaW5lID0gbnVsbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBpbnB1dFN0cmVhbSA9IG51bGwK</text>
+        <text encoding="base64">ICAgIHZhciBqc29uT2JqZWN0ID0gbnVsbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uQnVmZmVyZWRSZWFkZXIKaW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb24KaW1wb3J0IGphdmEuaW8uSW5wdXRTdHJlYW1SZWFkZXIKaW1wb3J0IGphdmEuaW8uVW5zdXBwb3J0ZWRFbmNvZGluZ0V4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgdmFsIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGdldCBjcmVkZW50aWFsIGluZm8K</text>
+        <text encoding="base64">ICAgIHZhciBqc29uT2JqZWN0ID0gbnVsbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGdldCBzMwo=</text>
+        <text encoding="base64">ICAgIG51bGwK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text>(&quot;Error Message:    &quot; + ase.getMessage)
+        logger.erro</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiY29tLmFtYXpvbmF3cyIgJSAiYXdzLWphdmEtc2RrLWF1dGgiICUgIjEuMTEuMTgxIiwK</text>
+        <text encoding="base64">ICAgIG51bGwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbXBvcnQgY29tLmFtYXpvbmF3cy5BbWF6b25DbGllbnRFeGNlcHRpb24KICBpbXBvcnQgY29tLmFtYXpvbmF3cy5BbWF6b25TZXJ2aWNlRXhjZXB0aW9uCiAgaW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMuczMuQW1hem9uUzMKICBpbXBvcnQgY29tLmFtYXpvbmF3cy5zZXJ2aWNlcy5zMy5tb2RlbC5CdWNrZXQKICBpbXBvcnQgY29tLmFtYXpvbmF3cy5zZXJ2aWNlcy5zMy5tb2RlbC5HZXRPYmplY3RSZXF1ZXN0CiAgaW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMuczMubW9kZWwuUzNPYmplY3QKICBpbXBvcnQgamF2YS5pby5CdWZmZXJlZFJlYWRlcgogIGltcG9ydCBqYXZhLmlvLklPRXhjZXB0aW9uCiAgaW1wb3J0IGphdmEuaW8uSW5wdXRTdHJlYW1SZWFkZXIKICBpbXBvcnQgamF2YS5pby5VbnN1cHBvcnRlZEVuY29kaW5nRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJkb3dubG9hZGluZyBhbiBvYmplY3QiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
