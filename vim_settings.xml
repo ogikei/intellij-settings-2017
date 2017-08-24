@@ -512,11 +512,12 @@
         <mark key="." line="8" column="47" />
         <mark key="^" line="8" column="47" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/build.sbt" timestamp="1503564158316">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/build.sbt" timestamp="1503567079487">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="23" column="17" />
+        <mark key="." line="23" column="17" />
+        <mark key="^" line="23" column="17" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/srcs/jackson-databind-2.6.7.1-sources.jar!/com/fasterxml/jackson/databind/util/JSONPObject.java" timestamp="1503550832391" />
       <file name="$USER_HOME$/OfficeTools/git/pigeon-gatling/src/test/scala/computerdatabase/PigeonSimulation.scala" timestamp="1503368648543">
@@ -819,16 +820,15 @@
         <mark key="^" line="11" column="25" />
         <mark key="." line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/Main.scala" timestamp="1503559412486">
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/Main.scala" timestamp="1503564816727">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="3" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="36" column="48" />
+        <mark key="." line="36" column="48" />
+        <mark key="^" line="36" column="48" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="23" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/emr/Cluster.java" />
       <jump line="78" column="18" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/emr/Cluster.java" />
       <jump line="88" column="1" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/ec2/spot/Fleet.java" />
       <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/ec2/spot/Fleet.java" />
@@ -928,55 +928,56 @@
       <jump line="10" column="0" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/test/scala/computerdatabase/TestPigeonSimulation.scala" />
       <jump line="11" column="0" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/build.sbt" />
       <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/build.sbt" />
+      <jump line="10" column="0" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>java.util.Collection[String]</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>”</text>
+        <text>root</text>
       </register>
-      <register name="0" type="4">
-        <text>s3Json</text>
+      <register name="0" type="2">
+        <text encoding="base64">bmFtZSA6PSAiZ2F0bGluZy1vbi1lYzIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGF6eSB2YWwgcm9vdCA9IChwcm9qZWN0IGluIGZpbGUoIi4iKSkKICAuY29uZmlncyhJbnRlZ3JhdGlvblRlc3QpCiAgLnNldHRpbmdzKERlZmF1bHRzLml0U2V0dGluZ3M6IF8qKQoKUHJvamVjdC5pbkNvbmZpZyhJbnRlZ3JhdGlvblRlc3QpKGJhc2VBc3NlbWJseVNldHRpbmdzKQphc3NlbWJseUphck5hbWUgaW4gKEludGVncmF0aW9uVGVzdCwgYXNzZW1ibHkpIDo9IHMiJHtuYW1lLnZhbHVlfS0ke3ZlcnNpb24udmFsdWV9LmphciIKbWFpbkNsYXNzIGluIGFzc2VtYmx5IDo9IFNvbWUoImNvbS5kbW0uZHJlLlRlc3QiKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb24uSmF2YUNvbnZlcnNpb25zLl8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb24uSmF2YUNvbnZlcnNpb25zLl8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2NhbGFWZXJzaW9uIDo9ICIyLjExLjExIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmVyc2lvbiA6PSAiMC4xIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzZXRVcAo=</text>
+        <text encoding="base64">ICBzY2FsYQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmdhdGxpbmcuY29yZS5Db25maWdLZXlzLmh0dHAKaW1wb3J0IGlvLmdhdGxpbmcuY29yZS5ib2R5LlN0cmluZ0JvZHkKaW1wb3J0IGlvLmdhdGxpbmcuY29yZS5zdHJ1Y3R1cmUuU2NlbmFyaW9CdWlsZGVyCmltcG9ydCBpby5nYXRsaW5nLmh0dHAucHJvdG9jb2wuSHR0cFByb3RvY29sQnVpbGRlcgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>”</last-search>
+      <last-search>root</last-search>
       <last-offset />
-      <last-pattern>”</last-pattern>
+      <last-pattern>root</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -984,7 +985,6 @@
     </search>
     <history>
       <history-search>
-        <entry>instance</entry>
         <entry>type</entry>
         <entry>instancetype</entry>
         <entry encoding="base64">XDxBbWF6b25FbGFzdGljTWFwUmVkdWNlXD4=</entry>
@@ -1004,12 +1004,10 @@
         <entry>jsonobject</entry>
         <entry>runinstancesrequest</entry>
         <entry>”</entry>
+        <entry>root</entry>
       </history-search>
       <history-cmd>
-        <entry>go import</entry>
-        <entry>go fmt</entry>
         <entry>39</entry>
-        <entry>2</entry>
         <entry>23</entry>
         <entry>15</entry>
         <entry>%s/filename/fileName/g</entry>
@@ -1025,7 +1023,10 @@
         <entry>13</entry>
         <entry>q</entry>
         <entry>s</entry>
+        <entry>2</entry>
+        <entry>26</entry>
         <entry>w</entry>
+        <entry>root</entry>
       </history-cmd>
       <history-expr />
       <history-input />
