@@ -97,11 +97,11 @@
         <mark key="^" line="59" column="5" />
         <mark key="." line="59" column="5" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/EC2.scala" timestamp="1503547636078">
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/EC2.scala" timestamp="1503551500592">
         <mark key="[" line="4" column="2" />
-        <mark key="]" line="5" column="1" />
-        <mark key="." line="5" column="1" />
-        <mark key="^" line="5" column="1" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-mole/video/extract_digitalbasket.dig" timestamp="1499227200810">
         <mark key="[" line="1" column="3" />
@@ -467,13 +467,14 @@
         <mark key="." line="8" column="47" />
         <mark key="^" line="8" column="47" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/build.sbt" timestamp="1503542516830">
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/build.sbt" timestamp="1503551228376">
         <mark key="'" line="12" column="27" />
-        <mark key="[" line="15" column="46" />
-        <mark key="]" line="15" column="48" />
-        <mark key="." line="15" column="48" />
-        <mark key="^" line="15" column="48" />
+        <mark key="[" line="18" column="59" />
+        <mark key="]" line="18" column="59" />
+        <mark key="." line="18" column="59" />
+        <mark key="^" line="18" column="59" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/srcs/jackson-databind-2.6.7.1-sources.jar!/com/fasterxml/jackson/databind/util/JSONPObject.java" timestamp="1503550832391" />
       <file name="$USER_HOME$/OfficeTools/git/pigeon-gatling/src/test/scala/computerdatabase/PigeonSimulation.scala" timestamp="1503368648543">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="2" column="9" />
@@ -535,12 +536,12 @@
         <mark key="^" line="0" column="55" />
         <mark key="." line="0" column="55" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" timestamp="1503547490832">
-        <mark key="'" line="15" column="54" />
-        <mark key="[" line="7" column="55" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" timestamp="1503551321979">
+        <mark key="'" line="11" column="41" />
+        <mark key="[" line="4" column="41" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis-to-flink/build.sbt" timestamp="1500017050244">
         <mark key="[" line="11" column="55" />
@@ -686,6 +687,7 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play-json_2.12/srcs/play-json_2.12-2.6.0-sources.jar!/Json.scala" timestamp="1503551302625" />
       <file name="$USER_HOME$/OfficeTools/git/stork-api/router/router.go" timestamp="1498455171810">
         <mark key="[" line="41" column="32" />
         <mark key="]" line="41" column="36" />
@@ -777,27 +779,17 @@
         <mark key="^" line="11" column="25" />
         <mark key="." line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/Main.scala" timestamp="1503547711268">
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/Main.scala" timestamp="1503551488390">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="29" column="18" />
-        <mark key="]" line="29" column="17" />
-        <mark key="." line="29" column="17" />
-        <mark key="^" line="29" column="17" />
+        <mark key="[" line="29" column="47" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1502933159004">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" />
-      <jump line="78" column="4" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" />
-      <jump line="87" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" />
-      <jump line="28" column="30" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" />
-      <jump line="31" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" />
-      <jump line="33" column="56" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" />
-      <jump line="63" column="8" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" />
-      <jump line="67" column="10" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" />
-      <jump line="75" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" />
       <jump line="65" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" />
       <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" />
       <jump line="74" column="84" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" />
@@ -889,22 +881,31 @@
       <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/Main.scala" />
       <jump line="5" column="42" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" />
       <jump line="18" column="54" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" />
+      <jump line="54" column="16" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" />
+      <jump line="42" column="9" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" />
+      <jump line="45" column="9" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" />
+      <jump line="46" column="22" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" />
+      <jump line="25" column="11" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" />
+      <jump line="53" column="22" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" />
+      <jump line="4" column="29" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" />
+      <jump line="43" column="59" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" />
+      <jump line="11" column="41" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGpzb25PYmplY3QuCg==</text>
+      <register name="&quot;" type="4">
+        <text>class</text>
       </register>
       <register name="-" type="4">
-        <text>JSONObject</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>jsonobject</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpbXBvcnQgY29tLmFtYXpvbmF3cy5BbWF6b25DbGllbnRFeGNlcHRpb24KICBpbXBvcnQgY29tLmFtYXpvbmF3cy5BbWF6b25TZXJ2aWNlRXhjZXB0aW9uCiAgaW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMuczMuQW1hem9uUzMKICBpbXBvcnQgY29tLmFtYXpvbmF3cy5zZXJ2aWNlcy5zMy5tb2RlbC5CdWNrZXQKICBpbXBvcnQgY29tLmFtYXpvbmF3cy5zZXJ2aWNlcy5zMy5tb2RlbC5HZXRPYmplY3RSZXF1ZXN0CiAgaW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMuczMubW9kZWwuUzNPYmplY3QKICBpbXBvcnQgamF2YS5pby5CdWZmZXJlZFJlYWRlcgogIGltcG9ydCBqYXZhLmlvLklPRXhjZXB0aW9uCiAgaW1wb3J0IGphdmEuaW8uSW5wdXRTdHJlYW1SZWFkZXIKICBpbXBvcnQgamF2YS5pby5VbnN1cHBvcnRlZEVuY29kaW5nRXhjZXB0aW9uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGpzb25PYmplY3QuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -916,36 +917,35 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNsdXN0ZXIuY3JlYXRlRU1SQ2x1c3RlcihlbXJDbGllbnQsIGZsZWV0LmNyZWF0ZUluc3RhbmNlRmxlZXRDb25maWdzKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIENsdXN0ZXIgY2x1c3RlciA9IG5ldyBDbHVzdGVyKGpzb25PYmplY3QpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBtZXNzYWdlID0gKHMzSnNvbiBcXCAiIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFtYXpvbkVsYXN0aWNNYXBSZWR1Y2UgZW1yQ2xpZW50ID0gQW1hem9uRWxhc3RpY01hcFJlZHVjZUNsaWVudEJ1aWxkZXIKICAgICAgLnN0YW5kYXJkKCkKICAgICAgLndpdGhDcmVkZW50aWFscyhDcmVkZW50aWFsLmNyZWRlbnRpYWwpCiAgICAgIC53aXRoQ2xpZW50Q29uZmlndXJhdGlvbihDcmVkZW50aWFsLmNsaWVudENvbmZpZykKICAgICAgLndpdGhSZWdpb24ocmVnaW9uKQogICAgICAuYnVpbGQoKQo=</text>
+        <text encoding="base64">ICAgIHMzSnNvbi4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEZsZWV0IGZsZWV0ID0gbmV3IEZsZWV0KGpzb25PYmplY3QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>jsonobject</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>jsonobject</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>may</entry>
         <entry>group</entry>
         <entry>instance</entry>
         <entry>type</entry>
@@ -965,6 +965,7 @@
         <entry>”</entry>
         <entry encoding="base64">XDxicm93c2VyXD4=</entry>
         <entry>print</entry>
+        <entry>jsonobject</entry>
       </history-search>
       <history-cmd>
         <entry>%s/varchar//g</entry>
