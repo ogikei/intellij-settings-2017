@@ -97,6 +97,12 @@
         <mark key="^" line="59" column="5" />
         <mark key="." line="59" column="5" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/EC2.scala" timestamp="1503547636078">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-mole/video/extract_digitalbasket.dig" timestamp="1499227200810">
         <mark key="[" line="1" column="3" />
         <mark key="]" line="1" column="15" />
@@ -487,14 +493,6 @@
         <mark key="." line="12" column="47" />
         <mark key="^" line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/pigeon/utils/file.go" timestamp="1503305635955">
-        <mark key="'" line="68" column="4" />
-        <mark key="h" line="69" column="60" />
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="21" column="15" />
-        <mark key="^" line="21" column="15" />
-        <mark key="." line="21" column="15" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon/docker-compose.yaml" timestamp="1502165733703">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="27" />
@@ -537,12 +535,12 @@
         <mark key="^" line="0" column="55" />
         <mark key="." line="0" column="55" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" timestamp="1503544599633">
-        <mark key="'" line="16" column="54" />
-        <mark key="[" line="47" column="13" />
-        <mark key="]" line="47" column="16" />
-        <mark key="." line="47" column="16" />
-        <mark key="^" line="47" column="16" />
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" timestamp="1503547490832">
+        <mark key="'" line="15" column="54" />
+        <mark key="[" line="7" column="55" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis-to-flink/build.sbt" timestamp="1500017050244">
         <mark key="[" line="11" column="55" />
@@ -779,12 +777,12 @@
         <mark key="^" line="11" column="25" />
         <mark key="." line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/Main.scala" timestamp="1503542597216">
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/Main.scala" timestamp="1503547711268">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="27" column="73" />
-        <mark key="]" line="27" column="3" />
-        <mark key="." line="27" column="3" />
-        <mark key="^" line="27" column="3" />
+        <mark key="[" line="29" column="18" />
+        <mark key="]" line="29" column="17" />
+        <mark key="." line="29" column="17" />
+        <mark key="^" line="29" column="17" />
       </file>
       <file name="/fragment.java" timestamp="1502933159004">
         <mark key="[" line="0" column="0" />
@@ -893,11 +891,11 @@
       <jump line="18" column="54" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGpzb25PYmplY3QuCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>JSONObject</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -906,32 +904,31 @@
         <text encoding="base64">ICBpbXBvcnQgY29tLmFtYXpvbmF3cy5BbWF6b25DbGllbnRFeGNlcHRpb24KICBpbXBvcnQgY29tLmFtYXpvbmF3cy5BbWF6b25TZXJ2aWNlRXhjZXB0aW9uCiAgaW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMuczMuQW1hem9uUzMKICBpbXBvcnQgY29tLmFtYXpvbmF3cy5zZXJ2aWNlcy5zMy5tb2RlbC5CdWNrZXQKICBpbXBvcnQgY29tLmFtYXpvbmF3cy5zZXJ2aWNlcy5zMy5tb2RlbC5HZXRPYmplY3RSZXF1ZXN0CiAgaW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMuczMubW9kZWwuUzNPYmplY3QKICBpbXBvcnQgamF2YS5pby5CdWZmZXJlZFJlYWRlcgogIGltcG9ydCBqYXZhLmlvLklPRXhjZXB0aW9uCiAgaW1wb3J0IGphdmEuaW8uSW5wdXRTdHJlYW1SZWFkZXIKICBpbXBvcnQgamF2YS5pby5VbnN1cHBvcnRlZEVuY29kaW5nRXhjZXB0aW9uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBsaW5lID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgIGpzb25PYmplY3QuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBqc29uT2JqZWN0ID0gbnVsbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFsIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBqc29uT2JqZWN0ID0gbnVsbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG51bGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>(&quot;Error Message:    &quot; + ase.getMessage)
-        logger.erro</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNsdXN0ZXIuY3JlYXRlRU1SQ2x1c3RlcihlbXJDbGllbnQsIGZsZWV0LmNyZWF0ZUluc3RhbmNlRmxlZXRDb25maWdzKCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG51bGwK</text>
+        <text encoding="base64">ICAgIENsdXN0ZXIgY2x1c3RlciA9IG5ldyBDbHVzdGVyKGpzb25PYmplY3QpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHIK</text>
+        <text encoding="base64">ICAgIEFtYXpvbkVsYXN0aWNNYXBSZWR1Y2UgZW1yQ2xpZW50ID0gQW1hem9uRWxhc3RpY01hcFJlZHVjZUNsaWVudEJ1aWxkZXIKICAgICAgLnN0YW5kYXJkKCkKICAgICAgLndpdGhDcmVkZW50aWFscyhDcmVkZW50aWFsLmNyZWRlbnRpYWwpCiAgICAgIC53aXRoQ2xpZW50Q29uZmlndXJhdGlvbihDcmVkZW50aWFsLmNsaWVudENvbmZpZykKICAgICAgLndpdGhSZWdpb24ocmVnaW9uKQogICAgICAuYnVpbGQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJkb3dubG9hZGluZyBhbiBvYmplY3QiKQo=</text>
+        <text encoding="base64">ICAgIEZsZWV0IGZsZWV0ID0gbmV3IEZsZWV0KGpzb25PYmplY3QpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
