@@ -120,10 +120,11 @@
         <mark key="." line="6" column="25" />
         <mark key="^" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/build.sh" timestamp="1503645074798">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/build.sh" timestamp="1503647236901">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="23" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-mole/video/extract_digitalbasket.dig" timestamp="1499227200810">
         <mark key="[" line="1" column="3" />
@@ -535,12 +536,11 @@
         <mark key="." line="8" column="47" />
         <mark key="^" line="8" column="47" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/build.sbt" timestamp="1503644654632">
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/build.sbt" timestamp="1503646091464">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="17" />
-        <mark key="]" line="26" column="17" />
-        <mark key="." line="26" column="17" />
-        <mark key="^" line="26" column="17" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon-gatling/src/test/scala/computerdatabase/PigeonSimulation.scala" timestamp="1503368648543">
         <mark key="[" line="2" column="6" />
@@ -739,6 +739,9 @@
         <mark key="]" line="4" column="21" />
         <mark key="^" line="4" column="21" />
         <mark key="." line="4" column="21" />
+      </file>
+      <file name="/sbtShell" timestamp="1503646607926">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/pom.xml" timestamp="1503639126316">
         <mark key="[" line="4" column="11" />
@@ -976,10 +979,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YGxzYAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>saa</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>record</text>
@@ -988,31 +991,31 @@
         <text encoding="base64">ICBsaWJyYXJ5RGVwZW5kZW5jaWVzICsrPSBTZXEoCiAgICAiY29tLmFtYXpvbmF3cyIgJSAiYXdzLWphdmEtc2RrLWNvcmUiICUgIjEuMTEuMTgxIiwKICAgICJjb20uYW1hem9uYXdzIiAlICJhd3MtamF2YS1zZGstZWMyIiAlICIxLjExLjE4MSIsCiAgICAiY29tLmFtYXpvbmF3cyIgJSAiYXdzLWphdmEtc2RrLXMzIiAlICIxLjExLjE4MSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YGxzYAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2J0IGF3cy9ydW4gJDEgJDIgJDMgJDQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JDEK</text>
+        <text encoding="base64">ICAuYWdncmVnYXRlKGF3cykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFnZ3JlZ2F0ZShhd3MpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsaWJyYXJ5RGVwZW5kZW5jaWVzICsrPSBTZXEoCiAgICAiaW8uZ2F0bGluZy5oaWdoY2hhcnRzIiAlICJnYXRsaW5nLWNoYXJ0cy1oaWdoY2hhcnRzIiAlICIyLjIuNSIgJSAidGVzdCIsCiAgICAiaW8uZ2F0bGluZyIgJSAiZ2F0bGluZy10ZXN0LWZyYW1ld29yayIgJSAiMi4yLjUiICUgInRlc3QiKQo=</text>
+        <text encoding="base64">YGxzYAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ImNvbS50eXBlc2FmZS5wbGF5IiAlJSAicGxheS1qc29uIiAlICIyLjYuMCIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJjb20udHlwZXNhZmUuc2NhbGEtbG9nZ2luZyIgJSUgInNjYWxhLWxvZ2dpbmciICUgIjMuNy4yIiwKICAgICJjb20udHlwZXNhZmUucGxheSIgJSUgInBsYXktanNvbiIgJSAiMi42LjAiLAo=</text>
+        <text encoding="base64">JDEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFnZ3JlZ2F0ZShhd3MpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
