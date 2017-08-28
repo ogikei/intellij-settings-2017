@@ -126,6 +126,13 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="5" column="40" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Main.scala" timestamp="1503889654929">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-mole/video/extract_digitalbasket.dig" timestamp="1499227200810">
         <mark key="[" line="1" column="3" />
         <mark key="]" line="1" column="15" />
@@ -472,6 +479,13 @@
         <mark key="^" line="29" column="63" />
         <mark key="." line="29" column="63" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/structured-example/build.sbt" timestamp="1503890060498">
+        <mark key="'" line="10" column="18" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/.gitignore" timestamp="1503653227466">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="3" column="0" />
@@ -550,6 +564,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example.scala" timestamp="1503890657865">
+        <mark key="[" line="31" column="12" />
+        <mark key="]" line="31" column="31" />
+        <mark key="." line="31" column="31" />
+        <mark key="^" line="31" column="31" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon-gatling/src/test/scala/computerdatabase/PigeonSimulation.scala" timestamp="1503368648543">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="2" column="9" />
@@ -598,6 +618,12 @@
         <mark key="]" line="14" column="18" />
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Sample.scala" timestamp="1503889818802">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+        <mark key="^" line="3" column="13" />
       </file>
       <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/Fleet.java" timestamp="1502337277273">
         <mark key="[" line="2" column="13" />
@@ -890,8 +916,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="42" filename="$USER_HOME$/OfficeTools/git/pigeon/utils/file.go" />
-      <jump line="53" column="14" filename="$USER_HOME$/OfficeTools/git/pigeon/utils/file.go" />
       <jump line="54" column="30" filename="$USER_HOME$/OfficeTools/git/pigeon/utils/file.go" />
       <jump line="55" column="28" filename="$USER_HOME$/OfficeTools/git/pigeon/utils/file.go" />
       <jump line="56" column="22" filename="$USER_HOME$/OfficeTools/git/pigeon/utils/file.go" />
@@ -990,46 +1014,48 @@
       <jump line="25" column="18" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/build.sbt" />
       <jump line="23" column="0" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/build.sbt" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/build.sbt" />
+      <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Main.scala" />
+      <jump line="12" column="18" filename="$USER_HOME$/MyWork/git/structured-example/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHdpdGggQXBw</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHdpdGggQXBw</text>
+        <text>exapmle</text>
       </register>
       <register name="/" type="4">
         <text>record</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBzc2ggZWMyLXVzZXJAJHtFQzJfSE9TVH0gc2J0ICJhd3MvcnVuICQyICQzICQ0ICQ1Igo=</text>
+        <text encoding="base64">ICAib3JnLmFwYWNoZS5zcGFyayIgJSUgInNwYXJrLWNvcmUiICUgIjIuMi4wIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8geW91IGhhdmUgdG8gZWRpdCBwdWJsaWNfZG5zLnR4dCBhZnRlciB0aGF0IHlvdSBjYW4gZXhlY3V0ZSBhYm92ZSBjb21tYW5kCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyBzc2ggZWMyLXVzZXJAJHtFQzJfSE9TVH0gc2J0ICJhd3MvcnVuICQyICQzICQ0ICQ1Igo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">I3NidCAiYXdzL3J1biAkMSAkMiAkMyAkNCIK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">bmFtZSA6PSAic3RydWN0dXJlZC1leGFtcGxlIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG5hbWUK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG5hbWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5uYW1lampkZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLm5hbWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
