@@ -225,6 +225,12 @@
         <mark key="^" line="1" column="39" />
         <mark key="." line="1" column="50" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/structured-example/README.md" timestamp="1503905024454">
+        <mark key="[" line="6" column="69" />
+        <mark key="]" line="6" column="68" />
+        <mark key="^" line="6" column="68" />
+        <mark key="." line="6" column="68" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon/common/log.go" timestamp="1501566087419">
         <mark key="'" line="40" column="27" />
         <mark key="[" line="40" column="23" />
@@ -1018,11 +1024,11 @@
       <jump line="12" column="18" filename="$USER_HOME$/MyWork/git/structured-example/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text>exapmle</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text>record</text>
@@ -1031,31 +1037,31 @@
         <text encoding="base64">ICAib3JnLmFwYWNoZS5zcGFyayIgJSUgInNwYXJrLWNvcmUiICUgIjIuMi4wIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">UkVBRE1FLm1kCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bmFtZSA6PSAic3RydWN0dXJlZC1leGFtcGxlIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5hbWUK</text>
+        <text encoding="base64">bmFtZSA6PSAic3RydWN0dXJlZC1leGFtcGxlIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIG5hbWUK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5uYW1lampkZAo=</text>
+        <text encoding="base64">ICAgIG5hbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLm5hbWUK</text>
+        <text encoding="base64">ICAgIC5uYW1lampkZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1094,7 +1100,6 @@
         <entry>record</entry>
       </history-search>
       <history-cmd>
-        <entry>39</entry>
         <entry>23</entry>
         <entry>15</entry>
         <entry>%s/filename/fileName/g</entry>
@@ -1113,6 +1118,7 @@
         <entry>26</entry>
         <entry>root</entry>
         <entry>s</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
