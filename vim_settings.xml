@@ -1037,7 +1037,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>record</text>
+        <text>check</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAib3JnLmFwYWNoZS5zcGFyayIgJSUgInNwYXJrLWNvcmUiICUgIjIuMi4wIikK</text>
@@ -1074,17 +1074,16 @@
       </register>
     </registers>
     <search>
-      <last-search>record</last-search>
+      <last-search>check</last-search>
       <last-offset />
-      <last-pattern>record</last-pattern>
+      <last-pattern>check</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>create</entry>
         <entry encoding="base64">XDxtYXN0ZXJJbnN0YW5jZUZsZWV0Q29uZmlnXD4=</entry>
         <entry>add</entry>
         <entry>jp.ogikei</entry>
@@ -1104,6 +1103,7 @@
         <entry>feed</entry>
         <entry>maven</entry>
         <entry>record</entry>
+        <entry>check</entry>
       </history-search>
       <history-cmd>
         <entry>23</entry>
