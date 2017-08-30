@@ -490,12 +490,12 @@
         <mark key="^" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" timestamp="1504085761562">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="77" column="28" />
-        <mark key="]" line="79" column="35" />
-        <mark key="." line="79" column="35" />
-        <mark key="^" line="79" column="35" />
+      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" timestamp="1504088106063">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="63" column="19" />
+        <mark key="]" line="63" column="19" />
+        <mark key="." line="63" column="19" />
+        <mark key="^" line="63" column="31" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" timestamp="1501657264639">
         <mark key="'" line="83" column="41" />
@@ -1061,11 +1061,11 @@
       <jump line="62" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>StreamingPipi</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>StreamingPipi</text>
       </register>
       <register name="/" type="4">
         <text>structured</text>
@@ -1074,31 +1074,31 @@
         <text encoding="base64">ICAgICAgLnNldEZlYXR1cmVzQ29sKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBwaXBlbGluZSA9IG5ldyBTdHJlYW1pbmdLTWVhbnMoKQogICAgICAuc2V0SyhhcmdzKDApLnRvSW50KQogICAgICAudHJhaW5Pbih0cmFpbmluZ0RGKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLnRvRHN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBtb2RlbDEgPSBuZXcgU3RyZWFtaW5nS01lYW5zKCkKICAgICAgLnNldEsoMSkKICAgIG1vZGVsMS50cmEK</text>
+        <text encoding="base64">ICAgICAgLnNldFNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLnRyYWlubwo=</text>
+        <text encoding="base64">ICAgICAgLnRyYWluT24odHJhaW5pbmdERikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBxdWVyeSA9IHRyYWluaW5nREYKICAgICAgLndyaXRlU3RyZWFtCiAgICAgIC5vdXRwdXRNb2RlKCJ1cGRhdGUiKQogICAgICAuZm9ybWF0KCJjb25zb2xlIikKICAgICAgLnN0YXJ0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBtb2RlbDEgPSBuZXcgU3RyZWFtaW5nS01lYW5zKCkKICAgICAgLnNldEsoMSkKICAgIG1vZGVsMS50cmEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vZGVsLnRyYWlubwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
