@@ -490,12 +490,11 @@
         <mark key="^" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" timestamp="1504083379188">
-        <mark key="'" line="56" column="92" />
-        <mark key="[" line="69" column="17" />
-        <mark key="]" line="69" column="25" />
-        <mark key="." line="69" column="25" />
-        <mark key="^" line="69" column="25" />
+      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" timestamp="1504084538493">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" timestamp="1501657264639">
         <mark key="'" line="83" column="41" />
@@ -959,7 +958,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="9" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" />
       <jump line="46" column="22" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" />
       <jump line="25" column="11" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" />
       <jump line="53" column="22" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" />
@@ -1059,13 +1057,14 @@
       <jump line="904" column="39" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/internal/SQLConf.scala" />
       <jump line="382" column="26" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/internal/SQLConf.scala" />
       <jump line="56" column="92" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="6" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>featuresDF</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>featuresDF</text>
+        <text>trainingDF</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjc3ZcPg==</text>
@@ -1074,28 +1073,28 @@
         <text encoding="base64">ICAgICAgLnNldEZlYXR1cmVzQ29sKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGttZWFucy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNlbnRyb2lkcy4K</text>
+        <text encoding="base64">ICAgIHF1ZXJ5LmF3YWl0VGVybWluYXRpb24oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNkbnRybwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNlbnRyb2lkcy5tYXAodCA9PiB0LnRvRGVuc2UpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBvdXRwdXQgPSB0cmFpbmluZ0RGCiAgICAgIC53cml0ZVN0cmVhbQogICAgICAub3V0cHV0TW9kZSgidXBkYXRlIikKICAgICAgLmZvcm1hdCgiY29uc29sZSIpCiAgICAgIC5zdGFydAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBhID0gbmV3IERlbnNlVmVjdG9yKCkK</text>
+        <text encoding="base64">ICAgIG91dHB1dC5hd2FpdFRlcm1pbmF0aW9uKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGprCg==</text>
+        <text encoding="base64">ICAgIG91dHB1dC5hd2FpdFRlcm1pbmF0aW9uKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlhCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWxsaWIucmVncmVzc2lvbi5MYWJlbGVkUG9pbnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGttZWFucy4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGNlbnRyb2lkcy4K</text>
