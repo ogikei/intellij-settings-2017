@@ -469,6 +469,13 @@
         <mark key="^" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" timestamp="1504056643306">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="43" column="35" />
+        <mark key="]" line="44" column="3" />
+        <mark key="." line="44" column="3" />
+        <mark key="^" line="44" column="3" />
+      </file>
       <file name="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" timestamp="1501657264639">
         <mark key="'" line="83" column="41" />
         <mark key="[" line="114" column="26" />
@@ -516,6 +523,7 @@
         <mark key="." line="2" column="52" />
         <mark key="^" line="2" column="52" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/types/StructField.scala" timestamp="1504055792163" />
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/params/param.go" timestamp="1498188255484">
         <mark key="[" line="30" column="16" />
         <mark key="]" line="30" column="18" />
@@ -570,11 +578,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example.scala" timestamp="1504002407974">
+      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example.scala" timestamp="1504055210142">
         <mark key="'" line="87" column="25" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon-gatling/src/test/scala/computerdatabase/PigeonSimulation.scala" timestamp="1503368648543">
         <mark key="[" line="2" column="6" />
@@ -607,11 +616,11 @@
         <mark key="^" line="0" column="51" />
         <mark key="." line="0" column="51" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example2.scala" timestamp="1504004008030">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="26" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="27" column="19" />
+      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example2.scala" timestamp="1504055243095">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+        <mark key="^" line="7" column="12" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local.sh" timestamp="1498454002791">
         <mark key="[" line="2" column="30" />
@@ -750,7 +759,6 @@
         <mark key="." line="0" column="52" />
         <mark key="^" line="0" column="52" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" timestamp="1504001278000" />
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/95_ins_activity.sql" timestamp="1500455669568">
         <mark key="'" line="0" column="102" />
         <mark key="[" line="4" column="99" />
@@ -933,10 +941,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon-gatling/user-files/simulations/pigeon/BasicSimulation.scala" />
-      <jump line="41" column="7" filename="$USER_HOME$/OfficeTools/git/pigeon-gatling/user-files/simulations/computerdatabase/BasicSimulation.scala" />
-      <jump line="24" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon-gatling/user-files/simulations/pigeon/BasicSimulation.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon-gatling/user-files/simulations/pigeon/BasicSimulation.scala" />
       <jump line="6" column="20" filename="$USER_HOME$/OfficeTools/git/pigeon-gatling/user-files/simulations/pigeon/BasicSimulation.scala" />
       <jump line="5" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon-gatling/user-files/simulations/pigeon/BasicSimulation.scala" />
       <jump line="23" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon-gatling/src/main/scala/PigeonSimulation.scala" />
@@ -1033,46 +1037,50 @@
       <jump line="24" column="21" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example2.scala" />
       <jump line="41" column="36" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example2.scala" />
       <jump line="266" column="0" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" />
+      <jump line="8" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="28" column="16" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="65" column="15" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="31" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIHRvZG8gc3BlY2lmeSBzY2hlbWUK</text>
+        <text encoding="base64">ICAgIHZhbCBhc3NlbWJsZXIgPSBuZXcgVmVjdG9yQXNzZW1ibGVyKCkKICAgICAgLnNldElucHV0Q29scyhBcnJheSgiZmVhdHVyZXMiLCAicHJlZGljdGlvbiIpKQogICAgICAuc2V0T3V0cHV0Q29sKCJwcmVkaWN0aW9uIikKICAgIAogICAgYXNzZW1ibGVyLnRyYW5zZm9ybSh0cmFpbmluZ0RGKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.fit()</text>
+        <text>trainingRDD</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIHRvZG8gc3BlY2lmeSBzY2hlbWUK</text>
+        <text encoding="base64">ICAgIHZhbCB0cmFpbmluZ1JERCA9CiAgICAgIHRyYWluaW5nREYucmRkLm1hcCh0ID0+IFZlY3RvcnMuZGVuc2UodC5nZXREb3VibGUoMCksIHQuZ2V0RG91YmxlKDEpLCB0LmdldERvdWJsZSgyKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
+        <text encoding="base64">ICAgIHZhbCBhc3NlbWJsZXIgPSBuZXcgVmVjdG9yQXNzZW1ibGVyKCkKICAgICAgLnNldElucHV0Q29scyhBcnJheSgiZmVhdHVyZXMiLCAicHJlZGljdGlvbiIpKQogICAgICAuc2V0T3V0cHV0Q29sKCJwcmVkaWN0aW9uIikKICAgIAogICAgYXNzZW1ibGVyLnRyYW5zZm9ybSh0cmFpbmluZ0RGKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
+        <text encoding="base64">ICAgICAgLnRvREYK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGttZWFucy5maXQoKQo=</text>
+        <text encoding="base64">ICAgIHRlc3QucmRkLm1hcCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGttZWFucy4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLnNldAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGkuCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIExhYmVsZWRQb2ludCgxLjAsIFZlY3RvcnMuZGVuc2UodGVzdFJERCkpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vIHVzZSBWZWN0b3JBc3NlbWJsZXIK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBtb2RlbCA9IGttZWFucy5maXQodHJhaW5pbmcpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1085,7 +1093,7 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
