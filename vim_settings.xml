@@ -783,6 +783,9 @@
         <mark key="." line="0" column="52" />
         <mark key="^" line="0" column="52" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" timestamp="1504147921822">
+        <mark key="'" line="145" column="8" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/95_ins_activity.sql" timestamp="1500455669568">
         <mark key="'" line="0" column="102" />
         <mark key="[" line="4" column="99" />
@@ -959,10 +962,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/Main.scala" />
-      <jump line="10" column="0" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/Main.scala" />
-      <jump line="17" column="17" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/Main.scala" />
-      <jump line="116" column="9" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-java-sdk-ec2/srcs/aws-java-sdk-ec2-1.11.181-sources.jar!/com/amazonaws/services/ec2/AmazonEC2.java" />
       <jump line="5443" column="5" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-java-sdk-ec2/srcs/aws-java-sdk-ec2-1.11.181-sources.jar!/com/amazonaws/services/ec2/AmazonEC2.java" />
       <jump line="5449" column="36" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-java-sdk-ec2/srcs/aws-java-sdk-ec2-1.11.181-sources.jar!/com/amazonaws/services/ec2/AmazonEC2.java" />
       <jump line="7" column="0" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/Main.scala" />
@@ -1059,6 +1058,10 @@
       <jump line="361" column="4" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" />
       <jump line="574" column="6" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/SparkSession.scala" />
+      <jump line="33" column="32" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="38" column="56" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="149" column="19" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="145" column="8" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1068,7 +1071,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>chackfor</text>
+        <text encoding="base64">XDxzcGFya1Nlc3Npb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLnNldEZlYXR1cmVzQ29sKCkK</text>
@@ -1105,9 +1108,9 @@
       </register>
     </registers>
     <search>
-      <last-search>chackfor</last-search>
+      <last-search encoding="base64">XDxzcGFya1Nlc3Npb25cPg==</last-search>
       <last-offset />
-      <last-pattern>chackfor</last-pattern>
+      <last-pattern encoding="base64">XDxzcGFya1Nlc3Npb25cPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -1115,7 +1118,6 @@
     </search>
     <history>
       <history-search>
-        <entry>check</entry>
         <entry>test</entry>
         <entry>args</entry>
         <entry>dataframe</entry>
@@ -1135,6 +1137,7 @@
         <entry>structured</entry>
         <entry>lzy</entry>
         <entry>chackfor</entry>
+        <entry encoding="base64">XDxzcGFya1Nlc3Npb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/filename/fileName/g</entry>
