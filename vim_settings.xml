@@ -490,11 +490,11 @@
         <mark key="^" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" timestamp="1504089857290">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" timestamp="1504143000710">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" timestamp="1501657264639">
         <mark key="'" line="83" column="41" />
@@ -543,7 +543,6 @@
         <mark key="." line="2" column="52" />
         <mark key="^" line="2" column="52" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/types/StructField.scala" timestamp="1504055792163" />
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/params/param.go" timestamp="1498188255484">
         <mark key="[" line="30" column="16" />
         <mark key="]" line="30" column="18" />
@@ -958,8 +957,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="22" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" />
-      <jump line="4" column="29" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" />
       <jump line="43" column="59" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" />
       <jump line="11" column="41" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" />
       <jump line="5" column="0" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/Main.scala" />
@@ -1058,10 +1055,12 @@
       <jump line="6" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
       <jump line="79" column="16" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
       <jump line="62" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="42" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAucXVlCg==</text>
+        <text encoding="base64">ICAgIC8vIHRvZG8gPz8/Cg==</text>
       </register>
       <register name="-" type="4">
         <text>StreamingPipi</text>
@@ -1073,31 +1072,31 @@
         <text encoding="base64">ICAgICAgLnNldEZlYXR1cmVzQ29sKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAucXVlCg==</text>
+        <text encoding="base64">ICAgIC8vIHRvZG8gPz8/Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAubmFtZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgIHZhbCBzY2hlbWEgPSBuZXcgU3RydWN0VHlwZSgpCiAgICAvLyAgICAgIC5hZGQoImZlYXR1cmVzIiwgQXJyYXlUeXBlKAogICAgLy8gICAgICAgIFN0cnVjdFR5cGUoQXJyYXkoCiAgICAvLyAgICAgICAgICBTdHJ1Y3RGaWVsZCgiZmVhdHVyZTEiLCBEb3VibGVUeXBlKSwKICAgIC8vICAgICAgICAgIFN0cnVjdEZpZWxkKCJmZWF0dXJlMiIsIERvdWJsZVR5cGUpLAogICAgLy8gICAgICAgICAgU3RydWN0RmllbGQoImZlYXR1cmUzIiwgRG91YmxlVHlwZSkKICAgIC8vICAgICAgICApKQogICAgLy8gICAgICApKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBtb2RlbCA9IG5ldyBTdHJlYW1pbmdLTWVhbnMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAucXVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAubmFtZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBwaXBlbGluZSA9IFN0cmVhbWluZ1BpcGVsaW5lCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBwaXBlbGluZSA9IG5ldyBTdHJlYW1pbmdLTWVhbnMoKQogICAgICAuc2V0SyhhcmdzKDApLnRvSW50KQogICAgICAudHJhaW5Pbih0cmFpbmluZ0RGKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBtb2RlbCA9IG5ldyBTdHJlYW1pbmdLTWVhbnMoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLnRvRHN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLnNldFNlCg==</text>
+        <text encoding="base64">ICAgIHZhbCBwaXBlbGluZSA9IFN0cmVhbWluZ1BpcGVsaW5lCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1110,7 +1109,7 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
