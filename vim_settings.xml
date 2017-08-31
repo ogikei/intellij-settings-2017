@@ -781,10 +781,12 @@
         <mark key="." line="21" column="1" />
         <mark key="^" line="21" column="1" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/spark-streaming-example/spark-streaming/src/main/scala/Wordcount.scala" timestamp="1504161760615">
-        <mark key="[" line="12" column="62" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/MyWork/git/spark-streaming-example/spark-streaming/src/main/scala/Wordcount.scala" timestamp="1504162574941">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="20" column="25" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" timestamp="1500444468655">
         <mark key="'" line="24" column="9" />
@@ -993,8 +995,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Main.scala" />
-      <jump line="12" column="18" filename="$USER_HOME$/MyWork/git/structured-example/build.sbt" />
       <jump line="17" column="9" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example.scala" />
       <jump line="13" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example.scala" />
       <jump line="159" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example.scala" />
@@ -1093,13 +1093,15 @@
       <jump line="17" column="35" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming_2.11/srcs/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/dstream/ReceiverInputDStream.scala" />
       <jump line="31" column="77" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming_2.11/srcs/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/dstream/ReceiverInputDStream.scala" />
       <jump line="33" column="44" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming_2.11/srcs/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/dstream/ReceiverInputDStream.scala" />
+      <jump line="19" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/spark-streaming/src/main/scala/Wordcount.scala" />
+      <jump line="3" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/spark-streaming/src/main/scala/Wordcount.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3RyZWFtaW5nLmRzdHJlYW0uRFN0cmVhbQo=</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>reduceByWindow()</text>
       </register>
       <register name="/" type="4">
         <text>dstream</text>
@@ -1108,31 +1110,31 @@
         <text>// DStream[String]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3RyZWFtaW5nLmRzdHJlYW0uRFN0cmVhbQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxpbmVzLmNvbXB1dGUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIERTdHJlYW1bU3RyaW5nXQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIERTdHJlYW1bU3RyaW5nXQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdvCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdvcmRzCg==</text>
+        <text encoding="base64">ICAgIC8vIERTdHJlYW1bU3RyaW5nXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
