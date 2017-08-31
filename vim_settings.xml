@@ -785,8 +785,8 @@
         <mark key="." line="0" column="52" />
         <mark key="^" line="0" column="52" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" timestamp="1504150686183">
-        <mark key="'" line="41" column="3" />
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" timestamp="1504151455910">
+        <mark key="'" line="158" column="30" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/95_ins_activity.sql" timestamp="1500455669568">
         <mark key="'" line="0" column="102" />
@@ -964,7 +964,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/Main.scala" />
       <jump line="28" column="0" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/Main.scala" />
       <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/Main.scala" />
       <jump line="6" column="30" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/test/scala/computerdatabase/TestPigeonSimulation.scala" />
@@ -1064,6 +1063,7 @@
       <jump line="4" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
       <jump line="44" column="11" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
       <jump line="41" column="3" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="158" column="30" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1106,7 +1106,7 @@
         <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>150</text>
       </register>
     </registers>
     <search>
@@ -1142,7 +1142,6 @@
         <entry>relati</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/filename/fileName/g</entry>
         <entry>%s/fileName/FileName/g</entry>
         <entry>49</entry>
         <entry>101</entry>
@@ -1162,6 +1161,7 @@
         <entry>2665</entry>
         <entry>w</entry>
         <entry>W</entry>
+        <entry>150</entry>
       </history-cmd>
       <history-expr />
       <history-input />
