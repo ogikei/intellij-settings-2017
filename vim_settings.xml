@@ -490,11 +490,10 @@
         <mark key="^" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" timestamp="1504143000710">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" timestamp="1504146270144">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" timestamp="1501657264639">
         <mark key="'" line="83" column="41" />
@@ -640,6 +639,9 @@
         <mark key="]" line="7" column="12" />
         <mark key="." line="7" column="12" />
         <mark key="^" line="7" column="12" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/SparkSession.scala" timestamp="1504146405478">
+        <mark key="'" line="574" column="6" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local.sh" timestamp="1498454002791">
         <mark key="[" line="2" column="30" />
@@ -812,8 +814,8 @@
         <mark key="." line="6" column="37" />
         <mark key="^" line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" timestamp="1504059434996">
-        <mark key="'" line="32" column="29" />
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" timestamp="1504145623107">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-collector/.gitignore" timestamp="1499049530255">
         <mark key="[" line="3" column="0" />
@@ -957,10 +959,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="59" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" />
-      <jump line="11" column="41" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" />
-      <jump line="5" column="0" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/Main.scala" />
-      <jump line="30" column="0" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/Main.scala" />
       <jump line="32" column="0" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/Main.scala" />
       <jump line="10" column="0" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/Main.scala" />
       <jump line="17" column="17" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/Main.scala" />
@@ -1057,64 +1055,66 @@
       <jump line="62" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
       <jump line="42" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="318" column="16" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" />
+      <jump line="361" column="4" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" />
+      <jump line="574" column="6" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/SparkSession.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIHRvZG8gPz8/Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>StreamingPipi</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>structured</text>
+        <text>chackfor</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLnNldEZlYXR1cmVzQ29sKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHRvZG8gPz8/Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBrbWVhbnMyID0gbmV3IFN0cmVhbWluZ0tNZWFucygpCiAgICAgIC50cmFpbk9uKHRyYWluaW5nREYpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vICAgIHZhbCBzY2hlbWEgPSBuZXcgU3RydWN0VHlwZSgpCiAgICAvLyAgICAgIC5hZGQoImZlYXR1cmVzIiwgQXJyYXlUeXBlKAogICAgLy8gICAgICAgIFN0cnVjdFR5cGUoQXJyYXkoCiAgICAvLyAgICAgICAgICBTdHJ1Y3RGaWVsZCgiZmVhdHVyZTEiLCBEb3VibGVUeXBlKSwKICAgIC8vICAgICAgICAgIFN0cnVjdEZpZWxkKCJmZWF0dXJlMiIsIERvdWJsZVR5cGUpLAogICAgLy8gICAgICAgICAgU3RydWN0RmllbGQoImZlYXR1cmUzIiwgRG91YmxlVHlwZSkKICAgIC8vICAgICAgICApKQogICAgLy8gICAgICApKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAucXVlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAubmFtZQo=</text>
+        <text encoding="base64">IAogICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBhbHMgPSBuZXcgQUxTKCkKICAgICAgLnNldE1heEl0ZXIoNSkKICAgIHZhbCBtb2RlbCA9IGFscy5maXQodHJhaW5pbmdERikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBtb2RlbCA9IG5ldyBTdHJlYW1pbmdLTWVhbnMoKQo=</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHRvZG8gPz8/Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBwaXBlbGluZSA9IFN0cmVhbWluZ1BpcGVsaW5lCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>structured</last-search>
+      <last-search>chackfor</last-search>
       <last-offset />
-      <last-pattern>structured</last-pattern>
+      <last-pattern>chackfor</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>maven</entry>
-        <entry>record</entry>
         <entry>check</entry>
         <entry>test</entry>
         <entry>args</entry>
@@ -1133,9 +1133,10 @@
         <entry>”</entry>
         <entry encoding="base64">XDxjc3ZcPg==</entry>
         <entry>structured</entry>
+        <entry>lzy</entry>
+        <entry>chackfor</entry>
       </history-search>
       <history-cmd>
-        <entry>15</entry>
         <entry>%s/filename/fileName/g</entry>
         <entry>%s/fileName/FileName/g</entry>
         <entry>49</entry>
@@ -1154,6 +1155,7 @@
         <entry>67</entry>
         <entry>W</entry>
         <entry>s</entry>
+        <entry>2665</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
