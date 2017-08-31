@@ -193,12 +193,11 @@
         <mark key="." line="36" column="7" />
         <mark key="^" line="36" column="7" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/spark-streaming-example/build.sbt" timestamp="1504160481223">
+      <file name="$USER_HOME$/MyWork/git/spark-streaming-example/build.sbt" timestamp="1504161210941">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="11" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-api/.docker/mariadb/docker-entrypoint-initdb.d/ddl/11_available_storages.sql" timestamp="1498458208341">
         <mark key="[" line="4" column="18" />
@@ -518,6 +517,12 @@
         <mark key="." line="114" column="26" />
         <mark key="^" line="114" column="26" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/spark-streaming-example/src/main/scala/Test.scala" timestamp="1504161197663">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.160/8d01ec4135388bc0686d68fe339f73442c669275/aws-java-sdk-core-1.11.160-sources.jar!/com/amazonaws/http/AmazonHttpClient.java" timestamp="1503024085455">
         <mark key="'" line="4" column="7" />
       </file>
@@ -527,6 +532,7 @@
         <mark key="^" line="29" column="63" />
         <mark key="." line="29" column="63" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming_2.11/srcs/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/StreamingContext.scala" timestamp="1504161552810" />
       <file name="$USER_HOME$/MyWork/git/structured-example/build.sbt" timestamp="1504000098696">
         <mark key="'" line="11" column="18" />
         <mark key="[" line="6" column="33" />
@@ -775,12 +781,20 @@
         <mark key="." line="21" column="1" />
         <mark key="^" line="21" column="1" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/spark-streaming-example/spark-streaming/src/main/scala/Wordcount.scala" timestamp="1504161760615">
+        <mark key="[" line="12" column="62" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" timestamp="1500444468655">
         <mark key="'" line="24" column="9" />
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="^" line="8" column="27" />
         <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming_2.11/srcs/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/dstream/ReceiverInputDStream.scala" timestamp="1504161650517">
+        <mark key="'" line="33" column="44" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-mole/video.dig" timestamp="1499227189559">
         <mark key="[" line="34" column="49" />
@@ -979,12 +993,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="45" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/gatling/src/test/scala/computerdatabase/TestPigeonSimulation.scala" />
-      <jump line="28" column="0" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/gatling/src/test/scala/computerdatabase/TestPigeonSimulation.scala" />
-      <jump line="18" column="19" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/gatling/src/test/scala/computerdatabase/BasicSimulation.scala" />
-      <jump line="25" column="18" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/build.sbt" />
-      <jump line="23" column="0" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/build.sbt" />
-      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/gatling-on-ec2/build.sbt" />
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Main.scala" />
       <jump line="12" column="18" filename="$USER_HOME$/MyWork/git/structured-example/build.sbt" />
       <jump line="17" column="9" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example.scala" />
@@ -1079,55 +1087,61 @@
       <jump line="78" column="23" filename="$USER_HOME$/MyWork/git/spark-streaming-example/structured-streaming/src/main/scala/Wordcount.scala" />
       <jump line="17" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/build.sbt" />
       <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/build.sbt" />
+      <jump line="40" column="28" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming_2.11/srcs/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/dstream/ReceiverInputDStream.scala" />
+      <jump line="41" column="15" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming_2.11/srcs/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/dstream/ReceiverInputDStream.scala" />
+      <jump line="57" column="23" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming_2.11/srcs/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/dstream/ReceiverInputDStream.scala" />
+      <jump line="17" column="35" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming_2.11/srcs/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/dstream/ReceiverInputDStream.scala" />
+      <jump line="31" column="77" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming_2.11/srcs/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/dstream/ReceiverInputDStream.scala" />
+      <jump line="33" column="44" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming_2.11/srcs/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/dstream/ReceiverInputDStream.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHcm91cFN0YXRlXD4=</text>
+        <text>dstream</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2NhbGFWZXJzaW9uIDo9ICIyLjExLjExIgo=</text>
+      <register name="0" type="4">
+        <text>// DStream[String]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KSBsaWJyYXJ5RGVwZW5kZW5jaWVzICsrPSBTZXEoCiAgIm9yZy5hcGFjaGUuc3BhcmsiICUlICJzcGFyay1zcWwiICUgIjIuMi4wIikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIERTdHJlYW1bU3RyaW5nXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmVyc2lvbiA6PSAiMC4xIgo=</text>
+        <text encoding="base64">ICAgIC8vIERTdHJlYW1bU3RyaW5nXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2NhbGFWZXJzaW9uIDo9ICIyLjExLjExIgo=</text>
+        <text encoding="base64">ICAgIHdvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzY2FsCg==</text>
+        <text encoding="base64">ICAgIHdvcmRzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHcm91cFN0YXRlXD4=</last-search>
+      <last-search>dstream</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHcm91cFN0YXRlXD4=</last-pattern>
+      <last-pattern>dstream</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -1135,7 +1149,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dataset</entry>
         <entry>feature</entry>
         <entry>udt</entry>
         <entry>struct</entry>
@@ -1155,6 +1168,7 @@
         <entry>relati</entry>
         <entry>”</entry>
         <entry encoding="base64">XDxHcm91cFN0YXRlXD4=</entry>
+        <entry>dstream</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fileName/FileName/g</entry>
