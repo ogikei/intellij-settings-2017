@@ -102,11 +102,7 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Wordcount.scala" timestamp="1504064747531">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="72" column="27" />
-      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/test/scala/com/dmm/i3/recommend/DSItemToItemSuite.scala" timestamp="1504264251441" />
       <file name="$USER_HOME$/MyWork/git/spark-streaming-example/structured-streaming/src/main/scala/Kmeans.scala" timestamp="1504158821339">
         <mark key="'" line="106" column="0" />
         <mark key="[" line="105" column="0" />
@@ -420,6 +416,13 @@
         <mark key="]" line="76" column="21" />
         <mark key="^" line="76" column="21" />
         <mark key="." line="76" column="21" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" timestamp="1504264383924">
+        <mark key="'" line="464" column="74" />
+        <mark key="[" line="329" column="11" />
+        <mark key="]" line="329" column="10" />
+        <mark key="^" line="329" column="10" />
+        <mark key="." line="329" column="10" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" timestamp="1502159000533">
         <mark key="'" line="24" column="0" />
@@ -885,6 +888,7 @@
       <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/internal/SQLConf.scala" timestamp="1504073616194">
         <mark key="'" line="382" column="26" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemOLG.scala" timestamp="1504263934435" />
       <file name="$USER_HOME$/OfficeTools/git/stork-api/router/router.go" timestamp="1498455171810">
         <mark key="[" line="41" column="32" />
         <mark key="]" line="41" column="36" />
@@ -935,6 +939,7 @@
         <mark key="." line="27" column="86" />
         <mark key="^" line="27" column="87" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/lib/SparkApp.scala" timestamp="1504263705855" />
       <file name="$USER_HOME$/OfficeTools/git/yzw/DDL/oracle/ORACLE_EXAMPLE_INPUT_TABLE.ddl" timestamp="1488878222939">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -994,21 +999,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example.scala" />
-      <jump line="8" column="15" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example.scala" />
-      <jump line="101" column="16" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example.scala" />
-      <jump line="4" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example.scala" />
-      <jump line="29" column="8" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example.scala" />
-      <jump line="87" column="25" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example.scala" />
-      <jump line="22" column="2" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example2.scala" />
-      <jump line="1" column="1" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example2.scala" />
-      <jump line="13" column="20" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example2.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example2.scala" />
-      <jump line="12" column="18" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example2.scala" />
-      <jump line="24" column="21" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example2.scala" />
-      <jump line="41" column="36" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example2.scala" />
-      <jump line="266" column="0" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" />
-      <jump line="8" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
       <jump line="28" column="16" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
       <jump line="65" column="15" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
       <jump line="31" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
@@ -1094,37 +1084,52 @@
       <jump line="19" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/spark-streaming/src/main/scala/Wordcount.scala" />
       <jump line="23" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/spark-streaming/src/main/scala/Wordcount.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/spark-streaming/src/main/scala/Wordcount.scala" />
+      <jump line="444" column="18" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="404" column="52" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="400" column="76" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="389" column="52" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="385" column="43" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="374" column="13" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="367" column="9" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="361" column="18" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="339" column="13" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="333" column="98" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="331" column="55" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="155" column="60" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="130" column="60" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="100" column="60" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="464" column="74" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwo=</text>
       </register>
       <register name="-" type="4">
         <text>reduceByWindow()</text>
       </register>
       <register name="/" type="4">
-        <text>dstream</text>
+        <text>eval</text>
       </register>
       <register name="0" type="4">
         <text>// DStream[String]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNzYy5zcGFya0NvbnRleHQuaGFkb28K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3RyZWFtaW5nLmRzdHJlYW0uRFN0cmVhbQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGxpbmVzLmNvbXB1dGUoKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHNzYy5zcGFya0NvbnRleHQuaGFkb28K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3RyZWFtaW5nLmRzdHJlYW0uRFN0cmVhbQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGxpbmVzLmNvbXB1dGUoKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -1140,17 +1145,16 @@
       </register>
     </registers>
     <search>
-      <last-search>dstream</last-search>
+      <last-search>eval</last-search>
       <last-offset />
-      <last-pattern>dstream</last-pattern>
+      <last-pattern>eval</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>feature</entry>
         <entry>udt</entry>
         <entry>struct</entry>
         <entry>input</entry>
@@ -1170,6 +1174,7 @@
         <entry>”</entry>
         <entry encoding="base64">XDxHcm91cFN0YXRlXD4=</entry>
         <entry>dstream</entry>
+        <entry>eval</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fileName/FileName/g</entry>
