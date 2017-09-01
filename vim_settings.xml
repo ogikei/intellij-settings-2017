@@ -532,7 +532,6 @@
         <mark key="^" line="29" column="63" />
         <mark key="." line="29" column="63" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming_2.11/srcs/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/StreamingContext.scala" timestamp="1504161552810" />
       <file name="$USER_HOME$/MyWork/git/structured-example/build.sbt" timestamp="1504000098696">
         <mark key="'" line="11" column="18" />
         <mark key="[" line="6" column="33" />
@@ -781,8 +780,8 @@
         <mark key="." line="21" column="1" />
         <mark key="^" line="21" column="1" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/spark-streaming-example/spark-streaming/src/main/scala/Wordcount.scala" timestamp="1504171672535">
-        <mark key="'" line="3" column="0" />
+      <file name="$USER_HOME$/MyWork/git/spark-streaming-example/spark-streaming/src/main/scala/Wordcount.scala" timestamp="1504244013655">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="69" />
         <mark key="]" line="18" column="69" />
         <mark key="." line="18" column="69" />
@@ -995,8 +994,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="9" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example.scala" />
-      <jump line="13" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example.scala" />
       <jump line="159" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example.scala" />
       <jump line="8" column="15" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example.scala" />
       <jump line="101" column="16" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example.scala" />
@@ -1093,8 +1090,10 @@
       <jump line="17" column="35" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming_2.11/srcs/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/dstream/ReceiverInputDStream.scala" />
       <jump line="31" column="77" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming_2.11/srcs/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/dstream/ReceiverInputDStream.scala" />
       <jump line="33" column="44" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming_2.11/srcs/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/dstream/ReceiverInputDStream.scala" />
-      <jump line="19" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/spark-streaming/src/main/scala/Wordcount.scala" />
       <jump line="3" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/spark-streaming/src/main/scala/Wordcount.scala" />
+      <jump line="19" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/spark-streaming/src/main/scala/Wordcount.scala" />
+      <jump line="23" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/spark-streaming/src/main/scala/Wordcount.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/spark-streaming/src/main/scala/Wordcount.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1147,7 +1146,7 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
