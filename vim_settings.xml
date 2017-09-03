@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/EC2.java" timestamp="1502337351110">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
+      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/resources/kmeans1.csv" timestamp="1504069518276">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler-scala/src/main/scala/jp/co/recruit/rtc/hoc/services/EMRScheduler.scala" timestamp="1487909951533">
         <mark key="[" line="2" column="20" />
@@ -20,11 +21,12 @@
         <mark key="^" line="17" column="73" />
         <mark key="." line="17" column="73" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/emr/Cluster.java" timestamp="1499739188047">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="29" column="15" />
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/emr/Cluster.java" timestamp="1503039564744">
+        <mark key="'" line="78" column="18" />
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+        <mark key="^" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/MyWork/git/git2slack/build.sbt" timestamp="1499337011036">
         <mark key="[" line="11" column="0" />
@@ -32,11 +34,12 @@
         <mark key="^" line="11" column="39" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/build.gradle" timestamp="1502336620585">
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/build.gradle" timestamp="1503022256326">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="35" column="42" />
+        <mark key="." line="35" column="42" />
+        <mark key="^" line="35" column="42" />
       </file>
       <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/.gitignore" timestamp="1502337028483">
         <mark key="'" line="10" column="4" />
@@ -47,11 +50,6 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/ListInstanceFleetsRequest.java" timestamp="1502354275175">
         <mark key="'" line="156" column="12" />
-      </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/settings.gradle" timestamp="1502336574917">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/sh/release_production.sh" timestamp="1498711326401">
         <mark key="[" line="18" column="0" />
@@ -74,7 +72,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" timestamp="1502347522040">
         <mark key="'" line="115" column="66" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.160/8d01ec4135388bc0686d68fe339f73442c669275/aws-java-sdk-core-1.11.160-sources.jar!/com/amazonaws/AmazonWebServiceClient.java" timestamp="1502354873769" />
       <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/test/java/jp/co/recruit/rtc/hoc/services/TestSpotInstanceClientService.java" timestamp="1488273166199">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="12" column="28" />
@@ -87,7 +84,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/Configuration.java" timestamp="1502352334307" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" timestamp="1503036025714">
+        <mark key="'" line="131" column="70" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/gatling/src/test/scala/computerdatabase/BasicSimulation.scala" timestamp="1503641728162">
+        <mark key="'" line="18" column="19" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local-test.sh" timestamp="1498446040917">
         <mark key="[" line="17" column="17" />
         <mark key="]" line="17" column="19" />
@@ -100,18 +102,57 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/test/scala/com/dmm/i3/recommend/DSItemToItemSuite.scala" timestamp="1504264251441" />
+      <file name="$USER_HOME$/MyWork/git/spark-streaming-example/structured-streaming/src/main/scala/Kmeans.scala" timestamp="1504158821339">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="105" column="1" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis-to-flink/.gitignore" timestamp="1499822783409">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="6" column="6" />
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" timestamp="1502353102724">
-        <mark key="'" line="64" column="28" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="81" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/resources/kmeans.csv" timestamp="1504072032741">
+        <mark key="'" line="0" column="14" />
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" timestamp="1503033190127">
+        <mark key="[" line="58" column="31" />
+        <mark key="]" line="59" column="5" />
+        <mark key="^" line="59" column="5" />
+        <mark key="." line="59" column="5" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/EC2.scala" timestamp="1503563607659">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/resources/config.json" timestamp="1503559281067">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/build.sh" timestamp="1503652054284">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="5" column="40" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Main.scala" timestamp="1503889654929">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-mole/video/extract_digitalbasket.dig" timestamp="1499227200810">
         <mark key="[" line="1" column="3" />
@@ -125,7 +166,16 @@
         <mark key="^" line="21" column="96" />
         <mark key="." line="21" column="96" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/AmazonElasticMapReduce.java" timestamp="1502354198271" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/AmazonElasticMapReduce.java" timestamp="1503023952234">
+        <mark key="'" line="707" column="57" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/ec2/spot/Fleet.java" timestamp="1503039662609">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="0" column="23" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/git2slack/src/main/scala/jp/ogikei/Message.scala" timestamp="1499412669196">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -139,11 +189,23 @@
         <mark key="." line="36" column="7" />
         <mark key="^" line="36" column="7" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/spark-streaming-example/build.sbt" timestamp="1504166015203">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-api/.docker/mariadb/docker-entrypoint-initdb.d/ddl/11_available_storages.sql" timestamp="1498458208341">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="20" />
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="20" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/gatling-tests-as-jar/src/it/scala/example/Cli.scala" timestamp="1503637532026">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="29" />
+        <mark key="^" line="6" column="29" />
+        <mark key="." line="6" column="29" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-dwh/.gitignore" timestamp="1499224160517">
         <mark key="[" line="1" column="0" />
@@ -151,18 +213,23 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/pigeon-gatling/build.sbt" timestamp="1503478636384">
+        <mark key="[" line="14" column="60" />
+        <mark key="]" line="14" column="60" />
+        <mark key="." line="14" column="60" />
+        <mark key="^" line="14" column="60" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/.gitignore" timestamp="1490333362839">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="4" column="5" />
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" timestamp="1502358575048">
-        <mark key="'" line="34" column="25" />
-        <mark key="[" line="46" column="23" />
-        <mark key="]" line="47" column="17" />
-        <mark key="." line="47" column="17" />
-        <mark key="^" line="47" column="17" />
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" timestamp="1503039648494">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="74" column="86" />
       </file>
       <file name="$USER_HOME$/OfficeWork/stork-batch/common/mainprocess.go" timestamp="1496730631641">
         <mark key="[" line="21" column="4" />
@@ -182,6 +249,12 @@
         <mark key="^" line="1" column="39" />
         <mark key="." line="1" column="50" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/structured-example/README.md" timestamp="1503905024454">
+        <mark key="[" line="6" column="69" />
+        <mark key="]" line="6" column="68" />
+        <mark key="^" line="6" column="68" />
+        <mark key="." line="6" column="68" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon/common/log.go" timestamp="1501566087419">
         <mark key="'" line="40" column="27" />
         <mark key="[" line="40" column="23" />
@@ -189,11 +262,32 @@
         <mark key="." line="40" column="30" />
         <mark key="^" line="40" column="30" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/resources/kmeans.txt" timestamp="1504074884801">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="13" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/pigeon/main.go" timestamp="1503297216754">
+        <mark key="'" line="72" column="17" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/s3/Bucket.java" timestamp="1503039513267">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/timeusage/test.sc" timestamp="1494179773950">
         <mark key="[" line="14" column="100" />
         <mark key="]" line="14" column="100" />
         <mark key="." line="14" column="100" />
         <mark key="^" line="14" column="100" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/Main.scala" timestamp="1503540618049">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/config/Config.java" timestamp="1502353367768">
         <mark key="[" line="1" column="0" />
@@ -207,17 +301,21 @@
         <mark key="^" line="71" column="24" />
         <mark key="." line="71" column="24" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/AmazonElasticMapReduceClient.java" timestamp="1503023889100">
+        <mark key="'" line="1866" column="71" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/untitled/git2slack/build.sbt" timestamp="1499323421268">
         <mark key="[" line="7" column="54" />
         <mark key="]" line="7" column="54" />
         <mark key="." line="7" column="54" />
         <mark key="^" line="7" column="54" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/pigeon/dockerfiles/circle/Dockerfile" timestamp="1502165644766">
-        <mark key="'" line="10" column="1" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/test/scala/computerdatabase/TestPigeonSimulation.scala" timestamp="1503560299924">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="44" />
+        <mark key="." line="9" column="44" />
+        <mark key="^" line="9" column="44" />
       </file>
       <file name="$USER_HOME$/OfficeTools/stork-migration/.gitignore" timestamp="1497234999834">
         <mark key="[" line="0" column="7" />
@@ -239,18 +337,21 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="11" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/resources/test.json" timestamp="1502358495866">
-        <mark key="'" line="26" column="5" />
-        <mark key="[" line="21" column="7" />
-        <mark key="]" line="21" column="10" />
-        <mark key="." line="21" column="10" />
-        <mark key="^" line="21" column="10" />
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/resources/test.json" timestamp="1502954709021">
+        <mark key="'" line="21" column="7" />
+        <mark key="[" line="28" column="34" />
+        <mark key="]" line="28" column="34" />
+        <mark key="." line="28" column="34" />
+        <mark key="^" line="28" column="34" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon/circle.yaml" timestamp="1502164148971">
         <mark key="[" line="10" column="11" />
         <mark key="]" line="11" column="44" />
         <mark key="." line="11" column="44" />
         <mark key="^" line="11" column="44" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-java-sdk-ec2/srcs/aws-java-sdk-ec2-1.11.181-sources.jar!/com/amazonaws/services/ec2/AmazonEC2.java" timestamp="1503557281862">
+        <mark key="'" line="5449" column="36" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis/build.sbt" timestamp="1499754484751">
         <mark key="[" line="7" column="42" />
@@ -263,6 +364,12 @@
         <mark key="]" line="6" column="46" />
         <mark key="^" line="6" column="46" />
         <mark key="." line="6" column="46" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/resources/config.json" timestamp="1503026610007">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="25" />
+        <mark key="^" line="36" column="24" />
+        <mark key="." line="16" column="25" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-mole/.gitignore" timestamp="1499225148565">
         <mark key="[" line="6" column="1" />
@@ -291,6 +398,12 @@
         <mark key="." line="14" column="68" />
         <mark key="^" line="14" column="68" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/.gitignore" timestamp="1503039320588">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/EmrScheduler.java" timestamp="1488431898407">
         <mark key="[" line="29" column="88" />
         <mark key="]" line="29" column="1" />
@@ -303,6 +416,13 @@
         <mark key="]" line="76" column="21" />
         <mark key="^" line="76" column="21" />
         <mark key="." line="76" column="21" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" timestamp="1504264383924">
+        <mark key="'" line="464" column="74" />
+        <mark key="[" line="329" column="11" />
+        <mark key="]" line="329" column="10" />
+        <mark key="^" line="329" column="10" />
+        <mark key="." line="329" column="10" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" timestamp="1502159000533">
         <mark key="'" line="24" column="0" />
@@ -322,6 +442,13 @@
         <mark key="]" line="33" column="28" />
         <mark key="." line="33" column="28" />
         <mark key="^" line="33" column="28" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/gatling/src/test/scala/computerdatabase/TestPigeonSimulation.scala" timestamp="1503653160347">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="9" column="45" />
+        <mark key="]" line="9" column="45" />
+        <mark key="." line="9" column="45" />
+        <mark key="^" line="9" column="53" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/jp/co/recruit/rtc/hoc/services/ValidateService.java" timestamp="1489478361587">
         <mark key="[" line="19" column="47" />
@@ -348,17 +475,43 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/pigeon-gatling/user-files/simulations/computerdatabase/BasicSimulation.scala" timestamp="1503311954247">
+        <mark key="'" line="41" column="7" />
+        <mark key="[" line="44" column="16" />
+        <mark key="]" line="44" column="7" />
+        <mark key="^" line="44" column="7" />
+        <mark key="." line="44" column="7" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/.gitignore" timestamp="1500007896544">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="7" />
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/README.md" timestamp="1503039828005">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="4" column="9" />
+        <mark key="^" line="4" column="9" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/untitled/git2slack/project/plugin.sbt" timestamp="1499322934505">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="55" />
         <mark key="^" line="0" column="55" />
         <mark key="." line="0" column="55" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/pigeon-gatling/.gitignore" timestamp="1503385158788">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="4" column="6" />
+        <mark key="^" line="4" column="6" />
+        <mark key="." line="4" column="6" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" timestamp="1504156363865">
+        <mark key="'" line="78" column="94" />
+        <mark key="[" line="47" column="17" />
+        <mark key="]" line="47" column="26" />
+        <mark key="." line="78" column="94" />
+        <mark key="^" line="47" column="26" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/labstack/echo/middleware/logger.go" timestamp="1501657264639">
         <mark key="'" line="83" column="41" />
@@ -367,16 +520,45 @@
         <mark key="." line="114" column="26" />
         <mark key="^" line="114" column="26" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/spark-streaming-example/src/main/scala/Test.scala" timestamp="1504161197663">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.160/8d01ec4135388bc0686d68fe339f73442c669275/aws-java-sdk-core-1.11.160-sources.jar!/com/amazonaws/http/AmazonHttpClient.java" timestamp="1503024085455">
+        <mark key="'" line="4" column="7" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis/build.gradle" timestamp="1499756319235">
         <mark key="[" line="28" column="85" />
         <mark key="]" line="29" column="63" />
         <mark key="^" line="29" column="63" />
         <mark key="." line="29" column="63" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/SpotFleet.java" timestamp="1502337288301">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/MyWork/git/structured-example/build.sbt" timestamp="1504000098696">
+        <mark key="'" line="11" column="18" />
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/.gitignore" timestamp="1503653227466">
+        <mark key="[" line="2" column="24" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/pigeon-gatling/src/test/scala/computerdatabase/TestPigeonSimulation.scala" timestamp="1503474681228">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="34" column="49" />
+        <mark key="]" line="34" column="50" />
+        <mark key="^" line="34" column="50" />
+        <mark key="." line="34" column="50" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/resources/kmeans2.csv" timestamp="1504069365275">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis/src/main/scala/com/dmm/aws/kinesis/Stream.scala" timestamp="1499753332009">
         <mark key="[" line="2" column="14" />
@@ -410,10 +592,11 @@
         <mark key="^" line="393" column="76" />
         <mark key="." line="393" column="76" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/EC2.java" timestamp="1502337359907">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/project/plugins.sbt" timestamp="1503637921094">
+        <mark key="[" line="2" column="56" />
+        <mark key="]" line="2" column="56" />
+        <mark key="^" line="2" column="56" />
+        <mark key="." line="2" column="56" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis-to-flink/project/assembly.sbt" timestamp="1499848704304">
         <mark key="[" line="0" column="0" />
@@ -431,11 +614,59 @@
         <mark key="." line="8" column="47" />
         <mark key="^" line="8" column="47" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example.scala" timestamp="1504055210142">
+        <mark key="'" line="87" column="25" />
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/pigeon-gatling/src/test/scala/computerdatabase/PigeonSimulation.scala" timestamp="1503368648543">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="9" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/pigeon-gatling/user-files/simulations/pigeon/BasicSimulation.scala" timestamp="1503312521457">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="22" column="177" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/Credential.scala" timestamp="1503557700042">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/spark-streaming-example/structured-streaming/src/main/scala/Wordcount.scala" timestamp="1504158882492">
+        <mark key="'" line="78" column="23" />
+        <mark key="[" line="3" column="69" />
+        <mark key="]" line="3" column="68" />
+        <mark key="." line="3" column="68" />
+        <mark key="^" line="3" column="68" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon/docker-compose.yaml" timestamp="1502165733703">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="27" />
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/pigeon-gatling/project/plugins.sbt" timestamp="1503367013395">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="51" />
+        <mark key="^" line="0" column="51" />
+        <mark key="." line="0" column="51" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Example2.scala" timestamp="1504055243095">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/SparkSession.scala" timestamp="1504146405478">
+        <mark key="'" line="574" column="6" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local.sh" timestamp="1498454002791">
         <mark key="[" line="2" column="30" />
@@ -455,6 +686,12 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Sample.scala" timestamp="1503889818802">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/Fleet.java" timestamp="1502337277273">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="21" />
@@ -466,6 +703,15 @@
         <mark key="]" line="0" column="55" />
         <mark key="^" line="0" column="55" />
         <mark key="." line="0" column="55" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/Transformer.scala" timestamp="1504059494891">
+        <mark key="'" line="63" column="34" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/aws/S3.scala" timestamp="1503557721126">
+        <mark key="[" line="9" column="55" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis-to-flink/build.sbt" timestamp="1500017050244">
         <mark key="[" line="11" column="55" />
@@ -518,11 +764,31 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/pigeon-gatling/src/main/scala/PigeonSimulation.scala" timestamp="1503367840334">
+        <mark key="'" line="12" column="17" />
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="21" column="160" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/README.md" timestamp="1503652305571">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/DEVELOPGUIDE.md" timestamp="1489542240554">
         <mark key="[" line="19" column="19" />
         <mark key="]" line="21" column="1" />
         <mark key="." line="21" column="1" />
         <mark key="^" line="21" column="1" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/spark-streaming-example/spark-streaming/src/main/scala/Wordcount.scala" timestamp="1504244013655">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="69" />
+        <mark key="]" line="18" column="69" />
+        <mark key="." line="18" column="69" />
+        <mark key="^" line="18" column="69" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/params/search_hotwords.go" timestamp="1500444468655">
         <mark key="'" line="24" column="9" />
@@ -530,6 +796,9 @@
         <mark key="]" line="65" column="0" />
         <mark key="^" line="8" column="27" />
         <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming_2.11/srcs/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/dstream/ReceiverInputDStream.scala" timestamp="1504161650517">
+        <mark key="'" line="33" column="44" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-mole/video.dig" timestamp="1499227189559">
         <mark key="[" line="34" column="49" />
@@ -548,6 +817,9 @@
         <mark key="]" line="0" column="52" />
         <mark key="." line="0" column="52" />
         <mark key="^" line="0" column="52" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" timestamp="1504151455910">
+        <mark key="'" line="158" column="30" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/95_ins_activity.sql" timestamp="1500455669568">
         <mark key="'" line="0" column="102" />
@@ -580,11 +852,20 @@
         <mark key="." line="6" column="37" />
         <mark key="^" line="6" column="37" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" timestamp="1504145623107">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-collector/.gitignore" timestamp="1499049530255">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="21" />
         <mark key="^" line="4" column="21" />
         <mark key="." line="4" column="21" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/pom.xml" timestamp="1503639126316">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="10" />
       </file>
       <file name="$USER_HOME$/OfficeWork/stork-batch/.gitignore" timestamp="1496640564206">
         <mark key="[" line="16" column="1" />
@@ -598,30 +879,27 @@
         <mark key="." line="0" column="48" />
         <mark key="^" line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" timestamp="1502357040025" />
       <file name="$USER_HOME$/OfficeTools/git/stork-migration/setup_local_test.sh" timestamp="1498453986119">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="21" />
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/pigeon/router/router.go" timestamp="1502179309484">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/internal/SQLConf.scala" timestamp="1504073616194">
+        <mark key="'" line="382" column="26" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/pigeon/sh/ci.sh" timestamp="1502173682750">
-        <mark key="'" line="6" column="49" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemOLG.scala" timestamp="1504263934435" />
       <file name="$USER_HOME$/OfficeTools/git/stork-api/router/router.go" timestamp="1498455171810">
         <mark key="[" line="41" column="32" />
         <mark key="]" line="41" column="36" />
         <mark key="." line="41" column="36" />
         <mark key="^" line="41" column="36" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/aws/src/main/scala/com/dmm/dre/Main.scala" timestamp="1503633833164">
+        <mark key="[" line="5" column="54" />
+        <mark key="]" line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+        <mark key="." line="5" column="10" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon/common/common.go" timestamp="1501664254587">
         <mark key="[" line="9" column="0" />
@@ -635,6 +913,13 @@
         <mark key="^" line="27" column="66" />
         <mark key="." line="27" column="62" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/pigeon-gatling/src/main/scala/computerdatabase/PigeonSimulation.scala" timestamp="1503368675299">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="30" />
+        <mark key="^" line="15" column="14" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/parallel-programming/assignment.sbt" timestamp="1489123513670">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="20" />
@@ -647,6 +932,14 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/billing-alert/build.gradle" timestamp="1503459164099">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="85" />
+        <mark key="]" line="27" column="86" />
+        <mark key="." line="27" column="86" />
+        <mark key="^" line="27" column="87" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/lib/SparkApp.scala" timestamp="1504263705855" />
       <file name="$USER_HOME$/OfficeTools/git/yzw/DDL/oracle/ORACLE_EXAMPLE_INPUT_TABLE.ddl" timestamp="1488878222939">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -659,11 +952,12 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" timestamp="1502356272939">
-        <mark key="'" line="26" column="21" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" timestamp="1503036885246">
+        <mark key="'" line="63" column="8" />
+        <mark key="[" line="41" column="7" />
+        <mark key="]" line="42" column="18" />
+        <mark key="." line="42" column="18" />
+        <mark key="^" line="42" column="18" />
       </file>
       <file name="$USER_HOME$/MyWork/git/spark/streaming/src/main/scala/org/apache/spark/streaming/StreamingContext.scala" timestamp="1498637561716">
         <mark key="[" line="643" column="5" />
@@ -690,206 +984,219 @@
         <mark key="^" line="11" column="25" />
         <mark key="." line="11" column="25" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/src/main/scala/com/dmm/dre/Main.scala" timestamp="1503564816727">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="36" column="48" />
+        <mark key="." line="36" column="48" />
+        <mark key="^" line="36" column="48" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/structured-example/.gitignore" timestamp="1503990398420">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="7" />
+        <mark key="." line="5" column="7" />
+        <mark key="^" line="5" column="7" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="20" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
-      <jump line="42" column="4" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
-      <jump line="71" column="62" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
-      <jump line="23" column="12" filename="$USER_HOME$/OfficeTools/git/pigeon/api/test.go" />
-      <jump line="31" column="4" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
-      <jump line="38" column="4" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
-      <jump line="43" column="4" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
-      <jump line="54" column="60" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
-      <jump line="65" column="17" filename="$USER_HOME$/OfficeTools/git/pigeon/main.go" />
-      <jump line="62" column="4" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
-      <jump line="27" column="8" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
-      <jump line="39" column="12" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
-      <jump line="51" column="12" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
-      <jump line="59" column="12" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
-      <jump line="19" column="16" filename="$USER_HOME$/OfficeTools/git/pigeon/api/test.go" />
-      <jump line="24" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/dockerfiles/Dockerfile" />
-      <jump line="26" column="50" filename="$USER_HOME$/OfficeTools/git/pigeon/dockerfiles/Dockerfile" />
-      <jump line="17" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/router/router.go" />
-      <jump line="7" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/router/router.go" />
-      <jump line="20" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/router/router.go" />
-      <jump line="24" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/middleware/file.go" />
-      <jump line="10" column="18" filename="$USER_HOME$/OfficeTools/git/pigeon/docker-compose-test.yaml" />
-      <jump line="32" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/dockerfiles/circle/Dockerfile" />
-      <jump line="19" column="18" filename="$USER_HOME$/OfficeTools/git/pigeon/dockerfiles/circle/Dockerfile" />
-      <jump line="13" column="1" filename="$USER_HOME$/OfficeTools/git/pigeon/dockerfiles/circle/Dockerfile" />
-      <jump line="9" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/docker-compose-test.yaml" />
-      <jump line="5" column="27" filename="$USER_HOME$/OfficeTools/git/pigeon/docker-compose-test.yaml" />
-      <jump line="6" column="23" filename="$USER_HOME$/OfficeTools/git/pigeon/docker-compose-test.yaml" />
-      <jump line="11" column="18" filename="$USER_HOME$/OfficeTools/git/pigeon/dockerfiles/circleci/Dockerfile" />
-      <jump line="4" column="34" filename="$USER_HOME$/OfficeTools/git/pigeon/dockerfiles/circleci/Dockerfile" />
-      <jump line="32" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/dockerfiles/local/Dockerfile" />
-      <jump line="27" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/dockerfiles/local/Dockerfile" />
-      <jump line="26" column="50" filename="$USER_HOME$/OfficeTools/git/pigeon/dockerfiles/local/Dockerfile" />
-      <jump line="10" column="38" filename="$USER_HOME$/OfficeTools/git/pigeon/dockerfiles/circleci/Dockerfile" />
-      <jump line="4" column="27" filename="$USER_HOME$/OfficeTools/git/pigeon/sh/ci.sh" />
-      <jump line="5" column="28" filename="$USER_HOME$/OfficeTools/git/pigeon/sh/ci.sh" />
-      <jump line="6" column="49" filename="$USER_HOME$/OfficeTools/git/pigeon/sh/ci.sh" />
-      <jump line="18" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/api/healthcheck_test.go" />
-      <jump line="13" column="18" filename="$USER_HOME$/OfficeTools/git/pigeon/api/pigeon_test.go" />
-      <jump line="15" column="38" filename="$USER_HOME$/OfficeTools/git/pigeon/api/pigeon_test.go" />
-      <jump line="23" column="25" filename="$USER_HOME$/OfficeTools/git/pigeon/api/pigeon_test.go" />
-      <jump line="34" column="11" filename="$USER_HOME$/OfficeTools/git/pigeon/api/pigeon_test.go" />
-      <jump line="21" column="0" filename="$USER_HOME$/OfficeTools/git/pigeon/api/pigeon_test.go" />
-      <jump line="30" column="4" filename="$USER_HOME$/OfficeTools/git/pigeon/api/pigeon.go" />
-      <jump line="36" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/build.gradle" />
-      <jump line="20" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/build.gradle" />
-      <jump line="46" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" />
-      <jump line="10" column="4" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/.gitignore" />
-      <jump line="75" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/s3/Bucket.java" />
-      <jump line="19" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/s3/Bucket.java" />
-      <jump line="69" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/s3/Bucket.java" />
-      <jump line="93" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" />
-      <jump line="18" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/auth/Credential.java" />
-      <jump line="7" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/auth/Credential.java" />
-      <jump line="14" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/auth/Credential.java" />
-      <jump line="14" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
-      <jump line="96" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" />
-      <jump line="19" column="1" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/resources/test.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/resources/test.json" />
-      <jump line="20" column="5" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/resources/test.json" />
-      <jump line="45" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" />
-      <jump line="50" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" />
-      <jump line="31" column="19" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" />
-      <jump line="43" column="19" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" />
-      <jump line="26" column="21" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/Main.java" />
-      <jump line="17" column="21" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
-      <jump line="64" column="28" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/emr/Cluster.java" />
-      <jump line="521" column="60" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceFleetConfig.java" />
-      <jump line="25" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
-      <jump line="28" column="9" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
-      <jump line="35" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
-      <jump line="38" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
-      <jump line="82" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
-      <jump line="86" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
-      <jump line="89" column="46" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
-      <jump line="95" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
-      <jump line="98" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
-      <jump line="101" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
-      <jump line="107" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
-      <jump line="111" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
-      <jump line="115" column="66" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/AddInstanceFleetRequest.java" />
-      <jump line="66" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceFleetConfig.java" />
-      <jump line="176" column="83" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceFleetConfig.java" />
-      <jump line="188" column="76" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceFleetConfig.java" />
-      <jump line="192" column="83" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceFleetConfig.java" />
-      <jump line="202" column="76" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceFleetConfig.java" />
-      <jump line="206" column="83" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceFleetConfig.java" />
-      <jump line="43" column="76" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceFleetConfig.java" />
-      <jump line="145" column="76" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceFleetConfig.java" />
-      <jump line="149" column="83" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceFleetConfig.java" />
-      <jump line="159" column="76" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceFleetConfig.java" />
-      <jump line="162" column="84" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceFleetConfig.java" />
-      <jump line="172" column="76" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceFleetConfig.java" />
-      <jump line="14" column="0" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" />
-      <jump line="33" column="6" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/ListInstanceFleetsRequest.java" />
-      <jump line="156" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/ListInstanceFleetsRequest.java" />
-      <jump line="39" column="27" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" />
-      <jump line="34" column="25" filename="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/ec2/spot/Fleet.java" />
+      <jump line="28" column="16" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="65" column="15" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="31" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="18" column="15" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="43" column="17" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="15" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="51" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="354" column="24" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" />
+      <jump line="216" column="25" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" />
+      <jump line="123" column="47" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" />
+      <jump line="362" column="17" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" />
+      <jump line="32" column="29" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" />
+      <jump line="46" column="15" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/Transformer.scala" />
+      <jump line="52" column="14" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/Transformer.scala" />
+      <jump line="56" column="20" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/Transformer.scala" />
+      <jump line="57" column="26" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/Transformer.scala" />
+      <jump line="59" column="25" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/Transformer.scala" />
+      <jump line="62" column="25" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/Transformer.scala" />
+      <jump line="63" column="34" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/Transformer.scala" />
+      <jump line="48" column="33" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="26" column="12" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="36" column="23" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="27" column="12" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="33" column="9" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="25" column="33" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="2" column="40" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="23" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="36" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Wordcount.scala" />
+      <jump line="17" column="20" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="41" column="12" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="86" column="18" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="0" column="14" filename="$USER_HOME$/MyWork/git/structured-example/src/main/resources/kmeans.csv" />
+      <jump line="80" column="24" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="347" column="73" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/internal/SQLConf.scala" />
+      <jump line="454" column="81" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/internal/SQLConf.scala" />
+      <jump line="327" column="65" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/internal/SQLConf.scala" />
+      <jump line="118" column="44" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/internal/SQLConf.scala" />
+      <jump line="976" column="23" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/internal/SQLConf.scala" />
+      <jump line="972" column="12" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/internal/SQLConf.scala" />
+      <jump line="904" column="39" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/internal/SQLConf.scala" />
+      <jump line="382" column="26" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/internal/SQLConf.scala" />
+      <jump line="56" column="92" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="6" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="79" column="16" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="62" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="42" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="318" column="16" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" />
+      <jump line="361" column="4" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" />
+      <jump line="574" column="6" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/SparkSession.scala" />
+      <jump line="33" column="32" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="38" column="56" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="149" column="19" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="145" column="8" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="3" column="26" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="4" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="44" column="11" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="41" column="3" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="158" column="30" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="54" column="6" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="46" column="26" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="78" column="94" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
+      <jump line="107" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/structured-streaming/src/main/scala/Kmeans.scala" />
+      <jump line="3" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/structured-streaming/src/main/scala/Kmeans.scala" />
+      <jump line="104" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/structured-streaming/src/main/scala/Kmeans.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/structured-streaming/src/main/scala/Kmeans.scala" />
+      <jump line="106" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/structured-streaming/src/main/scala/Kmeans.scala" />
+      <jump line="88" column="41" filename="$USER_HOME$/MyWork/git/spark-streaming-example/structured-streaming/src/main/scala/Wordcount.scala" />
+      <jump line="3" column="39" filename="$USER_HOME$/MyWork/git/spark-streaming-example/structured-streaming/src/main/scala/Wordcount.scala" />
+      <jump line="41" column="63" filename="$USER_HOME$/MyWork/git/spark-streaming-example/structured-streaming/src/main/scala/Wordcount.scala" />
+      <jump line="4" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/structured-streaming/src/main/scala/Wordcount.scala" />
+      <jump line="78" column="23" filename="$USER_HOME$/MyWork/git/spark-streaming-example/structured-streaming/src/main/scala/Wordcount.scala" />
+      <jump line="17" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/build.sbt" />
+      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/build.sbt" />
+      <jump line="40" column="28" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming_2.11/srcs/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/dstream/ReceiverInputDStream.scala" />
+      <jump line="41" column="15" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming_2.11/srcs/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/dstream/ReceiverInputDStream.scala" />
+      <jump line="57" column="23" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming_2.11/srcs/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/dstream/ReceiverInputDStream.scala" />
+      <jump line="17" column="35" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming_2.11/srcs/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/dstream/ReceiverInputDStream.scala" />
+      <jump line="31" column="77" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming_2.11/srcs/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/dstream/ReceiverInputDStream.scala" />
+      <jump line="33" column="44" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming_2.11/srcs/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/dstream/ReceiverInputDStream.scala" />
+      <jump line="3" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/spark-streaming/src/main/scala/Wordcount.scala" />
+      <jump line="19" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/spark-streaming/src/main/scala/Wordcount.scala" />
+      <jump line="23" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/spark-streaming/src/main/scala/Wordcount.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/spark-streaming-example/spark-streaming/src/main/scala/Wordcount.scala" />
+      <jump line="444" column="18" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="404" column="52" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="400" column="76" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="389" column="52" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="385" column="43" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="374" column="13" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="367" column="9" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="361" column="18" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="339" column="13" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="333" column="98" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="331" column="55" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="155" column="60" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="130" column="60" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="100" column="60" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="464" column="74" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aG5hbWUK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwo=</text>
       </register>
       <register name="-" type="4">
-        <text>slave</text>
+        <text>reduceByWindow()</text>
       </register>
       <register name="/" type="4">
-        <text>core</text>
+        <text>eval</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgInNsYXZlIjogewogICAgICAgICJ0eXBlIjogIm00LmxhcmdlIiwKICAgICAgICAic2VjdXJpdHlHcm91cCI6ICJzZy04MThhM2RlNyIsCiAgICAgICAgImJpZFByaWNlIjogIjAuMDUiLAogICAgICAgICJ0YXJnZXRTcG90Q2FwYWNpdHkiOiAyLAogICAgICAgICJ0YXJnZXRPbkRlbWFuZENhcGFjaXR5IjogMiwKICAgICAgICAidGltZW91dER1cmF0aW9uTWludXRlcyI6IDEyMCwKICAgICAgICAidGltZW91dEFjdGlvbiI6ICJURVJNSU5BVEVfQ0xVU1RFUiIKICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text>// DStream[String]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aG5hbWUK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gd2UgY2FuIHVzZSB1bml0cyBwYXR0ZXJuCg==</text>
+        <text encoding="base64">ICAgIHNzYy5zcGFya0NvbnRleHQuaGFkb28K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gd2UgY2FuIHVzZQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3RyZWFtaW5nLmRzdHJlYW0uRFN0cmVhbQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gcHJvYmFibHkgb25seSBjYW4gdXNlIHVuaXRzLCB0aGVyZWZvcmUgCg==</text>
+        <text encoding="base64">ICAgIGxpbmVzLmNvbXB1dGUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aGxhdQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVtckNsaWVudC5hZGRJbnN0YW5jZUZsZWV0KCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aGpqZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aEJpZFByaWNlQXNQZXJjZW50YWdlT2ZPbkRlbWFuZFByaWNlKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>%d</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>core</last-search>
+      <last-search>eval</last-search>
       <last-offset />
-      <last-pattern>core</last-pattern>
-      <last-replace>FileName</last-replace>
-      <last-substitute>fileName</last-substitute>
+      <last-pattern>eval</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>AppLogger</entry>
-        <entry>info</entry>
-        <entry>f</entry>
-        <entry>exec</entry>
-        <entry encoding="base64">XDxjaXJjbGVjaVw+</entry>
-        <entry>gomm</entry>
-        <entry>echo</entry>
-        <entry>lab</entry>
-        <entry>glide</entry>
-        <entry>api</entry>
-        <entry>pigeon</entry>
-        <entry>get</entry>
-        <entry>response</entry>
-        <entry>fleet</entry>
-        <entry>configuration</entry>
-        <entry>instance</entry>
-        <entry>type</entry>
-        <entry>feet</entry>
-        <entry>config</entry>
-        <entry>core</entry>
+        <entry>udt</entry>
+        <entry>struct</entry>
+        <entry>input</entry>
+        <entry>path</entry>
+        <entry>show</entry>
+        <entry>arg</entry>
+        <entry>stop</entry>
+        <entry>csv</entry>
+        <entry>name</entry>
+        <entry encoding="base64">XDxjc3ZcPg==</entry>
+        <entry>structured</entry>
+        <entry>lzy</entry>
+        <entry>chackfor</entry>
+        <entry encoding="base64">XDxzcGFya1Nlc3Npb25cPg==</entry>
+        <entry>fit</entry>
+        <entry>relati</entry>
+        <entry>”</entry>
+        <entry encoding="base64">XDxHcm91cFN0YXRlXD4=</entry>
+        <entry>dstream</entry>
+        <entry>eval</entry>
       </history-search>
       <history-cmd>
-        <entry>s</entry>
-        <entry>28</entry>
-        <entry>30</entry>
-        <entry>w</entry>
-        <entry>69</entry>
-        <entry>s/`//</entry>
-        <entry>s/`//g</entry>
-        <entry>s/`//G</entry>
-        <entry>%s/`//g</entry>
-        <entry>%s/string/varchar/g</entry>
-        <entry>%s/varchar//g</entry>
-        <entry>go import</entry>
-        <entry>go fmt</entry>
-        <entry>39</entry>
-        <entry>2</entry>
-        <entry>23</entry>
-        <entry>15</entry>
-        <entry>%s/filename/fileName/g</entry>
         <entry>%s/fileName/FileName/g</entry>
+        <entry>49</entry>
+        <entry>101</entry>
+        <entry>29</entry>
+        <entry>%s/jp.ogikei/com.dmm.aws/g</entry>
+        <entry>69</entry>
+        <entry>%s/“/&quot;/g</entry>
+        <entry>%s/”/&quot;/g</entry>
+        <entry>13</entry>
+        <entry>q</entry>
+        <entry>2</entry>
+        <entry>26</entry>
+        <entry>root</entry>
+        <entry>67</entry>
+        <entry>2665</entry>
+        <entry>W</entry>
+        <entry>150</entry>
+        <entry>s</entry>
         <entry>%d</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
