@@ -102,7 +102,6 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/test/scala/com/dmm/i3/recommend/DSItemToItemSuite.scala" timestamp="1504264251441" />
       <file name="$USER_HOME$/MyWork/git/spark-streaming-example/structured-streaming/src/main/scala/Kmeans.scala" timestamp="1504158821339">
         <mark key="'" line="106" column="0" />
         <mark key="[" line="105" column="0" />
@@ -417,8 +416,8 @@
         <mark key="^" line="76" column="21" />
         <mark key="." line="76" column="21" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" timestamp="1504264383924">
-        <mark key="'" line="464" column="74" />
+      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" timestamp="1504578484850">
+        <mark key="'" line="466" column="0" />
         <mark key="[" line="329" column="11" />
         <mark key="]" line="329" column="10" />
         <mark key="^" line="329" column="10" />
@@ -888,7 +887,6 @@
       <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/internal/SQLConf.scala" timestamp="1504073616194">
         <mark key="'" line="382" column="26" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemOLG.scala" timestamp="1504263934435" />
       <file name="$USER_HOME$/OfficeTools/git/stork-api/router/router.go" timestamp="1498455171810">
         <mark key="[" line="41" column="32" />
         <mark key="]" line="41" column="36" />
@@ -939,7 +937,6 @@
         <mark key="." line="27" column="86" />
         <mark key="^" line="27" column="87" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/lib/SparkApp.scala" timestamp="1504263705855" />
       <file name="$USER_HOME$/OfficeTools/git/yzw/DDL/oracle/ORACLE_EXAMPLE_INPUT_TABLE.ddl" timestamp="1488878222939">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -999,9 +996,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="16" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
-      <jump line="65" column="15" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
-      <jump line="31" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
       <jump line="18" column="15" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
       <jump line="43" column="17" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
       <jump line="15" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
@@ -1099,6 +1093,9 @@
       <jump line="130" column="60" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
       <jump line="100" column="60" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
       <jump line="464" column="74" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="179" column="8" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="466" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1151,7 +1148,7 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
