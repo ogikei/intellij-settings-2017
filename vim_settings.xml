@@ -733,6 +733,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="38" column="25" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/package.scala" timestamp="1504608796968">
+        <mark key="'" line="154" column="15" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/src/main/java/jp/ogikei/auth/Credential.java" timestamp="1502342972678">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="17" column="3" />
@@ -1003,12 +1006,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="362" column="17" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" />
-      <jump line="32" column="29" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" />
-      <jump line="46" column="15" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/Transformer.scala" />
-      <jump line="52" column="14" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/Transformer.scala" />
-      <jump line="56" column="20" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/Transformer.scala" />
-      <jump line="57" column="26" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/Transformer.scala" />
       <jump line="59" column="25" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/Transformer.scala" />
       <jump line="62" column="25" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/Transformer.scala" />
       <jump line="63" column="34" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/Transformer.scala" />
@@ -1103,6 +1100,12 @@
       <jump line="12" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/Build.sbt" />
       <jump line="48" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/Build.sbt" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/Build.sbt" />
+      <jump line="173" column="36" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/package.scala" />
+      <jump line="174" column="15" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/package.scala" />
+      <jump line="188" column="34" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/package.scala" />
+      <jump line="189" column="15" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/package.scala" />
+      <jump line="153" column="31" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/package.scala" />
+      <jump line="154" column="15" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/package.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1112,7 +1115,7 @@
         <text>reduceByWindow()</text>
       </register>
       <register name="/" type="4">
-        <text>project</text>
+        <text>read</text>
       </register>
       <register name="0" type="4">
         <text>// DStream[String]</text>
@@ -1149,9 +1152,9 @@
       </register>
     </registers>
     <search>
-      <last-search>project</last-search>
+      <last-search>read</last-search>
       <last-offset />
-      <last-pattern>project</last-pattern>
+      <last-pattern>read</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -1159,7 +1162,6 @@
     </search>
     <history>
       <history-search>
-        <entry>struct</entry>
         <entry>input</entry>
         <entry>path</entry>
         <entry>show</entry>
@@ -1179,6 +1181,7 @@
         <entry>dstream</entry>
         <entry>eval</entry>
         <entry>project</entry>
+        <entry>read</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fileName/FileName/g</entry>
