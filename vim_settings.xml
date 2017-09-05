@@ -416,8 +416,8 @@
         <mark key="^" line="76" column="21" />
         <mark key="." line="76" column="21" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" timestamp="1504578484850">
-        <mark key="'" line="466" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" timestamp="1504581058893">
+        <mark key="'" line="459" column="0" />
         <mark key="[" line="329" column="11" />
         <mark key="]" line="329" column="10" />
         <mark key="^" line="329" column="10" />
@@ -554,11 +554,6 @@
         <mark key="^" line="34" column="50" />
         <mark key="." line="34" column="50" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/structured-example/src/main/resources/kmeans2.csv" timestamp="1504069365275">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis/src/main/scala/com/dmm/aws/kinesis/Stream.scala" timestamp="1499753332009">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="52" />
@@ -590,6 +585,13 @@
         <mark key="]" line="393" column="76" />
         <mark key="^" line="393" column="76" />
         <mark key="." line="393" column="76" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark-batch/Build.sbt" timestamp="1504581572561">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="34" />
+        <mark key="]" line="28" column="38" />
+        <mark key="^" line="28" column="38" />
+        <mark key="." line="28" column="38" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/project/plugins.sbt" timestamp="1503637921094">
         <mark key="[" line="2" column="56" />
@@ -887,6 +889,7 @@
       <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/internal/SQLConf.scala" timestamp="1504073616194">
         <mark key="'" line="382" column="26" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemOLG.scala" timestamp="1504581017986" />
       <file name="$USER_HOME$/OfficeTools/git/stork-api/router/router.go" timestamp="1498455171810">
         <mark key="[" line="41" column="32" />
         <mark key="]" line="41" column="36" />
@@ -962,6 +965,7 @@
         <mark key="^" line="643" column="6" />
         <mark key="." line="643" column="6" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFUserToItem.scala" timestamp="1504580582510" />
       <file name="$USER_HOME$/Downloads/reductions 2/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1488793065580">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="139" column="0" />
@@ -996,13 +1000,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="15" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
-      <jump line="43" column="17" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
-      <jump line="15" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
-      <jump line="51" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
-      <jump line="354" column="24" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" />
-      <jump line="216" column="25" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" />
-      <jump line="123" column="47" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" />
       <jump line="362" column="17" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" />
       <jump line="32" column="29" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala" />
       <jump line="46" column="15" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/Transformer.scala" />
@@ -1096,6 +1093,13 @@
       <jump line="179" column="8" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
       <jump line="466" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="181" column="30" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="236" column="10" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="459" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="12" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/Build.sbt" />
+      <jump line="48" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/Build.sbt" />
+      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/Build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1105,7 +1109,7 @@
         <text>reduceByWindow()</text>
       </register>
       <register name="/" type="4">
-        <text>eval</text>
+        <text>project</text>
       </register>
       <register name="0" type="4">
         <text>// DStream[String]</text>
@@ -1142,17 +1146,16 @@
       </register>
     </registers>
     <search>
-      <last-search>eval</last-search>
+      <last-search>project</last-search>
       <last-offset />
-      <last-pattern>eval</last-pattern>
+      <last-pattern>project</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>udt</entry>
         <entry>struct</entry>
         <entry>input</entry>
         <entry>path</entry>
@@ -1172,6 +1175,7 @@
         <entry encoding="base64">XDxHcm91cFN0YXRlXD4=</entry>
         <entry>dstream</entry>
         <entry>eval</entry>
+        <entry>project</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fileName/FileName/g</entry>
