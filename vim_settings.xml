@@ -420,7 +420,7 @@
         <mark key="^" line="76" column="21" />
         <mark key="." line="76" column="21" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" timestamp="1504676778350">
+      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" timestamp="1504678073364">
         <mark key="'" line="48" column="9" />
         <mark key="[" line="223" column="0" />
         <mark key="]" line="238" column="6" />
@@ -767,6 +767,9 @@
         <mark key="^" line="15" column="17" />
         <mark key="." line="15" column="17" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItem.scala" timestamp="1504678015660">
+        <mark key="'" line="67" column="100" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/build.sbt" timestamp="1500018796863">
         <mark key="[" line="9" column="39" />
         <mark key="]" line="9" column="39" />
@@ -876,8 +879,8 @@
       <file name="/sbtShell" timestamp="1504582487358">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItemCross.scala" timestamp="1504677326242">
-        <mark key="'" line="92" column="18" />
+      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItemCross.scala" timestamp="1504678371012">
+        <mark key="'" line="136" column="7" />
         <mark key="[" line="179" column="3" />
         <mark key="]" line="134" column="6" />
         <mark key="." line="134" column="6" />
@@ -994,12 +997,12 @@
         <mark key="[" line="32" column="14" />
         <mark key="]" line="32" column="41" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" timestamp="1504677345365">
-        <mark key="'" line="147" column="0" />
-        <mark key="[" line="147" column="83" />
-        <mark key="]" line="147" column="98" />
-        <mark key="." line="147" column="98" />
-        <mark key="^" line="147" column="98" />
+      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" timestamp="1504678810544">
+        <mark key="'" line="159" column="8" />
+        <mark key="[" line="159" column="31" />
+        <mark key="]" line="160" column="5" />
+        <mark key="." line="160" column="5" />
+        <mark key="^" line="160" column="5" />
       </file>
       <file name="$USER_HOME$/Downloads/reductions 2/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1488793065580">
         <mark key="[" line="0" column="0" />
@@ -1035,24 +1038,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="389" column="52" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="385" column="43" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="374" column="13" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="367" column="9" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="361" column="18" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="339" column="13" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="333" column="98" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="331" column="55" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="155" column="60" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="130" column="60" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="100" column="60" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="179" column="8" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="466" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="181" column="30" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="459" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="12" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/Build.sbt" />
-      <jump line="48" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/Build.sbt" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/Build.sbt" />
       <jump line="189" column="15" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/package.scala" />
       <jump line="154" column="15" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/package.scala" />
@@ -1101,7 +1086,6 @@
       <jump line="99" column="67" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
       <jump line="51" column="44" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
       <jump line="50" column="16" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
-      <jump line="53" column="16" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
       <jump line="54" column="22" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
       <jump line="58" column="20" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
       <jump line="128" column="22" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/lib/SparkApp.scala" />
@@ -1135,55 +1119,74 @@
       <jump line="92" column="18" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItemCross.scala" />
       <jump line="65" column="13" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
       <jump line="148" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
+      <jump line="56" column="8" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItemCross.scala" />
+      <jump line="63" column="37" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItemCross.scala" />
+      <jump line="99" column="11" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItemCross.scala" />
+      <jump line="128" column="17" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItemCross.scala" />
+      <jump line="194" column="20" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItem.scala" />
+      <jump line="220" column="24" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItem.scala" />
+      <jump line="222" column="16" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItem.scala" />
+      <jump line="228" column="61" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItem.scala" />
+      <jump line="229" column="27" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItem.scala" />
+      <jump line="64" column="36" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItem.scala" />
+      <jump line="67" column="100" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItem.scala" />
+      <jump line="136" column="7" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItemCross.scala" />
+      <jump line="119" column="9" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
+      <jump line="157" column="8" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
+      <jump line="53" column="8" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
+      <jump line="55" column="20" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
+      <jump line="144" column="18" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
+      <jump line="159" column="8" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>???</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>itemto</text>
+        <text encoding="base64">XDxyZWNvbW1lbmRVc2VyUHJvZHVjdHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlYnVnKHVzZXJQcm9kdWN0cywgInVzZXJQcm9kdWN0czoiKQo=</text>
+        <text encoding="base64">ICAgIHVzZXJQcm9kdWN0cy5maWx0ZXIoJCJpc19zb3VyY2VfdGFyZ2V0IiA9PT0gInRydWUiKS5jYWNoZSgpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzb3VyY2VVc2VyUHJvZHVjdHMgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNhbGNMb2dCYXNlU2ltaWxhckl0ZW1zCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">e30K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>itemto</last-search>
+      <last-search encoding="base64">XDxyZWNvbW1lbmRVc2VyUHJvZHVjdHNcPg==</last-search>
       <last-offset />
-      <last-pattern>itemto</last-pattern>
+      <last-pattern encoding="base64">XDxyZWNvbW1lbmRVc2VyUHJvZHVjdHNcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -1191,9 +1194,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dstream</entry>
-        <entry>eval</entry>
-        <entry>project</entry>
         <entry>read</entry>
         <entry>enum</entry>
         <entry>implicit</entry>
@@ -1205,12 +1205,15 @@
         <entry>item_id</entry>
         <entry>item</entry>
         <entry>print</entry>
-        <entry>comple</entry>
-        <entry>itemtoitem</entry>
         <entry>groupby</entry>
         <entry>user</entry>
         <entry>product</entry>
         <entry>itemto</entry>
+        <entry encoding="base64">XDxzb3VyY2VVbmlxdWVJdGVtc051bVw+</entry>
+        <entry>comple</entry>
+        <entry>itemtoitem</entry>
+        <entry encoding="base64">XDxzb3VyY2VVc2VyUHJvZHVjdHNcPg==</entry>
+        <entry encoding="base64">XDxyZWNvbW1lbmRVc2VyUHJvZHVjdHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fileName/FileName/g</entry>
@@ -1228,10 +1231,10 @@
         <entry>root</entry>
         <entry>67</entry>
         <entry>2665</entry>
-        <entry>W</entry>
         <entry>150</entry>
         <entry>s</entry>
         <entry>%d</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
