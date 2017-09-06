@@ -876,9 +876,10 @@
       <file name="/sbtShell" timestamp="1504582487358">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItemCross.scala" timestamp="1504669234420">
-        <mark key="[" line="55" column="38" />
-        <mark key="]" line="56" column="37" />
+      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItemCross.scala" timestamp="1504673239337">
+        <mark key="[" line="55" column="43" />
+        <mark key="]" line="55" column="43" />
+        <mark key="." line="55" column="43" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/pom.xml" timestamp="1503639126316">
         <mark key="[" line="4" column="11" />
@@ -991,12 +992,12 @@
         <mark key="[" line="32" column="14" />
         <mark key="]" line="32" column="41" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" timestamp="1504669499796">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="2" column="56" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" timestamp="1504673531453">
+        <mark key="'" line="11" column="16" />
+        <mark key="[" line="76" column="62" />
+        <mark key="]" line="76" column="61" />
+        <mark key="." line="76" column="61" />
+        <mark key="^" line="76" column="61" />
       </file>
       <file name="$USER_HOME$/Downloads/reductions 2/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1488793065580">
         <mark key="[" line="0" column="0" />
@@ -1032,7 +1033,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="574" column="6" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/SparkSession.scala" />
       <jump line="33" column="32" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" />
       <jump line="38" column="56" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" />
       <jump line="149" column="19" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" />
@@ -1132,47 +1132,47 @@
       <jump line="13" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
       <jump line="39" column="26" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
       <jump line="41" column="63" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
+      <jump line="11" column="16" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICBoaGg=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICBoaGg=</text>
+        <text>Unit</text>
       </register>
       <register name="/" type="4">
         <text>item</text>
       </register>
-      <register name="0" type="4">
-        <text>lter('is_source_target === &quot;true&quot;).select('item_id, 'keyword).distinct().cache()
-    val sourceUniqueItemsNum = sourceU</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhbCBzcGFyayA9IHRoaXMuc3BhcmsKICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbG9nRGF0YS5maWx0ZXIoJ2lzX3NvdXJjZV90YXJnZXQgPT09ICJ0cnVlIikuc2VsZWN0KCdpdGVtX2lkLCAna2V5d29yZCkuZGlzdGluY3QoKS5jYWNoZSgpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBvcmcK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBlCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxvZ0RhdGEuZmlsdGVyKCIiKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgbG9nRGF0YS5maQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE5vbmUK</text>
+        <text encoding="base64">ICAgIG8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
