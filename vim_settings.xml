@@ -876,9 +876,10 @@
       <file name="/sbtShell" timestamp="1504582487358">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItemCross.scala" timestamp="1504673239337">
-        <mark key="[" line="55" column="43" />
-        <mark key="]" line="55" column="43" />
+      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItemCross.scala" timestamp="1504675932065">
+        <mark key="'" line="55" column="10" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="86" />
         <mark key="." line="55" column="43" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/gatling-on-ec2/pom.xml" timestamp="1503639126316">
@@ -992,12 +993,12 @@
         <mark key="[" line="32" column="14" />
         <mark key="]" line="32" column="41" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" timestamp="1504673531453">
-        <mark key="'" line="11" column="16" />
-        <mark key="[" line="76" column="62" />
-        <mark key="]" line="76" column="61" />
-        <mark key="." line="76" column="61" />
-        <mark key="^" line="76" column="61" />
+      <file name="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" timestamp="1504675934614">
+        <mark key="'" line="50" column="16" />
+        <mark key="[" line="51" column="59" />
+        <mark key="]" line="52" column="3" />
+        <mark key="." line="52" column="3" />
+        <mark key="^" line="52" column="3" />
       </file>
       <file name="$USER_HOME$/Downloads/reductions 2/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1488793065580">
         <mark key="[" line="0" column="0" />
@@ -1033,13 +1034,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="32" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" />
-      <jump line="38" column="56" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" />
-      <jump line="149" column="19" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" />
-      <jump line="145" column="8" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" />
-      <jump line="3" column="26" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
-      <jump line="4" column="0" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
-      <jump line="44" column="11" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
       <jump line="41" column="3" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" />
       <jump line="158" column="30" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/streaming/DataStreamReader.scala" />
       <jump line="54" column="6" filename="$USER_HOME$/MyWork/git/structured-example/src/main/scala/Kmeans.scala" />
@@ -1133,55 +1127,62 @@
       <jump line="39" column="26" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
       <jump line="41" column="63" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
       <jump line="11" column="16" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
+      <jump line="55" column="10" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItemCross.scala" />
+      <jump line="44" column="33" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
+      <jump line="110" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
+      <jump line="103" column="38" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
+      <jump line="99" column="67" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
+      <jump line="51" column="44" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
+      <jump line="50" column="16" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzb3VyY2VVc2VyUHJvZHVjdHMgPSB1c2VyUHJvZHVjdHMuZmlsdGVyKCdpc19zb3VyY2VfdGFyZ2V0ID09PSAidHJ1ZSIpLmNhY2hlKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>Unit</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>item</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcGFyayA9IHRoaXMuc3BhcmsKICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwo=</text>
+        <text encoding="base64">ICAgIHZhbCBzb3VyY2VVc2VyUHJvZHVjdHMgPSB1c2VyUHJvZHVjdHMuZmlsdGVyKCdpc19zb3VyY2VfdGFyZ2V0ID09PSAidHJ1ZSIpLmNhY2hlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIF9pZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMK</text>
+        <text encoding="base64">ICAgIHZhbCBzcGFyayA9IHRoaXMuc3BhcmsKICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMK</text>
+        <text encoding="base64">ICAgIHVzZXJQcm9kdWN0cy5jb3VudCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwo=</text>
+        <text encoding="base64">ICAgIHZhbCB1c2VyUHJvZHVjdHNOdW0gPSB1c2VyUHJvZHVjdHMuc2VsZWN0KCdpdGVtX2lkKS5kaXN0aW5jdCgpLmNvdW50KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ0RhdGEuZmlsdGVyKCIiKQo=</text>
+        <text encoding="base64">ICAgICAgdXNlclByb2R1Y3RzLnNlbGVjdCgnaXRlbV9pZCkuZGlzdGluY3QoKS5jb3VudCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbG9nRGF0YS5maQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>item</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>item</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -1189,7 +1190,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lzy</entry>
         <entry>chackfor</entry>
         <entry encoding="base64">XDxzcGFya1Nlc3Npb25cPg==</entry>
         <entry>fit</entry>
@@ -1209,6 +1209,7 @@
         <entry encoding="base64">XDxhcHBsaWNhdGlvbklkXD4=</entry>
         <entry>item_id</entry>
         <entry>item</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fileName/FileName/g</entry>
