@@ -209,12 +209,12 @@
         <mark key="^" line="6" column="35" />
         <mark key="." line="6" column="35" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" timestamp="1505294677327">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="60" column="31" />
-        <mark key="]" line="60" column="31" />
-        <mark key="." line="60" column="31" />
-        <mark key="^" line="60" column="31" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" timestamp="1505295275273">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="79" column="16" />
+        <mark key="]" line="79" column="21" />
+        <mark key="." line="79" column="21" />
+        <mark key="^" line="79" column="21" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon-gatling/src/test/scala/computerdatabase/TestPigeonSimulation.scala" timestamp="1503474681228">
         <mark key="'" line="2" column="0" />
@@ -512,10 +512,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>joinImp</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>joinImp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMQVVOQ0hfQ0xBU1NQQVRIXD4=</text>
@@ -524,31 +524,31 @@
         <text encoding="base64">ICAgICAgLmdyb3VwQnkoJCJ1cmwiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnNlbGVjdAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgLgo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLnNlbGVjdAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLmNvdW50Cg==</text>
+        <text encoding="base64">ICAgICAgLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLnNlbGVjdCgkInVybCIsICQiIikK</text>
+        <text encoding="base64">ICAgICAgLmNvdW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLnNlbGVjdCgkInVybCIsICQiIikK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLmdyb3AK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
