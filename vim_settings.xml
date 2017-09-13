@@ -33,12 +33,12 @@
       <file name="_mac/path.macros.xml" timestamp="1505108352591">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/build.sbt" timestamp="1505280844257">
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/build.sbt" timestamp="1505290409631">
         <mark key="'" line="9" column="4" />
-        <mark key="[" line="4" column="48" />
-        <mark key="]" line="4" column="48" />
-        <mark key="." line="4" column="48" />
-        <mark key="^" line="4" column="48" />
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="11" column="35" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" timestamp="1503036025714">
         <mark key="'" line="131" column="70" />
@@ -209,7 +209,7 @@
         <mark key="^" line="6" column="35" />
         <mark key="." line="6" column="35" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" timestamp="1505288704644">
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" timestamp="1505289969104">
         <mark key="'" line="6" column="27" />
         <mark key="[" line="43" column="80" />
         <mark key="]" line="44" column="27" />
@@ -511,11 +511,11 @@
       <jump line="5" column="27" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGptcGxpY2l0IAo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMQVVOQ0hfQ0xBU1NQQVRIXD4=</text>
@@ -524,29 +524,29 @@
         <text encoding="base64">ICAgICAgICBTdHJ1Y3RGaWVsZCgic3VnZ2VzdCIsIEFycmF5VHlwZSgKICAgICAgICAgIFN0cmluZ1R5cGUKICAgICAgICApKSA6Ogo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGptcGxpY2l0IAo=</text>
+        <text encoding="base64">ICAgIG5hbWUgOj0gInJlY29tbWVuZC1hZ2dyZWdhdGlvbiIK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGptcGxpY2l0IAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>d
     i</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHZhbCBxdWVyeSA9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBpbXBsaQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRlc3RERi4K</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRlc3RERi4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
