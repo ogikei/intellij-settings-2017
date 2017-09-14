@@ -51,11 +51,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/ListInstanceFleetsRequest.java" timestamp="1502354275175">
         <mark key="'" line="156" column="12" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" timestamp="1505369005112">
-        <mark key="'" line="8" column="27" />
-        <mark key="[" line="56" column="3" />
-        <mark key="]" line="8" column="77" />
-        <mark key="." line="93" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" timestamp="1505371411118">
+        <mark key="'" line="14" column="3" />
+        <mark key="[" line="111" column="3" />
+        <mark key="]" line="111" column="3" />
+        <mark key="." line="111" column="3" />
+        <mark key="^" line="111" column="3" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon-gatling/src/test/scala/computerdatabase/TestPigeonSimulation.scala" timestamp="1503474681228">
         <mark key="'" line="2" column="0" />
@@ -407,19 +408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="22" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/lib/SparkApp.scala" />
-      <jump line="52" column="27" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/lib/SparkApp.scala" />
-      <jump line="90" column="14" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/lib/SparkApp.scala" />
-      <jump line="92" column="18" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/lib/SparkApp.scala" />
-      <jump line="93" column="37" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/lib/SparkApp.scala" />
-      <jump line="95" column="34" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/lib/SparkApp.scala" />
-      <jump line="101" column="2" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/lib/SparkApp.scala" />
-      <jump line="236" column="6" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="255" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="10" column="3" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="12" column="9" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="116" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItemCross.scala" />
-      <jump line="117" column="7" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItemCross.scala" />
       <jump line="115" column="8" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItemCross.scala" />
       <jump line="114" column="7" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItemCross.scala" />
       <jump line="26" column="2" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/lib/SparkApp.scala" />
@@ -507,46 +495,59 @@
       <jump line="58" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
       <jump line="26" column="31" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
       <jump line="8" column="27" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
+      <jump line="92" column="3" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
+      <jump line="90" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
+      <jump line="20" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
+      <jump line="100" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
+      <jump line="19" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
+      <jump line="107" column="17" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
+      <jump line="21" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
+      <jump line="108" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
+      <jump line="25" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
+      <jump line="31" column="16" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
+      <jump line="17" column="16" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
+      <jump line="115" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
+      <jump line="14" column="3" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcGFyayA9IFNwYXJrU2Vzc2lvbi5idWlsZGVyKCkuYXBwTmFtZSgicmVjb21tZW5kLWtwaSIpLmdldE9yQ3JlYXRlKCkK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>org.apache.spark.imp</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMQVVOQ0hfQ0xBU1NQQVRIXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcGFyayA9IFNwYXJrU2Vzc2lvbi5idWlsZGVyKCkuYXBwTmFtZSgicmVjb21tZW5kLWtwaSIpLmdldE9yQ3JlYXRlKCkK</text>
+        <text encoding="base64">ICAgIGFjdGl2aXR5RXh0REYKICAgICAgLndoZXJlKCQiYWN0aW9uIiA9PT0gInNob3ciIGFuZCAkIm9wdGlvbiIgPT09ICJyZWNvbW1lbmQiKQogICAgICAuZ3JvdXBCeSgkInVybCIpCiAgICAgIC5jb3VudCgpCiAgICAgIC5hc1tJbXBdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGltcAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdAo=</text>
+        <text encoding="base64">ICAgIGltcERTCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcERTLmoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN0cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjYXNlIGNsYXNzIEltcCh1cmw6IFN0cmluZywgaW1wQ291bnQ6IEludCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHZhbCBjdHJUbXAxRFMgPSBjdHJUbXAxRFMoYWN0aXZpdHlFeHRERikK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgc2V0dXBTcGFyaygpID0gewogICAgdmFsIHNwYXJrID0gU3BhcmtTZXNzaW9uLmJ1aWxkZXIoKS5hcHBOYW1lKCJyZWNvbW1lbmQta3BpIikuZ2V0T3JDcmVhdGUoKQogIH0K</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICBkZWYgY3ZyVG1wMkRTKGFjdGl2aXR5RXh0REY6IERhdGFGcmFtZSk6IERhdGFzZXRbQ3ZyVG1wMl0gPSB7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBkZWYgaW1wRFMoYWN0aXZpdHlFeHRERjogRGF0YUZyYW1lKTogRGF0YXNldFtJbXBdID0gewogICAgaW1wb3J0IHNwYXJrLmltcGxpY2l0cy5fCgogICAgYWN0aXZpdHlFeHRERgogICAgICAud2hlcmUoJCJhY3Rpb24iID09PSAic2hvdyIgYW5kICQib3B0aW9uIiA9PT0gInJlY29tbWVuZCIpCiAgICAgIC5ncm91cEJ5KCQidXJsIikKICAgICAgLmNvdW50KCkKICAgICAgLmFzW0ltcF0KICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
