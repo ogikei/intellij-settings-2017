@@ -51,12 +51,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/ListInstanceFleetsRequest.java" timestamp="1502354275175">
         <mark key="'" line="156" column="12" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" timestamp="1505371411118">
-        <mark key="'" line="14" column="3" />
-        <mark key="[" line="111" column="3" />
-        <mark key="]" line="111" column="3" />
-        <mark key="." line="111" column="3" />
-        <mark key="^" line="111" column="3" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" timestamp="1505375001846">
+        <mark key="[" line="82" column="41" />
+        <mark key="]" line="82" column="46" />
+        <mark key="." line="82" column="46" />
+        <mark key="^" line="82" column="46" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon-gatling/src/test/scala/computerdatabase/TestPigeonSimulation.scala" timestamp="1503474681228">
         <mark key="'" line="2" column="0" />
@@ -328,6 +327,13 @@
       <file name="$USER_HOME$/OfficeTools/git/pigeon/dockerfiles/local/Dockerfile" timestamp="1502171747042">
         <mark key="'" line="26" column="50" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Shell.scala" timestamp="1505376143782">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="44" column="80" />
+        <mark key="]" line="45" column="27" />
+        <mark key="." line="45" column="27" />
+        <mark key="^" line="45" column="27" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon-gatling/src/main/scala/computerdatabase/PigeonSimulation.scala" timestamp="1503368675299">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="2" column="0" />
@@ -408,11 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="8" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItemCross.scala" />
-      <jump line="114" column="7" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItemCross.scala" />
-      <jump line="26" column="2" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/lib/SparkApp.scala" />
-      <jump line="226" column="5" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/lib/SparkApp.scala" />
-      <jump line="455" column="15" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
       <jump line="39" column="8" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
       <jump line="41" column="9" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
       <jump line="42" column="9" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
@@ -508,63 +509,67 @@
       <jump line="17" column="16" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
       <jump line="115" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
       <jump line="14" column="3" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
+      <jump line="102" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
+      <jump line="128" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
+      <jump line="127" column="13" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
+      <jump line="43" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Shell.scala" />
+      <jump line="5" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Shell.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMQVVOQ0hfQ0xBU1NQQVRIXD4=</text>
+        <text>”</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFjdGl2aXR5RXh0REYKICAgICAgLndoZXJlKCQiYWN0aW9uIiA9PT0gInNob3ciIGFuZCAkIm9wdGlvbiIgPT09ICJyZWNvbW1lbmQiKQogICAgICAuZ3JvdXBCeSgkInVybCIpCiAgICAgIC5jb3VudCgpCiAgICAgIC5hc1tJbXBdCg==</text>
+        <text encoding="base64">ICAgIHZhbCBjdnJUbXAxRFMgPSBjYWxjQ3ZyVG1wMURTKGFjdGl2aXR5RXh0REYpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcAo=</text>
+        <text encoding="base64">ICAgIHZhCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcERTCg==</text>
+        <text encoding="base64">ICAgIHF1ZXJ5LmdldAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcERTLmoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGN0cgo=</text>
+        <text encoding="base64">ICB2YWwgc3Bhcms6IFNwYXJrU2Vzc2lvbiA9IFNwYXJrU2Vzc2lvbi5idWlsZGVyKCkuYXBwTmFtZSgicmVjb21tZW5kLWtwaSIpLmdldE9yQ3JlYXRlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IE1haW4uSW1wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBjdHJUbXAxRFMgPSBjdHJUbXAxRFMoYWN0aXZpdHlFeHRERikK</text>
+        <text encoding="base64">ICAgIHRtcAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBkZWYgY3ZyVG1wMkRTKGFjdGl2aXR5RXh0REY6IERhdGFGcmFtZSk6IERhdGFzZXRbQ3ZyVG1wMl0gPSB7Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHRtcC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmFzW0ltcF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgaW1wRFMoYWN0aXZpdHlFeHRERjogRGF0YUZyYW1lKTogRGF0YXNldFtJbXBdID0gewogICAgaW1wb3J0IHNwYXJrLmltcGxpY2l0cy5fCgogICAgYWN0aXZpdHlFeHRERgogICAgICAud2hlcmUoJCJhY3Rpb24iID09PSAic2hvdyIgYW5kICQib3B0aW9uIiA9PT0gInJlY29tbWVuZCIpCiAgICAgIC5ncm91cEJ5KCQidXJsIikKICAgICAgLmNvdW50KCkKICAgICAgLmFzW0ltcF0KICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMQVVOQ0hfQ0xBU1NQQVRIXD4=</last-search>
+      <last-search>”</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMQVVOQ0hfQ0xBU1NQQVRIXD4=</last-pattern>
+      <last-pattern>”</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcHBsaWNhdGlvbklkXD4=</entry>
         <entry>item_id</entry>
         <entry>item</entry>
         <entry>print</entry>
@@ -584,6 +589,7 @@
         <entry encoding="base64">XDxBUkdcPg==</entry>
         <entry>runner</entry>
         <entry encoding="base64">XDxMQVVOQ0hfQ0xBU1NQQVRIXD4=</entry>
+        <entry>”</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fileName/FileName/g</entry>
@@ -602,9 +608,9 @@
         <entry>67</entry>
         <entry>2665</entry>
         <entry>150</entry>
-        <entry>s</entry>
         <entry>%d</entry>
         <entry>W</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
