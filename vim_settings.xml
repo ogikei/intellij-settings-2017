@@ -51,7 +51,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/ListInstanceFleetsRequest.java" timestamp="1502354275175">
         <mark key="'" line="156" column="12" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" timestamp="1505375001846">
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" timestamp="1505378331926">
         <mark key="[" line="82" column="41" />
         <mark key="]" line="82" column="46" />
         <mark key="." line="82" column="46" />
@@ -327,12 +327,12 @@
       <file name="$USER_HOME$/OfficeTools/git/pigeon/dockerfiles/local/Dockerfile" timestamp="1502171747042">
         <mark key="'" line="26" column="50" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Shell.scala" timestamp="1505376143782">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="44" column="80" />
-        <mark key="]" line="45" column="27" />
-        <mark key="." line="45" column="27" />
-        <mark key="^" line="45" column="27" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Shell.scala" timestamp="1505379103132">
+        <mark key="'" line="44" column="31" />
+        <mark key="[" line="52" column="7" />
+        <mark key="]" line="52" column="7" />
+        <mark key="." line="52" column="7" />
+        <mark key="^" line="52" column="66" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon-gatling/src/main/scala/computerdatabase/PigeonSimulation.scala" timestamp="1503368675299">
         <mark key="'" line="11" column="0" />
@@ -414,7 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="8" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
       <jump line="41" column="9" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
       <jump line="42" column="9" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
       <jump line="43" column="9" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
@@ -514,55 +513,56 @@
       <jump line="127" column="13" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
       <jump line="43" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Shell.scala" />
       <jump line="5" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Shell.scala" />
+      <jump line="44" column="31" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Shell.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>”</text>
+        <text>joi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBjdnJUbXAxRFMgPSBjYWxjQ3ZyVG1wMURTKGFjdGl2aXR5RXh0REYpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBjdnJUbXAxID0gYWN0aXZpdHlFeHRERi53aGVyZSgkInB1cmNoYXNlIiBybGlrZSAiKnJlY29tbWVuZCoiKS5ncm91cEJ5KCQidXJsIikuY291bnQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5LmdldAo=</text>
+        <text encoding="base64">aW1wb3J0IE1haW4uQ3RyVG1wMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmFzW0N0clRtcDFdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YWwgc3Bhcms6IFNwYXJrU2Vzc2lvbiA9IFNwYXJrU2Vzc2lvbi5idWlsZGVyKCkuYXBwTmFtZSgicmVjb21tZW5kLWtwaSIpLmdldE9yQ3JlYXRlKCkK</text>
+        <text encoding="base64">ICAgIHZhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IE1haW4uSW1wCg==</text>
+        <text encoding="base64">ICAgIHF1ZXJ5LmdldAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRtcAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRtcC4K</text>
+        <text encoding="base64">ICB2YWwgc3Bhcms6IFNwYXJrU2Vzc2lvbiA9IFNwYXJrU2Vzc2lvbi5idWlsZGVyKCkuYXBwTmFtZSgicmVjb21tZW5kLWtwaSIpLmdldE9yQ3JlYXRlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLmFzW0ltcF0K</text>
+        <text encoding="base64">aW1wb3J0IE1haW4uSW1wCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRtcAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>”</last-search>
+      <last-search>joi</last-search>
       <last-offset />
-      <last-pattern>”</last-pattern>
+      <last-pattern>joi</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -570,7 +570,6 @@
     </search>
     <history>
       <history-search>
-        <entry>item_id</entry>
         <entry>item</entry>
         <entry>print</entry>
         <entry>groupby</entry>
@@ -590,6 +589,7 @@
         <entry>runner</entry>
         <entry encoding="base64">XDxMQVVOQ0hfQ0xBU1NQQVRIXD4=</entry>
         <entry>”</entry>
+        <entry>joi</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fileName/FileName/g</entry>
