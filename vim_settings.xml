@@ -94,12 +94,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceFleetConfig.java" timestamp="1502355415397">
         <mark key="'" line="172" column="76" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/build.sbt" timestamp="1505290409631">
-        <mark key="'" line="9" column="4" />
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="11" column="35" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/build.sbt" timestamp="1505386317815">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="41" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon/api/pigeon.go" timestamp="1502188635645">
         <mark key="'" line="30" column="4" />
@@ -147,6 +147,11 @@
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/SparkSession.scala" timestamp="1504146405478">
         <mark key="'" line="574" column="6" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Streaming.scala" timestamp="1505384865358">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/structured-example/src/main/resources/kmeans.csv" timestamp="1504072032741">
         <mark key="'" line="0" column="14" />
@@ -327,12 +332,12 @@
       <file name="$USER_HOME$/OfficeTools/git/pigeon/dockerfiles/local/Dockerfile" timestamp="1502171747042">
         <mark key="'" line="26" column="50" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Shell.scala" timestamp="1505382188648">
-        <mark key="'" line="46" column="8" />
-        <mark key="[" line="46" column="27" />
-        <mark key="]" line="46" column="39" />
-        <mark key="." line="46" column="39" />
-        <mark key="^" line="46" column="39" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Shell.scala" timestamp="1505387049989">
+        <mark key="'" line="13" column="8" />
+        <mark key="[" line="43" column="109" />
+        <mark key="]" line="43" column="109" />
+        <mark key="." line="43" column="109" />
+        <mark key="^" line="43" column="109" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon-gatling/src/main/scala/computerdatabase/PigeonSimulation.scala" timestamp="1503368675299">
         <mark key="'" line="11" column="0" />
@@ -414,11 +419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="9" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="45" column="9" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="46" column="9" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="47" column="9" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
-      <jump line="48" column="9" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItem.scala" />
       <jump line="34" column="6" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItemCross.scala" />
       <jump line="92" column="18" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItemCross.scala" />
       <jump line="65" column="13" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
@@ -514,46 +514,51 @@
       <jump line="44" column="8" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Shell.scala" />
       <jump line="45" column="8" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Shell.scala" />
       <jump line="46" column="8" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Shell.scala" />
+      <jump line="38" column="14" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Shell.scala" />
+      <jump line="50" column="13" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Shell.scala" />
+      <jump line="52" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Shell.scala" />
+      <jump line="13" column="8" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Shell.scala" />
+      <jump line="13" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ctrTmp2, ctrTmp1(&quot;url&quot;) === ctrTmp2(&quot;url&quot;)</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>ctrTmp2, ctrTmp1(&quot;url&quot;) === ctrTmp2(&quot;url&quot;)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>ctr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBjdnJUbXAxID0gYWN0aXZpdHlFeHRERi53aGVyZSgkInB1cmNoYXNlIiBybGlrZSAiKnJlY29tbWVuZCoiKS5ncm91cEJ5KCQidXJsIikuY291bnQoKQo=</text>
+        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnNwYXJrIiAlJSAic3Bhcmstc3FsIiAlICIyLjIuMCIK</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBTRUxFQ1QgU1RSRUFNCiAgICBTVU0oQ0FTRSBXSEVOICJwdXJjaGFzZSIgTElLRSAnJXJlY29tbWVuZCUnIFRIRU4gMS4wIEVMU0UgMC4wIEVORCkgT1ZFUiBURU5fU0VDT05EX1NMSURJTkdfV0lORE9XIC8gU1VNKENBU0UgV0hFTiAiYWN0aW9uIiA9ICdjbGljaycgQU5EICJvcHRpb24iID0gJ3JlY29tbWVuZCcgVEhFTiAxLjAgRUxTRSAwLjAgRU5EKSBPVkVSIFRFTl9TRUNPTkRfU0xJRElOR19XSU5ET1cgQVMgQ1ZSCiAgICAtLSBTVU0oQ0FTRSBXSEVOICJhY3Rpb24iID0gJ2NsaWNrJyBBTkQgInB1cmNoYXNlIiBMSUtFICclcmVjb21tZW5kJScgVEhFTiAxLjAgRUxTRSAwLjAgRU5EKSBPVkVSIFRFTl9TRUNPTkRfU0xJRElOR19XSU5ET1cKICAgIEZST00gU09VUkNFX1NRTF9TVFJFQU1fMDAxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTVU0oQ0FTRSBXSEVOICJhY3Rpb24iID0gJ2NsaWNrJyBBTkQgInB1cmNoYXNlIiBMSUtFICclcmVjb21tZW5kJScgVEhFTiAxLjAgRUxTRSAwLjAgRU5EKSBPVkVSIFRFTl9TRUNPTkRfU0xJRElOR19XSU5ET1cK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IE1haW4uQ3RyVG1wMQo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLmFzW0N0clRtcDFdCg==</text>
+        <text encoding="base64">ICAgICAgICB8Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhCg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5LmdldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTRUxFQ1QgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -609,8 +614,8 @@
         <entry>2665</entry>
         <entry>150</entry>
         <entry>%d</entry>
-        <entry>W</entry>
         <entry>s</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
