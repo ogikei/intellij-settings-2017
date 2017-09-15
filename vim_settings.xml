@@ -51,11 +51,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/ListInstanceFleetsRequest.java" timestamp="1502354275175">
         <mark key="'" line="156" column="12" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" timestamp="1505378331926">
-        <mark key="[" line="82" column="41" />
-        <mark key="]" line="82" column="46" />
-        <mark key="." line="82" column="46" />
-        <mark key="^" line="82" column="46" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" timestamp="1505444979770">
+        <mark key="'" line="104" column="2" />
+        <mark key="[" line="32" column="28" />
+        <mark key="]" line="32" column="3" />
+        <mark key="." line="32" column="3" />
+        <mark key="^" line="32" column="3" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon-gatling/src/test/scala/computerdatabase/TestPigeonSimulation.scala" timestamp="1503474681228">
         <mark key="'" line="2" column="0" />
@@ -148,10 +149,11 @@
       <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/SparkSession.scala" timestamp="1504146405478">
         <mark key="'" line="574" column="6" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Streaming.scala" timestamp="1505384865358">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Streaming.scala" timestamp="1505444751648">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/structured-example/src/main/resources/kmeans.csv" timestamp="1504072032741">
         <mark key="'" line="0" column="14" />
@@ -169,6 +171,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/project/plugins.sbt" timestamp="1505444303590">
+        <mark key="[" line="0" column="67" />
+        <mark key="]" line="0" column="67" />
+        <mark key="^" line="0" column="67" />
+        <mark key="." line="0" column="67" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/AmazonElasticMapReduce.java" timestamp="1503023952234">
         <mark key="'" line="707" column="57" />
@@ -419,7 +427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="6" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItemCross.scala" />
       <jump line="92" column="18" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DFItemToItemCross.scala" />
       <jump line="65" column="13" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
       <jump line="148" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
@@ -519,13 +526,14 @@
       <jump line="52" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Shell.scala" />
       <jump line="13" column="8" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Shell.scala" />
       <jump line="13" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/build.sbt" />
+      <jump line="104" column="2" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Main.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
         <text>ctr</text>
@@ -534,31 +542,31 @@
         <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnNwYXJrIiAlJSAic3Bhcmstc3FsIiAlICIyLjIuMCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBTRUxFQ1QgU1RSRUFNCiAgICBTVU0oQ0FTRSBXSEVOICJwdXJjaGFzZSIgTElLRSAnJXJlY29tbWVuZCUnIFRIRU4gMS4wIEVMU0UgMC4wIEVORCkgT1ZFUiBURU5fU0VDT05EX1NMSURJTkdfV0lORE9XIC8gU1VNKENBU0UgV0hFTiAiYWN0aW9uIiA9ICdjbGljaycgQU5EICJvcHRpb24iID0gJ3JlY29tbWVuZCcgVEhFTiAxLjAgRUxTRSAwLjAgRU5EKSBPVkVSIFRFTl9TRUNPTkRfU0xJRElOR19XSU5ET1cgQVMgQ1ZSCiAgICAtLSBTVU0oQ0FTRSBXSEVOICJhY3Rpb24iID0gJ2NsaWNrJyBBTkQgInB1cmNoYXNlIiBMSUtFICclcmVjb21tZW5kJScgVEhFTiAxLjAgRUxTRSAwLjAgRU5EKSBPVkVSIFRFTl9TRUNPTkRfU0xJRElOR19XSU5ET1cKICAgIEZST00gU09VUkNFX1NRTF9TVFJFQU1fMDAxCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTVU0oQ0FTRSBXSEVOICJhY3Rpb24iID0gJ2NsaWNrJyBBTkQgInB1cmNoYXNlIiBMSUtFICclcmVjb21tZW5kJScgVEhFTiAxLjAgRUxTRSAwLjAgRU5EKSBPVkVSIFRFTl9TRUNPTkRfU0xJRElOR19XSU5ET1cK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICBTRUxFQ1QgU1RSRUFNCiAgICBTVU0oQ0FTRSBXSEVOICJwdXJjaGFzZSIgTElLRSAnJXJlY29tbWVuZCUnIFRIRU4gMS4wIEVMU0UgMC4wIEVORCkgT1ZFUiBURU5fU0VDT05EX1NMSURJTkdfV0lORE9XIC8gU1VNKENBU0UgV0hFTiAiYWN0aW9uIiA9ICdjbGljaycgQU5EICJvcHRpb24iID0gJ3JlY29tbWVuZCcgVEhFTiAxLjAgRUxTRSAwLjAgRU5EKSBPVkVSIFRFTl9TRUNPTkRfU0xJRElOR19XSU5ET1cgQVMgQ1ZSCiAgICAtLSBTVU0oQ0FTRSBXSEVOICJhY3Rpb24iID0gJ2NsaWNrJyBBTkQgInB1cmNoYXNlIiBMSUtFICclcmVjb21tZW5kJScgVEhFTiAxLjAgRUxTRSAwLjAgRU5EKSBPVkVSIFRFTl9TRUNPTkRfU0xJRElOR19XSU5ET1cKICAgIEZST00gU09VUkNFX1NRTF9TVFJFQU1fMDAxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB8Cg==</text>
+        <text encoding="base64">ICAgICAgICBTVU0oQ0FTRSBXSEVOICJhY3Rpb24iID0gJ2NsaWNrJyBBTkQgInB1cmNoYXNlIiBMSUtFICclcmVjb21tZW5kJScgVEhFTiAxLjAgRUxTRSAwLjAgRU5EKSBPVkVSIFRFTl9TRUNPTkRfU0xJRElOR19XSU5ET1cK</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTRUxFQ1QgCg==</text>
+        <text encoding="base64">ICAgICAgICB8Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -571,7 +579,7 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
