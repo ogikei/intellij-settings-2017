@@ -317,12 +317,12 @@
         <mark key="." line="28" column="34" />
         <mark key="^" line="28" column="34" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" timestamp="1505795605377">
-        <mark key="'" line="14" column="15" />
-        <mark key="[" line="33" column="37" />
-        <mark key="]" line="33" column="42" />
-        <mark key="." line="33" column="42" />
-        <mark key="^" line="33" column="42" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" timestamp="1505798145124">
+        <mark key="'" line="17" column="7" />
+        <mark key="[" line="138" column="6" />
+        <mark key="]" line="138" column="6" />
+        <mark key="^" line="137" column="24" />
+        <mark key="." line="138" column="6" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Shell.scala" timestamp="1505470777965">
         <mark key="'" line="42" column="0" />
@@ -422,9 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="8" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
-      <jump line="55" column="20" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
-      <jump line="144" column="18" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
       <jump line="159" column="8" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
       <jump line="2" column="12" filename="$USER_HOME$/OfficeTools/git/spark-batch/src/main/scala/com/dmm/i3/recommend/DSItemToItemCross.scala" />
@@ -522,52 +519,49 @@
       <jump line="16" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/IMP.scala" />
       <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/IMP.scala" />
       <jump line="14" column="15" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
+      <jump line="42" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
+      <jump line="41" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
+      <jump line="17" column="7" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3RyZWFtaW5nLntTZWNvbmRzLCBTdHJlYW1pbmdDb250ZXh0fQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ctr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0cnVjdEZpZWxkKCIiLCBTdHJpbmdUeXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIFN0cnVjdEZpZWxkKCIxOCIsIFN0cmluZ1R5cGUpLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3RyZWFtaW5nLntTZWNvbmRzLCBTdHJlYW1pbmdDb250ZXh0fQo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFN0cnVjdEZpZWxkKCIwIiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiMSIsIFN0cmluZ1R5cGUpLAogICAgICAgICAgU3RydWN0RmllbGQoIjIiLCBTdHJpbmdUeXBlKSwKICAgICAgICAgIFN0cnVjdEZpZWxkKCIzIiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiNCIsIFN0cmluZ1R5cGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsuU3BhcmtDb25mCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFN0cnVjdEZpZWxkKCIwIiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiMSIsIFN0cmluZ1R5cGUpLAogICAgICAgICAgU3RydWN0RmllbGQoIjIiLCBTdHJpbmdUeXBlKSwKICAgICAgICAgIFN0cnVjdEZpZWxkKCIzIiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiNCIsIFN0cmluZ1R5cGUpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>(StructType(Array(
-          StructField(&quot;0&quot;, StringType),
-          StructField(&quot;1&quot;, StringType),
-          StructField(&quot;2&quot;, StringType),
-          StructField(&quot;3&quot;, StringType),
-          StructField(&quot;4&quot;, StringType)
-        )))) ::</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIFN0cnVjdEZpZWxkKCIwIiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiMSIsIFN0cmluZ1R5cGUpLAogICAgICAgICAgU3RydWN0RmllbGQoIjIiLCBTdHJpbmdUeXBlKSwKICAgICAgICAgIFN0cnVjdEZpZWxkKCIzIiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiNCIsIFN0cmluZ1R5cGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTZXEoU3RydWN0RmllbGQoInZpZXciKSwgQXJyYXlUeXBlKFN0cmluZ1R5cGUsIGZhbHNlKSwgZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIFN0cnVjdEZpZWxkKCIwIiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiMSIsIFN0cmluZ1R5cGUpLAogICAgICAgICAgU3RydWN0RmllbGQoIjIiLCBTdHJpbmdUeXBlKSwKICAgICAgICAgIFN0cnVjdEZpZWxkKCIzIiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiNCIsIFN0cmluZ1R5cGUpLAogICAgICAgICAgU3RydWN0RmllbGQoIjAiLCBTdHJpbmdUeXBlKSwKICAgICAgICAgIFN0cnVjdEZpZWxkKCIxIiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiMiIsIFN0cmluZ1R5cGUpLAogICAgICAgICAgU3RydWN0RmllbGQoIjMiLCBTdHJpbmdUeXBlKSwKICAgICAgICAgIFN0cnVjdEZpZWxkKCI0IiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiNCIsIFN0cmluZ1R5cGUpLAogICAgICAgICAgU3RydWN0RmllbGQoIjQiLCBTdHJpbmdUeXBlKSwKICAgICAgICAgIFN0cnVjdEZpZWxkKCI0IiwgU3RyaW5nVHlwZSksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFN0cnVjdEZpZWxkKCI5IiwgU3RyaW5nVHlwZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLnR5cGVzLntTdHJpbmdUeXBlLCBTdHJ1Y3RGaWVsZCwgU3RydWN0VHlwZX0KaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLntEYXRhRnJhbWUsIERhdGFzZXQsIFNwYXJrU2Vzc2lvbn0K</text>
+        <text encoding="base64">ICAgICAgICBTdHJ1Y3RGaWVsZCgia3BpIiwgU3RyaW5nVHlwZSwgdHJ1ZSkgOjogU3RydWN0RmllbGQoImRldGFpbCIsIFN0cmluZ1R5cGUsIHRydWUpIDo6CiAgICAgICAgU3RydWN0RmllbGQoInVzZXIiLCBTdHJpbmdUeXBlLCB0cnVlKSA6OgogICAgICAgIFN0cnVjdEZpZWxkKCJwdXJjaGFzZSIsIFN0cmluZ1R5cGUsIHRydWUpIDo6CiAgICAgICAgU3RydWN0RmllbGQoInN1Z2dlc3QiLCBTdHJpbmdUeXBlLCB0cnVlKSA6OgogICAgICAgIFN0cnVjdEZpZWxkKCJyZXZpZXciLCBTdHJpbmdUeXBlLCB0cnVlKSA6OiBOaWwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMK</text>
+        <text encoding="base64">ICAgICAgICBTdHJ1Y3RGaWVsZCgia3BpIiwgU3RyaW5nVHlwZSwgdHJ1ZSkgOjoKICAgICAgICBTdHJ1Y3RGaWVsZCgiZGV0YWlsIiwgU3RyaW5nVHlwZSwgdHJ1ZSkgOjoKICAgICAgICBTdHJ1Y3RGaWVsZCgidXNlciIsIFN0cmluZ1R5cGUsIHRydWUpIDo6CiAgICAgICAgU3RydWN0RmllbGQoInB1cmNoYXNlIiwgU3RyaW5nVHlwZSwgdHJ1ZSkgOjoKICAgICAgICBTdHJ1Y3RGaWVsZCgic3VnZ2VzdCIsIFN0cmluZ1R5cGUsIHRydWUpIDo6CiAgICAgICAgU3RydWN0RmllbGQoInJldmlldyIsIFN0cmluZ1R5cGUsIHRydWUpIDo6IE5pbCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
