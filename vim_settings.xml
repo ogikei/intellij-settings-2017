@@ -161,12 +161,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTR.scala" timestamp="1505795320604">
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTR.scala" timestamp="1505801259643">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="18" column="13" />
-        <mark key="^" line="18" column="13" />
+        <mark key="[" line="15" column="92" />
+        <mark key="]" line="15" column="92" />
+        <mark key="." line="15" column="92" />
+        <mark key="^" line="15" column="95" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/project/plugins.sbt" timestamp="1505444303590">
         <mark key="[" line="0" column="67" />
@@ -208,19 +208,19 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/IMP.scala" timestamp="1505793985231">
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/IMP.scala" timestamp="1505801290745">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
-        <mark key="^" line="14" column="19" />
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="14" column="44" />
+        <mark key="." line="14" column="44" />
+        <mark key="^" line="14" column="44" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CVR.scala" timestamp="1505795600424">
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CVR.scala" timestamp="1505801264114">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="14" column="84" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="15" column="93" />
+        <mark key="]" line="15" column="93" />
+        <mark key="^" line="19" column="15" />
+        <mark key="." line="15" column="93" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/test/package.scala" timestamp="1505793475581">
         <mark key="[" line="0" column="15" />
@@ -525,10 +525,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>ctr</text>
@@ -536,11 +536,11 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIFN0cnVjdEZpZWxkKCIxOCIsIFN0cmluZ1R5cGUpLAo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0cnVjdEZpZWxkKCIwIiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiMSIsIFN0cmluZ1R5cGUpLAogICAgICAgICAgU3RydWN0RmllbGQoIjIiLCBTdHJpbmdUeXBlKSwKICAgICAgICAgIFN0cnVjdEZpZWxkKCIzIiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiNCIsIFN0cmluZ1R5cGUpCg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIFN0cnVjdEZpZWxkKCIwIiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiMSIsIFN0cmluZ1R5cGUpLAogICAgICAgICAgU3RydWN0RmllbGQoIjIiLCBTdHJpbmdUeXBlKSwKICAgICAgICAgIFN0cnVjdEZpZWxkKCIzIiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiNCIsIFN0cmluZ1R5cGUpCg==</text>
@@ -549,19 +549,19 @@
         <text encoding="base64">ICAgICAgICAgIFN0cnVjdEZpZWxkKCIwIiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiMSIsIFN0cmluZ1R5cGUpLAogICAgICAgICAgU3RydWN0RmllbGQoIjIiLCBTdHJpbmdUeXBlKSwKICAgICAgICAgIFN0cnVjdEZpZWxkKCIzIiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiNCIsIFN0cmluZ1R5cGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIFN0cnVjdEZpZWxkKCIwIiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiMSIsIFN0cmluZ1R5cGUpLAogICAgICAgICAgU3RydWN0RmllbGQoIjIiLCBTdHJpbmdUeXBlKSwKICAgICAgICAgIFN0cnVjdEZpZWxkKCIzIiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiNCIsIFN0cmluZ1R5cGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0cnVjdEZpZWxkKCIwIiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiMSIsIFN0cmluZ1R5cGUpLAogICAgICAgICAgU3RydWN0RmllbGQoIjIiLCBTdHJpbmdUeXBlKSwKICAgICAgICAgIFN0cnVjdEZpZWxkKCIzIiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiNCIsIFN0cmluZ1R5cGUpLAogICAgICAgICAgU3RydWN0RmllbGQoIjAiLCBTdHJpbmdUeXBlKSwKICAgICAgICAgIFN0cnVjdEZpZWxkKCIxIiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiMiIsIFN0cmluZ1R5cGUpLAogICAgICAgICAgU3RydWN0RmllbGQoIjMiLCBTdHJpbmdUeXBlKSwKICAgICAgICAgIFN0cnVjdEZpZWxkKCI0IiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiNCIsIFN0cmluZ1R5cGUpLAogICAgICAgICAgU3RydWN0RmllbGQoIjQiLCBTdHJpbmdUeXBlKSwKICAgICAgICAgIFN0cnVjdEZpZWxkKCI0IiwgU3RyaW5nVHlwZSksCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0cnVjdEZpZWxkKCI5IiwgU3RyaW5nVHlwZSkK</text>
+        <text encoding="base64">ICAgICAgICAgIFN0cnVjdEZpZWxkKCIwIiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiMSIsIFN0cmluZ1R5cGUpLAogICAgICAgICAgU3RydWN0RmllbGQoIjIiLCBTdHJpbmdUeXBlKSwKICAgICAgICAgIFN0cnVjdEZpZWxkKCIzIiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiNCIsIFN0cmluZ1R5cGUpLAogICAgICAgICAgU3RydWN0RmllbGQoIjAiLCBTdHJpbmdUeXBlKSwKICAgICAgICAgIFN0cnVjdEZpZWxkKCIxIiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiMiIsIFN0cmluZ1R5cGUpLAogICAgICAgICAgU3RydWN0RmllbGQoIjMiLCBTdHJpbmdUeXBlKSwKICAgICAgICAgIFN0cnVjdEZpZWxkKCI0IiwgU3RyaW5nVHlwZSksCiAgICAgICAgICBTdHJ1Y3RGaWVsZCgiNCIsIFN0cmluZ1R5cGUpLAogICAgICAgICAgU3RydWN0RmllbGQoIjQiLCBTdHJpbmdUeXBlKSwKICAgICAgICAgIFN0cnVjdEZpZWxkKCI0IiwgU3RyaW5nVHlwZSksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJ1Y3RGaWVsZCgia3BpIiwgU3RyaW5nVHlwZSwgdHJ1ZSkgOjogU3RydWN0RmllbGQoImRldGFpbCIsIFN0cmluZ1R5cGUsIHRydWUpIDo6CiAgICAgICAgU3RydWN0RmllbGQoInVzZXIiLCBTdHJpbmdUeXBlLCB0cnVlKSA6OgogICAgICAgIFN0cnVjdEZpZWxkKCJwdXJjaGFzZSIsIFN0cmluZ1R5cGUsIHRydWUpIDo6CiAgICAgICAgU3RydWN0RmllbGQoInN1Z2dlc3QiLCBTdHJpbmdUeXBlLCB0cnVlKSA6OgogICAgICAgIFN0cnVjdEZpZWxkKCJyZXZpZXciLCBTdHJpbmdUeXBlLCB0cnVlKSA6OiBOaWwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFN0cnVjdEZpZWxkKCI5IiwgU3RyaW5nVHlwZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJ1Y3RGaWVsZCgia3BpIiwgU3RyaW5nVHlwZSwgdHJ1ZSkgOjoKICAgICAgICBTdHJ1Y3RGaWVsZCgiZGV0YWlsIiwgU3RyaW5nVHlwZSwgdHJ1ZSkgOjoKICAgICAgICBTdHJ1Y3RGaWVsZCgidXNlciIsIFN0cmluZ1R5cGUsIHRydWUpIDo6CiAgICAgICAgU3RydWN0RmllbGQoInB1cmNoYXNlIiwgU3RyaW5nVHlwZSwgdHJ1ZSkgOjoKICAgICAgICBTdHJ1Y3RGaWVsZCgic3VnZ2VzdCIsIFN0cmluZ1R5cGUsIHRydWUpIDo6CiAgICAgICAgU3RydWN0RmllbGQoInJldmlldyIsIFN0cmluZ1R5cGUsIHRydWUpIDo6IE5pbCkK</text>
+        <text encoding="base64">ICAgICAgICBTdHJ1Y3RGaWVsZCgia3BpIiwgU3RyaW5nVHlwZSwgdHJ1ZSkgOjogU3RydWN0RmllbGQoImRldGFpbCIsIFN0cmluZ1R5cGUsIHRydWUpIDo6CiAgICAgICAgU3RydWN0RmllbGQoInVzZXIiLCBTdHJpbmdUeXBlLCB0cnVlKSA6OgogICAgICAgIFN0cnVjdEZpZWxkKCJwdXJjaGFzZSIsIFN0cmluZ1R5cGUsIHRydWUpIDo6CiAgICAgICAgU3RydWN0RmllbGQoInN1Z2dlc3QiLCBTdHJpbmdUeXBlLCB0cnVlKSA6OgogICAgICAgIFN0cnVjdEZpZWxkKCJyZXZpZXciLCBTdHJpbmdUeXBlLCB0cnVlKSA6OiBOaWwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
