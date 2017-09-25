@@ -99,12 +99,12 @@
       <file name="_mac/path.macros.xml" timestamp="1505108352591">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/build.sbt" timestamp="1505890646229">
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/build.sbt" timestamp="1506338618214">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="8" column="75" />
-        <mark key="]" line="8" column="82" />
-        <mark key="." line="8" column="82" />
-        <mark key="^" line="8" column="82" />
+        <mark key="[" line="8" column="59" />
+        <mark key="]" line="8" column="63" />
+        <mark key="." line="8" column="63" />
+        <mark key="^" line="8" column="63" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon/api/pigeon.go" timestamp="1502188635645">
         <mark key="'" line="30" column="4" />
@@ -265,11 +265,11 @@
         <mark key="." line="40" column="30" />
         <mark key="^" line="40" column="30" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" timestamp="1506337999398">
-        <mark key="[" line="69" column="34" />
-        <mark key="]" line="70" column="5" />
-        <mark key="^" line="70" column="5" />
-        <mark key="." line="70" column="5" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" timestamp="1506340908303">
+        <mark key="[" line="82" column="48" />
+        <mark key="]" line="82" column="55" />
+        <mark key="." line="82" column="55" />
+        <mark key="^" line="82" column="55" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/95_ins_activity.sql" timestamp="1500455669568">
         <mark key="'" line="0" column="102" />
@@ -340,7 +340,7 @@
         <mark key="^" line="3" column="162" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" timestamp="1506074259210">
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" timestamp="1506339327796">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
@@ -547,44 +547,44 @@
       <jump line="6" column="31" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoc2hvd0NvdW50UkRELmNvdW50KCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>show</text>
       </register>
       <register name="-" type="4">
-        <text>fun</text>
+        <text>show</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93Q291bnRERlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoc2hvd0NvdW50UkRELmNvdW50KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgKHMsIGMpID0+IGMgLyBzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY3RyUkRELnNhdmVUb0VTKCkK</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoc2hvd0NvdW50UkRELmNvdW50KCkpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoc2hvd0NvdW50UkRELmNvdW50KCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuc2VsZWN0KCQiZW5kcG9pbnQiLCAkImNsaWNrQ291bnQiIC8gJCJzaG93Q291bnQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuYWxpYXMoImNsaWNrQ291bnQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAuYWxpYXMoInNob3dDb3VudCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
