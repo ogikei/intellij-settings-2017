@@ -265,12 +265,11 @@
         <mark key="." line="40" column="30" />
         <mark key="^" line="40" column="30" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" timestamp="1506333510657">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="36" column="67" />
-        <mark key="]" line="38" column="24" />
-        <mark key="." line="38" column="24" />
-        <mark key="^" line="38" column="24" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" timestamp="1506337999398">
+        <mark key="[" line="69" column="34" />
+        <mark key="]" line="70" column="5" />
+        <mark key="^" line="70" column="5" />
+        <mark key="." line="70" column="5" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/95_ins_activity.sql" timestamp="1500455669568">
         <mark key="'" line="0" column="102" />
@@ -446,15 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="15" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/CVR.scala" />
-      <jump line="49" column="23" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/CTR.scala" />
-      <jump line="5" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/CVR.scala" />
-      <jump line="7" column="14" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Common.scala" />
-      <jump line="5" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CVR.scala" />
-      <jump line="11" column="83" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/IMP.scala" />
-      <jump line="127" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/IMP.scala" />
-      <jump line="16" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/IMP.scala" />
-      <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/IMP.scala" />
       <jump line="14" column="15" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="42" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="41" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
@@ -530,13 +520,10 @@
       <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="30" column="44" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="16" column="12" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CVR.scala" />
-      <jump line="17" column="17" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="37" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
-      <jump line="38" column="24" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="4" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="15" column="6" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="5" column="33" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
-      <jump line="47" column="17" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="29" column="17" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
@@ -546,55 +533,67 @@
       <jump line="44" column="55" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="46" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
+      <jump line="17" column="17" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
+      <jump line="32" column="21" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
+      <jump line="80" column="36" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
+      <jump line="38" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
+      <jump line="56" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
+      <jump line="57" column="18" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
+      <jump line="50" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
+      <jump line="47" column="19" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
+      <jump line="41" column="19" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
+      <jump line="52" column="30" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
+      <jump line="51" column="18" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
+      <jump line="6" column="31" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnQoc2hvd0NvdW50UkRELmNvdW50KCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>fun</text>
       </register>
       <register name="/" type="4">
-        <text>a</text>
+        <text encoding="base64">XDxzaG93Q291bnRERlw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IGIudG9ERigiYSIsICJiIikKICAgIC8vICAgICAgYy5zaG93KA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnQoc2hvd0NvdW50UkRELmNvdW50KCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2hvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2hvdyAK</text>
+        <text encoding="base64">ICAgICAgY3RyUkRELnNhdmVUb0VTKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYS5zaG93KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYS4K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYQo=</text>
+        <text encoding="base64">ICAgICAgICAuc2VsZWN0KCQiZW5kcG9pbnQiLCAkImNsaWNrQ291bnQiIC8gJCJzaG93Q291bnQiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYS5zaG93KCkK</text>
+        <text encoding="base64">ICAgICAgICAuYWxpYXMoImNsaWNrQ291bnQiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYS4K</text>
+        <text encoding="base64">ICAgICAgICAuYWxpYXMoInNob3dDb3VudCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>a</last-search>
+      <last-search encoding="base64">XDxzaG93Q291bnRERlw+</last-search>
       <last-offset />
-      <last-pattern>a</last-pattern>
+      <last-pattern encoding="base64">XDxzaG93Q291bnRERlw+</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -602,10 +601,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDTURcPg==</entry>
-        <entry encoding="base64">XDxBUkdcPg==</entry>
-        <entry>runner</entry>
-        <entry encoding="base64">XDxMQVVOQ0hfQ0xBU1NQQVRIXD4=</entry>
         <entry>joi</entry>
         <entry>ctr</entry>
         <entry>10minutes</entry>
@@ -613,7 +608,6 @@
         <entry encoding="base64">XDx0aW1lc3RhbXBcPg==</entry>
         <entry>timestamp</entry>
         <entry>recommend</entry>
-        <entry>endpoint</entry>
         <entry encoding="base64">XDxhY3Rpdml0eUV4dFw+</entry>
         <entry encoding="base64">XDxhY3Rpdml0eUV4dHNcPg==</entry>
         <entry>s3</entry>
@@ -622,6 +616,11 @@
         <entry>int</entry>
         <entry>”</entry>
         <entry>a</entry>
+        <entry>contai</entry>
+        <entry>show</entry>
+        <entry>showcount</entry>
+        <entry>endpoint</entry>
+        <entry encoding="base64">XDxzaG93Q291bnRERlw+</entry>
       </history-search>
       <history-cmd>
         <entry>101</entry>
