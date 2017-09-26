@@ -98,12 +98,12 @@
       <file name="_mac/path.macros.xml" timestamp="1505108352591">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/build.sbt" timestamp="1506419443551">
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/build.sbt" timestamp="1506422353890">
         <mark key="'" line="22" column="1" />
-        <mark key="[" line="11" column="44" />
-        <mark key="]" line="11" column="50" />
-        <mark key="^" line="11" column="50" />
-        <mark key="." line="11" column="50" />
+        <mark key="[" line="12" column="49" />
+        <mark key="]" line="12" column="55" />
+        <mark key="^" line="12" column="55" />
+        <mark key="." line="12" column="55" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon/api/pigeon.go" timestamp="1502188635645">
         <mark key="'" line="30" column="4" />
@@ -268,12 +268,12 @@
         <mark key="." line="40" column="30" />
         <mark key="^" line="40" column="30" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" timestamp="1506420672576">
-        <mark key="'" line="96" column="38" />
-        <mark key="[" line="102" column="49" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-        <mark key="^" line="99" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" timestamp="1506422717825">
+        <mark key="'" line="14" column="26" />
+        <mark key="[" line="108" column="45" />
+        <mark key="]" line="108" column="45" />
+        <mark key="." line="108" column="45" />
+        <mark key="^" line="104" column="23" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/95_ins_activity.sql" timestamp="1500455669568">
         <mark key="'" line="0" column="102" />
@@ -521,7 +521,6 @@
       <jump line="94" column="24" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="1872" column="12" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.11/srcs/spark-core_2.11-2.2.0-sources.jar!/org/apache/spark/rdd/RDD.scala" />
       <jump line="29" column="11" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/Main.scala" />
-      <jump line="14" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="51" column="16" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="97" column="11" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
@@ -548,13 +547,14 @@
       <jump line="87" column="16" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="10" column="23" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="96" column="38" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
+      <jump line="14" column="26" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aXRoCg==</text>
+      <register name="&quot;" type="4">
+        <text>.toString()</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>.toString()</text>
       </register>
       <register name="/" type="4">
         <text>with</text>
@@ -563,31 +563,31 @@
         <text encoding="base64">ICAgICJqcC5jby5iaXpyZWFjaCIgJSUgImF3cy1raW5lc2lzLXNwYXJrIiAlICIwLjAuOCIgJSAicHJvdmlkZWQiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aXRoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAud2l0aERhdGEoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGpzb24gPSAoIm5hbWUiIC0+ICJqb2UiKSB+ICgiYWdlIiAtPiBTb21lKDM1KSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAud2l0aAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNvbjIucHJpbmxuYgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlyZWhvc2UuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlyZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGpzb24gPSAoIm5hbWUiIC0+ICJqb2UiKSB+ICgiYWdlIiAtPiBTb21lKDM1KSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAucHV0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qc29uNHMubmF0aXZlLkpzb25NZXRob2RzLl8KaW1wb3J0IG9yZy5qc29uNHMuSnNvbkRTTC5XaXRoRG91YmxlLl8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbXBhCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -626,7 +626,6 @@
         <entry>with</entry>
       </history-search>
       <history-cmd>
-        <entry>101</entry>
         <entry>29</entry>
         <entry>%s/jp.ogikei/com.dmm.aws/g</entry>
         <entry>69</entry>
@@ -645,6 +644,7 @@
         <entry>:w</entry>
         <entry>s</entry>
         <entry>W</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
