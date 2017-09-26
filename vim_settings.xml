@@ -164,11 +164,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTR.scala" timestamp="1506397297361">
-        <mark key="'" line="50" column="11" />
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTR.scala" timestamp="1506404349012">
+        <mark key="'" line="49" column="11" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/project/plugins.sbt" timestamp="1505875348986">
         <mark key="[" line="0" column="67" />
@@ -265,12 +265,12 @@
         <mark key="." line="40" column="30" />
         <mark key="^" line="40" column="30" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" timestamp="1506398508435">
-        <mark key="'" line="60" column="22" />
-        <mark key="[" line="82" column="43" />
-        <mark key="]" line="83" column="37" />
-        <mark key="." line="83" column="37" />
-        <mark key="^" line="83" column="37" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" timestamp="1506405920994">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="86" column="10" />
+        <mark key="]" line="86" column="10" />
+        <mark key="^" line="86" column="10" />
+        <mark key="." line="86" column="10" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/95_ins_activity.sql" timestamp="1500455669568">
         <mark key="'" line="0" column="102" />
@@ -335,6 +335,7 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-java-sdk-kinesis/srcs/aws-java-sdk-kinesis-1.11.198-sources.jar!/com/amazonaws/services/kinesisfirehose/model/Record.java" timestamp="1506403394463" />
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/README.md" timestamp="1505887190998">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -446,9 +447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="4" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/Main.scala" />
-      <jump line="12" column="15" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
-      <jump line="138" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="13" column="13" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="11" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="141" column="28" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
@@ -546,55 +544,58 @@
       <jump line="111" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="57" column="22" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="49" column="11" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTR.scala" />
+      <jump line="79" column="5" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
+      <jump line="90" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
+      <jump line="61" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aERlbGl2ZXJ5U3RyZWFtTmFtZSgic3BhcmsyZXMiKQo=</text>
+        <text encoding="base64">ICAgICAgdmFsIHB1dFJlY29yZFJlcXVlc3QgPSBuZXcgUHV0UmVjb3JkUmVxdWVzdCgpCiAgICAgICAgLndpdGhEZWxpdmVyeVN0cmVhbU5hbWUoInNwYXJrMmVzIikK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>bbb != null</text>
       </register>
       <register name="/" type="4">
-        <text>dosavetoes</text>
+        <text>new</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAud2l0aERlbGl2ZXJ5U3RyZWFtTmFtZSgic3BhcmsyZXMiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aERlbGl2ZXJ5U3RyZWFtTmFtZSgic3BhcmsyZXMiKQo=</text>
+        <text encoding="base64">ICAgICAgdmFsIHB1dFJlY29yZFJlcXVlc3QgPSBuZXcgUHV0UmVjb3JkUmVxdWVzdCgpCiAgICAgICAgLndpdGhEZWxpdmVyeVN0cmVhbU5hbWUoInNwYXJrMmVzIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aERlbGl2ZXJ5U3RyZWFtVHlwZSgpCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGJiYiA9IGN0clJERC50b1N0cmluZygpLmdldEJ5dGVzKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZm9yZWhvdXNlCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHJlY29yZCA9IG5ldyBSZWNvcmQoKQogICAgICAgIC53aXRoRGF0YShCeXRlQnVmZmVyLndyYXAoYmJiKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgQW1hCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHB1dFJlY29yZFJlcXVlc3QgPSBuZXcgUHV0UmVjb3JkUmVxdWVzdCgpCiAgICAgIHB1dFJlY29yZFJlcXVlc3Quc2V0RGVsaXZlcnlTdHJlYW1OYW1lKCJzcGFyazJlcyIpCgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHJlY29yZCA9IG5ldyBSZWNvcmQoKQoKICAgICAgcHV0UmVjb3JkUmVxdWVzdC53aXRoUmVjb3JkKHJlY29yZCkuZ2V0amoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY3RyUkRELnNhdmVUb0VzKGluZGV4TmFtZSArICIvIiArIHR5cGVOYW1lKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3MuCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY3RyUkRELgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgUmVjbwo=</text>
+        <text encoding="base64">ICAgICAgY3RyUkRELmNvbGxlY3QoKS5mb3JlYWNoKHIgPT4gcHJpbnRsbihyLnRvU3RyaW5nKCkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dosavetoes</last-search>
+      <last-search>new</last-search>
       <last-offset />
-      <last-pattern>dosavetoes</last-pattern>
+      <last-pattern>new</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -602,8 +603,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ctr</entry>
-        <entry>10minutes</entry>
         <entry>ts</entry>
         <entry encoding="base64">XDx0aW1lc3RhbXBcPg==</entry>
         <entry>timestamp</entry>
@@ -622,6 +621,8 @@
         <entry>endpoint</entry>
         <entry encoding="base64">XDxzaG93Q291bnRERlw+</entry>
         <entry>dosavetoes</entry>
+        <entry>ho</entry>
+        <entry>new</entry>
       </history-search>
       <history-cmd>
         <entry>101</entry>
