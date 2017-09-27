@@ -98,12 +98,12 @@
       <file name="_mac/path.macros.xml" timestamp="1505108352591">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/build.sbt" timestamp="1506422353890">
-        <mark key="'" line="22" column="1" />
-        <mark key="[" line="12" column="49" />
-        <mark key="]" line="12" column="55" />
-        <mark key="^" line="12" column="55" />
-        <mark key="." line="12" column="55" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/build.sbt" timestamp="1506504656459">
+        <mark key="'" line="20" column="1" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="11" column="46" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/pigeon/api/pigeon.go" timestamp="1502188635645">
         <mark key="'" line="30" column="4" />
@@ -268,12 +268,11 @@
         <mark key="." line="40" column="30" />
         <mark key="^" line="40" column="30" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" timestamp="1506500715012">
-        <mark key="'" line="190" column="0" />
-        <mark key="[" line="33" column="21" />
-        <mark key="]" line="33" column="21" />
-        <mark key="." line="33" column="21" />
-        <mark key="^" line="33" column="21" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" timestamp="1506511042913">
+        <mark key="[" line="49" column="25" />
+        <mark key="]" line="49" column="26" />
+        <mark key="." line="49" column="26" />
+        <mark key="^" line="49" column="26" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/95_ins_activity.sql" timestamp="1500455669568">
         <mark key="'" line="0" column="102" />
@@ -343,12 +342,12 @@
         <mark key="^" line="3" column="162" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" timestamp="1506500259392">
-        <mark key="'" line="40" column="6" />
-        <mark key="[" line="111" column="34" />
-        <mark key="]" line="112" column="13" />
-        <mark key="." line="112" column="13" />
-        <mark key="^" line="112" column="13" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" timestamp="1506509182854">
+        <mark key="'" line="20" column="10" />
+        <mark key="[" line="128" column="29" />
+        <mark key="]" line="128" column="34" />
+        <mark key="." line="128" column="34" />
+        <mark key="^" line="128" column="34" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Shell.scala" timestamp="1505470777965">
         <mark key="'" line="42" column="0" />
@@ -448,9 +447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="42" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTR.scala" />
-      <jump line="29" column="30" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTR.scala" />
-      <jump line="53" column="4" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTR.scala" />
       <jump line="54" column="14" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTR.scala" />
       <jump line="46" column="16" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTR.scala" />
       <jump line="25" column="30" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTR.scala" />
@@ -490,7 +486,6 @@
       <jump line="80" column="36" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="38" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="56" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
-      <jump line="50" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="47" column="19" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="41" column="19" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="52" column="30" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
@@ -543,60 +538,64 @@
       <jump line="102" column="47" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="113" column="30" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="10" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
-      <jump line="124" column="32" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="14" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="50" column="26" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="40" column="6" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
+      <jump line="50" column="35" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
+      <jump line="124" column="11" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
+      <jump line="126" column="24" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
+      <jump line="54" column="14" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
+      <jump line="19" column="10" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>with</text>
+        <text>marge</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY3JlZGVudGlhbCA9IG5ldyBQcm9maWxlQ3JlZGVudGlhbHNQcm92aWRlcigiZGVmYXVsdCIpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">bXM6IExpc3RbTWFwW0EsIEJdXSkoZjogKEIsIEIpID0+IEIpOiBNYXBbQSwgQl0gPSB7CiAgICAoTWFwW0EsIEJdKCkgLzogKGZvciAobSA8LSBtczsga3YgPC0gbSkgeWllbGQga3YpKSB7CiAgICAgIChhLCBrdikgPT4KICAgICAgICBhICsgKGlmIChhLmNvbnRhaW5zKGt2Ll8xKSkga3YuXzEgLT4gZihhKGt2Ll8xKSwga3YuXzIpIGVsc2Uga3YpCiAgICB9CiAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGtwaQo=</text>
+        <text encoding="base64">ICAgICAgY2xpY2tDb3VudE1hcC5qb2luKHNob3dDb3VudE1hcCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGN0clJERCA9IAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5yZWR1Y2VCeQo=</text>
+        <text encoding="base64">ICAgICAgY2xpY2tDb3VudE1hcC5tYXAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5yZWR1Y2UK</text>
+        <text encoding="base64">ICAgICAgICAucmVkdWNlQnlLZXkoKHYsIGEpID0+IHYuXzEgKyB2Ll8yKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5ncm91Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIChyLCBhKSA9PiAK</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAucmVkdWNlQnlLZXkoKHYxLCB2MikgPT4gdjEuKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">ICAgICAgICAucmVkdWNlQnlLZXkoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>with</last-search>
+      <last-search>marge</last-search>
       <last-offset />
-      <last-pattern>with</last-pattern>
+      <last-pattern>marge</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -604,7 +603,6 @@
     </search>
     <history>
       <history-search>
-        <entry>count</entry>
         <entry>int</entry>
         <entry>”</entry>
         <entry>contai</entry>
@@ -624,6 +622,7 @@
         <entry>tolist</entry>
         <entry>firehose</entry>
         <entry>with</entry>
+        <entry>marge</entry>
       </history-search>
       <history-cmd>
         <entry>%s/jp.ogikei/com.dmm.aws/g</entry>
