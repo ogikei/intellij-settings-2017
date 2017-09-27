@@ -268,12 +268,12 @@
         <mark key="." line="40" column="30" />
         <mark key="^" line="40" column="30" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" timestamp="1506423553789">
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" timestamp="1506488041306">
         <mark key="'" line="14" column="26" />
-        <mark key="[" line="93" column="23" />
-        <mark key="]" line="93" column="28" />
-        <mark key="." line="93" column="28" />
-        <mark key="^" line="93" column="28" />
+        <mark key="[" line="97" column="8" />
+        <mark key="]" line="97" column="16" />
+        <mark key="." line="97" column="16" />
+        <mark key="^" line="97" column="16" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/95_ins_activity.sql" timestamp="1500455669568">
         <mark key="'" line="0" column="102" />
@@ -551,10 +551,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.toString()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.toString()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>with</text>
@@ -563,31 +563,31 @@
         <text encoding="base64">ICAgICJqcC5jby5iaXpyZWFjaCIgJSUgImF3cy1raW5lc2lzLXNwYXJrIiAlICIwLjAuOCIgJSAicHJvdmlkZWQiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGpzb24yID0gY29tcGFjdChyZW5kZXIoanNvbikpCiAgICAgICAgICAgIHZhbCBwdXRSZWNvcmRSZXF1ZXN0ID0gbmV3IFB1dFJlY29yZFJlcXVlc3QoKQogICAgICAgICAgICAgIC53aXRoRGVsaXZlcnlTdHJlYW1OYW1lKCJzcGFyazJlcyIpCiAgICAgICAgICAgIHZhbCByZWNvcmQgPSBuZXcgUmVjb3JkKCkKICAgICAgICAgICAgICAud2l0aERhdGEoQnl0ZUJ1ZmZlci53cmFwKGpzb24yLmdldEJ5dGVzKCkpKQogICAgICAgICAgICBmaXJlaG9zZS5wdXRSZWNvcmQocHV0UmVjb3JkUmVxdWVzdC53aXRoUmVjb3JkKHJlY29yZCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGpzb24gPSAoIm5hbWUiIC0+ICJqb2UiKSB+ICgiYWdlIiAtPiBTb21lKDM1KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICgiZGF0ZSIgLT4gIiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH4gKCIiIC0+ICIiKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIGpzb24gPSAoIm5hbWUiIC0+ICJqb2UiKSB+ICgiYWdlIiAtPiBTb21lKDM1KSkK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qc29uNHMubmF0aXZlLkpzb25NZXRob2RzLl8KaW1wb3J0IG9yZy5qc29uNHMuSnNvbkRTTC5XaXRoRG91YmxlLl8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbXBhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGpzb24gPSAoIm5hbWUiIC0+ICJqb2UiKSB+ICgiYWdlIiAtPiBTb21lKDM1KSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -626,7 +626,6 @@
         <entry>with</entry>
       </history-search>
       <history-cmd>
-        <entry>29</entry>
         <entry>%s/jp.ogikei/com.dmm.aws/g</entry>
         <entry>69</entry>
         <entry>%s/“/&quot;/g</entry>
@@ -644,8 +643,9 @@
         <entry>:w</entry>
         <entry>s</entry>
         <entry>e</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
