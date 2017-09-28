@@ -268,11 +268,11 @@
         <mark key="." line="40" column="30" />
         <mark key="^" line="40" column="30" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" timestamp="1506511042913">
-        <mark key="[" line="49" column="25" />
-        <mark key="]" line="49" column="26" />
-        <mark key="." line="49" column="26" />
-        <mark key="^" line="49" column="26" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" timestamp="1506565122375">
+        <mark key="[" line="58" column="13" />
+        <mark key="]" line="58" column="16" />
+        <mark key="." line="58" column="16" />
+        <mark key="^" line="58" column="16" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/stork-batch/.docker/mariadb/docker-entrypoint-initdb.d/dml/95_ins_activity.sql" timestamp="1500455669568">
         <mark key="'" line="0" column="102" />
@@ -342,12 +342,12 @@
         <mark key="^" line="3" column="162" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" timestamp="1506509182854">
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" timestamp="1506565195447">
         <mark key="'" line="20" column="10" />
-        <mark key="[" line="128" column="29" />
-        <mark key="]" line="128" column="34" />
-        <mark key="." line="128" column="34" />
-        <mark key="^" line="128" column="34" />
+        <mark key="[" line="125" column="55" />
+        <mark key="]" line="125" column="55" />
+        <mark key="." line="125" column="55" />
+        <mark key="^" line="125" column="55" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/Shell.scala" timestamp="1505470777965">
         <mark key="'" line="42" column="0" />
@@ -550,10 +550,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>Double</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Double</text>
       </register>
       <register name="/" type="4">
         <text>marge</text>
@@ -562,31 +562,31 @@
         <text encoding="base64">bXM6IExpc3RbTWFwW0EsIEJdXSkoZjogKEIsIEIpID0+IEIpOiBNYXBbQSwgQl0gPSB7CiAgICAoTWFwW0EsIEJdKCkgLzogKGZvciAobSA8LSBtczsga3YgPC0gbSkgeWllbGQga3YpKSB7CiAgICAgIChhLCBrdikgPT4KICAgICAgICBhICsgKGlmIChhLmNvbnRhaW5zKGt2Ll8xKSkga3YuXzEgLT4gZihhKGt2Ll8xKSwga3YuXzIpIGVsc2Uga3YpCiAgICB9CiAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY2xpY2tDb3VudE1hcC5qb2luKHNob3dDb3VudE1hcCkK</text>
+        <text encoding="base64">Ly8gICAgZGVmIG1hcmdlKG1zOiBMaXN0W01hcFtBLCBCXV0pKGY6IChCLCBCKSA9PiBCKTogTWFwW0EsIEJdID0geyAKLy8gICAgICAoTWFwW0EsIEJdKCkgLzogKGZvciAobSA8LSBtczsga3YgPC0gbSkgeWllbGQga3YpKSB7Ci8vICAgICAgICAoYSwga3YpID0+Ci8vICAgICAgICAgIGEgKyAoaWYgKGEuY29udGFpbnMoa3YuXzEpKSBrdi5fMSAtPiBmKGEoa3YuXzEpLCBrdi5fMikgZWxzZSBrdikKLy8gICAgICB9Ci8vICAgIH0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2xpY2tDb3VudE1hcC5tYXAK</text>
+        <text encoding="base64">ICBkZWYgbWFyZ2VNYXBbQSwgQl0obXM6IExpc3RbTWFwW1N0cmluZywgQl1dKShmOiAoQiwgQikgPT4gQik6IE1hcFtBLCBCXSA9IHsKICB9CgogIGRlZiB0ZXN0W0EgPDogQW55XShhOiBNYXBbQSwgTG9uZ10pID0gewogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAucmVkdWNlQnlLZXkoKHYsIGEpID0+IHYuXzEgKyB2Ll8yKQo=</text>
+        <text encoding="base64">ICAgICAgY3RyTWFwLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY2xpY2tDb3VudE1hcC5qb2luKHNob3dDb3VudE1hcCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIChyLCBhKSA9PiAK</text>
+        <text encoding="base64">ICAgICAgY2xpY2tDb3VudE1hcC5tYXAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAucmVkdWNlQnlLZXkoKHYxLCB2MikgPT4gdjEuKQo=</text>
+        <text encoding="base64">ICAgICAgICAucmVkdWNlQnlLZXkoKHYsIGEpID0+IHYuXzEgKyB2Ll8yKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAucmVkdWNlQnlLZXkoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
