@@ -323,11 +323,12 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStreaming.scala" timestamp="1506596045062">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStreaming.scala" timestamp="1506596806366">
+        <mark key="'" line="23" column="59" />
+        <mark key="[" line="23" column="60" />
+        <mark key="]" line="23" column="60" />
+        <mark key="." line="23" column="60" />
+        <mark key="^" line="23" column="60" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-java-sdk-kinesis/srcs/aws-java-sdk-kinesis-1.11.198-sources.jar!/com/amazonaws/services/kinesisfirehose/model/Record.java" timestamp="1506403394463" />
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/README.md" timestamp="1505887190998">
@@ -528,7 +529,6 @@
       <jump line="32" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStreaming.scala" />
       <jump line="137" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="14" column="33" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStreaming.scala" />
-      <jump line="23" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStreaming.scala" />
       <jump line="53" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStreaming.scala" />
       <jump line="57" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="93" column="17" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
@@ -541,13 +541,14 @@
       <jump line="41" column="9" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStreaming.scala" />
       <jump line="8" column="19" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStructuredStreaming.scala" />
       <jump line="15" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStreaming.scala" />
+      <jump line="23" column="59" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStreaming.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY3RyUkRELmNvbGxlY3QoKS5mb3JlYWNoKHByaW50bG4pCg==</text>
+        <text encoding="base64">ICAgICAga3BpUkRELmNvbGxlY3QoKS5mb3JlYWNoKHIgPT4gci5qaikK</text>
       </register>
       <register name="-" type="4">
-        <text>detail</text>
+        <text>toList.</text>
       </register>
       <register name="/" type="4">
         <text>collect</text>
@@ -556,31 +557,31 @@
         <text encoding="base64">ICAgIHZhbCBhY3Rpdml0eUV4dERGID0gc3BhcmsKICAgICAgLnJlYWRTdHJlYW0KICAgICAgLmZvcm1hdCgiY29tLmRhdGFicmlja3Muc3BhcmsuY3N2IikKICAgICAgLm9wdGlvbigiZGVsaW1pdGVyIiwgIlx0IikKICAgICAgLnNjaGVtYShhY3Rpdml0eUV4dFNjaGVtYSkKICAgICAgLmxvYWQoInMzbjovL2V2YWwuaTMuZG1tLmNvbS9kYXRhL2kzL2FjdGl2aXR5X2V4dC9kdD0yMDE3LTA5LTIwLyIpCgogICAgaW1wb3J0IHNwYXJrLmltcGxpY2l0cy5fCgogICAgdmFsIHRzID0gdG9fdGltZXN0YW1wKCQibG9nX2RhdGUiLCAieXl5eS1NTS1kZCIpCgogICAgdmFsIGtwaURGID0gYWN0aXZpdHlFeHRERgogICAgICAud2l0aENvbHVtbigidG1wIiwgc3BsaXQoJCJhcGkiLCAiOyIpKQogICAgICAvLyAgICAgIC53aXRoQ29sdW1uKCJ0aW1lc3RhbXAiLCB0cykKICAgICAgLndpdGhDb2x1bW4oInRpbWVzdGFtcCIsIGxpdChTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSkpCiAgICAgIC5zZWxlY3QoCiAgICAgICAgJCJ0aW1lc3RhbXAiLAogICAgICAgICQiYWN0aW9uIiwKICAgICAgICAkInRtcCIuZ2V0SXRlbSg5KS5hcygiZW5kcG9pbnQiKSkKICAgICAgLmRyb3AoInRtcCIpCiAgICBrcGlERi5jcmVhdGVPclJlcGxhY2VUZW1wVmlldygia3BpIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY3RyUkRELmNvbGxlY3QoKS5mb3JlYWNoKHByaW50bG4pCg==</text>
+        <text encoding="base64">ICAgICAga3BpUkRELmNvbGxlY3QoKS5mb3JlYWNoKHIgPT4gci5qaikK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgY3RyUkRELmNvbGxlY3QoKS5mb3JlYWNoKHByaW50bG4pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY3RyUkRELmNvbGxlY3QoKS5mb3JlYWNoKHByaW50bG4pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAga3BpUkRELmNvbGxlY3QoKS5mb3JlYWNoKHByaW50bG4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAga3BpUkRELmNvbGxlY3QoKS5mb3JlYWNoKHByaW50bG4pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYmFzZVJERC5jb2xsZWN0KCkudG9MaXN0LmZvcmVhY2gociA9PiBwcmludGxuKHIuYXBpLnRvU3RyaW5nKSkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgYmFzZVJERC5jb2xsZWN0KCkudG9MaXN0LmZvcmVhY2gociA9PiBwcmludGxuKHIuYXBpLnRvU3RyaW5nKSkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzZnNmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBzZnNmCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
