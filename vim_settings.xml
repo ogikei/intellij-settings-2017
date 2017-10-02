@@ -126,6 +126,17 @@
         <mark key="." line="3" column="68" />
         <mark key="^" line="3" column="68" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/Main.scala" timestamp="1506923962565">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/structured/Ctr.scala" timestamp="1506924081212">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/spark-streaming-example/structured-streaming/src/main/scala/Kmeans.scala" timestamp="1504158821339">
         <mark key="'" line="106" column="0" />
         <mark key="[" line="105" column="0" />
@@ -258,6 +269,11 @@
         <mark key="]" line="40" column="30" />
         <mark key="." line="40" column="30" />
         <mark key="^" line="40" column="30" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/common/SparkApp.scala" timestamp="1506924333717">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStructuredStreaming.scala" timestamp="1506923213398">
         <mark key="'" line="8" column="19" />
@@ -543,11 +559,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrDF.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>isDefined</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>isDefined</text>
+        <text>object</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
@@ -556,31 +572,31 @@
         <text encoding="base64">ICAgICAgICAgIChyLmFwaS5pc0RlZmluZWQgfHwgci5kZXRhaWwuaXNEZWZpbmVkKSAmJiAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IE5vbmXjgahTb21lKCnjgYzjgYLjgosgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHIuYXBpLnRvU3RyaW5nLm5vbkVtcHR5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGtwaVJERCA9IGJhc2VSREQubWFwIHsKICAgICAgICByID0+IHIuYXBpIG1hdGNoIHsKICAgICAgICAgIGNhc2UgU29tZSh4KSA9PiB4CiAgICAgICAgfQogICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IE5vbmXjgahTb21lKCnjgYzjgYLjgosgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAga3BpUkRELm1hcCB7CiAgICAgICAgciA9PiByLmFwaQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAubWFwIHsKICAgICAgICAgIHIgPT4gcgogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHIuYXBpLnRvU3RyaW5nLm5vbkVtcHR5KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAubWFwIHsKICAgICAgICAgIHIgPT4gci5qagogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgdmFsIGtwaVJERCA9IGJhc2VSREQubWFwIHsKICAgICAgICByID0+IHIuYXBpIG1hdGNoIHsKICAgICAgICAgIGNhc2UgU29tZSh4KSA9PiB4CiAgICAgICAgfQogICAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
