@@ -34,6 +34,12 @@
         <mark key="^" line="6" column="35" />
         <mark key="." line="6" column="35" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/package.scala" timestamp="1506930568573">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="2" />
+        <mark key="." line="4" column="2" />
+        <mark key="^" line="5" column="1" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/emr-scheduler-fleet/build.gradle" timestamp="1503022256326">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="35" column="34" />
@@ -74,10 +80,10 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/Credential.scala" timestamp="1506926016506">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="5" />
-        <mark key="." line="2" column="5" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/Credential.scala" timestamp="1506930551710">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="5" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/labstack/echo/echo.go" timestamp="1501750099667">
@@ -138,10 +144,11 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/structured/Ctr.scala" timestamp="1506924081212">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/structured/Ctr.scala" timestamp="1506931084797">
+        <mark key="[" line="5" column="50" />
+        <mark key="]" line="5" column="49" />
+        <mark key="." line="5" column="49" />
+        <mark key="^" line="5" column="49" />
       </file>
       <file name="$USER_HOME$/MyWork/git/spark-streaming-example/structured-streaming/src/main/scala/Kmeans.scala" timestamp="1504158821339">
         <mark key="'" line="106" column="0" />
@@ -235,11 +242,11 @@
         <mark key="." line="17" column="19" />
         <mark key="^" line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/AmazonKinesis.scala" timestamp="1506926032277">
-        <mark key="[" line="4" column="86" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/AmazonKinesis.scala" timestamp="1506930955197">
+        <mark key="[" line="17" column="33" />
+        <mark key="]" line="17" column="33" />
+        <mark key="^" line="17" column="26" />
+        <mark key="." line="17" column="33" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/test/package.scala" timestamp="1505793475581">
         <mark key="[" line="0" column="15" />
@@ -289,12 +296,11 @@
         <mark key="." line="40" column="30" />
         <mark key="^" line="40" column="30" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/common/SparkApp.scala" timestamp="1506925438237">
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/common/SparkApp.scala" timestamp="1506931063825">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="22" column="2" />
-        <mark key="]" line="22" column="11" />
-        <mark key="." line="22" column="11" />
-        <mark key="^" line="22" column="11" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStructuredStreaming.scala" timestamp="1506923213398">
         <mark key="'" line="8" column="19" />
@@ -581,44 +587,44 @@
       <jump line="11" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/common/SparkApp.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>object</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB2YWwgZGF0YURldmljZXNERiA9IGtpbmVzaXNERgogICAgLnNlbGVjdEV4cHIoImNhc3QgKGRhdGEgYXMgU1RSSU5HKSBqc29uRGF0YSIpKQogIC5zZWxlY3QoZnJvbV9qc29uKCJqc29uRGF0YSIsIGpzb25TY2hlbWEpLmFzKCJkZXZpY2VzIikpCiAgICAvLyBleHBsb2RlIGludG8gaXRzIGVxdWl2YWxlbnQgRGF0YUZyYW1lIGNvbHVtbiBuYW1lcwogICAgLnNlbGVjdCgiZGV2aWNlcy4qIikKICAgIC8vIGZpbHRlciBvdXQgc29tZSBkZXZpY2VzIHdpdGggY2VydGFpbiBhdHRyaWJ1dGUgdmFsdWVzCiAgICAuZmlsdGVyKCQiZGV2aWNlcy50ZW1wIiA+IDEwIGFuZCAkImRldmljZXMuc2lnbmFsIiA+IDE1KQoK</text>
       </register>
       <register name="-" type="4">
-        <text>object</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBraW5lc2lzRW5kcG9pbnQgPSAiIgo=</text>
+        <text encoding="base64">ICBwcm90ZWN0ZWQgdmFsIGtpbmVzaXNFbmRwb2ludCA9ICIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWwgZGF0YURldmljZXNERiA9IGtpbmVzaXNERgogICAgLnNlbGVjdEV4cHIoImNhc3QgKGRhdGEgYXMgU1RSSU5HKSBqc29uRGF0YSIpKQogIC5zZWxlY3QoZnJvbV9qc29uKCJqc29uRGF0YSIsIGpzb25TY2hlbWEpLmFzKCJkZXZpY2VzIikpCiAgICAvLyBleHBsb2RlIGludG8gaXRzIGVxdWl2YWxlbnQgRGF0YUZyYW1lIGNvbHVtbiBuYW1lcwogICAgLnNlbGVjdCgiZGV2aWNlcy4qIikKICAgIC8vIGZpbHRlciBvdXQgc29tZSBkZXZpY2VzIHdpdGggY2VydGFpbiBhdHRyaWJ1dGUgdmFsdWVzCiAgICAuZmlsdGVyKCQiZGV2aWNlcy50ZW1wIiA+IDEwIGFuZCAkImRldmljZXMuc2lnbmFsIiA+IDE1KQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5vcHRpb24oImF3c1NlY3JldEtleSIsIGF3c1NlY3JldEtleSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5vcHRpb24oImF3c0FjY2Vzc0tleSIsIGF3c0FjY2Vzc0tleSkK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgcHJpdmF0ZSB2YWwgc3RyZWFtTg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBLaW5lc2lzCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGxhenkgdmFsIGtpbmVzaXNTdHJlYW1zID0gS2luZXNpc0lucHV0RFN0cmVhbQogICAgLmJ1aWxkZXIKICAgIC5zdHJlYW1pbmdDb250ZXh0KHNzYykKICAgIC5zdHJlYW1OYW1lKHN0cmVhbU5hbWUpCiAgICAuZW5kcG9pbnRVcmwoa2luZXNpc0VuZHBvaW50KQogICAgLnJlZ2lvbk5hbWUocmVnaW9uKQogICAgLmNoZWNrcG9pbnRBcHBOYW1lKGNoZWNrcG9pbnRBcHBOYW1lKQogICAgLmNoZWNrcG9pbnRJbnRlcnZhbChNaW51dGVzKDEwKSkKICAgIC5pbml0aWFsUG9zaXRpb25JblN0cmVhbShJbml0aWFsUG9zaXRpb25JblN0cmVhbS5MQVRFU1QpCiAgICAuc3RvcmFnZUxldmVsKFN0b3JhZ2VMZXZlbC5NRU1PUllfQU5EX0RJU0tfMikKICAgIC5idWlsZCgpCg==</text>
+        <text encoding="base64">ICByZWdpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCByZWdpb24gPSAiIgo=</text>
+        <text encoding="base64">ICBwcm90ZWN0ZWQgdmFsIHJlZ2lvbiA9ICIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAKICAKICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
