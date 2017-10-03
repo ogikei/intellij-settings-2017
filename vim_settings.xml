@@ -16,11 +16,18 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.sql.streaming/aws/CTR.scala" timestamp="1506938151584">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="13" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.sql.streaming/aws/CTR.scala" timestamp="1507000223246">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" timestamp="1506999760621">
+        <mark key="'" line="43" column="20" />
+        <mark key="[" line="36" column="3" />
+        <mark key="]" line="36" column="1" />
+        <mark key="^" line="36" column="1" />
+        <mark key="." line="36" column="1" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/package.scala" timestamp="1506930568573">
         <mark key="[" line="4" column="2" />
@@ -74,6 +81,13 @@
         <mark key="]" line="4" column="4" />
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/build.sbt" timestamp="1506999581598">
+        <mark key="'" line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/resources/timeusage/atussum.csv" timestamp="1506998929232">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="951" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/Main.scala" timestamp="1506923962565">
         <mark key="[" line="2" column="0" />
@@ -174,14 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
-      <jump line="102" column="47" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
-      <jump line="113" column="30" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
-      <jump line="10" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
-      <jump line="14" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
-      <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
-      <jump line="50" column="26" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
-      <jump line="40" column="6" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="50" column="35" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="126" column="24" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
       <jump line="54" column="14" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CTRStreaming.scala" />
@@ -274,64 +280,70 @@
       <jump line="6" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.sql.streaming/exp.sc" />
       <jump line="5" column="8" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/expr.sc" />
       <jump line="1" column="18" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/expr.sc" />
+      <jump line="37" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="102" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="122" column="100" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="125" column="75" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="51" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="10" column="23" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/build.sbt" />
+      <jump line="43" column="20" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="7" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.sql.streaming/aws/CTR.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
-      </register>
-      <register name="-" type="4">
-        <text>c</text>
-      </register>
-      <register name="/" type="4">
-        <text>get</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjICsgKCJiIiAtPiA1KQo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">YWFhCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">YSArIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">VGVzdC5iCg==</text>
+      <register name="-" type="4">
+        <text>jsonData</text>
       </register>
-      <register name="8" type="2">
+      <register name="/" type="4">
+        <text>read</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">dHVjYXNlaWQsZ2VtZXRzdGEsZ3RtZXRzdGEscGVlZHVjYSxwZWhzcG5vbixwdGR0cmFjZSx0ZWFnZSx0ZWxmcyx0ZW1qb3QsdGVzY2hlbnIsdGVzY2hsdmwsdGVzZXgsdGVzcGVtcG5vdCx0cmNoaWxkbnVtLHRyZHBmdHB0LHRyZXJud2EsdHJob2xpZGF5LHRyc3BmdHB0LHRyc3BwcmVzLHRyeWhoY2hpbGQsdHVkaWFyeWRheSx0dWZud2d0cCx0ZWhydXNsdCx0dXllYXIsdDAxMDEwMSx0MDEwMTAyLHQwMTAxOTksdDAxMDIwMSx0MDEwMjk5LHQwMTAzMDEsdDAxMDM5OSx0MDEwNDAxLHQwMTA0OTksdDAxMDUwMSx0MDEwNTk5LHQwMTk5OTksdDAyMDEwMSx0MDIwMTAyLHQwMjAxMDMsdDAyMDEwNCx0MDIwMTk5LHQwMjAyMDEsdDAyMDIwMix0MDIwMjAzLHQwMjAyOTksdDAyMDMwMSx0MDIwMzAyLHQwMjAzMDMsdDAyMDM5OSx0MDIwNDAxLHQwMjA0MDIsdDAyMDQ5OSx0MDIwNTAxLHQwMjA1MDIsdDAyMDU5OSx0MDIwNjgxLHQwMjA2OTksdDAyMDcwMSx0MDIwNzk5LHQwMjA4MDEsdDAyMDg5OSx0MDIwOTAxLHQwMjA5MDIsdDAyMDkwMyx0MDIwOTA0LHQwMjA5MDUsdDAyMDk5OSx0MDI5OTk5LHQwMzAxMDEsdDAzMDEwMix0MDMwMTAzLHQwMzAxMDQsdDAzMDEwNSx0MDMwMTA4LHQwMzAxMDksdDAzMDExMCx0MDMwMTExLHQwMzAxMTIsdDAzMDE4Nix0MDMwMTk5LHQwMzAyMDEsdDAzMDIwMix0MDMwMjAzLHQwMzAyMDQsdDAzMDI5OSx0MDMwMzAxLHQwMzAzMDIsdDAzMDMwMyx0MDMwMzk5LHQwMzA0MDEsdDAzMDQwMix0MDMwNDAzLHQwMzA0MDQsdDAzMDQwNSx0MDMwNDk5LHQwMzA1MDEsdDAzMDUwMix0MDMwNTAzLHQwMzA1MDQsdDAzMDU5OSx0MDM5OTk5LHQwNDAxMDEsdDA0MDEwMix0MDQwMTAzLHQwNDAxMDQsdDA0MDEwNSx0MDQwMTA4LHQwNDAxMDksdDA0MDExMCx0MDQwMTExLHQwNDAxMTIsdDA0MDE4Nix0MDQwMTk5LHQwNDAyMDEsdDA0MDIwMix0MDQwMjAzLHQwNDAyMDQsdDA0MDI5OSx0MDQwMzAxLHQwNDAzMDIsdDA0MDMwMyx0MDQwMzk5LHQwNDA0MDEsdDA0MDQwMix0MDQwNDAzLHQwNDA0MDQsdDA0MDQwNSx0MDQwNDk5LHQwNDA1MDEsdDA0MDUwMix0MDQwNTAzLHQwNDA1MDQsdDA0MDUwNSx0MDQwNTA2LHQwNDA1MDcsdDA0MDUwOCx0MDQwNTk5LHQwNDk5OTksdDA1MDEwMSx0MDUwMTAyLHQwNTAxMDMsdDA1MDE4OSx0MDUwMjAxLHQwNTAyMDIsdDA1MDIwMyx0MDUwMjA0LHQwNTAyODksdDA1MDMwMSx0MDUwMzAyLHQwNTAzMDMsdDA1MDMwNCx0MDUwMzg5LHQwNTA0MDMsdDA1MDQwNCx0MDUwNDA1LHQwNTA0ODEsdDA1MDQ5OSx0MDU5OTk5LHQwNjAxMDEsdDA2MDEwMix0MDYwMTAzLHQwNjAxMDQsdDA2MDE5OSx0MDYwMjAxLHQwNjAyMDIsdDA2MDIwMyx0MDYwMjg5LHQwNjAzMDEsdDA2MDMwMix0MDYwMzAzLHQwNjAzOTksdDA2MDQwMSx0MDYwNDAyLHQwNjA0MDMsdDA2MDQ5OSx0MDY5OTk5LHQwNzAxMDEsdDA3MDEwMix0MDcwMTAzLHQwNzAxMDQsdDA3MDEwNSx0MDcwMTk5LHQwNzAyMDEsdDA3MDI5OSx0MDcwMzAxLHQwNzAzOTksdDA3OTk5OSx0MDgwMTAxLHQwODAxMDIsdDA4MDE5OSx0MDgwMjAxLHQwODAyMDIsdDA4MDIwMyx0MDgwMjk5LHQwODAzMDEsdDA4MDMwMix0MDgwMzk5LHQwODA0MDEsdDA4MDQwMix0MDgwNDAzLHQwODA0OTksdDA4MDUwMSx0MDgwNTAyLHQwODA1OTksdDA4MDYwMSx0MDgwNjAyLHQwODA2OTksdDA4MDcwMSx0MDgwNzAyLHQwODA3OTksdDA4MDgwMSx0MDgwODk5LHQwODk5OTksdDA5MDEwMSx0MDkwMTAyLHQwOTAxMDMsdDA5MDEwNCx0MDkwMTk5LHQwOTAyMDEsdDA5MDIwMix0MDkwMjk5LHQwOTAzMDEsdDA5MDMwMix0MDkwMzk5LHQwOTA0MDEsdDA5MDQwMix0MDkwNDk5LHQwOTA1MDEsdDA5MDUwMix0MDkwNTk5LHQwOTk5OTksdDEwMDEwMSx0MTAwMTAyLHQxMDAxMDMsdDEwMDE5OSx0MTAwMjAxLHQxMDAyOTksdDEwMDM4MSx0MTAwMzgzLHQxMDAzOTksdDEwMDQwMSx0MTAwNDk5LHQxMDk5OTksdDExMDEwMSx0MTEwMTk5LHQxMTAyODEsdDExMDI4OSx0MTE5OTk5LHQxMjAxMDEsdDEyMDE5OSx0MTIwMjAxLHQxMjAyMDIsdDEyMDI5OSx0MTIwMzAxLHQxMjAzMDIsdDEyMDMwMyx0MTIwMzA0LHQxMjAzMDUsdDEyMDMwNix0MTIwMzA3LHQxMjAzMDgsdDEyMDMwOSx0MTIwMzEwLHQxMjAzMTEsdDEyMDMxMix0MTIwMzEzLHQxMjAzOTksdDEyMDQwMSx0MTIwNDAyLHQxMjA0MDMsdDEyMDQwNCx0MTIwNDA1LHQxMjA0OTksdDEyMDUwMSx0MTIwNTAyLHQxMjA1MDMsdDEyMDUwNCx0MTIwNTk5LHQxMjk5OTksdDEzMDEwMSx0MTMwMTAyLHQxMzAxMDMsdDEzMDEwNCx0MTMwMTA1LHQxMzAxMDYsdDEzMDEwNyx0MTMwMTA4LHQxMzAxMDksdDEzMDExMCx0MTMwMTExLHQxMzAxMTIsdDEzMDExMyx0MTMwMTE0LHQxMzAxMTUsdDEzMDExNix0MTMwMTE3LHQxMzAxMTgsdDEzMDExOSx0MTMwMTIwLHQxMzAxMjEsdDEzMDEyMix0MTMwMTIzLHQxMzAxMjQsdDEzMDEyNSx0MTMwMTI2LHQxMzAxMjcsdDEzMDEyOCx0MTMwMTI5LHQxMzAxMzAsdDEzMDEzMSx0MTMwMTMyLHQxMzAxMzMsdDEzMDEzNCx0MTMwMTM1LHQxMzAxMzYsdDEzMDE5OSx0MTMwMjAxLHQxMzAyMDIsdDEzMDIwMyx0MTMwMjA0LHQxMzAyMDUsdDEzMDIwNix0MTMwMjA3LHQxMzAyMDgsdDEzMDIwOSx0MTMwMjEwLHQxMzAyMTEsdDEzMDIxMix0MTMwMjEzLHQxMzAyMTQsdDEzMDIxNSx0MTMwMjE2LHQxMzAyMTcsdDEzMDIxOCx0MTMwMjE5LHQxMzAyMjAsdDEzMDIyMSx0MTMwMjIyLHQxMzAyMjMsdDEzMDIyNCx0MTMwMjI1LHQxMzAyMjYsdDEzMDIyNyx0MTMwMjI4LHQxMzAyMjksdDEzMDIzMCx0MTMwMjMxLHQxMzAyMzIsdDEzMDI5OSx0MTMwMzAxLHQxMzAzMDIsdDEzMDM5OSx0MTMwNDAxLHQxMzA0MDIsdDEzMDQ5OSx0MTM5OTk5LHQxNDAxMDEsdDE0MDEwMix0MTQwMTAzLHQxNDAxMDQsdDE0MDEwNSx0MTQ5OTk5LHQxNTAxMDEsdDE1MDEwMix0MTUwMTAzLHQxNTAxMDQsdDE1MDEwNSx0MTUwMTA2LHQxNTAxOTksdDE1MDIwMSx0MTUwMjAyLHQxNTAyMDMsdDE1MDIwNCx0MTUwMjk5LHQxNTAzMDEsdDE1MDMwMix0MTUwMzk5LHQxNTA0MDEsdDE1MDQwMix0MTUwNDk5LHQxNTA1MDEsdDE1MDU5OSx0MTUwNjAxLHQxNTA2MDIsdDE1MDY5OSx0MTU5OTg5LHQxNjAxMDEsdDE2MDEwMix0MTYwMTAzLHQxNjAxMDQsdDE2MDEwNSx0MTYwMTA2LHQxNjAxMDcsdDE2MDEwOCx0MTY5OTg5LHQxODAxMDEsdDE4MDE5OSx0MTgwMjgwLHQxODAzODEsdDE4MDM4Mix0MTgwMzk5LHQxODA0ODEsdDE4MDQ4Mix0MTgwNDk5LHQxODA1MDEsdDE4MDUwMix0MTgwNTg5LHQxODA2MDEsdDE4MDY4Mix0MTgwNjk5LHQxODA3MDEsdDE4MDc4Mix0MTgwODAxLHQxODA4MDIsdDE4MDgwMyx0MTgwODA0LHQxODA4MDUsdDE4MDgwNix0MTgwODA3LHQxODA4OTksdDE4MDkwMSx0MTgwOTAyLHQxODA5MDMsdDE4MDkwNCx0MTgwOTA1LHQxODA5OTksdDE4MTAwMix0MTgxMDgxLHQxODEwOTksdDE4MTEwMSx0MTgxMTk5LHQxODEyMDEsdDE4MTIwMix0MTgxMjA0LHQxODEyODMsdDE4MTI5OSx0MTgxMzAxLHQxODEzMDIsdDE4MTM5OSx0MTgxNDAxLHQxODE0OTksdDE4MTUwMSx0MTgxNTk5LHQxODE2MDEsdDE4MTY5OSx0MTgxODAxLHQxODE4OTksdDE4OTk5OSx0NTAwMTAxLHQ1MDAxMDMsdDUwMDEwNCx0NTAwMTA1LHQ1MDAxMDYsdDUwMDEwNyx0NTA5OTg5CiIyMDAzMDEwMDAxMzI4MCIsMSwtMSw0NCwyLDIsNjAsMiwyLC0xLC0xLDEsMiwwLDIsNjYwMDAsMCwtMSwxLC0xLDYsODE1NTQ2MywzMCwyMDAzLDg3MCwwLDAsNDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDUsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDMyNSwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDIwMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBkZWYgCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">YWFhCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">YSArIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgYiA9IGEgKyAoIiIpCg==</text>
+        <text encoding="base64">VGVzdC5iCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>read</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>read</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ssc</entry>
-        <entry>tolist</entry>
         <entry>firehose</entry>
         <entry>with</entry>
         <entry>marge</entry>
@@ -348,8 +360,10 @@
         <entry>filter</entry>
         <entry>collect</entry>
         <entry>json</entry>
-        <entry>read</entry>
         <entry>get</entry>
+        <entry>work</entry>
+        <entry>primary</entry>
+        <entry>read</entry>
       </history-search>
       <history-cmd>
         <entry>2665</entry>
