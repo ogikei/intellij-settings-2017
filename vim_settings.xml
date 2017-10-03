@@ -22,12 +22,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" timestamp="1507009259967">
-        <mark key="'" line="43" column="20" />
-        <mark key="[" line="48" column="50" />
-        <mark key="]" line="48" column="54" />
+      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" timestamp="1507013045355">
+        <mark key="'" line="231" column="11" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="41" />
         <mark key="^" line="48" column="54" />
-        <mark key="." line="48" column="54" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/package.scala" timestamp="1506930568573">
         <mark key="[" line="4" column="2" />
@@ -52,6 +52,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="5" />
       </file>
+      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.1.0/spark-catalyst_2.11-2.1.0-sources.jar!/org/apache/spark/sql/Row.scala" timestamp="1507012539040" />
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/expr.sc" timestamp="1506996350022">
         <mark key="'" line="1" column="18" />
         <mark key="[" line="7" column="9" />
@@ -86,7 +87,8 @@
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/build.sbt" timestamp="1506999581598">
         <mark key="'" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/resources/timeusage/atussum.csv" timestamp="1506998929232">
+      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/resources/timeusage/atussum.csv" timestamp="1507013630009">
+        <mark key="'" line="0" column="298" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="951" />
       </file>
@@ -119,8 +121,8 @@
         <mark key="." line="5" column="49" />
         <mark key="^" line="5" column="49" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" timestamp="1507009786003">
-        <mark key="'" line="55" column="28" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" timestamp="1507011921157">
+        <mark key="'" line="161" column="0" />
         <mark key="[" line="61" column="0" />
         <mark key="]" line="71" column="11" />
         <mark key="." line="133" column="0" />
@@ -168,17 +170,23 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/CTR.scala" timestamp="1507009653113">
-        <mark key="[" line="57" column="18" />
-        <mark key="]" line="58" column="22" />
-        <mark key="^" line="58" column="22" />
-        <mark key="." line="58" column="22" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/CTR.scala" timestamp="1507013419461">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="m" line="49" column="0" />
+        <mark key="^" line="62" column="28" />
+        <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/AmazonKinesis.scala" timestamp="1507009762441">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="39" />
-        <mark key="." line="16" column="39" />
-        <mark key="^" line="16" column="39" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/AmazonKinesis.scala" timestamp="1507013004847">
+        <mark key="[" line="68" column="18" />
+        <mark key="]" line="68" column="18" />
+        <mark key="." line="68" column="18" />
+        <mark key="^" line="68" column="20" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CVR.scala" timestamp="1507013107882">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="42" column="27" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/test/package.scala" timestamp="1505793475581">
         <mark key="[" line="0" column="15" />
@@ -203,18 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="8" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
-      <jump line="132" column="32" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/srv3653.dmm.co.jp.activity_tmp_20170925_00.0.log" />
-      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/srv3653.dmm.co.jp.activity_tmp_20170925_00.0.log" />
-      <jump line="43" column="6" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
-      <jump line="139" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
-      <jump line="64" column="19" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
-      <jump line="85" column="4" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
-      <jump line="56" column="13" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
-      <jump line="124" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
-      <jump line="25" column="6" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
-      <jump line="100" column="40" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStreaming.scala" />
-      <jump line="45" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStreaming.scala" />
       <jump line="58" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="11" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStreaming.scala" />
       <jump line="47" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStreaming.scala" />
@@ -238,7 +234,6 @@
       <jump line="137" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="14" column="33" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStreaming.scala" />
       <jump line="53" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStreaming.scala" />
-      <jump line="57" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="93" column="17" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="13" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStreaming.scala" />
@@ -303,55 +298,68 @@
       <jump line="6" column="34" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="48" column="6" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="55" column="28" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
+      <jump line="57" column="14" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
+      <jump line="161" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
+      <jump line="49" column="22" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/CTR.scala" />
+      <jump line="48" column="16" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="73" column="19" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="231" column="11" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="9" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/CTR.scala" />
+      <jump line="47" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/CTR.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/CTR.scala" />
+      <jump line="4" column="259" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/resources/timeusage/atussum.csv" />
+      <jump line="12" column="828" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/resources/timeusage/atussum.csv" />
+      <jump line="364" column="257" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/resources/timeusage/atussum.csv" />
+      <jump line="0" column="298" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/resources/timeusage/atussum.csv" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>m</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFjdGl2aXR5RXh0REYuc2hvdygpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>.outputMode(&quot;complete&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>master</text>
+        <text>t01</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLmFkZCgicHVyY2hhc2UiLCBTdHJpbmdUeXBlKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBxdWVyeSA9IGN2ci53cml0ZVN0cmVhbS5mb3JtYXQoImNvbnNvbGUiKS5vdXRwdXRNb2RlKCJjb21wbGV0ZSIpLnN0YXJ0KCkKICAgIHF1ZXJ5LmF3YWl0VGVybWluYXRpb24oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3QgKyAoImEiIC0+IDEpCg==</text>
+        <text encoding="base64">ICAgIGFjdGl2aXR5RXh0REYuc2hvdygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCB0ZXN0ID0gTWFwKCJjIiAtPiAyKQo=</text>
+        <text encoding="base64">ICAgIC5vcHRpb24oImluZmVyU2NoZW1hIiwgInRydWUiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnNlbGVjdChmcm9tX2pzb24oImFjdGl2aXR5RXh0Iiwgc2NoZW1hKSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLnNlbGVjdEV4cHIoImNhc3QgKGRhdGEgYXMgU1RSSU5HKSBhY3Rpdml0eUV4dCIpKQo=</text>
+        <text encoding="base64">ICAgIC5zaG93KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRhdGFEZXZpY2VzREYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kbW0uZHJlLnNxbC5zdHJlYW1pbmcuY29tbW9uLlNwYXJrQXBwCg==</text>
+        <text encoding="base64">ICAgIHZhbCBkYXRhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgIHYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLm9wdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YXIgU3RyaW5nVHlwZSA9ID8/Pwo=</text>
+        <text encoding="base64">ICAgICAgICAubWFwKHJvdykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>master</last-search>
+      <last-search>t01</last-search>
       <last-offset />
-      <last-pattern>master</last-pattern>
+      <last-pattern>t01</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -359,10 +367,6 @@
     </search>
     <history>
       <history-search>
-        <entry>24</entry>
-        <entry>detail</entry>
-        <entry>logdate</entry>
-        <entry>app</entry>
         <entry>appname</entry>
         <entry>string</entry>
         <entry>sha</entry>
@@ -379,6 +383,10 @@
         <entry>kinesis</entry>
         <entry>profile</entry>
         <entry>master</entry>
+        <entry>row</entry>
+        <entry>create</entry>
+        <entry>t1</entry>
+        <entry>t01</entry>
       </history-search>
       <history-cmd>
         <entry>150</entry>
