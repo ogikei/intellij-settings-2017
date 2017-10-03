@@ -41,10 +41,14 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrDF.scala" timestamp="1506933385524">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="60" column="13" />
+      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/tests/src/test/scala/org/apache/spark/sql/test/TestSQLContext.scala" timestamp="1507017243810">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" timestamp="1507017630573">
+        <mark key="'" line="155" column="17" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/Credential.scala" timestamp="1506930551710">
         <mark key="[" line="4" column="0" />
@@ -78,6 +82,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/execution/datasources/json/JsonKinesisValueFormat.scala" timestamp="1507017226539">
+        <mark key="[" line="98" column="3" />
+        <mark key="]" line="98" column="4" />
+        <mark key="^" line="98" column="4" />
+        <mark key="." line="98" column="4" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/.gitignore" timestamp="1505817896534">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="4" column="4" />
@@ -91,6 +101,13 @@
         <mark key="'" line="0" column="298" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="951" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/tests/src/test/scala/org/apache/spark/sql/catalyst/plans/PlanTest.scala" timestamp="1507017020352">
+        <mark key="'" line="103" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+        <mark key="^" line="134" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/Main.scala" timestamp="1506923962565">
         <mark key="[" line="2" column="0" />
@@ -133,6 +150,9 @@
         <mark key="]" line="9" column="1" />
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.2.0/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/catalyst/optimizer/subquery.scala" timestamp="1507016966124">
+        <mark key="'" line="136" column="46" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/AmazonKinesis.scala" timestamp="1506933088545">
         <mark key="'" line="15" column="0" />
@@ -211,16 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
-      <jump line="11" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStreaming.scala" />
-      <jump line="47" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStreaming.scala" />
-      <jump line="11" column="18" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
-      <jump line="4" column="28" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStreaming.scala" />
-      <jump line="40" column="18" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStreaming.scala" />
-      <jump line="6" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStreaming.scala" />
-      <jump line="66" column="49" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
-      <jump line="100" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
-      <jump line="138" column="17" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="62" column="17" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="160" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/package.scala" />
       <jump line="34" column="22" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/kpi/CtrStreaming.scala" />
@@ -311,55 +321,65 @@
       <jump line="12" column="828" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/resources/timeusage/atussum.csv" />
       <jump line="364" column="257" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/resources/timeusage/atussum.csv" />
       <jump line="0" column="298" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/resources/timeusage/atussum.csv" />
+      <jump line="47" column="20" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.2.0/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/catalyst/optimizer/subquery.scala" />
+      <jump line="43" column="14" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.2.0/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/catalyst/optimizer/subquery.scala" />
+      <jump line="136" column="46" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.2.0/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/catalyst/optimizer/subquery.scala" />
+      <jump line="103" column="0" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/tests/src/test/scala/org/apache/spark/sql/catalyst/plans/PlanTest.scala" />
+      <jump line="43" column="14" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" />
+      <jump line="137" column="29" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" />
+      <jump line="140" column="19" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" />
+      <jump line="152" column="29" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" />
+      <jump line="153" column="51" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" />
+      <jump line="155" column="17" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFjdGl2aXR5RXh0REYuc2hvdygpCg==</text>
+        <text encoding="base64">LyoKICogTGljZW5zZWQgdG8gdGhlIEFwYWNoZSBTb2Z0d2FyZSBGb3VuZGF0aW9uIChBU0YpIHVuZGVyIG9uZSBvciBtb3JlCiAqIGNvbnRyaWJ1dG9yIGxpY2Vuc2UgYWdyZWVtZW50cy4gIFNlZSB0aGUgTk9USUNFIGZpbGUgZGlzdHJpYnV0ZWQgd2l0aAogKiB0aGlzIHdvcmsgZm9yIGFkZGl0aW9uYWwgaW5mb3JtYXRpb24gcmVnYXJkaW5nIGNvcHlyaWdodCBvd25lcnNoaXAuCiAqIFRoZSBBU0YgbGljZW5zZXMgdGhpcyBmaWxlIHRvIFlvdSB1bmRlciB0aGUgQXBhY2hlIExpY2Vuc2UsIFZlcnNpb24gMi4wCiAqICh0aGUgIkxpY2Vuc2UiKTsgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoCiAqIHRoZSBMaWNlbnNlLiAgWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqICAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiAqIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJBUyBJUyIgQkFTSVMsCiAqIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiAqIGxpbWl0YXRpb25zIHVuZGVyIHRoZSBMaWNlbnNlLgogKi8KCnBhY2thZ2Ugb3JnLmFwYWNoZS5zcGFyay5zcWwudGVzdAoKaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsue1NwYXJrQ29uZiwgU3BhcmtDb250ZXh0fQppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuU3BhcmtTZXNzaW9uCmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC5pbnRlcm5hbC57U2Vzc2lvblN0YXRlLCBTUUxDb25mfQoKLyoqCiAqIEEgc3BlY2lhbCBbW1NwYXJrU2Vzc2lvbl1dIHByZXBhcmVkIGZvciB0ZXN0aW5nLgogKi8KcHJpdmF0ZVtzcWxdIGNsYXNzIFRlc3RTcGFya1Nlc3Npb24oc2M6IFNwYXJrQ29udGV4dCkgZXh0ZW5kcyBTcGFya1Nlc3Npb24oc2MpIHsgc2VsZiA9PgogIGRlZiB0aGlzKHNwYXJrQ29uZjogU3BhcmtDb25mKSB7CiAgICB0aGlzKG5ldyBTcGFya0NvbnRleHQoImxvY2FsWzhdIiwgInRlc3Qtc3FsLWNvbnRleHQiLAogICAgICBzcGFya0NvbmYuc2V0KCJzcGFyay5zcWwudGVzdGtleSIsICJ0cnVlIikpKQogIH0KCiAgZGVmIHRoaXMoKSB7CiAgICB0aGlzKG5ldyBTcGFya0NvbmYpCiAgfQoKICBAdHJhbnNpZW50CiAgcHJvdGVjdGVkW3NxbF0gb3ZlcnJpZGUgbGF6eSB2YWwgc2Vzc2lvblN0YXRlOiBTZXNzaW9uU3RhdGUgPSBuZXcgU2Vzc2lvblN0YXRlKHNlbGYpIHsKICAgIG92ZXJyaWRlIGxhenkgdmFsIGNvbmY6IFNRTENvbmYgPSB7CiAgICAgIG5ldyBTUUxDb25mIHsKICAgICAgICBjbGVhcigpCiAgICAgICAgb3ZlcnJpZGUgZGVmIGNsZWFyKCk6IFVuaXQgPSB7CiAgICAgICAgICBzdXBlci5jbGVhcigpCiAgICAgICAgICAvLyBNYWtlIHN1cmUgd2Ugc3RhcnQgd2l0aCB0aGUgZGVmYXVsdCB0ZXN0IGNvbmZpZ3MgZXZlbiBhZnRlciBjbGVhcgogICAgICAgICAgVGVzdFNRTENvbnRleHQub3ZlcnJpZGVDb25mcy5mb3JlYWNoIHsgY2FzZSAoa2V5LCB2YWx1ZSkgPT4gc2V0Q29uZlN0cmluZyhrZXksIHZhbHVlKSB9CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfQoKICAvLyBOZWVkZWQgZm9yIEphdmEgdGVzdHMKICBkZWYgbG9hZFRlc3REYXRhKCk6IFVuaXQgPSB7CiAgICB0ZXN0RGF0YS5sb2FkVGVzdERhdGEoKQogIH0KCiAgcHJpdmF0ZSBvYmplY3QgdGVzdERhdGEgZXh0ZW5kcyBTUUxUZXN0RGF0YSB7CiAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgZGVmIHNwYXJrOiBTcGFya1Nlc3Npb24gPSBzZWxmCiAgfQp9CgoKcHJpdmF0ZVtzcWxdIG9iamVjdCBUZXN0U1FMQ29udGV4dCB7CgogIC8qKgogICAqIEEgbWFwIHVzZWQgdG8gc3RvcmUgYWxsIGNvbmZzIHRoYXQgbmVlZCB0byBiZSBvdmVycmlkZGVuIGluIHNxbC9jb3JlIHVuaXQgdGVzdHMuCiAgICovCiAgdmFsIG92ZXJyaWRlQ29uZnM6IE1hcFtTdHJpbmcsIFN0cmluZ10gPQogICAgTWFwKAogICAgICAvLyBGZXdlciBzaHVmZmxlIHBhcnRpdGlvbnMgdG8gc3BlZWQgdXAgdGVzdGluZy4KICAgICAgU1FMQ29uZi5TSFVGRkxFX1BBUlRJVElPTlMua2V5IC0+ICI1IikKfQo=</text>
       </register>
       <register name="-" type="4">
         <text>.outputMode(&quot;complete&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>t01</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBxdWVyeSA9IGN2ci53cml0ZVN0cmVhbS5mb3JtYXQoImNvbnNvbGUiKS5vdXRwdXRNb2RlKCJjb21wbGV0ZSIpLnN0YXJ0KCkKICAgIHF1ZXJ5LmF3YWl0VGVybWluYXRpb24oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFjdGl2aXR5RXh0REYuc2hvdygpCg==</text>
+        <text encoding="base64">LyoKICogTGljZW5zZWQgdG8gdGhlIEFwYWNoZSBTb2Z0d2FyZSBGb3VuZGF0aW9uIChBU0YpIHVuZGVyIG9uZSBvciBtb3JlCiAqIGNvbnRyaWJ1dG9yIGxpY2Vuc2UgYWdyZWVtZW50cy4gIFNlZSB0aGUgTk9USUNFIGZpbGUgZGlzdHJpYnV0ZWQgd2l0aAogKiB0aGlzIHdvcmsgZm9yIGFkZGl0aW9uYWwgaW5mb3JtYXRpb24gcmVnYXJkaW5nIGNvcHlyaWdodCBvd25lcnNoaXAuCiAqIFRoZSBBU0YgbGljZW5zZXMgdGhpcyBmaWxlIHRvIFlvdSB1bmRlciB0aGUgQXBhY2hlIExpY2Vuc2UsIFZlcnNpb24gMi4wCiAqICh0aGUgIkxpY2Vuc2UiKTsgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoCiAqIHRoZSBMaWNlbnNlLiAgWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqICAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiAqIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJBUyBJUyIgQkFTSVMsCiAqIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiAqIGxpbWl0YXRpb25zIHVuZGVyIHRoZSBMaWNlbnNlLgogKi8KCnBhY2thZ2Ugb3JnLmFwYWNoZS5zcGFyay5zcWwudGVzdAoKaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsue1NwYXJrQ29uZiwgU3BhcmtDb250ZXh0fQppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuU3BhcmtTZXNzaW9uCmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC5pbnRlcm5hbC57U2Vzc2lvblN0YXRlLCBTUUxDb25mfQoKLyoqCiAqIEEgc3BlY2lhbCBbW1NwYXJrU2Vzc2lvbl1dIHByZXBhcmVkIGZvciB0ZXN0aW5nLgogKi8KcHJpdmF0ZVtzcWxdIGNsYXNzIFRlc3RTcGFya1Nlc3Npb24oc2M6IFNwYXJrQ29udGV4dCkgZXh0ZW5kcyBTcGFya1Nlc3Npb24oc2MpIHsgc2VsZiA9PgogIGRlZiB0aGlzKHNwYXJrQ29uZjogU3BhcmtDb25mKSB7CiAgICB0aGlzKG5ldyBTcGFya0NvbnRleHQoImxvY2FsWzhdIiwgInRlc3Qtc3FsLWNvbnRleHQiLAogICAgICBzcGFya0NvbmYuc2V0KCJzcGFyay5zcWwudGVzdGtleSIsICJ0cnVlIikpKQogIH0KCiAgZGVmIHRoaXMoKSB7CiAgICB0aGlzKG5ldyBTcGFya0NvbmYpCiAgfQoKICBAdHJhbnNpZW50CiAgcHJvdGVjdGVkW3NxbF0gb3ZlcnJpZGUgbGF6eSB2YWwgc2Vzc2lvblN0YXRlOiBTZXNzaW9uU3RhdGUgPSBuZXcgU2Vzc2lvblN0YXRlKHNlbGYpIHsKICAgIG92ZXJyaWRlIGxhenkgdmFsIGNvbmY6IFNRTENvbmYgPSB7CiAgICAgIG5ldyBTUUxDb25mIHsKICAgICAgICBjbGVhcigpCiAgICAgICAgb3ZlcnJpZGUgZGVmIGNsZWFyKCk6IFVuaXQgPSB7CiAgICAgICAgICBzdXBlci5jbGVhcigpCiAgICAgICAgICAvLyBNYWtlIHN1cmUgd2Ugc3RhcnQgd2l0aCB0aGUgZGVmYXVsdCB0ZXN0IGNvbmZpZ3MgZXZlbiBhZnRlciBjbGVhcgogICAgICAgICAgVGVzdFNRTENvbnRleHQub3ZlcnJpZGVDb25mcy5mb3JlYWNoIHsgY2FzZSAoa2V5LCB2YWx1ZSkgPT4gc2V0Q29uZlN0cmluZyhrZXksIHZhbHVlKSB9CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfQoKICAvLyBOZWVkZWQgZm9yIEphdmEgdGVzdHMKICBkZWYgbG9hZFRlc3REYXRhKCk6IFVuaXQgPSB7CiAgICB0ZXN0RGF0YS5sb2FkVGVzdERhdGEoKQogIH0KCiAgcHJpdmF0ZSBvYmplY3QgdGVzdERhdGEgZXh0ZW5kcyBTUUxUZXN0RGF0YSB7CiAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgZGVmIHNwYXJrOiBTcGFya1Nlc3Npb24gPSBzZWxmCiAgfQp9CgoKcHJpdmF0ZVtzcWxdIG9iamVjdCBUZXN0U1FMQ29udGV4dCB7CgogIC8qKgogICAqIEEgbWFwIHVzZWQgdG8gc3RvcmUgYWxsIGNvbmZzIHRoYXQgbmVlZCB0byBiZSBvdmVycmlkZGVuIGluIHNxbC9jb3JlIHVuaXQgdGVzdHMuCiAgICovCiAgdmFsIG92ZXJyaWRlQ29uZnM6IE1hcFtTdHJpbmcsIFN0cmluZ10gPQogICAgTWFwKAogICAgICAvLyBGZXdlciBzaHVmZmxlIHBhcnRpdGlvbnMgdG8gc3BlZWQgdXAgdGVzdGluZy4KICAgICAgU1FMQ29uZi5TSFVGRkxFX1BBUlRJVElPTlMua2V5IC0+ICI1IikKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC5vcHRpb24oImluZmVyU2NoZW1hIiwgInRydWUiKQo=</text>
+        <text encoding="base64">LyoKICogTGljZW5zZWQgdG8gdGhlIEFwYWNoZSBTb2Z0d2FyZSBGb3VuZGF0aW9uIChBU0YpIHVuZGVyIG9uZSBvciBtb3JlCiAqIGNvbnRyaWJ1dG9yIGxpY2Vuc2UgYWdyZWVtZW50cy4gIFNlZSB0aGUgTk9USUNFIGZpbGUgZGlzdHJpYnV0ZWQgd2l0aAogKiB0aGlzIHdvcmsgZm9yIGFkZGl0aW9uYWwgaW5mb3JtYXRpb24gcmVnYXJkaW5nIGNvcHlyaWdodCBvd25lcnNoaXAuCiAqIFRoZSBBU0YgbGljZW5zZXMgdGhpcyBmaWxlIHRvIFlvdSB1bmRlciB0aGUgQXBhY2hlIExpY2Vuc2UsIFZlcnNpb24gMi4wCiAqICh0aGUgIkxpY2Vuc2UiKTsgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoCiAqIHRoZSBMaWNlbnNlLiAgWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqICAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiAqIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJBUyBJUyIgQkFTSVMsCiAqIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiAqIGxpbWl0YXRpb25zIHVuZGVyIHRoZSBMaWNlbnNlLgogKi8KCnBhY2thZ2Ugb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3QucGxhbnMKCmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLlNwYXJrRnVuU3VpdGUKaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmNhdGFseXN0LmV4cHJlc3Npb25zLl8KaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmNhdGFseXN0LmV4cHJlc3Npb25zLmFnZ3JlZ2F0ZS5BZ2dyZWdhdGVFeHByZXNzaW9uCmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC5jYXRhbHlzdC5wbGFucy5sb2dpY2FsLntGaWx0ZXIsIExvZ2ljYWxQbGFuLCBPbmVSb3dSZWxhdGlvbiwgU2FtcGxlfQppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3QudXRpbC5fCgovKioKICogUHJvdmlkZXMgaGVscGVyIG1ldGhvZHMgZm9yIGNvbXBhcmluZyBwbGFucy4KICovCmFic3RyYWN0IGNsYXNzIFBsYW5UZXN0IGV4dGVuZHMgU3BhcmtGdW5TdWl0ZSB3aXRoIFByZWRpY2F0ZUhlbHBlciB7CiAgLyoqCiAgICogU2luY2UgYXR0cmlidXRlIHJlZmVyZW5jZXMgYXJlIGdpdmVuIGdsb2JhbGx5IHVuaXF1ZSBpZHMgZHVyaW5nIGFuYWx5c2lzLAogICAqIHdlIG11c3Qgbm9ybWFsaXplIHRoZW0gdG8gY2hlY2sgaWYgdHdvIGRpZmZlcmVudCBxdWVyaWVzIGFyZSBpZGVudGljYWwuCiAgICovCiAgcHJvdGVjdGVkIGRlZiBub3JtYWxpemVFeHBySWRzKHBsYW46IExvZ2ljYWxQbGFuKSA9IHsKICAgIHBsYW4gdHJhbnNmb3JtQWxsRXhwcmVzc2lvbnMgewogICAgICBjYXNlIHM6IFNjYWxhclN1YnF1ZXJ5ID0+CiAgICAgICAgcy5jb3B5KGV4cHJJZCA9IEV4cHJJZCgwKSkKICAgICAgY2FzZSBlOiBFeGlzdHMgPT4KICAgICAgICBlLmNvcHkoZXhwcklkID0gRXhwcklkKDApKQogICAgICBjYXNlIGw6IExpc3RRdWVyeSA9PgogICAgICAgIGwuY29weShleHBySWQgPSBFeHBySWQoMCkpCiAgICAgIGNhc2UgcDogUHJlZGljYXRlU3VicXVlcnkgPT4KICAgICAgICBwLmNvcHkoZXhwcklkID0gRXhwcklkKDApKQogICAgICBjYXNlIGE6IEF0dHJpYnV0ZVJlZmVyZW5jZSA9PgogICAgICAgIEF0dHJpYnV0ZVJlZmVyZW5jZShhLm5hbWUsIGEuZGF0YVR5cGUsIGEubnVsbGFibGUpKGV4cHJJZCA9IEV4cHJJZCgwKSkKICAgICAgY2FzZSBhOiBBbGlhcyA9PgogICAgICAgIEFsaWFzKGEuY2hpbGQsIGEubmFtZSkoZXhwcklkID0gRXhwcklkKDApKQogICAgICBjYXNlIGFlOiBBZ2dyZWdhdGVFeHByZXNzaW9uID0+CiAgICAgICAgYWUuY29weShyZXN1bHRJZCA9IEV4cHJJZCgwKSkKICAgIH0KICB9CgogIC8qKgogICAqIE5vcm1hbGl6ZXMgcGxhbnM6CiAgICogLSBGaWx0ZXIgdGhlIGZpbHRlciBjb25kaXRpb25zIHRoYXQgYXBwZWFyIGluIGEgcGxhbi4gRm9yIGluc3RhbmNlLAogICAqICAgKChleHByIDEgJiYgZXhwciAyKSAmJiBleHByIDMpLCAoZXhwciAxICYmIGV4cHIgMiAmJiBleHByIDMpLCAoZXhwciAzICYmIChleHByIDEgJiYgZXhwciAyKQogICAqICAgZXRjLiwgd2lsbCBhbGwgbm93IGJlIGVxdWl2YWxlbnQuCiAgICogLSBTYW1wbGUgdGhlIHNlZWQgd2lsbCByZXBsYWNlZCBieSAwTC4KICAgKi8KICBwcml2YXRlIGRlZiBub3JtYWxpemVQbGFuKHBsYW46IExvZ2ljYWxQbGFuKTogTG9naWNhbFBsYW4gPSB7CiAgICBwbGFuIHRyYW5zZm9ybSB7CiAgICAgIGNhc2UgZmlsdGVyIEAgRmlsdGVyKGNvbmRpdGlvbjogRXhwcmVzc2lvbiwgY2hpbGQ6IExvZ2ljYWxQbGFuKSA9PgogICAgICAgIEZpbHRlcihzcGxpdENvbmp1bmN0aXZlUHJlZGljYXRlcyhjb25kaXRpb24pLnNvcnRCeShfLmhhc2hDb2RlKCkpLnJlZHVjZShBbmQpLCBjaGlsZCkKICAgICAgY2FzZSBzYW1wbGU6IFNhbXBsZSA9PgogICAgICAgIHNhbXBsZS5jb3B5KHNlZWQgPSAwTCkodHJ1ZSkKICAgIH0KICB9CgogIC8qKiBGYWlscyB0aGUgdGVzdCBpZiB0aGUgdHdvIHBsYW5zIGRvIG5vdCBtYXRjaCAqLwogIHByb3RlY3RlZCBkZWYgY29tcGFyZVBsYW5zKHBsYW4xOiBMb2dpY2FsUGxhbiwgcGxhbjI6IExvZ2ljYWxQbGFuKSB7CiAgICB2YWwgbm9ybWFsaXplZDEgPSBub3JtYWxpemVQbGFuKG5vcm1hbGl6ZUV4cHJJZHMocGxhbjEpKQogICAgdmFsIG5vcm1hbGl6ZWQyID0gbm9ybWFsaXplUGxhbihub3JtYWxpemVFeHBySWRzKHBsYW4yKSkKICAgIGlmIChub3JtYWxpemVkMSAhPSBub3JtYWxpemVkMikgewogICAgICBmYWlsKAogICAgICAgIHMiIiIKICAgICAgICAgIHw9PSBGQUlMOiBQbGFucyBkbyBub3QgbWF0Y2ggPT09CiAgICAgICAgICB8JHtzaWRlQnlTaWRlKG5vcm1hbGl6ZWQxLnRyZWVTdHJpbmcsIG5vcm1hbGl6ZWQyLnRyZWVTdHJpbmcpLm1rU3RyaW5nKCJcbiIpfQogICAgICAgICAiIiIuc3RyaXBNYXJnaW4pCiAgICB9CiAgfQoKICAvKiogRmFpbHMgdGhlIHRlc3QgaWYgdGhlIHR3byBleHByZXNzaW9ucyBkbyBub3QgbWF0Y2ggKi8KICBwcm90ZWN0ZWQgZGVmIGNvbXBhcmVFeHByZXNzaW9ucyhlMTogRXhwcmVzc2lvbiwgZTI6IEV4cHJlc3Npb24pOiBVbml0ID0gewogICAgY29tcGFyZVBsYW5zKEZpbHRlcihlMSwgT25lUm93UmVsYXRpb24pLCBGaWx0ZXIoZTIsIE9uZVJvd1JlbGF0aW9uKSkKICB9Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGFjdGl2aXR5RXh0REYuc2hvdygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5zaG93KCkK</text>
+        <text encoding="base64">ICAgIC5vcHRpb24oImluZmVyU2NoZW1hIiwgInRydWUiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRhdGFEZXZpY2VzREYK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBkYXRhCg==</text>
+        <text encoding="base64">ICAgIC5zaG93KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHYK</text>
+        <text encoding="base64">ICAgIGRhdGFEZXZpY2VzREYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLm9wdGlvbgo=</text>
+        <text encoding="base64">ICAgIHZhbCBkYXRhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAubWFwKHJvdykK</text>
+        <text encoding="base64">ICAgIHYK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>t01</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>t01</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -367,8 +387,6 @@
     </search>
     <history>
       <history-search>
-        <entry>appname</entry>
-        <entry>string</entry>
         <entry>sha</entry>
         <entry>shard</entry>
         <entry>filter</entry>
@@ -387,10 +405,11 @@
         <entry>create</entry>
         <entry>t1</entry>
         <entry>t01</entry>
+        <entry>PredicateSubquery</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>150</entry>
-        <entry>%d</entry>
         <entry>q</entry>
         <entry>Wq</entry>
         <entry>s</entry>
@@ -409,6 +428,7 @@
         <entry>W</entry>
         <entry>31</entry>
         <entry>w</entry>
+        <entry>%d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
