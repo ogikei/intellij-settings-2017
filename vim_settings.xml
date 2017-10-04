@@ -132,8 +132,8 @@
         <mark key="^" line="16" column="6" />
         <mark key="." line="16" column="6" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/pom.xml" timestamp="1507106142648">
-        <mark key="'" line="28" column="13" />
+      <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/pom.xml" timestamp="1507108475700">
+        <mark key="'" line="207" column="43" />
         <mark key="[" line="39" column="26" />
         <mark key="]" line="39" column="26" />
         <mark key="." line="39" column="26" />
@@ -349,12 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="75" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="51" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="10" column="23" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/build.sbt" />
-      <jump line="43" column="20" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/timeusage/TimeUsage.scala" />
-      <jump line="7" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.sql.streaming/aws/CTR.scala" />
-      <jump line="39" column="25" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/CTR.scala" />
       <jump line="8" column="27" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/CTR.scala" />
       <jump line="38" column="27" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/CTR.scala" />
       <jump line="41" column="41" filename="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/CTR.scala" />
@@ -449,6 +443,12 @@
       <jump line="43" column="18" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
       <jump line="50" column="18" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
       <jump line="80" column="18" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
+      <jump line="37" column="6" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/pom.xml" />
+      <jump line="86" column="60" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/pom.xml" />
+      <jump line="88" column="69" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/pom.xml" />
+      <jump line="204" column="35" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/pom.xml" />
+      <jump line="205" column="75" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/pom.xml" />
+      <jump line="207" column="43" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -458,7 +458,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>spark-2</text>
+        <text>ass</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3RyZWFtaW5nLkR1cmF0aW9uLCBUZXN0U3VpdGVCYXNlfQo=</text>
@@ -495,9 +495,9 @@
       </register>
     </registers>
     <search>
-      <last-search>spark-2</last-search>
+      <last-search>ass</last-search>
       <last-offset />
-      <last-pattern>spark-2</last-pattern>
+      <last-pattern>ass</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -505,7 +505,6 @@
     </search>
     <history>
       <history-search>
-        <entry>testoutputdire</entry>
         <entry>spark.test.home</entry>
         <entry>source</entry>
         <entry>test</entry>
@@ -525,6 +524,7 @@
         <entry>spark-2.1</entry>
         <entry>spark-</entry>
         <entry>spark-2</entry>
+        <entry>ass</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
