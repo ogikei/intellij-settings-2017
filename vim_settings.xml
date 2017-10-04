@@ -85,12 +85,12 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/test/scala/org/apache/spark/streaming/kinesis/KinesisCheckpointerSuite.scala" timestamp="1507093744630">
-        <mark key="'" line="53" column="20" />
-        <mark key="[" line="143" column="6" />
-        <mark key="]" line="143" column="14" />
-        <mark key="." line="143" column="14" />
-        <mark key="^" line="143" column="14" />
+      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/test/scala/org/apache/spark/streaming/kinesis/KinesisCheckpointerSuite.scala" timestamp="1507093887914">
+        <mark key="'" line="51" column="20" />
+        <mark key="[" line="141" column="6" />
+        <mark key="]" line="141" column="28" />
+        <mark key="." line="141" column="28" />
+        <mark key="^" line="141" column="28" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/build.sbt" timestamp="1506999581598">
         <mark key="'" line="10" column="23" />
@@ -339,10 +339,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Await</text>
+        <text>Await.ready</text>
       </register>
       <register name="-" type="4">
-        <text>Await</text>
+        <text>Await.ready</text>
       </register>
       <register name="/" type="4">
         <text>failif</text>
