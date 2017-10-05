@@ -184,7 +184,7 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/Expression.scala" timestamp="1507192210738">
+      <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/Expression.scala" timestamp="1507192244257">
         <mark key="[" line="441" column="50" />
         <mark key="]" line="441" column="49" />
         <mark key="^" line="441" column="49" />
@@ -316,6 +316,7 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/arithmetic.scala" timestamp="1507192871035" />
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/CTR.scala" timestamp="1506933064260">
         <mark key="'" line="10" column="1" />
         <mark key="[" line="8" column="54" />
@@ -377,8 +378,8 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees/TreeNode.scala" timestamp="1507191996928">
-        <mark key="'" line="575" column="28" />
+      <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees/TreeNode.scala" timestamp="1507193179008">
+        <mark key="'" line="75" column="45" />
         <mark key="[" line="29" column="0" />
         <mark key="]" line="31" column="52" />
         <mark key="." line="29" column="0" />
@@ -394,10 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="19" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" />
-      <jump line="53" column="20" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/test/scala/org/apache/spark/streaming/kinesis/KinesisCheckpointerSuite.scala" />
-      <jump line="93" column="30" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/pom.xml" />
-      <jump line="26" column="0" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/test/scala/org/apache/spark/streaming/kinesis/KinesisCheckpointerSuite.scala" />
       <jump line="32" column="0" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/test/scala/org/apache/spark/streaming/kinesis/KinesisCheckpointerSuite.scala" />
       <jump line="46" column="0" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" />
       <jump line="82" column="29" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" />
@@ -494,6 +491,10 @@
       <jump line="567" column="33" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
       <jump line="573" column="38" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
       <jump line="575" column="28" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
+      <jump line="85" column="20" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
+      <jump line="77" column="8" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
+      <jump line="626" column="29" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
+      <jump line="75" column="45" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -503,7 +504,7 @@
         <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="/" type="4">
-        <text>treestring</text>
+        <text>basetype</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC5vcHRpb24oKQo=</text>
@@ -540,9 +541,9 @@
       </register>
     </registers>
     <search>
-      <last-search>treestring</last-search>
+      <last-search>basetype</last-search>
       <last-offset />
-      <last-pattern>treestring</last-pattern>
+      <last-pattern>basetype</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -550,7 +551,6 @@
     </search>
     <history>
       <history-search>
-        <entry>2.1.0</entry>
         <entry>spark-2.1</entry>
         <entry>spark-</entry>
         <entry>spark-2</entry>
@@ -570,6 +570,7 @@
         <entry>select</entry>
         <entry>parse</entry>
         <entry>treestring</entry>
+        <entry>basetype</entry>
       </history-search>
       <history-cmd>
         <entry>;</entry>
