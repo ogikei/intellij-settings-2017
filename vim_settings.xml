@@ -335,7 +335,9 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/LogicalPlan.scala" timestamp="1507188516104" />
+      <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/LogicalPlan.scala" timestamp="1507189169642">
+        <mark key="'" line="190" column="32" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/common/Common.scala" timestamp="1505791886869">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="14" />
@@ -368,6 +370,7 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees/TreeNode.scala" timestamp="1507189368256" />
       <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/ml/source/libsvm/LibSVMKinesisValueFormat.scala" timestamp="1507183219756">
         <mark key="'" line="36" column="73" />
       </file>
@@ -379,8 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="44" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/pom.xml" />
-      <jump line="198" column="23" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/pom.xml" />
       <jump line="214" column="49" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/pom.xml" />
       <jump line="264" column="49" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/pom.xml" />
       <jump line="45" column="55" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/pom.xml" />
@@ -479,6 +480,8 @@
       <jump line="189" column="4" filename="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" />
       <jump line="238" column="39" filename="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" />
       <jump line="246" column="0" filename="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" />
+      <jump line="334" column="0" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/LogicalPlan.scala" />
+      <jump line="190" column="32" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/LogicalPlan.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -488,7 +491,7 @@
         <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="/" type="4">
-        <text>select</text>
+        <text>parse</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC5vcHRpb24oKQo=</text>
@@ -525,9 +528,9 @@
       </register>
     </registers>
     <search>
-      <last-search>select</last-search>
+      <last-search>parse</last-search>
       <last-offset />
-      <last-pattern>select</last-pattern>
+      <last-pattern>parse</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -536,7 +539,6 @@
     <history>
       <history-search>
         <entry>csv</entry>
-        <entry>parse</entry>
         <entry>2.1.0</entry>
         <entry>spark-2.1</entry>
         <entry>spark-</entry>
@@ -555,6 +557,7 @@
         <entry>read</entry>
         <entry>show</entry>
         <entry>select</entry>
+        <entry>parse</entry>
       </history-search>
       <history-cmd>
         <entry>;</entry>
