@@ -27,6 +27,9 @@
         <mark key="." line="36" column="29" />
         <mark key="^" line="36" column="29" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSourceProvider.scala" timestamp="1507282893498">
+        <mark key="'" line="311" column="4" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/package.scala" timestamp="1506930568573">
         <mark key="[" line="4" column="2" />
         <mark key="]" line="4" column="2" />
@@ -205,6 +208,7 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/json/JsonUtils.scala" timestamp="1507283487065" />
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.sql.streaming/exp.sc" timestamp="1506938890132">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -351,7 +355,7 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/DataSource.scala" timestamp="1507282184134">
+      <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/DataSource.scala" timestamp="1507283539142">
         <mark key="'" line="242" column="13" />
         <mark key="[" line="71" column="18" />
         <mark key="]" line="71" column="18" />
@@ -428,7 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="16" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
       <jump line="27" column="14" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
       <jump line="38" column="18" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
       <jump line="43" column="18" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
@@ -528,6 +531,7 @@
       <jump line="120" column="52" filename="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
       <jump line="143" column="8" filename="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
       <jump line="242" column="13" filename="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/DataSource.scala" />
+      <jump line="311" column="4" filename="$USER_HOME$/MyWork/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSourceProvider.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
