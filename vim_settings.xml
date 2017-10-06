@@ -136,7 +136,6 @@
         <mark key="." line="24" column="15" />
         <mark key="^" line="24" column="15" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/subquery.scala" timestamp="1507201186778" />
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/test/scala/org/apache/spark/streaming/kinesis/KinesisStreamSuite.scala" timestamp="1507098616342">
         <mark key="[" line="178" column="0" />
         <mark key="]" line="148" column="0" />
@@ -169,7 +168,6 @@
         <mark key="^" line="1" column="55" />
         <mark key="." line="1" column="55" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/package.scala" timestamp="1507187790506" />
       <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" timestamp="1507188198707">
         <mark key="'" line="246" column="0" />
       </file>
@@ -185,7 +183,7 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/Expression.scala" timestamp="1507202870050">
+      <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/Expression.scala" timestamp="1507257039735">
         <mark key="'" line="190" column="47" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -255,7 +253,6 @@
         <mark key="." line="25" column="37" />
         <mark key="^" line="25" column="37" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" timestamp="1507191412698" />
       <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/execution/datasources/csv/CSVKinesisValueFormat.scala" timestamp="1507184604987">
         <mark key="'" line="111" column="20" />
         <mark key="[" line="31" column="91" />
@@ -274,7 +271,6 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/analysis/Analyzer.scala" timestamp="1507196062464" />
       <file name="$USER_HOME$/MyWork/git/spark/structured-streaming.puml" timestamp="1507187252953">
         <mark key="[" line="9" column="1" />
         <mark key="]" line="11" column="0" />
@@ -325,7 +321,9 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/arithmetic.scala" timestamp="1507192871035" />
+      <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/arithmetic.scala" timestamp="1507257208674">
+        <mark key="'" line="260" column="19" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/CTR.scala" timestamp="1506933064260">
         <mark key="'" line="10" column="1" />
         <mark key="[" line="8" column="54" />
@@ -345,7 +343,6 @@
         <mark key="." line="262" column="0" />
         <mark key="^" line="262" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/StreamingRelation.scala" timestamp="1507188408219" />
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/package.scala" timestamp="1506932476761">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="15" />
@@ -396,7 +393,6 @@
       <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/ml/source/libsvm/LibSVMKinesisValueFormat.scala" timestamp="1507183219756">
         <mark key="'" line="36" column="73" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" timestamp="1507194457205" />
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/Ctr.scala" timestamp="1506932042957">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="9" />
@@ -405,12 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="21" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/pom.xml" />
-      <jump line="19" column="36" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/pom.xml" />
-      <jump line="18" column="23" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/pom.xml" />
-      <jump line="85" column="0" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" />
-      <jump line="185" column="79" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" />
-      <jump line="325" column="27" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" />
       <jump line="320" column="26" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" />
       <jump line="82" column="3" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisReceiver.scala" />
       <jump line="139" column="18" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" />
@@ -505,6 +495,12 @@
       <jump line="28" column="0" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
       <jump line="68" column="0" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/Expression.scala" />
       <jump line="190" column="47" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/Expression.scala" />
+      <jump line="184" column="20" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/arithmetic.scala" />
+      <jump line="220" column="20" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/arithmetic.scala" />
+      <jump line="243" column="18" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/arithmetic.scala" />
+      <jump line="286" column="9" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/arithmetic.scala" />
+      <jump line="273" column="16" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/arithmetic.scala" />
+      <jump line="260" column="19" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/arithmetic.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -514,7 +510,7 @@
         <text encoding="base64">IGV4dGVuZHMgUHJvZHVjdA==</text>
       </register>
       <register name="/" type="4">
-        <text>product</text>
+        <text encoding="base64">XDxsZWZ0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC5vcHRpb24oKQo=</text>
@@ -551,9 +547,9 @@
       </register>
     </registers>
     <search>
-      <last-search>product</last-search>
+      <last-search encoding="base64">XDxsZWZ0XD4=</last-search>
       <last-offset />
-      <last-pattern>product</last-pattern>
+      <last-pattern encoding="base64">XDxsZWZ0XD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -561,7 +557,6 @@
     </search>
     <history>
       <history-search>
-        <entry>external</entry>
         <entry>mani</entry>
         <entry>manifest</entry>
         <entry>main</entry>
@@ -581,6 +576,7 @@
         <entry>attri</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>product</entry>
+        <entry encoding="base64">XDxsZWZ0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>;</entry>
