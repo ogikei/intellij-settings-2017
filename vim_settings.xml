@@ -161,12 +161,6 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/Expression.scala" timestamp="1507257039735">
-        <mark key="'" line="190" column="47" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
       <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/json/JsonUtils.scala" timestamp="1507284277131" />
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.sql.streaming/exp.sc" timestamp="1506938890132">
         <mark key="[" line="9" column="0" />
@@ -238,6 +232,7 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/csv/CSVFileFormat.scala" timestamp="1507286105800" />
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/.gitignore" timestamp="1505817896534">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="4" column="4" />
@@ -265,8 +260,8 @@
       <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/arithmetic.scala" timestamp="1507257208674">
         <mark key="'" line="260" column="19" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/DataSource.scala" timestamp="1507284677706">
-        <mark key="'" line="299" column="60" />
+      <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/DataSource.scala" timestamp="1507286971513">
+        <mark key="'" line="298" column="4" />
         <mark key="[" line="71" column="18" />
         <mark key="]" line="71" column="18" />
         <mark key="^" line="71" column="18" />
@@ -335,7 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="18" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
       <jump line="37" column="6" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/pom.xml" />
       <jump line="86" column="60" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/pom.xml" />
       <jump line="88" column="69" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/pom.xml" />
@@ -435,6 +429,7 @@
       <jump line="290" column="29" filename="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/DataSource.scala" />
       <jump line="300" column="8" filename="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/DataSource.scala" />
       <jump line="299" column="60" filename="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/DataSource.scala" />
+      <jump line="298" column="4" filename="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/DataSource.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
