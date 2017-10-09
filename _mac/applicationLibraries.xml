@@ -9,7 +9,6 @@
         <root url="file://$USER_HOME$/.pyenv/versions/2.7.13/lib/python2.7/lib-tk" />
         <root url="file://$USER_HOME$/.pyenv/versions/2.7.13/lib/python2.7/lib-dynload" />
         <root url="file://$USER_HOME$/.pyenv/versions/2.7.13/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/2116726933" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -25,7 +24,6 @@
         <root url="file://$USER_HOME$/.pyenv/versions/2.7.13/lib/python2.7/lib-tk" />
         <root url="file://$USER_HOME$/.pyenv/versions/2.7.13/lib/python2.7/lib-dynload" />
         <root url="file://$USER_HOME$/.pyenv/versions/2.7.13/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/2116726933" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -38,7 +36,6 @@
         <root url="file://$USER_HOME$/.pyenv/versions/3.6.1/lib/python3.6" />
         <root url="file://$USER_HOME$/.pyenv/versions/3.6.1/lib/python3.6/lib-dynload" />
         <root url="file://$USER_HOME$/.pyenv/versions/3.6.1/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/558196526" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
@@ -54,7 +51,6 @@
         <root url="file://$USER_HOME$/.pyenv/versions/3.6.1/lib/python3.6" />
         <root url="file://$USER_HOME$/.pyenv/versions/3.6.1/lib/python3.6/lib-dynload" />
         <root url="file://$USER_HOME$/.pyenv/versions/3.6.1/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/558196526" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
@@ -81,27 +77,6 @@
         <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.11.11-sources.jar!/" />
       </CLASSES>
       <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="scala-sdk-2.12.2" type="Scala">
-      <properties>
-        <option name="languageLevel" value="Scala_2_12" />
-        <compiler-classpath>
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.12.2.jar" />
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar" />
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.2.jar" />
-        </compiler-classpath>
-      </properties>
-      <CLASSES>
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar!/" />
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.2.jar!/" />
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.2-sources.jar!/" />
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.12.2-sources.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/docs/scala-library-2.12.2-javadoc.jar!/" />
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/docs/scala-reflect-2.12.2-javadoc.jar!/" />
-      </JAVADOC>
       <SOURCES />
     </library>
   </component>
