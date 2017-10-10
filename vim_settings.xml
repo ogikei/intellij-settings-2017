@@ -242,6 +242,9 @@
         <mark key="." line="25" column="37" />
         <mark key="^" line="25" column="37" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.1.0/spark-streaming_2.11-2.1.0-sources.jar!/org/apache/spark/streaming/dstream/DStream.scala" timestamp="1507629167041">
+        <mark key="'" line="167" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisBackedBlockRDD.scala" timestamp="1507098390679">
         <mark key="[" line="224" column="0" />
         <mark key="]" line="196" column="0" />
@@ -281,6 +284,9 @@
         <mark key="^" line="4" column="4" />
       </file>
       <file name="$USER_HOME$/MyWork/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaRelation.scala" timestamp="1507616077311" />
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/test/DataStreamReaderWriterSuite.scala" timestamp="1507628864155">
+        <mark key="'" line="68" column="41" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/internal/SQLConf.scala" timestamp="1507187164227">
         <mark key="'" line="739" column="13" />
       </file>
@@ -390,13 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="18" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/pom.xml" />
-      <jump line="89" column="12" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/pom.xml" />
-      <jump line="92" column="31" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/pom.xml" />
-      <jump line="115" column="30" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/pom.xml" />
-      <jump line="122" column="2" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisDStreamFunctions.scala" />
-      <jump line="201" column="0" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisDStreamFunctions.scala" />
-      <jump line="36" column="25" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisDStreamFunctions.scala" />
       <jump line="28" column="26" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/external/kinesis-stream-writer/pom.xml" />
       <jump line="29" column="29" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/external/kinesis-stream-writer/pom.xml" />
       <jump line="31" column="15" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/external/kinesis-stream-writer/pom.xml" />
@@ -490,6 +489,13 @@
       <jump line="81" column="15" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="96" column="8" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="33" column="37" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
+      <jump line="61" column="15" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/test/DataStreamReaderWriterSuite.scala" />
+      <jump line="68" column="41" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/test/DataStreamReaderWriterSuite.scala" />
+      <jump line="660" column="6" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.1.0/spark-streaming_2.11-2.1.0-sources.jar!/org/apache/spark/streaming/dstream/DStream.scala" />
+      <jump line="18" column="0" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.1.0/spark-streaming_2.11-2.1.0-sources.jar!/org/apache/spark/streaming/dstream/DStream.scala" />
+      <jump line="4" column="71" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.1.0/spark-streaming_2.11-2.1.0-sources.jar!/org/apache/spark/streaming/dstream/DStream.scala" />
+      <jump line="8" column="45" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.1.0/spark-streaming_2.11-2.1.0-sources.jar!/org/apache/spark/streaming/dstream/DStream.scala" />
+      <jump line="167" column="0" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.1.0/spark-streaming_2.11-2.1.0-sources.jar!/org/apache/spark/streaming/dstream/DStream.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -499,7 +505,7 @@
         <text>???</text>
       </register>
       <register name="/" type="4">
-        <text>internal</text>
+        <text>2.0</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyoKICogbGljZW5zZWQgdG8gdGhlIGFwYWNoZSBzb2Z0d2FyZSBmb3VuZGF0aW9uIChhc2YpIHVuZGVyIG9uZSBvciBtb3JlCiAqIGNvbnRyaWJ1dG9yIGxpY2Vuc2UgYWdyZWVtZW50cy4gIHNlZSB0aGUgbm90aWNlIGZpbGUgZGlzdHJpYnV0ZWQgd2l0aAogKiB0aGlzIHdvcmsgZm9yIGFkZGl0aW9uYWwgaW5mb3JtYXRpb24gcmVnYXJkaW5nIGNvcHlyaWdodCBvd25lcnNoaXAuCiAqIHRoZSBhc2YgbGljZW5zZXMgdGhpcyBmaWxlIHRvIHlvdSB1bmRlciB0aGUgYXBhY2hlIGxpY2Vuc2UsIHZlcnNpb24gMi4wCiAqICh0aGUgImxpY2Vuc2UiKTsgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoCiAqIHRoZSBsaWNlbnNlLiAgeW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBsaWNlbnNlIGF0CiAqCiAqICAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9saWNlbnNlLTIuMAogKgogKiB1bmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiAqIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBsaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJhcyBpcyIgYmFzaXMsCiAqIHdpdGhvdXQgd2FycmFudGllcyBvciBjb25kaXRpb25zIG9mIGFueSBraW5kLCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiBzZWUgdGhlIGxpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiAqIGxpbWl0YXRpb25zIHVuZGVyIHRoZSBsaWNlbnNlLgogKi8K</text>
@@ -536,9 +542,9 @@
       </register>
     </registers>
     <search>
-      <last-search>internal</last-search>
+      <last-search>2.0</last-search>
       <last-offset />
-      <last-pattern>internal</last-pattern>
+      <last-pattern>2.0</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -546,9 +552,6 @@
     </search>
     <history>
       <history-search>
-        <entry>basetype</entry>
-        <entry>sun</entry>
-        <entry>refle</entry>
         <entry>attri</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>product</entry>
@@ -566,6 +569,9 @@
         <entry>source</entry>
         <entry>structured</entry>
         <entry>internal</entry>
+        <entry>sourceschema</entry>
+        <entry>structu</entry>
+        <entry>2.0</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
