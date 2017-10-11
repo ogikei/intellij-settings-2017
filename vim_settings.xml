@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/DataSource.scala" timestamp="1507706584056">
         <mark key="'" line="105" column="8" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/resources/META-INF/services/org.apache.spark.sql.sources.DataSourceRegister" timestamp="1507706808467" />
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/resources/META-INF/services/org.apache.spark.sql.sources.DataSourceRegister" timestamp="1507712600296" />
       <file name="$USER_HOME$/OfficeTools/git/spark/external/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisTestUtils.scala" timestamp="1507703072047">
         <mark key="'" line="256" column="27" />
       </file>
@@ -33,8 +33,8 @@
       <file name="$USER_HOME$/OfficeTools/git/spark/streaming/src/test/scala/org/apache/spark/streaming/rdd/WriteAheadLogBackedBlockRDDSuite.scala" timestamp="1507700011532">
         <mark key="'" line="29" column="24" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/RateSourceProvider.scala" timestamp="1507696297126">
-        <mark key="'" line="112" column="8" />
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/RateSourceProvider.scala" timestamp="1507712691727">
+        <mark key="'" line="248" column="0" />
         <mark key="[" line="100" column="4" />
         <mark key="]" line="100" column="3" />
         <mark key="." line="100" column="3" />
@@ -175,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="6" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
       <jump line="187" column="16" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
       <jump line="17" column="19" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
       <jump line="21" column="18" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
@@ -275,6 +274,7 @@
       <jump line="111" column="65" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
       <jump line="116" column="56" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
       <jump line="65" column="0" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/Source.scala" />
+      <jump line="248" column="0" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/RateSourceProvider.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
