@@ -41,6 +41,13 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/RateSourceProvider.scala" timestamp="1507696297126">
+        <mark key="'" line="112" column="8" />
+        <mark key="[" line="100" column="4" />
+        <mark key="]" line="100" column="3" />
+        <mark key="." line="100" column="3" />
+        <mark key="^" line="100" column="3" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/sources/DataSourceTest.scala" timestamp="1507631886636">
         <mark key="'" line="50" column="14" />
       </file>
@@ -80,11 +87,18 @@
       <file name="$USER_HOME$/MyWork/git/spark/core/src/main/scala/org/apache/spark/ui/UIUtils.scala" timestamp="1507258485942">
         <mark key="'" line="497" column="32" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" timestamp="1507709315436">
+        <mark key="'" line="116" column="56" />
+        <mark key="[" line="42" column="17" />
+        <mark key="]" line="170" column="30" />
+        <mark key="^" line="170" column="30" />
+        <mark key="." line="170" column="30" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/StreamTest.scala" timestamp="1507701006952">
         <mark key="'" line="241" column="17" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamWriter.scala" timestamp="1507703637667">
-        <mark key="'" line="150" column="57" />
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamWriter.scala" timestamp="1507709098078">
+        <mark key="'" line="278" column="22" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.1.0/spark-streaming_2.11-2.1.0-sources.jar!/org/apache/spark/streaming/dstream/DStream.scala" timestamp="1507629720388">
         <mark key="'" line="880" column="0" />
@@ -128,6 +142,13 @@
       <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/arithmetic.scala" timestamp="1507257208674">
         <mark key="'" line="260" column="19" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/DataSource.scala" timestamp="1507622406496">
+        <mark key="'" line="295" column="10" />
+        <mark key="[" line="71" column="18" />
+        <mark key="]" line="71" column="18" />
+        <mark key="^" line="71" column="18" />
+        <mark key="." line="71" column="18" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/test/DataStreamReaderWriterSuite.scala" timestamp="1507184992870">
         <mark key="'" line="159" column="19" />
       </file>
@@ -162,32 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="34" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/StreamTest.scala" />
-      <jump line="69" column="78" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/StreamTest.scala" />
-      <jump line="229" column="55" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/StreamTest.scala" />
-      <jump line="230" column="51" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/StreamTest.scala" />
-      <jump line="508" column="72" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/StreamTest.scala" />
-      <jump line="621" column="47" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/StreamTest.scala" />
-      <jump line="28" column="34" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/StreamTest.scala" />
-      <jump line="63" column="50" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/StreamTest.scala" />
-      <jump line="38" column="15" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/QueryTest.scala" />
-      <jump line="40" column="23" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/QueryTest.scala" />
-      <jump line="257" column="64" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/QueryTest.scala" />
-      <jump line="260" column="8" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/QueryTest.scala" />
-      <jump line="268" column="26" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/QueryTest.scala" />
-      <jump line="273" column="29" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/QueryTest.scala" />
-      <jump line="311" column="6" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/QueryTest.scala" />
-      <jump line="33" column="17" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/test/SharedSQLContext.scala" />
-      <jump line="34" column="8" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/test/SharedSQLContext.scala" />
-      <jump line="233" column="6" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/StreamTest.scala" />
-      <jump line="241" column="17" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/StreamTest.scala" />
-      <jump line="43" column="18" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
-      <jump line="60" column="16" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
-      <jump line="96" column="16" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
-      <jump line="126" column="16" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
-      <jump line="132" column="14" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
-      <jump line="141" column="16" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
-      <jump line="146" column="14" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
       <jump line="164" column="8" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
       <jump line="185" column="6" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
       <jump line="187" column="16" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
@@ -235,10 +230,8 @@
       <jump line="146" column="51" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/test/DataStreamReaderWriterSuite.scala" />
       <jump line="58" column="0" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamWriter.scala" />
       <jump line="114" column="42" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamWriter.scala" />
-      <jump line="118" column="13" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamWriter.scala" />
       <jump line="119" column="18" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamWriter.scala" />
       <jump line="145" column="51" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamWriter.scala" />
-      <jump line="150" column="57" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamWriter.scala" />
       <jump line="518" column="7" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/DataSource.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/DataSource.scala" />
       <jump line="17" column="39" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/DataSource.scala" />
@@ -262,6 +255,34 @@
       <jump line="105" column="8" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/DataSource.scala" />
       <jump line="48" column="0" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/csv/CSVFileFormat.scala" />
       <jump line="57" column="29" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
+      <jump line="187" column="19" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamWriter.scala" />
+      <jump line="203" column="19" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamWriter.scala" />
+      <jump line="3" column="30" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamWriter.scala" />
+      <jump line="118" column="6" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamWriter.scala" />
+      <jump line="150" column="19" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamWriter.scala" />
+      <jump line="375" column="14" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamWriter.scala" />
+      <jump line="340" column="9" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamWriter.scala" />
+      <jump line="285" column="12" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamWriter.scala" />
+      <jump line="278" column="22" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamWriter.scala" />
+      <jump line="165" column="17" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="216" column="84" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="217" column="68" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="219" column="19" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="220" column="27" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="42" column="16" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="44" column="13" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="45" column="18" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="50" column="43" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="51" column="81" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="62" column="77" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="64" column="10" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="74" column="50" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="79" column="56" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="90" column="50" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="97" column="50" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="104" column="50" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="111" column="65" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="116" column="56" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -271,7 +292,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>option</text>
+        <text>source</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBvdmVycmlkZSBkZWYgYmVmb3JlQWxsKCk6IFVuaXQgPSB7CiAgICBzdXBlci5iZWZvcmVBbGwoKQo=</text>
@@ -308,9 +329,9 @@
       </register>
     </registers>
     <search>
-      <last-search>option</last-search>
+      <last-search>source</last-search>
       <last-offset />
-      <last-pattern>option</last-pattern>
+      <last-pattern>source</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -318,7 +339,6 @@
     </search>
     <history>
       <history-search>
-        <entry>after</entry>
         <entry>sparksession</entry>
         <entry>before</entry>
         <entry>sparkconf</entry>
@@ -333,11 +353,12 @@
         <entry>createsink</entry>
         <entry>defaultsource</entry>
         <entry>default</entry>
-        <entry>source</entry>
         <entry>datasource</entry>
         <entry>relati</entry>
         <entry>relation</entry>
         <entry>option</entry>
+        <entry>format</entry>
+        <entry>source</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
