@@ -158,15 +158,14 @@
       <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/ml/source/libsvm/LibSVMKinesisValueFormat.scala" timestamp="1507183219756">
         <mark key="'" line="36" column="73" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/datasources/csv/CSVSuite.scala" timestamp="1507701935884">
-        <mark key="'" line="35" column="18" />
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/datasources/csv/CSVSuite.scala" timestamp="1507702338306">
+        <mark key="'" line="138" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1507688246477">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="8" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/test/DataStreamReaderWriterSuite.scala" />
       <jump line="88" column="15" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/test/DataStreamReaderWriterSuite.scala" />
       <jump line="81" column="6" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/test/DataStreamReaderWriterSuite.scala" />
       <jump line="73" column="6" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/test/DataStreamReaderWriterSuite.scala" />
@@ -266,6 +265,7 @@
       <jump line="63" column="15" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/test/SharedSQLContext.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/test/SharedSQLContext.scala" />
       <jump line="154" column="9" filename="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/test/scala/org/apache/spark/sql/kafka010/KafkaSourceSuite.scala" />
+      <jump line="138" column="0" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/datasources/csv/CSVSuite.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -275,7 +275,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>readstream</text>
+        <text>read</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBvdmVycmlkZSBkZWYgYmVmb3JlQWxsKCk6IFVuaXQgPSB7CiAgICBzdXBlci5iZWZvcmVBbGwoKQo=</text>
@@ -312,9 +312,9 @@
       </register>
     </registers>
     <search>
-      <last-search>readstream</last-search>
+      <last-search>read</last-search>
       <last-offset />
-      <last-pattern>readstream</last-pattern>
+      <last-pattern>read</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -322,7 +322,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ddlscansource</entry>
         <entry>relation</entry>
         <entry>providing</entry>
         <entry>CreatableRelationProvider</entry>
@@ -340,8 +339,9 @@
         <entry encoding="base64">XDxfc3RyZWFtXD4=</entry>
         <entry>test</entry>
         <entry>spark</entry>
-        <entry>read</entry>
         <entry>readstream</entry>
+        <entry>readd</entry>
+        <entry>read</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
