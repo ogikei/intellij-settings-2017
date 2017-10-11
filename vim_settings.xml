@@ -10,6 +10,9 @@
       <file name="$USER_HOME$/OfficeTools/git/spark/external/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisTestUtils.scala" timestamp="1507703072047">
         <mark key="'" line="256" column="27" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/Source.scala" timestamp="1507711852899">
+        <mark key="'" line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1507708162239">
         <mark key="'" line="57" column="29" />
       </file>
@@ -172,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="8" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
       <jump line="185" column="6" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
       <jump line="187" column="16" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
       <jump line="17" column="19" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
@@ -272,6 +274,7 @@
       <jump line="104" column="50" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
       <jump line="111" column="65" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
       <jump line="116" column="56" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
+      <jump line="65" column="0" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/Source.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
