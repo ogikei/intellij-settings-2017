@@ -64,6 +64,7 @@
       <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" timestamp="1507284872515">
         <mark key="'" line="143" column="8" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/test/SQLTestUtils.scala" timestamp="1507714467168" />
       <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" timestamp="1507260241200">
         <mark key="'" line="390" column="3" />
       </file>
@@ -147,12 +148,11 @@
       <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisDStreamFunctions.scala" timestamp="1507113156237">
         <mark key="'" line="36" column="25" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/test/DataFrameReaderWriterSuite.scala" timestamp="1507697802757">
-        <mark key="'" line="36" column="18" />
-        <mark key="[" line="144" column="52" />
-        <mark key="]" line="144" column="65" />
-        <mark key="^" line="144" column="65" />
-        <mark key="." line="144" column="65" />
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/test/DataFrameReaderWriterSuite.scala" timestamp="1507715022099">
+        <mark key="'" line="144" column="2" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/test/SharedSQLContext.scala" timestamp="1507701555928">
         <mark key="'" line="0" column="0" />
@@ -175,16 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="16" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
-      <jump line="17" column="19" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
-      <jump line="21" column="18" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
-      <jump line="22" column="18" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
-      <jump line="23" column="18" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
-      <jump line="24" column="18" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/RateSourceSuite.scala" />
-      <jump line="52" column="31" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/TextSocketStreamSuite.scala" />
-      <jump line="53" column="12" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/TextSocketStreamSuite.scala" />
-      <jump line="56" column="66" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/TextSocketStreamSuite.scala" />
-      <jump line="63" column="14" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/TextSocketStreamSuite.scala" />
       <jump line="65" column="10" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/TextSocketStreamSuite.scala" />
       <jump line="72" column="16" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/TextSocketStreamSuite.scala" />
       <jump line="74" column="12" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/TextSocketStreamSuite.scala" />
@@ -275,34 +265,44 @@
       <jump line="116" column="56" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
       <jump line="65" column="0" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/Source.scala" />
       <jump line="248" column="0" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/RateSourceProvider.scala" />
+      <jump line="116" column="0" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/test/DataFrameReaderWriterSuite.scala" />
+      <jump line="157" column="0" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/test/DataFrameReaderWriterSuite.scala" />
+      <jump line="510" column="14" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/test/DataFrameReaderWriterSuite.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/test/DataFrameReaderWriterSuite.scala" />
+      <jump line="17" column="29" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/test/DataFrameReaderWriterSuite.scala" />
+      <jump line="25" column="16" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/test/DataFrameReaderWriterSuite.scala" />
+      <jump line="124" column="34" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/test/DataFrameReaderWriterSuite.scala" />
+      <jump line="131" column="46" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/test/DataFrameReaderWriterSuite.scala" />
+      <jump line="132" column="9" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/test/DataFrameReaderWriterSuite.scala" />
+      <jump line="144" column="2" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/test/DataFrameReaderWriterSuite.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAKICBvdmVycmlkZSBkZWYgYmVmb3JlQWxsKCk6IFVuaXQgPSB7CiAgICBzdXBlci5iZWZvcmVBbGwoKQogIH0K</text>
+        <text encoding="base64">ICBpbXBvcnQgdGVzdEltcGxpY2l0cy5uZXdCb29sZWFuU2VxRW5jb2Rlcgo=</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>source</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBvdmVycmlkZSBkZWYgYmVmb3JlQWxsKCk6IFVuaXQgPSB7CiAgICBzdXBlci5iZWZvcmVBbGwoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKICBvdmVycmlkZSBkZWYgYmVmb3JlQWxsKCk6IFVuaXQgPSB7CiAgICBzdXBlci5iZWZvcmVBbGwoKQogIH0K</text>
+        <text encoding="base64">ICBpbXBvcnQgdGVzdEltcGxpY2l0cy5uZXdCb29sZWFuU2VxRW5jb2Rlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwCg==</text>
+        <text encoding="base64">ICBpbXBvcnQgdGVzdEltcGxpY2l0cy5fCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcGFyayA9IFNwYXJrQ29udGV4dAo=</text>
+        <text encoding="base64">ICAKICBvdmVycmlkZSBkZWYgYmVmb3JlQWxsKCk6IFVuaXQgPSB7CiAgICBzdXBlci5iZWZvcmVBbGwoKQogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20uZ2l0aHViLm1wZWx0b25lbiIgJSAic2J0LWlkZWEiICUgIjEuNi4wIikK</text>
+        <text encoding="base64">ICAgIHZhbCBzcGFyayA9IFNwYXJrQ29udGV4dAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -311,19 +311,19 @@
         <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20uZ2l0aHViLm1wZWx0b25lbiIgJSAic2J0LWlkZWEiICUgIjEuNi4wIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20uZWVkM3NpOW4iICUgInNidC1hc3NlbWJseSIgJSAiMC4xMS4yIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20uZ2l0aHViLm1wZWx0b25lbiIgJSAic2J0LWlkZWEiICUgIjEuNi4wIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>source</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>source</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -331,16 +331,12 @@
     </search>
     <history>
       <history-search>
-        <entry>sparksession</entry>
-        <entry>before</entry>
-        <entry>sparkconf</entry>
         <entry encoding="base64">XDxfc3RyZWFtXD4=</entry>
         <entry>readstream</entry>
         <entry>readd</entry>
         <entry>read</entry>
         <entry>kinesisfunsuite</entry>
         <entry>suite</entry>
-        <entry>test</entry>
         <entry>spark</entry>
         <entry>createsink</entry>
         <entry>defaultsource</entry>
@@ -351,6 +347,10 @@
         <entry>option</entry>
         <entry>format</entry>
         <entry>source</entry>
+        <entry>_sqlContext</entry>
+        <entry>sqltest</entry>
+        <entry>where</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
