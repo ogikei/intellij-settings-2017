@@ -20,15 +20,15 @@
         <mark key="[" line="50" column="0" />
         <mark key="]" line="72" column="1" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1507792295857">
-        <mark key="'" line="57" column="29" />
+      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1507794615687">
+        <mark key="'" line="362" column="23" />
         <mark key="[" line="551" column="0" />
         <mark key="]" line="572" column="2" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" timestamp="1507794236575">
-        <mark key="'" line="77" column="6" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="44" column="2" />
+      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" timestamp="1507794850029">
+        <mark key="'" line="38" column="9" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="101" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSourceProvider.scala" timestamp="1507788117029">
         <mark key="'" line="47" column="0" />
@@ -67,11 +67,11 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" timestamp="1507794259883">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="7" />
-        <mark key="." line="26" column="7" />
-        <mark key="^" line="26" column="7" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" timestamp="1507794913015">
+        <mark key="[" line="40" column="14" />
+        <mark key="]" line="40" column="19" />
+        <mark key="^" line="40" column="19" />
+        <mark key="." line="40" column="19" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/build.sbt" timestamp="1507789938539">
         <mark key="[" line="7" column="19" />
@@ -145,11 +145,11 @@
         <mark key="." line="31" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.1.0/spark-catalyst_2.11-2.1.0-sources.jar!/org/apache/spark/sql/catalyst/util/CaseInsensitiveMap.scala" timestamp="1507788437766" />
-      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1507794539495">
-        <mark key="[" line="82" column="7" />
-        <mark key="]" line="82" column="14" />
-        <mark key="." line="82" column="14" />
-        <mark key="^" line="82" column="14" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1507794686015">
+        <mark key="[" line="74" column="4" />
+        <mark key="]" line="74" column="39" />
+        <mark key="." line="74" column="39" />
+        <mark key="^" line="74" column="39" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceProvider.scala" timestamp="1507789468907">
         <mark key="[" line="56" column="26" />
@@ -159,8 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="19" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamWriter.scala" />
-      <jump line="203" column="19" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamWriter.scala" />
       <jump line="3" column="30" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamWriter.scala" />
       <jump line="118" column="6" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamWriter.scala" />
       <jump line="150" column="19" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamWriter.scala" />
@@ -259,19 +257,21 @@
       <jump line="73" column="28" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" />
       <jump line="74" column="67" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" />
       <jump line="77" column="6" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" />
+      <jump line="362" column="23" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
+      <jump line="38" column="9" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>Any</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Any</text>
       </register>
       <register name="/" type="4">
         <text>format</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiBnZXRCb29sKHBhcmFtTmFtZTogU3RyaW5nLCBkZWZhdWx0OiBCb29sZWFuID0gZmFsc2UpOiBCb29sZWFuID0gewogICAgdmFsIHBhcmFtID0gY2FzZVNlbnNpdGl2ZVBhcmFtcy5nZXRPckVsc2UocGFyYW1OYW1lLCBkZWZhdWx0LnRvU3RyaW5nKQogICAgaWYgKHBhcmFtID09IG51bGwpIHsKICAgICAgZGVmYXVsdAogICAgfSBlbHNlIGlmIChwYXJhbSA9PSAidHJ1ZSIpIHsKICAgICAgdHJ1ZQogICAgfSBlbHNlIGlmIChwYXJhbSA9PSAiZmFsc2UiKSB7CiAgICAgIGZhbHNlCiAgICB9IGVsc2UgewogICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKHMiJHBhcmFtTmFtZSBmbGFnIGNhbiBiZSB0cnVlIG9yIGZhbHNlIikKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">cHJpdmF0ZVtzcGFya10gY2xhc3MgS2luZXNpc09wdGlvbnMoQHRyYW5zaWVudCBwcml2YXRlIHZhbCBwYXJhbWV0ZXJzOiBNYXBbU3RyaW5nLCBTdHJpbmddKQogICAgZXh0ZW5kcyBMb2dnaW5nIHdpdGggU2VyaWFsaXphYmxlIHsKCiAgQHRyYW5zaWVudCBwcml2YXRlIHZhbCBjYXNlU2Vuc2l0aXZlUGFyYW1zID0gbmV3IENhc2VJbnNlbnNpdGl2ZU1hcChwYXJhbWV0ZXJzKQoKICBwcml2YXRlIGRlZiBnZXRCb29sKHBhcmFtTmFtZTogU3RyaW5nLCBkZWZhdWx0OiBCb29sZWFuID0gZmFsc2UpOiBCb29sZWFuID0gewogICAgdmFsIHBhcmFtID0gY2FzZVNlbnNpdGl2ZVBhcmFtcy5nZXRPckVsc2UocGFyYW1OYW1lLCBkZWZhdWx0LnRvU3RyaW5nKQogICAgaWYgKHBhcmFtID09IG51bGwpIHsKICAgICAgZGVmYXVsdAogICAgfSBlbHNlIGlmIChwYXJhbSA9PSAidHJ1ZSIpIHsKICAgICAgdHJ1ZQogICAgfSBlbHNlIGlmIChwYXJhbSA9PSAiZmFsc2UiKSB7CiAgICAgIGZhbHNlCiAgICB9IGVsc2UgewogICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKHMiJHBhcmFtTmFtZSBmbGFnIGNhbiBiZSB0cnVlIG9yIGZhbHNlIikKICAgIH0KICB9CgogIHByaXZhdGUgZGVmIGdldEludChwYXJhbU5hbWU6IFN0cmluZywgZGVmYXVsdDogSW50KTogSW50ID0gewogICAgdmFsIHBhcmFtVmFsdWUgPSBjYXNlU2Vuc2l0aXZlUGFyYW1zLmdldChwYXJhbU5hbWUpCiAgICBwYXJhbVZhbHVlIG1hdGNoIHsKICAgICAgY2FzZSBOb25lID0+IGRlZmF1bHQKICAgICAgY2FzZSBTb21lKG51bGwpID0+IGRlZmF1bHQKICAgICAgY2FzZSBTb21lKHZhbHVlKSA9PiB0cnkgewogICAgICAgIHZhbHVlLnRvSW50CiAgICAgIH0gY2F0Y2ggewogICAgICAgIGNhc2UgZTogTnVtYmVyRm9ybWF0RXhjZXB0aW9uID0+CiAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihzIiRwYXJhbU5hbWUgc2hvdWxkIGJlIGFuIGludGVnZXIuIEZvdW5kICR2YWx1ZSIpCiAgICAgIH0KICAgIH0KICB9CgogIGxhenkgdmFsIHN0cmVhbU5hbWVzID0gewogICAgcGFyYW1ldGVycy5nZXQoInN0cmVhbXMiKS5tYXAoXy5zcGxpdCgiLCIpKS5nZXRPckVsc2UgewogICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJPcHRpb24gYHN0cmVhbXNgIG11c3QgYmUgc2V0IikKICAgIH0KICB9CgogIGxhenkgdmFsIGVuZHBvaW50VXJsID0gcGFyYW1ldGVycy5nZXRPckVsc2UoImVuZHBvaW50VXJsIiwKICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIk9wdGlvbiBgZW5kcG9pbnRVcmxgIG11c3QgYmUgc2V0IikpCgogIGxhenkgdmFsIHJlZ2lvbklkID0gcGFyYW1ldGVycy5nZXRPckVsc2UoInJlZ2lvbk5hbWUiLAogICAgUmVnaW9uVXRpbHMuZ2V0UmVnaW9uTWV0YWRhdGEuZ2V0UmVnaW9uQnlFbmRwb2ludChlbmRwb2ludFVybCkuZ2V0TmFtZSgpKQoKICBsYXp5IHZhbCBjaGVja3BvaW50TmFtZSA9IHBhcmFtZXRlcnMuZ2V0T3JFbHNlKCJjaGVja3BvaW50TmFtZSIsIHsKICAgIHZhbCBzZGYgPSBuZXcgU2ltcGxlRGF0ZUZvcm1hdCgieXl5eU1NZGRISG1tc3MiKQogICAgcyJraW5lc2lzLWNoZWNrcG9pbnQtJHtzdHJlYW1OYW1lcy5zb3J0ZWQubWtTdHJpbmcoIi0iKX0tJHtzZGYuZm9ybWF0KG5ldyBEYXRlKCkpfSIKICB9KQoKICB2YWwgZm9ybWF0ID0gY2FzZVNlbnNpdGl2ZVBhcmFtcy5nZXQoImZvcm1hdCIpLm1hcCB7CiAgICBjYXNlIGZvcm1hdCBpZiBTZXQoImNzdiIsICJqc29uIiwgImxpYnN2bSIpLmNvbnRhaW5zKGZvcm1hdCkgPT4gZm9ybWF0CiAgICBjYXNlIHVua25vd25Gb3JtYXQgPT4gdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbihzIlVua25vd24gZm9ybWF0OiAkdW5rbm93bkZvcm1hdCIpCiAgfS5nZXRPckVsc2UgewogICAgImRlZmF1bHQiCiAgfQoKICB2YWwgaW5pdGlhbFBvc2l0aW9uSW5TdHJlYW0gPSBjYXNlU2Vuc2l0aXZlUGFyYW1zLmdldCgiaW5pdGlhbFBvc2l0aW9uSW5TdHJlYW0iKS5tYXAgewogICAgY2FzZSAibGF0ZXN0IiA9PiBJbml0aWFsUG9zaXRpb25JblN0cmVhbS5MQVRFU1QKICAgIGNhc2UgImVhcmxpZXN0IiB8ICJ0cmltX2hvcml6b24iID0+IEluaXRpYWxQb3NpdGlvbkluU3RyZWFtLlRSSU1fSE9SSVpPTgogICAgY2FzZSB1bmtub3duUG9zID0+IHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24ocyJVbmtub3duIHBvc2l0aW9uOiAkdW5rbm93blBvcyIpCiAgfS5nZXRPckVsc2UgewogICAgSW5pdGlhbFBvc2l0aW9uSW5TdHJlYW0uTEFURVNUCiAgfQoKICB2YWwgcmVwb3J0SW50ZXJ2YWxNcyA9IGdldEludCgicmVwb3J0SW50ZXJ2YWxNcyIsIDEwMDApCgogIHZhbCBzb2Z0TGltaXRNYXhSZWNvcmRzUGVyVHJpZ2dlciA9IGdldEludCgic29mdExpbWl0TWF4UmVjb3Jkc1BlclRyaWdnZXIiLCAtMSkKCiAgdmFsIGxpbWl0TWF4UmVjb3Jkc1RvSW5mZXJTY2hlbWEgPSBnZXRJbnQoImxpbWl0TWF4UmVjb3Jkc1RvSW5mZXJTY2hlbWEiLCAxMDAwMDApCgogIHZhbCByZXRyeVRpbWVvdXRNcyA9IGdldEludCgicmV0cnlUaW1lb3V0TXMiLCAxMDAwMCkKCiAgdmFsIGZhaWxPbkRhdGFMb3NzID0gZ2V0Qm9vbCgiZmFpbE9uRGF0YUxvc3MiLCBmYWxzZSkKfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBDYXNlSW5zZW5zaXRpdmVNYXAK</text>
