@@ -21,10 +21,12 @@
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/Source.scala" timestamp="1507711852899">
         <mark key="'" line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1507861392530">
-        <mark key="'" line="297" column="66" />
-        <mark key="[" line="542" column="0" />
-        <mark key="]" line="543" column="35" />
+      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1507863463672">
+        <mark key="'" line="322" column="26" />
+        <mark key="[" line="537" column="39" />
+        <mark key="]" line="537" column="4" />
+        <mark key="^" line="537" column="4" />
+        <mark key="." line="537" column="4" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" timestamp="1507798006400">
         <mark key="'" line="79" column="15" />
@@ -241,20 +243,19 @@
         <mark key="'" line="36" column="73" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.1.0/spark-catalyst_2.11-2.1.0-sources.jar!/org/apache/spark/sql/catalyst/util/CaseInsensitiveMap.scala" timestamp="1507788437766" />
-      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1507861036008">
-        <mark key="'" line="87" column="45" />
-        <mark key="[" line="102" column="6" />
-        <mark key="]" line="102" column="6" />
-        <mark key="^" line="29" column="0" />
-        <mark key="." line="102" column="6" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1507863332814">
+        <mark key="'" line="88" column="45" />
+        <mark key="[" line="90" column="56" />
+        <mark key="]" line="90" column="64" />
+        <mark key="^" line="90" column="64" />
+        <mark key="." line="90" column="64" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.1/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisBackedBlockRDD.scala" timestamp="1507799373924" />
-      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming-kinesis-asl_2.11/srcs/spark-streaming-kinesis-asl_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/kinesis/KinesisBackedBlockRDD.scala" timestamp="1507861632102">
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming-kinesis-asl_2.11/srcs/spark-streaming-kinesis-asl_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/kinesis/KinesisBackedBlockRDD.scala" timestamp="1507862916634">
         <mark key="'" line="161" column="76" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="514" column="43" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/types/StructType.scala" />
       <jump line="469" column="39" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/types/StructType.scala" />
       <jump line="467" column="27" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/types/StructType.scala" />
       <jump line="463" column="42" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/types/StructType.scala" />
@@ -354,19 +355,20 @@
       <jump line="117" column="7" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSnapshotRDD.scala" />
       <jump line="105" column="19" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSnapshotRDD.scala" />
       <jump line="80" column="64" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSnapshotRDD.scala" />
+      <jump line="322" column="26" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>partition.</text>
+        <text>KinesisOptions</text>
       </register>
       <register name="-" type="4">
-        <text>partition.</text>
+        <text>KinesisOptions</text>
       </register>
       <register name="/" type="4">
-        <text>num</text>
+        <text>option</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMua2luZXNpcy5tb2RlbC5SZWNvcmQK</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBraW5lc2lzT3B0aW9ucyA9IG5ldyBLaW5lc2lzT3B0aW9ucyhzb3VyY2VPcHRpb25zKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMua2luZXNpcy5tb2RlbC4K</text>
@@ -400,9 +402,9 @@
       </register>
     </registers>
     <search>
-      <last-search>num</last-search>
+      <last-search>option</last-search>
       <last-offset />
-      <last-pattern>num</last-pattern>
+      <last-pattern>option</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -410,7 +412,6 @@
     </search>
     <history>
       <history-search>
-        <entry>streaming</entry>
         <entry>implicit</entry>
         <entry>field</entry>
         <entry>structfiels</entry>
@@ -430,6 +431,7 @@
         <entry>source</entry>
         <entry>record</entry>
         <entry>num</entry>
+        <entry>option</entry>
       </history-search>
       <history-cmd>
         <entry>69</entry>
