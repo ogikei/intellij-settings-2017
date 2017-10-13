@@ -169,12 +169,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="24" column="57" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSnapshotRDD.scala" timestamp="1507861759586">
+      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSnapshotRDD.scala" timestamp="1507862309377">
         <mark key="'" line="67" column="40" />
-        <mark key="[" line="75" column="76" />
-        <mark key="]" line="75" column="77" />
-        <mark key="^" line="75" column="77" />
-        <mark key="." line="75" column="77" />
+        <mark key="[" line="75" column="78" />
+        <mark key="]" line="75" column="78" />
+        <mark key="^" line="75" column="78" />
+        <mark key="." line="75" column="78" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/streaming/src/test/scala/org/apache/spark/streaming/rdd/MapWithStateRDDSuite.scala" timestamp="1507697449020">
         <mark key="'" line="29" column="24" />
@@ -356,11 +356,11 @@
       <jump line="80" column="64" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSnapshotRDD.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMua2luZXNpcy5tb2RlbC4K</text>
+      <register name="&quot;" type="4">
+        <text>partition.</text>
       </register>
       <register name="-" type="4">
-        <text>KinesisBackedBlockRDD</text>
+        <text>partition.</text>
       </register>
       <register name="/" type="4">
         <text>num</text>
