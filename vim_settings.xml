@@ -24,8 +24,8 @@
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/Source.scala" timestamp="1507711852899">
         <mark key="'" line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1507886339947">
-        <mark key="'" line="75" column="4" />
+      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1507886801468">
+        <mark key="'" line="318" column="29" />
         <mark key="[" line="472" column="87" />
         <mark key="]" line="472" column="86" />
         <mark key="^" line="472" column="86" />
@@ -262,7 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="362" column="23" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="38" column="9" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" />
       <jump line="17" column="7" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSnapshotRDD.scala" />
       <jump line="92" column="21" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
@@ -362,6 +361,7 @@
       <jump line="23" column="26" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceOffset.scala" />
       <jump line="30" column="23" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceOffset.scala" />
       <jump line="38" column="46" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceOffset.scala" />
+      <jump line="318" column="29" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
