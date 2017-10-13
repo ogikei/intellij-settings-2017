@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceOffset.scala" timestamp="1507886556871">
+        <mark key="'" line="38" column="46" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceOffset.scala" timestamp="1507789067808">
         <mark key="'" line="65" column="1" />
         <mark key="[" line="0" column="0" />
@@ -21,12 +24,12 @@
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/Source.scala" timestamp="1507711852899">
         <mark key="'" line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1507885453248">
+      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1507886339947">
         <mark key="'" line="75" column="4" />
-        <mark key="[" line="537" column="39" />
-        <mark key="]" line="537" column="4" />
-        <mark key="^" line="537" column="4" />
-        <mark key="." line="537" column="4" />
+        <mark key="[" line="472" column="87" />
+        <mark key="]" line="472" column="86" />
+        <mark key="^" line="472" column="86" />
+        <mark key="." line="472" column="86" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" timestamp="1507798006400">
         <mark key="'" line="79" column="15" />
@@ -259,10 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="22" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" />
-      <jump line="73" column="28" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" />
-      <jump line="74" column="67" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" />
-      <jump line="77" column="6" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" />
       <jump line="362" column="23" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="38" column="9" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" />
       <jump line="17" column="7" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSnapshotRDD.scala" />
@@ -359,55 +358,60 @@
       <jump line="68" column="46" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="71" column="30" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="75" column="4" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
+      <jump line="54" column="13" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceOffset.scala" />
+      <jump line="23" column="26" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceOffset.scala" />
+      <jump line="30" column="23" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceOffset.scala" />
+      <jump line="38" column="46" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceOffset.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBAdHJhbnNpZW50IHByaXZhdGUgdmFsIGNhc2VTZW5zaXRpdmVQYXJhbXMyID0gbmV3IENhc2VJbnNlbnNpdGl2ZU1hcChwYXJhbWV0ZXJzMikK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>parameters2</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>source</text>
+        <text>kinesisshar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAdHJhbnNpZW50IHByaXZhdGUgdmFsIGNhc2VTZW5zaXRpdmVQYXJhbXMgPSBDYXNlSW5zZW5zaXRpdmVNYXAocGFyYW1ldGVycykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAdHJhbnNpZW50IHByaXZhdGUgdmFsIGNhc2VTZW5zaXRpdmVQYXJhbXMyID0gbmV3IENhc2VJbnNlbnNpdGl2ZU1hcChwYXJhbWV0ZXJzMikK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB2YWwgcGFyYW1ldGVyczIgPSBNYXBbU3RyaW5nLCBUXQo=</text>
+      <register name="2" type="4">
+        <text>edRDDs`
+    synchronizeGeneratedRDDs {</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhc2UgZm9ybWF0IGlmIFNldCgiY3N2IiwgImpzb24iKS5jb250YWlucyhmb3JtYXQudG8pID0+IGZvcm1hdAo=</text>
+        <text encoding="base64">ICBAdHJhbnNpZW50IHByaXZhdGUgdmFsIGNhc2VTZW5zaXRpdmVQYXJhbXMyID0gbmV3IENhc2VJbnNlbnNpdGl2ZU1hcChwYXJhbWV0ZXJzMikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoKICogbGljZW5zZWQgdG8gdGhlIGFwYWNoZSBzb2Z0d2FyZSBmb3VuZGF0aW9uIChhc2YpIHVuZGVyIG9uZSBvciBtb3JlCiAqIGNvbnRyaWJ1dG9yIGxpY2Vuc2UgYWdyZWVtZW50cy4gIHNlZSB0aGUgbm90aWNlIGZpbGUgZGlzdHJpYnV0ZWQgd2l0aAogKiB0aGlzIHdvcmsgZm9yIGFkZGl0aW9uYWwgaW5mb3JtYXRpb24gcmVnYXJkaW5nIGNvcHlyaWdodCBvd25lcnNoaXAuCiAqIHRoZSBhc2YgbGljZW5zZXMgdGhpcyBmaWxlIHRvIHlvdSB1bmRlciB0aGUgYXBhY2hlIGxpY2Vuc2UsIHZlcnNpb24gMi4wCiAqICh0aGUgImxpY2Vuc2UiKTsgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoCiAqIHRoZSBsaWNlbnNlLiAgeW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBsaWNlbnNlIGF0CiAqCiAqICAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9saWNlbnNlLTIuMAogKgogKiB1bmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiAqIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBsaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJhcyBpcyIgYmFzaXMsCiAqIHdpdGhvdXQgd2FycmFudGllcyBvciBjb25kaXRpb25zIG9mIGFueSBraW5kLCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiBzZWUgdGhlIGxpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiAqIGxpbWl0YXRpb25zIHVuZGVyIHRoZSBsaWNlbnNlLgogKi8KCnBhY2thZ2Ugb3JnLmFwYWNoZS5zcGFyay5zcWwua2luZXNpcwoKaW1wb3J0IGNvbS5hbWF6b25hd3MucmVnaW9ucy5SZWdpb25VdGlscwoKaW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsuaW50ZXJuYWwuTG9nZ2luZwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3QudXRpbC5DYXNlSW5zZW5zaXRpdmVNYXAKCnByaXZhdGVbc3BhcmtdIGNsYXNzIEtpbmVzaXNPcHRpb25zKEB0cmFuc2llbnQgcHJpdmF0ZSB2YWwgcGFyYW1ldGVyczogTWFwW1N0cmluZywgU3RyaW5nXSkKICAgIGV4dGVuZHMgTG9nZ2luZyB3aXRoIFNlcmlhbGl6YWJsZSB7CgogIEB0cmFuc2llbnQgcHJpdmF0ZSB2YWwgY2FzZVNlbnNpdGl2ZVBhcmFtcyA9IG5ldyBDYXNlSW5zZW5zaXRpdmVNYXAocGFyYW1ldGVycykKCiAgcHJpdmF0ZSBkZWYgZ2V0Qm9vbChwYXJhbU5hbWU6IFN0cmluZywgZGVmYXVsdDogQm9vbGVhbiA9IGZhbHNlKTogQm9vbGVhbiA9IHsKICAgIHZhbCBwYXJhbSA9IGNhc2VTZW5zaXRpdmVQYXJhbXMuZ2V0T3JFbHNlKHBhcmFtTmFtZSwgZGVmYXVsdC50b1N0cmluZykKICAgIGlmIChwYXJhbSA9PSBudWxsKSB7CiAgICAgIGRlZmF1bHQKICAgIH0gZWxzZSBpZiAocGFyYW0gPT0gInRydWUiKSB7CiAgICAgIHRydWUKICAgIH0gZWxzZSBpZiAocGFyYW0gPT0gImZhbHNlIikgewogICAgICBmYWxzZQogICAgfSBlbHNlIHsKICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbihzIiRwYXJhbU5hbWUgZmxhZyBjYW4gYmUgdHJ1ZSBvciBmYWxzZSIpCiAgICB9CiAgfQoKICBwcml2YXRlIGRlZiBnZXRJbnQocGFyYW1OYW1lOiBTdHJpbmcsIGRlZmF1bHQ6IEludCk6IEludCA9IHsKICAgIHZhbCBwYXJhbVZhbHVlID0gY2FzZVNlbnNpdGl2ZVBhcmFtcy5nZXQocGFyYW1OYW1lKQogICAgcGFyYW1WYWx1ZSBtYXRjaCB7CiAgICAgIGNhc2UgTm9uZSA9PiBkZWZhdWx0CiAgICAgIGNhc2UgU29tZShudWxsKSA9PiBkZWZhdWx0CiAgICAgIGNhc2UgU29tZSh2YWx1ZSkgPT4gdHJ5IHsKICAgICAgICB2YWx1ZS50b0ludAogICAgICB9IGNhdGNoIHsKICAgICAgICBjYXNlIGU6IE51bWJlckZvcm1hdEV4Y2VwdGlvbiA9PgogICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24ocyIkcGFyYW1OYW1lIHNob3VsZCBiZSBhbiBpbnRlZ2VyLiBGb3VuZCAkdmFsdWUiKQogICAgICB9CiAgICB9CiAgfQoKICBsYXp5IHZhbCBmb3JtYXQ6IFN0cmluZyA9IGNhc2VTZW5zaXRpdmVQYXJhbXMuZ2V0KCJmb3JtYXQiKS5tYXAgewogICAgY2FzZSBmb3JtYXQgaWYgU2V0KCJjc3YiLCAianNvbiIpLmNvbnRhaW5zKGZvcm1hdCkgPT4gZm9ybWF0CiAgICBjYXNlIHVua25vd25Gb3JtYXQgPT4gdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbihzIlVua25vd24gZm9ybWF0OiAkdW5rbm93bkZvcm1hdCIpCiAgfS5nZXRPckVsc2UgewogICAgImRlZmF1bHQiCiAgfQoKICBsYXp5IHZhbCBlbmRwb2ludFVybDogU3RyaW5nID0gcGFyYW1ldGVycy5nZXRPckVsc2UoImVuZHBvaW50VXJsIiwKICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIk9wdGlvbiBgZW5kcG9pbnRVcmxgIG11c3QgYmUgc2V0IikpCgogIGxhenkgdmFsIHJlZ2lvbjogU3RyaW5nID0gcGFyYW1ldGVycy5nZXRPckVsc2UoInJlZ2lvbk5hbWUiLAogICAgUmVnaW9uVXRpbHMuZ2V0UmVnaW9uTWV0YWRhdGEuZ2V0UmVnaW9uQnlFbmRwb2ludChlbmRwb2ludFVybCkuZ2V0TmFtZSkKCiAgbGF6eSB2YWwgc3RyZWFtTmFtZXM6IEFycmF5W1N0cmluZ10gPSBwYXJhbWV0ZXJzLmdldCgic3RyZWFtcyIpLm1hcChfLnNwbGl0KCIsIikpLmdldE9yRWxzZSB7CiAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJPcHRpb24gYHN0cmVhbXNgIG11c3QgYmUgc2V0IikKICB9CgogIGxhenkgdmFsIGxpbWl0TWF4UmVjb3Jkc1RvSW5mZXJTY2hlbWE6IEludCA9IGdldEludCgibGltaXRNYXhSZWNvcmRzVG9JbmZlclNjaGVtYSIsIDEwMDAwMCkKCiAgdmFsIG1heFJldHJpZXM6IEludCA9IGdldEludCgibWF4UmV0cmllcyIsIDMpCgogIHZhbCByZXRyeVdhaXRUaW1lTXM6IEludCA9IGdldEludCgicmV0cnlXYWl0VGltZU1zIiwgMTAwKQoKICB2YWwgcmV0cnlUaW1lb3V0TXM6IEludCA9IGdldEludCgicmV0cnlUaW1lb3V0TXMiLCAxMDAwMCkKCn0K</text>
+        <text encoding="base64">ICB2YWwgcGFyYW1ldGVyczIgPSBNYXBbU3RyaW5nLCBUXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCByZWFkQ29uZmlndXJhdGlvbiA9IEtpbmVzaXNSZWFkQ29uZmlndXJhdGlvbnMoCiAgICBraW5lc2lzT3B0aW9ucy5tYXhSZXRyaWVzLCBraW5lc2lzT3B0aW9ucy5yZXRyeVdhaXRUaW1lTXMsIGtpbmVzaXNPcHRpb25zLnJldHJ5VGltZW91dE1zKQo=</text>
+        <text encoding="base64">ICAgIGNhc2UgZm9ybWF0IGlmIFNldCgiY3N2IiwgImpzb24iKS5jb250YWlucyhmb3JtYXQudG8pID0+IGZvcm1hdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">LyoKICogbGljZW5zZWQgdG8gdGhlIGFwYWNoZSBzb2Z0d2FyZSBmb3VuZGF0aW9uIChhc2YpIHVuZGVyIG9uZSBvciBtb3JlCiAqIGNvbnRyaWJ1dG9yIGxpY2Vuc2UgYWdyZWVtZW50cy4gIHNlZSB0aGUgbm90aWNlIGZpbGUgZGlzdHJpYnV0ZWQgd2l0aAogKiB0aGlzIHdvcmsgZm9yIGFkZGl0aW9uYWwgaW5mb3JtYXRpb24gcmVnYXJkaW5nIGNvcHlyaWdodCBvd25lcnNoaXAuCiAqIHRoZSBhc2YgbGljZW5zZXMgdGhpcyBmaWxlIHRvIHlvdSB1bmRlciB0aGUgYXBhY2hlIGxpY2Vuc2UsIHZlcnNpb24gMi4wCiAqICh0aGUgImxpY2Vuc2UiKTsgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoCiAqIHRoZSBsaWNlbnNlLiAgeW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBsaWNlbnNlIGF0CiAqCiAqICAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9saWNlbnNlLTIuMAogKgogKiB1bmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiAqIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBsaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJhcyBpcyIgYmFzaXMsCiAqIHdpdGhvdXQgd2FycmFudGllcyBvciBjb25kaXRpb25zIG9mIGFueSBraW5kLCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiBzZWUgdGhlIGxpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiAqIGxpbWl0YXRpb25zIHVuZGVyIHRoZSBsaWNlbnNlLgogKi8KCnBhY2thZ2Ugb3JnLmFwYWNoZS5zcGFyay5zcWwua2luZXNpcwoKaW1wb3J0IGNvbS5hbWF6b25hd3MucmVnaW9ucy5SZWdpb25VdGlscwoKaW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsuaW50ZXJuYWwuTG9nZ2luZwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3QudXRpbC5DYXNlSW5zZW5zaXRpdmVNYXAKCnByaXZhdGVbc3BhcmtdIGNsYXNzIEtpbmVzaXNPcHRpb25zKEB0cmFuc2llbnQgcHJpdmF0ZSB2YWwgcGFyYW1ldGVyczogTWFwW1N0cmluZywgU3RyaW5nXSkKICAgIGV4dGVuZHMgTG9nZ2luZyB3aXRoIFNlcmlhbGl6YWJsZSB7CgogIEB0cmFuc2llbnQgcHJpdmF0ZSB2YWwgY2FzZVNlbnNpdGl2ZVBhcmFtcyA9IG5ldyBDYXNlSW5zZW5zaXRpdmVNYXAocGFyYW1ldGVycykKCiAgcHJpdmF0ZSBkZWYgZ2V0Qm9vbChwYXJhbU5hbWU6IFN0cmluZywgZGVmYXVsdDogQm9vbGVhbiA9IGZhbHNlKTogQm9vbGVhbiA9IHsKICAgIHZhbCBwYXJhbSA9IGNhc2VTZW5zaXRpdmVQYXJhbXMuZ2V0T3JFbHNlKHBhcmFtTmFtZSwgZGVmYXVsdC50b1N0cmluZykKICAgIGlmIChwYXJhbSA9PSBudWxsKSB7CiAgICAgIGRlZmF1bHQKICAgIH0gZWxzZSBpZiAocGFyYW0gPT0gInRydWUiKSB7CiAgICAgIHRydWUKICAgIH0gZWxzZSBpZiAocGFyYW0gPT0gImZhbHNlIikgewogICAgICBmYWxzZQogICAgfSBlbHNlIHsKICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbihzIiRwYXJhbU5hbWUgZmxhZyBjYW4gYmUgdHJ1ZSBvciBmYWxzZSIpCiAgICB9CiAgfQoKICBwcml2YXRlIGRlZiBnZXRJbnQocGFyYW1OYW1lOiBTdHJpbmcsIGRlZmF1bHQ6IEludCk6IEludCA9IHsKICAgIHZhbCBwYXJhbVZhbHVlID0gY2FzZVNlbnNpdGl2ZVBhcmFtcy5nZXQocGFyYW1OYW1lKQogICAgcGFyYW1WYWx1ZSBtYXRjaCB7CiAgICAgIGNhc2UgTm9uZSA9PiBkZWZhdWx0CiAgICAgIGNhc2UgU29tZShudWxsKSA9PiBkZWZhdWx0CiAgICAgIGNhc2UgU29tZSh2YWx1ZSkgPT4gdHJ5IHsKICAgICAgICB2YWx1ZS50b0ludAogICAgICB9IGNhdGNoIHsKICAgICAgICBjYXNlIGU6IE51bWJlckZvcm1hdEV4Y2VwdGlvbiA9PgogICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24ocyIkcGFyYW1OYW1lIHNob3VsZCBiZSBhbiBpbnRlZ2VyLiBGb3VuZCAkdmFsdWUiKQogICAgICB9CiAgICB9CiAgfQoKICBsYXp5IHZhbCBmb3JtYXQ6IFN0cmluZyA9IGNhc2VTZW5zaXRpdmVQYXJhbXMuZ2V0KCJmb3JtYXQiKS5tYXAgewogICAgY2FzZSBmb3JtYXQgaWYgU2V0KCJjc3YiLCAianNvbiIpLmNvbnRhaW5zKGZvcm1hdCkgPT4gZm9ybWF0CiAgICBjYXNlIHVua25vd25Gb3JtYXQgPT4gdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbihzIlVua25vd24gZm9ybWF0OiAkdW5rbm93bkZvcm1hdCIpCiAgfS5nZXRPckVsc2UgewogICAgImRlZmF1bHQiCiAgfQoKICBsYXp5IHZhbCBlbmRwb2ludFVybDogU3RyaW5nID0gcGFyYW1ldGVycy5nZXRPckVsc2UoImVuZHBvaW50VXJsIiwKICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIk9wdGlvbiBgZW5kcG9pbnRVcmxgIG11c3QgYmUgc2V0IikpCgogIGxhenkgdmFsIHJlZ2lvbjogU3RyaW5nID0gcGFyYW1ldGVycy5nZXRPckVsc2UoInJlZ2lvbk5hbWUiLAogICAgUmVnaW9uVXRpbHMuZ2V0UmVnaW9uTWV0YWRhdGEuZ2V0UmVnaW9uQnlFbmRwb2ludChlbmRwb2ludFVybCkuZ2V0TmFtZSkKCiAgbGF6eSB2YWwgc3RyZWFtTmFtZXM6IEFycmF5W1N0cmluZ10gPSBwYXJhbWV0ZXJzLmdldCgic3RyZWFtcyIpLm1hcChfLnNwbGl0KCIsIikpLmdldE9yRWxzZSB7CiAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJPcHRpb24gYHN0cmVhbXNgIG11c3QgYmUgc2V0IikKICB9CgogIGxhenkgdmFsIGxpbWl0TWF4UmVjb3Jkc1RvSW5mZXJTY2hlbWE6IEludCA9IGdldEludCgibGltaXRNYXhSZWNvcmRzVG9JbmZlclNjaGVtYSIsIDEwMDAwMCkKCiAgdmFsIG1heFJldHJpZXM6IEludCA9IGdldEludCgibWF4UmV0cmllcyIsIDMpCgogIHZhbCByZXRyeVdhaXRUaW1lTXM6IEludCA9IGdldEludCgicmV0cnlXYWl0VGltZU1zIiwgMTAwKQoKICB2YWwgcmV0cnlUaW1lb3V0TXM6IEludCA9IGdldEludCgicmV0cnlUaW1lb3V0TXMiLCAxMDAwMCkKCn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCByZWFkQ29uZmlndXJhdGlvbiA9IEtpbmVzaXNSZWFkQ29uZmlndXJhdGlvbnMoCiAgICBraW5lc2lzT3B0aW9ucy5tYXhSZXRyaWVzLCBraW5lc2lzT3B0aW9ucy5yZXRyeVdhaXRUaW1lTXMsIGtpbmVzaXNPcHRpb25zLnJldHJ5VGltZW91dE1zKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgcmVhZENvbmZpZ3VyYXRpb24gPSBuZXcgS2luZXNpc1JlYWRDb25maWd1cmF0aW9ucyhraW5lc2lzT3ApCg==</text>
+        <text encoding="base64">ICBwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>source</last-search>
+      <last-search>kinesisshar</last-search>
       <last-offset />
-      <last-pattern>source</last-pattern>
+      <last-pattern>kinesisshar</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -415,7 +419,6 @@
     </search>
     <history>
       <history-search>
-        <entry>implicit</entry>
         <entry>field</entry>
         <entry>structfiels</entry>
         <entry>iterator</entry>
@@ -435,6 +438,7 @@
         <entry>num</entry>
         <entry>option</entry>
         <entry>source</entry>
+        <entry>kinesisshar</entry>
       </history-search>
       <history-cmd>
         <entry>69</entry>
