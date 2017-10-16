@@ -189,12 +189,12 @@
         <mark key="^" line="170" column="30" />
         <mark key="." line="170" column="30" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1508149093906">
+      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1508150144147">
         <mark key="j" line="42" column="0" />
-        <mark key="[" line="24" column="78" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="0" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+        <mark key="^" line="117" column="13" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/StreamTest.scala" timestamp="1507701006952">
         <mark key="'" line="241" column="17" />
@@ -437,10 +437,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Int</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>ssc</text>
@@ -449,31 +449,31 @@
         <text encoding="base64">ICAvKioKICAgKiBBIGhvbGRlciBvZiB0aGUgb2Zmc2V0IHVudGlsIHdoaWNoIHByb2Nlc3NlcyBoYXZlIGJlZW4gZG9uZS4KICAgKi8KICBwcml2YXRlIHZhciBjdXJyZW50T2Zmc2V0OiBPcHRpb25bT2Zmc2V0XSA9IE5vbmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyDmnIDmlrDjga7jgrfjg6Pjg7zjg4njgIHjgrfjg7zjgrHjg7Pjgrnnlarlj7fjgpLlj5bjgaPjgabjgY/jgosK</text>
+        <text encoding="base64">ICAgICAqIHByb2JhYmx5IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGFydGluZ1N0cmVhbU9mZnNldHMgPSBLYWZrYVNvdXJjZVByb3ZpZGVyLmdldEthZmthT2Zmc2V0UmFuZ2VMaW1pdChjYXNlSW5zZW5zaXRpdmVQYXJhbXMsCiAgICAgIFNUQVJUSU5HX09GRlNFVFNfT1BUSU9OX0tFWSwgTGF0ZXN0T2Zmc2V0UmFuZ2VMaW1pdCkKCg==</text>
+        <text encoding="base64">ICAgICAqIHNlcU51bWJlcnMgaGF2ZSBNYXBbU2hhcmQsIHNlcU51bV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyDmnIDmlrDjga7jgrfjg6Pjg7zjg4njgIHjgrfjg7zjgrHjg7Pjgrnnlarlj7fjgpLlj5bjgaPjgabjgY/jgosK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzdGFydGluZ1N0cmVhbU9mZnNldHMgPSBLYWZrYVNvdXJjZVByb3ZpZGVyLmdldEthZmthT2Zmc2V0UmFuZ2VMaW1pdChjYXNlSW5zZW5zaXRpdmVQYXJhbXMsCiAgICAgIFNUQVJUSU5HX09GRlNFVFNfT1BUSU9OX0tFWSwgTGF0ZXN0T2Zmc2V0UmFuZ2VMaW1pdCkKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBtYXhPZmZzZXRzUGVyVHJpZ2dlciA9IHNvdXJjZU9wdGlvbnMuZ2V0KCJtYXhPZmZzZXRzUGVyVHJpZ2dlciIpLm1hcChfLnRvTG9uZykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
