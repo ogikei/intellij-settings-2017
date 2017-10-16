@@ -23,10 +23,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="65" column="1" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1508139450049">
+      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1508139750338">
         <mark key="'" line="509" column="15" />
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="73" />
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="203" column="13" />
         <mark key="." line="320" column="22" />
         <mark key="^" line="320" column="22" />
       </file>
@@ -130,12 +130,12 @@
         <mark key="^" line="170" column="30" />
         <mark key="." line="170" column="30" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1508139461511">
+      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1508139951946">
         <mark key="'" line="31" column="15" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="62" column="0" />
+        <mark key="[" line="57" column="8" />
+        <mark key="]" line="57" column="17" />
+        <mark key="." line="57" column="17" />
+        <mark key="^" line="57" column="17" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/sources/interfaces.scala" timestamp="1507690098980">
         <mark key="'" line="151" column="12" />
@@ -326,43 +326,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlCg==</text>
+        <text encoding="base64">ICAgIHZhCg==</text>
       </register>
       <register name="-" type="4">
-        <text>KinesisSourceOffset()</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>match</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpdmF0ZVtzcGFya10KY2FzZSBjbGFzcyBTdHJlYW1TaGFyZChzdHJlYW1OYW1lOiBTdHJpbmcsIHNoYXJkSWQ6IFN0cmluZykK</text>
+        <text encoding="base64">ICAgIHNlcU51bWJlcnMubWFwIHsgY2FzZSAoc2hhcmQsIHNlcU51bWJlcikgPT4KICAgICAgc2hhcmRJZFRvTGF0ZXN0U3RvcmVkU2VxTnVtYmVyICs9IHNoYXJkIC0+IHNlcU51bWJlcgogICAgfQoKICAgIC8vIEluaXRpYWxpemUgYSBjdXJyZW50IG9mZnNldCB3aXRoIGVhcmxpZXN0IG9uZQogICAgY3VycmVudE9mZnNldCA9IFNvbWUoS2luZXNpc1NvdXJjZU9mZnNldChzZXFOdW1iZXJzKSkKCiAgICAvLyBMYXVuY2ggYSBzcGFyayBzdHJlYW1pbmcgY29udGV4dAogICAgX3NzYy51bmlvbihraW5lc2lzU3RyZWFtcykuZm9yZWFjaFJERChfID0+IHt9KQogICAgX3NzYy5zdGFydCgpCgogICAgLy8gVGhlbiwgc3RhcnQgYSBjbGVhbmVyIHRocmVhZAogICAgcmRkQ2xlYW5lclRocmVhZCA9IHN0YXJ0Q2xlYW5lclRocmVhZCgpCgogICAgc2VxTnVtYmVycwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlCg==</text>
+        <text encoding="base64">ICAgIHZhCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgLEVhcmxpZXN0T2Zmc2V0UmFuZ2VMaW1pdAogICAgICBFYXJsaWVzdE9mZnNldFJhbmdlTGltaXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpdmF0ZVtzcGFya10KY2FzZSBjbGFzcyBTdHJlYW1TaGFyZChzdHJlYW1OYW1lOiBTdHJpbmcsIHNoYXJkSWQ6IFN0cmluZykKCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgU3RyZWFtU2hhcmQgewp9Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIG9mZnNldHMgPSBzdGFydGluZ09mZnNldHMgbWF0Y2ggewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgU3RyZWFtU2hhcmQgewoKfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpdmF0ZVtzcGFya10KY2FzZSBjbGFzcyBTdHJlYW1TaGFyZChzdHJlYW1OYW1lOiBTdHJpbmcsIHNoYXJkSWQ6IFN0cmluZykKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
