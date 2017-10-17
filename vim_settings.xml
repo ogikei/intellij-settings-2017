@@ -184,13 +184,12 @@
         <mark key="^" line="170" column="30" />
         <mark key="." line="170" column="30" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1508207507183">
+      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1508207665889">
         <mark key="'" line="71" column="29" />
         <mark key="j" line="43" column="0" />
-        <mark key="[" line="42" column="58" />
-        <mark key="]" line="42" column="64" />
-        <mark key="." line="42" column="64" />
-        <mark key="^" line="42" column="64" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="53" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/StreamTest.scala" timestamp="1507701006952">
         <mark key="'" line="241" column="17" />
@@ -438,8 +437,8 @@
       <jump line="131" column="0" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">QHRyYW5zaWVudCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBvcHRpb25zID0gS2luZXNpc09wdGlvbnMoc291cmNlT3B0aW9ucykK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">QHRyYW5zaWVudCA=</text>
@@ -451,28 +450,28 @@
         <text encoding="base64">ICBAdHJhbnNpZW50IHByaXZhdGUgdmFsIGNhc2VTZW5zaXRpdmVQYXJhbXMgPSBuZXcgQ2FzZUluc2Vuc2l0aXZlTWFwKHBhcmFtZXRlcnMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEtpbmVzaXNPcHRpb25zLmFwcGx5KCkK</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBvcHRpb25zID0gS2luZXNpc09wdGlvbnMoc291cmNlT3B0aW9ucykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBzc2MgPSBuZXcgU3RyZWFtaW5nQ29udGV4dChzYywgTWlsbGlzZWNvbmRzKG9wdGlvbnMucmVwb3J0SW50ZXJ2YWxNcykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIEtpbmVzaXNPcHRpb25zLmFwcGx5KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBLaW5lc2lzT3B0aW9ucwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsb2dEZWJ1ZygpCg==</text>
+        <text encoding="base64">ICBLaW5lc2lzT3B0aW9ucwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb2dEZWJ1ZygpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
