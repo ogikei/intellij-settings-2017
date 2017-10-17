@@ -95,6 +95,10 @@
         <mark key="^" line="103" column="32" />
         <mark key="." line="103" column="32" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/JsonUtils.scala" timestamp="1508212946547">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="35" column="4" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/scalastyle-config.xml" timestamp="1507690779639">
         <mark key="'" line="159" column="26" />
       </file>
@@ -147,11 +151,12 @@
       <file name="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/test/scala/org/apache/spark/sql/kafka010/KafkaSourceSuite.scala" timestamp="1507701612851">
         <mark key="'" line="154" column="9" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/JsonUtils.scala" timestamp="1508211739901">
-        <mark key="[" line="20" column="2" />
-        <mark key="]" line="22" column="1" />
-        <mark key="." line="22" column="1" />
-        <mark key="^" line="22" column="1" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/JsonUtils.scala" timestamp="1508214112609">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="53" column="64" />
+        <mark key="]" line="53" column="69" />
+        <mark key="." line="53" column="69" />
+        <mark key="^" line="53" column="69" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceProvider.scala" timestamp="1508146403333">
         <mark key="'" line="26" column="12" />
@@ -267,6 +272,12 @@
       <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/arithmetic.scala" timestamp="1507257208674">
         <mark key="'" line="260" column="19" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/JsonUtils.scala" timestamp="1508214062370">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="89" column="26" />
+        <mark key="]" line="89" column="27" />
+        <mark key="." line="89" column="26" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/DataSource.scala" timestamp="1507622406496">
         <mark key="'" line="295" column="10" />
         <mark key="[" line="71" column="18" />
@@ -280,12 +291,6 @@
         <mark key="]" line="108" column="1" />
         <mark key="." line="108" column="1" />
         <mark key="^" line="108" column="1" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisProvider.scala" timestamp="1508131776903">
-        <mark key="[" line="36" column="25" />
-        <mark key="]" line="36" column="25" />
-        <mark key="." line="36" column="25" />
-        <mark key="^" line="36" column="24" />
       </file>
       <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/test/DataStreamReaderWriterSuite.scala" timestamp="1507184992870">
         <mark key="'" line="159" column="19" />
@@ -337,21 +342,15 @@
         <mark key="." line="129" column="7" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceProvider.scala" timestamp="1508131617966" />
-      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceOffset.scala" timestamp="1508211566229">
+      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceOffset.scala" timestamp="1508212786043">
         <mark key="'" line="11" column="17" />
-        <mark key="[" line="39" column="4" />
-        <mark key="]" line="39" column="4" />
-        <mark key="." line="39" column="4" />
-        <mark key="^" line="30" column="0" />
+        <mark key="[" line="25" column="49" />
+        <mark key="]" line="25" column="62" />
+        <mark key="." line="25" column="62" />
+        <mark key="^" line="25" column="62" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="0" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="197" column="5" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="93" column="60" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="109" column="13" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="147" column="35" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="151" column="65" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="156" column="46" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="76" column="35" filename="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="246" column="24" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
@@ -446,55 +445,61 @@
       <jump line="335" column="43" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="338" column="56" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="37" column="17" filename="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSourceOffset.scala" />
+      <jump line="36" column="54" filename="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/JsonUtils.scala" />
+      <jump line="30" column="54" filename="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/JsonUtils.scala" />
+      <jump line="32" column="2" filename="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/JsonUtils.scala" />
+      <jump line="82" column="0" filename="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/JsonUtils.scala" />
+      <jump line="24" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/JsonUtils.scala" />
+      <jump line="25" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/JsonUtils.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>Map[StreamShard, String]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>Map[StreamShard, String]</text>
       </register>
       <register name="/" type="4">
-        <text>shard</text>
+        <text>long</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAdHJhbnNpZW50IHByaXZhdGUgdmFsIGNhc2VTZW5zaXRpdmVQYXJhbXMgPSBuZXcgQ2FzZUluc2Vuc2l0aXZlTWFwKHBhcmFtZXRlcnMpCg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZS5IYXNoTWFwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqIENvbXBhbmlvbiBvYmplY3Qgb2YgdGhlIFtbS2luZXNpc1NvdXJjZU9mZnNldF1dICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5ldyBLaW5lc2lzU291cmNlT2Zmc2V0KAo=</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZS5IYXNoTWFwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXVhYmxlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgIHZhbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgYXBwbHkoc2hhcmRUb09mZnNldHM6IE1hcFtTdHJlYW1TaGFyZCwgTG9uZ10pOiBLaW5lc2lzU291cmNlT2Zmc2V0ID0gbmV3IEtpbmVzaXNTb3VyY2VPZmZzZXQoc2hhcmRUb09mZnNldHMsKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSB2YWwganNvbiA9IEpzb25VdGlscy5wYXJ0aXRpb25PZmZzZXRzKHBhcnRpdGlvblRvT2Zmc2V0cykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBvcHRpb25zID0gS2luZXNpc09wdGlvbnMoc291cmNlT3B0aW9ucykK</text>
+        <text encoding="base64">ICBUb3BpY1BhcnRpdGlvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBzc2MgPSBuZXcgU3RyZWFtaW5nQ29udGV4dChzYywgTWlsbGlzZWNvbmRzKG9wdGlvbnMucmVwb3J0SW50ZXJ2YWxNcykpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEtpbmVzaXNPcHRpb25zLmFwcGx5KCkK</text>
+        <text encoding="base64">ICBkZWYgcGFydGl0aW9uT2Zmc2V0cyhzdHI6IE1hcFtTdHJpbmcsXSk6IE1hcFtTdHJlYW1TaGFyZCwgU3RyaW5nXSA9IHsKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>shard</last-search>
+      <last-search>long</last-search>
       <last-offset />
-      <last-pattern>shard</last-pattern>
+      <last-pattern>long</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -502,7 +507,6 @@
     </search>
     <history>
       <history-search>
-        <entry>EarliestOffsetRangeLimit</entry>
         <entry>add</entry>
         <entry>batchid</entry>
         <entry>seqnumber</entry>
@@ -522,6 +526,7 @@
         <entry>object</entry>
         <entry>json</entry>
         <entry>shard</entry>
+        <entry>long</entry>
       </history-search>
       <history-cmd>
         <entry>69</entry>
