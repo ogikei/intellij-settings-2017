@@ -151,12 +151,12 @@
       <file name="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/test/scala/org/apache/spark/sql/kafka010/KafkaSourceSuite.scala" timestamp="1507701612851">
         <mark key="'" line="154" column="9" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/JsonUtils.scala" timestamp="1508215651381">
+      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/JsonUtils.scala" timestamp="1508217682853">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="68" column="31" />
-        <mark key="]" line="68" column="30" />
-        <mark key="." line="68" column="30" />
-        <mark key="^" line="68" column="30" />
+        <mark key="[" line="53" column="62" />
+        <mark key="]" line="53" column="62" />
+        <mark key="." line="53" column="62" />
+        <mark key="^" line="53" column="66" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceProvider.scala" timestamp="1508146403333">
         <mark key="'" line="26" column="12" />
@@ -193,12 +193,12 @@
         <mark key="^" line="170" column="30" />
         <mark key="." line="170" column="30" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1508215766977">
-        <mark key="'" line="71" column="29" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1508216826807">
+        <mark key="'" line="36" column="24" />
         <mark key="j" line="43" column="0" />
-        <mark key="[" line="44" column="36" />
-        <mark key="]" line="44" column="42" />
-        <mark key="." line="44" column="42" />
+        <mark key="[" line="34" column="36" />
+        <mark key="]" line="34" column="36" />
+        <mark key="." line="34" column="36" />
         <mark key="^" line="44" column="42" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/StreamTest.scala" timestamp="1507701006952">
@@ -273,11 +273,10 @@
       <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/arithmetic.scala" timestamp="1507257208674">
         <mark key="'" line="260" column="19" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/JsonUtils.scala" timestamp="1508214062370">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="89" column="26" />
-        <mark key="]" line="89" column="27" />
-        <mark key="." line="89" column="26" />
+      <file name="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/JsonUtils.scala" timestamp="1508218516324">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/DataSource.scala" timestamp="1507622406496">
         <mark key="'" line="295" column="10" />
@@ -352,10 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="362" column="17" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="61" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="64" column="26" filename="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="60" column="14" filename="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="194" column="21" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/execution/streaming/HDFSMetadataLog.scala" />
       <jump line="200" column="59" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/execution/streaming/HDFSMetadataLog.scala" />
       <jump line="139" column="31" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/execution/streaming/HDFSMetadataLog.scala" />
@@ -452,13 +447,17 @@
       <jump line="92" column="17" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" />
       <jump line="60" column="11" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" />
       <jump line="74" column="27" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" />
+      <jump line="36" column="24" filename="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
+      <jump line="97" column="0" filename="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/JsonUtils.scala" />
+      <jump line="20" column="0" filename="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/JsonUtils.scala" />
+      <jump line="99" column="6" filename="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/JsonUtils.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBhID0gcGFyYW1ldGVycy5nZXQoInN0cmVhbXMiKS5tYXAoXy5zcGxpdCgiLCIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>streamname</text>
@@ -467,31 +466,31 @@
         <text encoding="base64">ICBsYXp5IHZhbCBzdHJlYW1OYW1lcyA9IHsKICAgIHBhcmFtZXRlcnMuZ2V0KCJzdHJlYW1zIikubWFwKF8uc3BsaXQoIiwiKSkuZ2V0T3JFbHNlIHsKICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiT3B0aW9uIGBzdHJlYW1zYCBtdXN0IGJlIHNldCIpCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBhID0gcGFyYW1ldGVycy5nZXQoInN0cmVhbXMiKS5tYXAoXy5zcGxpdCgiLCIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgbXNvcnRbVF0oeHM6IExpc3RbVF0pKGltcGxpY2l0IG9yZDogT3JkZXJpbmdbVF0pOiBMaXN0W1RdID0gewogICAgdmFsIG4gPSB4cy5sZW5ndGggLyAyCiAgICBpZiAobiA9PSAwKSB4cwogICAgZWxzZSB7CiAgICAgIGRlZiBtZXJnZSh4czogTGlzdFtUXSwgeXM6IExpc3RbVF0pOiBMaXN0W1RdID0gKHhzLCB5cykgbWF0Y2ggewogICAgICAgIGNhc2UgKHggOjogeHMxLCB5IDo6IHlzMSkgPT4KICAgICAgICAgIGlmIChvcmQubHQoKSkKICAgICAgfQogICAgICB2YWwgKGZzdCwgc25kKSA9IHhzIHNwbGl0QXQgbgogICAgICBtZXJnZShtc29ydChmc3QpLCBtc29ydChzbmQpKQogICAgfQogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHggOjogbWVyZ2UoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXBvcnRJbnRlcnZhbE1zOiBJbnQgPSBnZXRJbnQoInJlcG9ydEludGVydmFsTXMiLCAxMDAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgaG9nZShpbXBsaWNpdCB4OiBJbnQsIHM6IFN0cmluZyk6IFN0cmluZyA9IHggKiBzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBlbHNlIHkgOjogbWVyZ2UoeHMsIHlzMSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoeCA8IHkpIHggOjogbWVyZ2UoeHMxLCB5cykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZS5IYXNoTWFwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSB5IDo6IHlzMSA9Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXVhYmxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBOaWwgPT4geHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHlzIG1hdGNoIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
