@@ -9,8 +9,8 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceOffset.scala" timestamp="1508135837018">
-        <mark key="'" line="31" column="9" />
+      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceOffset.scala" timestamp="1508209254790">
+        <mark key="'" line="63" column="58" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="63" column="63" />
         <mark key="." line="29" column="17" />
@@ -326,18 +326,15 @@
         <mark key="." line="129" column="7" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceProvider.scala" timestamp="1508131617966" />
-      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceOffset.scala" timestamp="1508138449161">
+      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceOffset.scala" timestamp="1508209303507">
         <mark key="'" line="11" column="17" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="26" column="1" />
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="7" />
+        <mark key="." line="33" column="7" />
+        <mark key="^" line="33" column="7" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="2" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="284" column="4" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="561" column="52" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="14" column="3" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="208" column="16" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0-sources.jar!/org/apache/spark/sql/execution/streaming/HDFSMetadataLog.scala" />
       <jump line="28" column="15" filename="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
@@ -435,55 +432,58 @@
       <jump line="71" column="23" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="544" column="11" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="131" column="0" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
+      <jump line="33" column="22" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceOffset.scala" />
+      <jump line="60" column="44" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceOffset.scala" />
+      <jump line="63" column="58" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceOffset.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBvcHRpb25zID0gS2luZXNpc09wdGlvbnMoc291cmNlT3B0aW9ucykK</text>
+        <text encoding="base64">ICBvdmVycmlkZSB2YWwganNvbiA9IEpzb25VdGlscy5wYXJ0aXRpb25PZmZzZXRzKHBhcnRpdGlvblRvT2Zmc2V0cykK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QHRyYW5zaWVudCA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>object</text>
+        <text>json</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAdHJhbnNpZW50IHByaXZhdGUgdmFsIGNhc2VTZW5zaXRpdmVQYXJhbXMgPSBuZXcgQ2FzZUluc2Vuc2l0aXZlTWFwKHBhcmFtZXRlcnMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBvcHRpb25zID0gS2luZXNpc09wdGlvbnMoc291cmNlT3B0aW9ucykK</text>
+        <text encoding="base64">ICBvdmVycmlkZSB2YWwganNvbiA9IEpzb25VdGlscy5wYXJ0aXRpb25PZmZzZXRzKHBhcnRpdGlvblRvT2Zmc2V0cykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBzc2MgPSBuZXcgU3RyZWFtaW5nQ29udGV4dChzYywgTWlsbGlzZWNvbmRzKG9wdGlvbnMucmVwb3J0SW50ZXJ2YWxNcykpCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBvcHRpb25zID0gS2luZXNpc09wdGlvbnMoc291cmNlT3B0aW9ucykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEtpbmVzaXNPcHRpb25zLmFwcGx5KCkK</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBzc2MgPSBuZXcgU3RyZWFtaW5nQ29udGV4dChzYywgTWlsbGlzZWNvbmRzKG9wdGlvbnMucmVwb3J0SW50ZXJ2YWxNcykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIEtpbmVzaXNPcHRpb25zLmFwcGx5KCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBLaW5lc2lzT3B0aW9ucwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBLaW5lc2lzT3B0aW9ucwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsb2dEZWJ1ZygpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb2dEZWJ1ZygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>object</last-search>
+      <last-search>json</last-search>
       <last-offset />
-      <last-pattern>object</last-pattern>
+      <last-pattern>json</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -491,7 +491,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shardto</entry>
         <entry>EarliestOffsetRangeLimit</entry>
         <entry>shard</entry>
         <entry>add</entry>
@@ -511,6 +510,7 @@
         <entry>privare</entry>
         <entry>private</entry>
         <entry>object</entry>
+        <entry>json</entry>
       </history-search>
       <history-cmd>
         <entry>69</entry>
