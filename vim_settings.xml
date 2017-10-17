@@ -26,11 +26,12 @@
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/Source.scala" timestamp="1508148956899">
         <mark key="'" line="27" column="6" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1508230106552">
-        <mark key="'" line="102" column="19" />
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
-        <mark key="." line="200" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1508230800658">
+        <mark key="'" line="125" column="14" />
+        <mark key="[" line="198" column="47" />
+        <mark key="]" line="198" column="47" />
+        <mark key="." line="198" column="47" />
+        <mark key="^" line="198" column="46" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" timestamp="1508224595728">
         <mark key="'" line="74" column="27" />
@@ -106,12 +107,6 @@
       <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/scalastyle-config.xml" timestamp="1507183378542">
         <mark key="'" line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisFileFormat.scala" timestamp="1507793206249">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/FileStreamSource.scala" timestamp="1507703089914">
         <mark key="'" line="328" column="4" />
       </file>
@@ -128,24 +123,6 @@
       <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" timestamp="1507260241200">
         <mark key="'" line="390" column="3" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" timestamp="1507879428945">
-        <mark key="'" line="66" column="20" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/streaming/kinesis/KinesisReceiver.scala" timestamp="1507800070902">
-        <mark key="'" line="349" column="0" />
-        <mark key="[" line="353" column="0" />
-        <mark key="]" line="353" column="0" />
-        <mark key="." line="353" column="0" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSnapshotRDD.scala" timestamp="1507892795954">
-        <mark key="'" line="99" column="26" />
-        <mark key="[" line="58" column="7" />
-        <mark key="]" line="58" column="7" />
-        <mark key="." line="58" column="7" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/test/scala/org/apache/spark/sql/kafka010/KafkaSourceSuite.scala" timestamp="1507701612851">
         <mark key="'" line="154" column="9" />
       </file>
@@ -156,16 +133,11 @@
         <mark key="." line="53" column="62" />
         <mark key="^" line="53" column="66" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.1.0/spark-streaming_2.11-2.1.0-sources.jar!/org/apache/spark/streaming/util/RecurringTimer.scala" timestamp="1508231003005" />
       <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/build.sbt" timestamp="1508131419495">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceProvider.scala" timestamp="1508146403333">
-        <mark key="'" line="26" column="12" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/streaming/kinesis/SerializableAWSCredentials.scala" timestamp="1507798829508">
         <mark key="'" line="17" column="3" />
@@ -208,6 +180,7 @@
         <mark key="^" line="252" column="1" />
         <mark key="." line="252" column="1" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/v2/DataSourceRDD.scala" timestamp="1508145566964" />
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.1.0/spark-streaming_2.11-2.1.0-sources.jar!/org/apache/spark/streaming/dstream/DStream.scala" timestamp="1507629720388">
         <mark key="'" line="880" column="0" />
       </file>
@@ -262,7 +235,8 @@
         <mark key="." line="91" column="7" />
         <mark key="^" line="91" column="7" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSourceDStream.scala" timestamp="1508226054794">
+      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSourceDStream.scala" timestamp="1508230602866">
+        <mark key="'" line="94" column="36" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="53" column="26" />
       </file>
@@ -307,12 +281,6 @@
       <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisDStreamFunctions.scala" timestamp="1507113156237">
         <mark key="'" line="36" column="25" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/test/DataFrameReaderWriterSuite.scala" timestamp="1507715022099">
-        <mark key="'" line="144" column="2" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/test/SharedSQLContext.scala" timestamp="1507701555928">
         <mark key="'" line="0" column="0" />
       </file>
@@ -346,12 +314,7 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.1/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisBackedBlockRDD.scala" timestamp="1507893039131">
-        <mark key="'" line="111" column="12" />
-        <mark key="[" line="129" column="7" />
-        <mark key="]" line="129" column="7" />
-        <mark key="." line="129" column="7" />
-      </file>
+      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceProvider.scala" timestamp="1508131617966" />
       <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceOffset.scala" timestamp="1508212786043">
         <mark key="'" line="11" column="17" />
         <mark key="[" line="25" column="49" />
@@ -361,18 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="302" column="61" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="303" column="9" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="322" column="0" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="330" column="30" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="335" column="43" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="338" column="56" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="37" column="17" filename="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSourceOffset.scala" />
-      <jump line="36" column="54" filename="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/JsonUtils.scala" />
-      <jump line="30" column="54" filename="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/JsonUtils.scala" />
-      <jump line="32" column="2" filename="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/JsonUtils.scala" />
-      <jump line="82" column="0" filename="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/JsonUtils.scala" />
-      <jump line="24" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/JsonUtils.scala" />
       <jump line="25" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/JsonUtils.scala" />
       <jump line="92" column="17" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" />
       <jump line="60" column="11" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" />
@@ -436,7 +387,6 @@
       <jump line="108" column="12" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="165" column="19" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="185" column="16" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="194" column="7" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="492" column="14" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="286" column="21" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="56" column="44" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
@@ -461,16 +411,29 @@
       <jump line="293" column="27" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.1.0/spark-streaming_2.11-2.1.0-sources.jar!/org/apache/spark/streaming/StreamingContext.scala" />
       <jump line="331" column="27" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.1.0/spark-streaming_2.11-2.1.0-sources.jar!/org/apache/spark/streaming/StreamingContext.scala" />
       <jump line="435" column="34" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.1.0/spark-streaming_2.11-2.1.0-sources.jar!/org/apache/spark/streaming/StreamingContext.scala" />
+      <jump line="194" column="17" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
+      <jump line="195" column="25" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
+      <jump line="50" column="31" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSourceDStream.scala" />
+      <jump line="52" column="18" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSourceDStream.scala" />
+      <jump line="55" column="10" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSourceDStream.scala" />
+      <jump line="81" column="78" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSourceDStream.scala" />
+      <jump line="82" column="70" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSourceDStream.scala" />
+      <jump line="86" column="57" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSourceDStream.scala" />
+      <jump line="88" column="52" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSourceDStream.scala" />
+      <jump line="94" column="36" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSourceDStream.scala" />
+      <jump line="202" column="4" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
+      <jump line="520" column="4" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
+      <jump line="125" column="14" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIF9zc2MuYXdhaXRUZXJtaW5hdGlvbigpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">XyA9PiB7fQ==</text>
       </register>
       <register name="-" type="4">
-        <text>kinesis</text>
+        <text encoding="base64">XyA9PiB7fQ==</text>
       </register>
       <register name="/" type="4">
-        <text>default</text>
+        <text encoding="base64">XDxyZGRDbGVhbmVyVGhyZWFkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyoqIENsYXNzIHJlcHJlc2VudGluZyBhIHJhbmdlIG9mIEtpbmVzaXMgc2VxdWVuY2UgbnVtYmVycy4gQm90aCBzZXF1ZW5jZSBudW1iZXJzIGFyZSBpbmNsdXNpdmUuICovCnByaXZhdGVba2luZXNpc10KY2FzZSBjbGFzcyBTZXF1ZW5jZU51bWJlclJhbmdlKAogICAgc3RyZWFtTmFtZTogU3RyaW5nLAogICAgc2hhcmRJZDogU3RyaW5nLAogICAgZnJvbVNlcU51bWJlcjogU3RyaW5nLAogICAgdG9TZXFOdW1iZXI6IFN0cmluZywKICAgIHJlY29yZENvdW50OiBJbnQpCgovKiogQ2xhc3MgcmVwcmVzZW50aW5nIGFuIGFycmF5IG9mIEtpbmVzaXMgc2VxdWVuY2UgbnVtYmVyIHJhbmdlcyAqLwpwcml2YXRlW2tpbmVzaXNdCmNhc2UgY2xhc3MgU2VxdWVuY2VOdW1iZXJSYW5nZXMocmFuZ2VzOiBTZXFbU2VxdWVuY2VOdW1iZXJSYW5nZV0pIHsKICBkZWYgaXNFbXB0eSgpOiBCb29sZWFuID0gcmFuZ2VzLmlzRW1wdHkKCiAgZGVmIG5vbkVtcHR5KCk6IEJvb2xlYW4gPSByYW5nZXMubm9uRW1wdHkKCiAgb3ZlcnJpZGUgZGVmIHRvU3RyaW5nKCk6IFN0cmluZyA9IHJhbmdlcy5ta1N0cmluZygiU2VxdWVuY2VOdW1iZXJSYW5nZXMoIiwgIiwgIiwgIikiKQp9Cgpwcml2YXRlW2tpbmVzaXNdCm9iamVjdCBTZXF1ZW5jZU51bWJlclJhbmdlcyB7CiAgZGVmIGFwcGx5KHJhbmdlOiBTZXF1ZW5jZU51bWJlclJhbmdlKTogU2VxdWVuY2VOdW1iZXJSYW5nZXMgPSB7CiAgICBuZXcgU2VxdWVuY2VOdW1iZXJSYW5nZXMoU2VxKHJhbmdlKSkKICB9Cn0K</text>
@@ -507,9 +470,9 @@
       </register>
     </registers>
     <search>
-      <last-search>default</last-search>
+      <last-search encoding="base64">XDxyZGRDbGVhbmVyVGhyZWFkXD4=</last-search>
       <last-offset />
-      <last-pattern>default</last-pattern>
+      <last-pattern encoding="base64">XDxyZGRDbGVhbmVyVGhyZWFkXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -517,9 +480,6 @@
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
-        <entry>shard</entry>
-        <entry>long</entry>
         <entry>streamname</entry>
         <entry>kinesisclient</entry>
         <entry>creden</entry>
@@ -537,6 +497,9 @@
         <entry>initia</entry>
         <entry encoding="base64">XDxraW5lc2lzU3RyZWFtc1w+</entry>
         <entry>default</entry>
+        <entry>kinesissource</entry>
+        <entry>stream</entry>
+        <entry encoding="base64">XDxyZGRDbGVhbmVyVGhyZWFkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>69</entry>
