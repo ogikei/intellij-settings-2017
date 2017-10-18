@@ -98,8 +98,8 @@
         <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/HiveSessionStateBuilder.scala" timestamp="1508308839619" />
-      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1508227312627">
-        <mark key="'" line="114" column="4" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1508323162916">
+        <mark key="'" line="88" column="25" />
         <mark key="j" line="52" column="0" />
         <mark key="[" line="63" column="8" />
         <mark key="]" line="63" column="14" />
@@ -340,7 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="43" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="46" column="38" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="87" column="4" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="88" column="4" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
@@ -440,6 +439,7 @@
       <jump line="126" column="88" filename="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" />
       <jump line="128" column="17" filename="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" />
       <jump line="136" column="60" filename="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" />
+      <jump line="88" column="25" filename="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
