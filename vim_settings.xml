@@ -10,9 +10,6 @@
         <mark key="." line="29" column="17" />
         <mark key="^" line="40" column="33" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/StreamingQueryManager.scala" timestamp="1508304837097">
-        <mark key="'" line="225" column="4" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceOffset.scala" timestamp="1507789067808">
         <mark key="'" line="65" column="1" />
         <mark key="[" line="0" column="0" />
@@ -25,9 +22,6 @@
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/external/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisTestUtils.scala" timestamp="1507703072047">
         <mark key="'" line="256" column="27" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.1.0/spark-streaming_2.11-2.1.0-sources.jar!/org/apache/spark/streaming/dstream/SocketInputDStream.scala" timestamp="1508235669646">
-        <mark key="'" line="37" column="20" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/Source.scala" timestamp="1508148956899">
         <mark key="'" line="27" column="6" />
@@ -49,13 +43,6 @@
       <file name="$USER_HOME$/OfficeTools/git/spark/mllib/src/test/scala/org/apache/spark/ml/feature/MinHashLSHSuite.scala" timestamp="1507700088689">
         <mark key="'" line="30" column="15" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSourceProvider.scala" timestamp="1508146331212">
-        <mark key="'" line="382" column="20" />
-        <mark key="[" line="98" column="18" />
-        <mark key="]" line="98" column="17" />
-        <mark key="^" line="98" column="17" />
-        <mark key="." line="98" column="17" />
-      </file>
       <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/external/kinesis-stream-writer/pom.xml" timestamp="1507182933083">
         <mark key="'" line="31" column="15" />
       </file>
@@ -65,18 +52,8 @@
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/QueryTest.scala" timestamp="1507700856945">
         <mark key="'" line="311" column="6" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar!/au/com/bytecode/opencsv/CSVReader.class" timestamp="1507102694346">
-        <mark key="'" line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/streaming/src/test/scala/org/apache/spark/streaming/rdd/WriteAheadLogBackedBlockRDDSuite.scala" timestamp="1507700011532">
         <mark key="'" line="29" column="24" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/RateSourceProvider.scala" timestamp="1507712691727">
-        <mark key="'" line="248" column="0" />
-        <mark key="[" line="100" column="4" />
-        <mark key="]" line="100" column="3" />
-        <mark key="." line="100" column="3" />
-        <mark key="^" line="100" column="3" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceDStream.scala" timestamp="1508227174837">
         <mark key="'" line="79" column="0" />
@@ -85,30 +62,11 @@
         <mark key="." line="24" column="12" />
         <mark key="^" line="24" column="12" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/sources/DataSourceTest.scala" timestamp="1507631886636">
-        <mark key="'" line="50" column="14" />
-      </file>
-      <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/SparkSession.scala" timestamp="1507258987259">
-        <mark key="'" line="958" column="4" />
-      </file>
       <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/StreamingQueryManager.scala" timestamp="1507261019316">
         <mark key="'" line="267" column="26" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSource.scala" timestamp="1508235680029">
-        <mark key="'" line="48" column="21" />
-        <mark key="[" line="180" column="24" />
-        <mark key="]" line="180" column="5" />
-        <mark key="^" line="180" column="5" />
-        <mark key="." line="180" column="5" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/scalastyle-config.xml" timestamp="1507690779639">
         <mark key="'" line="159" column="26" />
-      </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/types/StructType.scala" timestamp="1507791918100">
-        <mark key="'" line="263" column="27" />
-      </file>
-      <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/scalastyle-config.xml" timestamp="1507183378542">
-        <mark key="'" line="21" column="18" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/FileStreamSource.scala" timestamp="1507703089914">
         <mark key="'" line="328" column="4" />
@@ -129,24 +87,8 @@
       <file name="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/test/scala/org/apache/spark/sql/kafka010/KafkaSourceSuite.scala" timestamp="1507701612851">
         <mark key="'" line="154" column="9" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/JsonUtils.scala" timestamp="1508217682853">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="53" column="62" />
-        <mark key="]" line="53" column="62" />
-        <mark key="." line="53" column="62" />
-        <mark key="^" line="53" column="66" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.1.0/spark-streaming_2.11-2.1.0-sources.jar!/org/apache/spark/streaming/util/RecurringTimer.scala" timestamp="1508231003005" />
-      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/build.sbt" timestamp="1508131419495">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/StreamingQueryWrapper.scala" timestamp="1508304452967">
         <mark key="'" line="28" column="74" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/encoders/ExpressionEncoder.scala" timestamp="1508308810042">
-        <mark key="'" line="255" column="23" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/streaming/kinesis/SerializableAWSCredentials.scala" timestamp="1507798829508">
         <mark key="'" line="17" column="3" />
@@ -155,17 +97,7 @@
         <mark key="^" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/spark/core/src/main/scala/org/apache/spark/ui/UIUtils.scala" timestamp="1507258485942">
-        <mark key="'" line="497" column="32" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/HiveSessionStateBuilder.scala" timestamp="1508308839619" />
-      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" timestamp="1507709315436">
-        <mark key="'" line="116" column="56" />
-        <mark key="[" line="42" column="17" />
-        <mark key="]" line="170" column="30" />
-        <mark key="^" line="170" column="30" />
-        <mark key="." line="170" column="30" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1508227312627">
         <mark key="'" line="114" column="4" />
         <mark key="j" line="52" column="0" />
@@ -182,6 +114,142 @@
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamWriter.scala" timestamp="1507709098078">
         <mark key="'" line="278" column="22" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0-sources.jar!/org/apache/spark/sql/execution/streaming/HDFSMetadataLog.scala" timestamp="1508134963696">
+        <mark key="'" line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSnapshotRDD.scala" timestamp="1507863989900">
+        <mark key="'" line="67" column="40" />
+        <mark key="[" line="130" column="32" />
+        <mark key="]" line="130" column="32" />
+        <mark key="^" line="111" column="43" />
+        <mark key="." line="130" column="32" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark/streaming/src/test/scala/org/apache/spark/streaming/rdd/MapWithStateRDDSuite.scala" timestamp="1507697449020">
+        <mark key="'" line="29" column="24" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSourceDStream.scala" timestamp="1508230602866">
+        <mark key="'" line="94" column="36" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="53" column="26" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" timestamp="1507106201972">
+        <mark key="'" line="80" column="18" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/arithmetic.scala" timestamp="1507257208674">
+        <mark key="'" line="260" column="19" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/DataSource.scala" timestamp="1507622406496">
+        <mark key="'" line="295" column="10" />
+        <mark key="[" line="71" column="18" />
+        <mark key="]" line="71" column="18" />
+        <mark key="^" line="71" column="18" />
+        <mark key="." line="71" column="18" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/LogicalPlan.scala" timestamp="1508307481615">
+        <mark key="'" line="162" column="19" />
+        <mark key="[" line="47" column="29" />
+        <mark key="]" line="47" column="28" />
+        <mark key="^" line="47" column="28" />
+        <mark key="." line="47" column="28" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/test/DataStreamReaderWriterSuite.scala" timestamp="1507184992870">
+        <mark key="'" line="159" column="19" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/test/SharedSQLContext.scala" timestamp="1507701555928">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/TextSocketStreamSuite.scala" timestamp="1507701324800">
+        <mark key="'" line="95" column="66" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/LogicalPlan.scala" timestamp="1507189169642">
+        <mark key="'" line="190" column="32" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/analysis/Analyzer.scala" timestamp="1508308893289" />
+      <file name="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-java-sdk-core/srcs/aws-java-sdk-core-1.11.198-sources.jar!/com/amazonaws/regions/RegionMetadata.java" timestamp="1507797025108">
+        <mark key="'" line="77" column="17" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/ml/source/libsvm/LibSVMKinesisValueFormat.scala" timestamp="1507183219756">
+        <mark key="'" line="36" column="73" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceProvider.scala" timestamp="1508131617966" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceOffset.scala" timestamp="1508212786043">
+        <mark key="'" line="11" column="17" />
+        <mark key="[" line="25" column="49" />
+        <mark key="]" line="25" column="62" />
+        <mark key="." line="25" column="62" />
+        <mark key="^" line="25" column="62" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/StreamingQueryManager.scala" timestamp="1508304837097">
+        <mark key="'" line="225" column="4" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.1.0/spark-streaming_2.11-2.1.0-sources.jar!/org/apache/spark/streaming/dstream/SocketInputDStream.scala" timestamp="1508235669646">
+        <mark key="'" line="37" column="20" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSourceProvider.scala" timestamp="1508146331212">
+        <mark key="'" line="382" column="20" />
+        <mark key="[" line="98" column="18" />
+        <mark key="]" line="98" column="17" />
+        <mark key="^" line="98" column="17" />
+        <mark key="." line="98" column="17" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar!/au/com/bytecode/opencsv/CSVReader.class" timestamp="1507102694346">
+        <mark key="'" line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/RateSourceProvider.scala" timestamp="1507712691727">
+        <mark key="'" line="248" column="0" />
+        <mark key="[" line="100" column="4" />
+        <mark key="]" line="100" column="3" />
+        <mark key="." line="100" column="3" />
+        <mark key="^" line="100" column="3" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/sources/DataSourceTest.scala" timestamp="1507631886636">
+        <mark key="'" line="50" column="14" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/SparkSession.scala" timestamp="1507258987259">
+        <mark key="'" line="958" column="4" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSource.scala" timestamp="1508235680029">
+        <mark key="'" line="48" column="21" />
+        <mark key="[" line="180" column="24" />
+        <mark key="]" line="180" column="5" />
+        <mark key="^" line="180" column="5" />
+        <mark key="." line="180" column="5" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/types/StructType.scala" timestamp="1507791918100">
+        <mark key="'" line="263" column="27" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/scalastyle-config.xml" timestamp="1507183378542">
+        <mark key="'" line="21" column="18" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" timestamp="1508317638418">
+        <mark key="'" line="136" column="60" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/JsonUtils.scala" timestamp="1508217682853">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="53" column="62" />
+        <mark key="]" line="53" column="62" />
+        <mark key="." line="53" column="62" />
+        <mark key="^" line="53" column="66" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.1.0/spark-streaming_2.11-2.1.0-sources.jar!/org/apache/spark/streaming/util/RecurringTimer.scala" timestamp="1508231003005" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/build.sbt" timestamp="1508131419495">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/encoders/ExpressionEncoder.scala" timestamp="1508308810042">
+        <mark key="'" line="255" column="23" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/spark/core/src/main/scala/org/apache/spark/ui/UIUtils.scala" timestamp="1507258485942">
+        <mark key="'" line="497" column="32" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" timestamp="1507709315436">
+        <mark key="'" line="116" column="56" />
+        <mark key="[" line="42" column="17" />
+        <mark key="]" line="170" column="30" />
+        <mark key="^" line="170" column="30" />
+        <mark key="." line="170" column="30" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/parser/ParseDriver.scala" timestamp="1508222684953">
         <mark key="'" line="172" column="17" />
@@ -208,21 +276,11 @@
         <mark key="." line="182" column="7" />
         <mark key="^" line="182" column="7" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0-sources.jar!/org/apache/spark/sql/execution/streaming/HDFSMetadataLog.scala" timestamp="1508134963696">
-        <mark key="'" line="52" column="0" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSnapshotRDD.scala" timestamp="1507863989900">
-        <mark key="'" line="67" column="40" />
-        <mark key="[" line="130" column="32" />
-        <mark key="]" line="130" column="32" />
-        <mark key="^" line="111" column="43" />
-        <mark key="." line="130" column="32" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark/streaming/src/test/scala/org/apache/spark/streaming/rdd/MapWithStateRDDSuite.scala" timestamp="1507697449020">
-        <mark key="'" line="29" column="24" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/core/src/test/java/org/apache/spark/io/ReadAheadInputStreamSuite.java" timestamp="1507697880146">
         <mark key="'" line="25" column="13" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/Expression.scala" timestamp="1508317551381">
+        <mark key="'" line="99" column="51" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/external/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisBackedBlockRDD.scala" timestamp="1507799939144">
         <mark key="'" line="88" column="46" />
@@ -245,26 +303,8 @@
         <mark key="." line="91" column="7" />
         <mark key="^" line="91" column="7" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSourceDStream.scala" timestamp="1508230602866">
-        <mark key="'" line="94" column="36" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="53" column="26" />
-      </file>
       <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/internal/SQLConf.scala" timestamp="1507187164227">
         <mark key="'" line="739" column="13" />
-      </file>
-      <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" timestamp="1507106201972">
-        <mark key="'" line="80" column="18" />
-      </file>
-      <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/arithmetic.scala" timestamp="1507257208674">
-        <mark key="'" line="260" column="19" />
-      </file>
-      <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/DataSource.scala" timestamp="1507622406496">
-        <mark key="'" line="295" column="10" />
-        <mark key="[" line="71" column="18" />
-        <mark key="]" line="71" column="18" />
-        <mark key="^" line="71" column="18" />
-        <mark key="." line="71" column="18" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/streaming/kinesis/KinesisSourceBlockRDD.scala" timestamp="1507800281802">
         <mark key="'" line="104" column="1" />
@@ -273,34 +313,8 @@
         <mark key="." line="108" column="1" />
         <mark key="^" line="108" column="1" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/LogicalPlan.scala" timestamp="1508307481615">
-        <mark key="'" line="162" column="19" />
-        <mark key="[" line="47" column="29" />
-        <mark key="]" line="47" column="28" />
-        <mark key="^" line="47" column="28" />
-        <mark key="." line="47" column="28" />
-      </file>
-      <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/test/DataStreamReaderWriterSuite.scala" timestamp="1507184992870">
-        <mark key="'" line="159" column="19" />
-      </file>
       <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisDStreamFunctions.scala" timestamp="1507113156237">
         <mark key="'" line="36" column="25" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/test/SharedSQLContext.scala" timestamp="1507701555928">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/execution/streaming/TextSocketStreamSuite.scala" timestamp="1507701324800">
-        <mark key="'" line="95" column="66" />
-      </file>
-      <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/LogicalPlan.scala" timestamp="1507189169642">
-        <mark key="'" line="190" column="32" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/analysis/Analyzer.scala" timestamp="1508308893289" />
-      <file name="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-java-sdk-core/srcs/aws-java-sdk-core-1.11.198-sources.jar!/com/amazonaws/regions/RegionMetadata.java" timestamp="1507797025108">
-        <mark key="'" line="77" column="17" />
-      </file>
-      <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/ml/source/libsvm/LibSVMKinesisValueFormat.scala" timestamp="1507183219756">
-        <mark key="'" line="36" column="73" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisOffsetRangeLimit.scala" timestamp="1508138210358">
         <mark key="'" line="21" column="0" />
@@ -324,30 +338,8 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis-to-spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceProvider.scala" timestamp="1508131617966" />
-      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceOffset.scala" timestamp="1508212786043">
-        <mark key="'" line="11" column="17" />
-        <mark key="[" line="25" column="49" />
-        <mark key="]" line="25" column="62" />
-        <mark key="." line="25" column="62" />
-        <mark key="^" line="25" column="62" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="19" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="321" column="4" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="367" column="4" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="167" column="39" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="168" column="54" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="174" column="64" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="178" column="40" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="183" column="33" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="184" column="25" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="185" column="34" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="186" column="6" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="194" column="28" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="195" column="38" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="319" column="33" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="198" column="43" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="46" column="38" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="87" column="4" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
@@ -434,6 +426,20 @@
       <jump line="41" column="0" filename="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
       <jump line="2" column="1" filename="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
       <jump line="697" column="0" filename="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
+      <jump line="89" column="0" filename="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/Expression.scala" />
+      <jump line="280" column="2" filename="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/Expression.scala" />
+      <jump line="287" column="5" filename="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/Expression.scala" />
+      <jump line="101" column="72" filename="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/Expression.scala" />
+      <jump line="98" column="48" filename="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/Expression.scala" />
+      <jump line="99" column="51" filename="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/Expression.scala" />
+      <jump line="331" column="5" filename="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" />
+      <jump line="193" column="8" filename="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" />
+      <jump line="117" column="28" filename="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" />
+      <jump line="119" column="10" filename="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" />
+      <jump line="120" column="72" filename="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" />
+      <jump line="126" column="88" filename="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" />
+      <jump line="128" column="17" filename="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" />
+      <jump line="136" column="60" filename="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -443,7 +449,7 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>analyzer</text>
+        <text>chil</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyoqIENsYXNzIHJlcHJlc2VudGluZyBhIHJhbmdlIG9mIEtpbmVzaXMgc2VxdWVuY2UgbnVtYmVycy4gQm90aCBzZXF1ZW5jZSBudW1iZXJzIGFyZSBpbmNsdXNpdmUuICovCnByaXZhdGVba2luZXNpc10KY2FzZSBjbGFzcyBTZXF1ZW5jZU51bWJlclJhbmdlKAogICAgc3RyZWFtTmFtZTogU3RyaW5nLAogICAgc2hhcmRJZDogU3RyaW5nLAogICAgZnJvbVNlcU51bWJlcjogU3RyaW5nLAogICAgdG9TZXFOdW1iZXI6IFN0cmluZywKICAgIHJlY29yZENvdW50OiBJbnQpCgovKiogQ2xhc3MgcmVwcmVzZW50aW5nIGFuIGFycmF5IG9mIEtpbmVzaXMgc2VxdWVuY2UgbnVtYmVyIHJhbmdlcyAqLwpwcml2YXRlW2tpbmVzaXNdCmNhc2UgY2xhc3MgU2VxdWVuY2VOdW1iZXJSYW5nZXMocmFuZ2VzOiBTZXFbU2VxdWVuY2VOdW1iZXJSYW5nZV0pIHsKICBkZWYgaXNFbXB0eSgpOiBCb29sZWFuID0gcmFuZ2VzLmlzRW1wdHkKCiAgZGVmIG5vbkVtcHR5KCk6IEJvb2xlYW4gPSByYW5nZXMubm9uRW1wdHkKCiAgb3ZlcnJpZGUgZGVmIHRvU3RyaW5nKCk6IFN0cmluZyA9IHJhbmdlcy5ta1N0cmluZygiU2VxdWVuY2VOdW1iZXJSYW5nZXMoIiwgIiwgIiwgIikiKQp9Cgpwcml2YXRlW2tpbmVzaXNdCm9iamVjdCBTZXF1ZW5jZU51bWJlclJhbmdlcyB7CiAgZGVmIGFwcGx5KHJhbmdlOiBTZXF1ZW5jZU51bWJlclJhbmdlKTogU2VxdWVuY2VOdW1iZXJSYW5nZXMgPSB7CiAgICBuZXcgU2VxdWVuY2VOdW1iZXJSYW5nZXMoU2VxKHJhbmdlKSkKICB9Cn0K</text>
@@ -480,9 +486,9 @@
       </register>
     </registers>
     <search>
-      <last-search>analyzer</last-search>
+      <last-search>chil</last-search>
       <last-offset />
-      <last-pattern>analyzer</last-pattern>
+      <last-pattern>chil</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -490,9 +496,6 @@
     </search>
     <history>
       <history-search>
-        <entry>batch</entry>
-        <entry>fold</entry>
-        <entry>shard</entry>
         <entry>offset</entry>
         <entry>input</entry>
         <entry>initial</entry>
@@ -510,6 +513,9 @@
         <entry>parsed</entry>
         <entry>parse</entry>
         <entry>analyzer</entry>
+        <entry>sub</entry>
+        <entry>subex</entry>
+        <entry>chil</entry>
       </history-search>
       <history-cmd>
         <entry>69</entry>
