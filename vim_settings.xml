@@ -224,8 +224,8 @@
       <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/SparkSession.scala" timestamp="1507258987259">
         <mark key="'" line="958" column="4" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSource.scala" timestamp="1508385069868">
-        <mark key="'" line="88" column="14" />
+      <file name="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSource.scala" timestamp="1508389814449">
+        <mark key="'" line="115" column="79" />
         <mark key="[" line="180" column="24" />
         <mark key="]" line="180" column="5" />
         <mark key="^" line="180" column="5" />
@@ -357,9 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="20" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.1.0/spark-streaming_2.11-2.1.0-sources.jar!/org/apache/spark/streaming/dstream/SocketInputDStream.scala" />
-      <jump line="547" column="0" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="561" column="21" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="568" column="13" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="19" column="20" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="53" column="66" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
@@ -457,6 +454,9 @@
       <jump line="34" column="14" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/Source.scala" />
       <jump line="289" column="0" filename="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSource.scala" />
       <jump line="88" column="14" filename="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSource.scala" />
+      <jump line="353" column="24" filename="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSource.scala" />
+      <jump line="119" column="72" filename="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSource.scala" />
+      <jump line="115" column="79" filename="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSource.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -466,7 +466,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>max</text>
+        <text encoding="base64">XDx2ZXJzaW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvLyBGZXRjaGVzIHRoZSBlYXJsaWVzdCBvZmZzZXRzIGZvciBhbGwgdGhlIHNoYXJkcyBpbiBnaXZlbiBzdHJlYW1zCiAgcHJpdmF0ZSBkZWYgZmV0Y2hBbGxTaGFyZEVhcmxpZXN0U2VxTnVtYmVyKCk6IE1hcFtLaW5lc2lzU2hhcmQsIFN0cmluZ10gPSB7CiAgICB2YWwgYWxsU2hhcmRzID0ga2luZXNpc09wdGlvbnMuc3RyZWFtTmFtZXMubWFwIHsgc3RyZWFtTmFtZSA9PgogICAgICB2YWwgc2hhcmRzID0ga2luZXNpc0NsaWVudC5kZXNjcmliZVN0cmVhbShzdHJlYW1OYW1lKS5nZXRTdHJlYW1EZXNjcmlwdGlvbi5nZXRTaGFyZHMKICAgICAgbG9nRGVidWcocyJOdW1iZXIgb2YgYXNzaWduZWQgdG8gJHN0cmVhbU5hbWU6ICR7c2hhcmRzLnNpemV9IikKICAgICAgKHN0cmVhbU5hbWUsIHNoYXJkcykKICAgIH0KICAgIGFsbFNoYXJkcy5mbGF0TWFwIHsgY2FzZSAoc3RyZWFtTmFtZSwgc2hhcmRzKSA9PgogICAgICB2YWwgc2hhcmRTZXFOdW1iZXJzID0gc2hhcmRzLmFzU2NhbGEubWFwIHsgY2FzZSBzaGFyZCA9PgogICAgICAgIChuZXcgS2luZXNpc1NoYXJkKHN0cmVhbU5hbWUsIHNoYXJkLmdldFNoYXJkSWQpLAogICAgICAgICAgICBzaGFyZC5nZXRTZXF1ZW5jZU51bWJlclJhbmdlLmdldFN0YXJ0aW5nU2VxdWVuY2VOdW1iZXIpCiAgICAgIH0KICAgICAgbG9nRGVidWcocyJHb3Qgc2VxdWVuY2UgbnVtYmVycyBmb3IgJHN0cmVhbU5hbWU6ICRzaGFyZFNlcU51bWJlcnMiKQogICAgICBzaGFyZFNlcU51bWJlcnMKICAgIH0udG9NYXAKICB9Cg==</text>
@@ -503,9 +503,9 @@
       </register>
     </registers>
     <search>
-      <last-search>max</last-search>
+      <last-search encoding="base64">XDx2ZXJzaW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>max</last-pattern>
+      <last-pattern encoding="base64">XDx2ZXJzaW9uXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -513,7 +513,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getbatch</entry>
         <entry>addbatch</entry>
         <entry>truggerexecu</entry>
         <entry>get</entry>
@@ -533,6 +532,7 @@
         <entry>untilPartitionOffsets</entry>
         <entry>until</entry>
         <entry>max</entry>
+        <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>69</entry>
