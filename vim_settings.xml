@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/OffsetSeqLog.scala" timestamp="1508404576614">
+        <mark key="'" line="34" column="3" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceOffset.scala" timestamp="1508209254790">
         <mark key="'" line="63" column="58" />
         <mark key="[" line="62" column="0" />
@@ -253,6 +256,9 @@
       <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/scalastyle-config.xml" timestamp="1507183378542">
         <mark key="'" line="21" column="18" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/sources/interfaces.scala" timestamp="1508404857050">
+        <mark key="'" line="137" column="6" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" timestamp="1508317638418">
         <mark key="'" line="136" column="60" />
       </file>
@@ -379,9 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="312" column="25" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="313" column="62" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
-      <jump line="314" column="51" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="330" column="39" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="242" column="24" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="300" column="15" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
@@ -479,6 +482,9 @@
       <jump line="481" column="36" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/StreamExecution.scala" />
       <jump line="616" column="15" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/StreamExecution.scala" />
       <jump line="630" column="29" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/StreamExecution.scala" />
+      <jump line="34" column="3" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/OffsetSeqLog.scala" />
+      <jump line="47" column="3" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/sources/interfaces.scala" />
+      <jump line="137" column="6" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/sources/interfaces.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -488,7 +494,7 @@
         <text>kafka010</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvZmZzZXRMb2dcPg==</text>
+        <text>meta</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpbXBvcnQgS2Fma2FTb3VyY2VQcm92aWRlci5fCg==</text>
@@ -525,9 +531,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvZmZzZXRMb2dcPg==</last-search>
+      <last-search>meta</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvZmZzZXRMb2dcPg==</last-pattern>
+      <last-pattern>meta</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -535,7 +541,6 @@
     </search>
     <history>
       <history-search>
-        <entry>delete</entry>
         <entry>T</entry>
         <entry encoding="base64">XDxtYW5pZmVzdFw+</entry>
         <entry>implicit</entry>
@@ -547,7 +552,6 @@
         <entry>metadataPath</entry>
         <entry>metadata</entry>
         <entry>met</entry>
-        <entry>meta</entry>
         <entry>dele</entry>
         <entry>source</entry>
         <entry>getbat</entry>
@@ -555,6 +559,8 @@
         <entry>getbatch</entry>
         <entry>offsetlog</entry>
         <entry encoding="base64">XDxvZmZzZXRMb2dcPg==</entry>
+        <entry encoding="base64">XDxTRVJJQUxJWkVEX1ZPSURfT0ZGU0VUXD4=</entry>
+        <entry>meta</entry>
       </history-search>
       <history-cmd>
         <entry>69</entry>
