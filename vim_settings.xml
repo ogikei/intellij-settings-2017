@@ -173,12 +173,11 @@
       <file name="$USER_HOME$/MyWork/git/spark/core/src/main/scala/org/apache/spark/ui/UIUtils.scala" timestamp="1507258485942">
         <mark key="'" line="497" column="32" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1508840525297">
+      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" timestamp="1508841853654">
         <mark key="'" line="46" column="37" />
-        <mark key="[" line="128" column="66" />
-        <mark key="]" line="128" column="67" />
-        <mark key="." line="128" column="67" />
-        <mark key="^" line="128" column="67" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="71" />
+        <mark key="." line="110" column="71" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/test/scala/org/apache/spark/sql/streaming/StreamTest.scala" timestamp="1507701006952">
         <mark key="'" line="241" column="17" />
@@ -212,8 +211,8 @@
       <file name="$USER_HOME$/OfficeTools/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/Expression.scala" timestamp="1508317551381">
         <mark key="'" line="99" column="51" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" timestamp="1508224680763">
-        <mark key="'" line="72" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" timestamp="1508841378166">
+        <mark key="'" line="39" column="0" />
         <mark key="[" line="20" column="86" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -284,7 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="70" filename="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSource.scala" />
       <jump line="99" column="31" filename="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSource.scala" />
       <jump line="103" column="23" filename="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSource.scala" />
       <jump line="110" column="17" filename="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSource.scala" />
@@ -384,43 +382,44 @@
       <jump line="231" column="0" filename="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSource.scala" />
       <jump line="140" column="14" filename="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSource.scala" />
       <jump line="141" column="29" filename="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSource.scala" />
+      <jump line="39" column="0" filename="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisOptions.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>kinesis streaming</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>kinesis streaming</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>fetch</text>
+        <text>maxOffsetsPerTrigger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBhbGxTaGFyZHMgPSBvcHRpb25zLnN0cmVhbU5hbWVzLm1hcCB7IHN0cmVhbU5hbWUgPT4KICAgICAgdmFsIHNoYXJkcyA9IGtpbmVzaXNDbGllbnQuZGVzY3JpYmVTdHJlYW0oc3RyZWFtTmFtZSkuZ2V0U3RyZWFtRGVzY3JpcHRpb24uZ2V0U2hhcmRzCiAgICAgIGxvZ0RlYnVnKHMiTnVtYmVyIG9mIGFzc2lnbmVkIHRvICRzdHJlYW1OYW1lOiAke3NoYXJkcy5zaXplfSIpCiAgICAgIChzdHJlYW1OYW1lLCBzaGFyZHMpCiAgICB9CiAgICBhbGxTaGFyZHMuZmxhdE1hcCB7CiAgICAgIGNhc2UgKHN0cmVhbU5hbWUsIHNoYXJkcykgPT4KICAgICAgICB2YWwgc2hhcmRTZXFOdW1iZXJzID0gc2hhcmRzLmFzU2NhbGEubWFwIHsKICAgICAgICAgIHNoYXJkID0+CiAgICAgICAgICAgIChTdHJlYW1TaGFyZChzdHJlYW1OYW1lLCBzaGFyZC5nZXRTaGFyZElkKSwKICAgICAgICAgICAgICAgIHNoYXJkLmdldFNlcXVlbmNlTnVtYmVyUmFuZ2UuZ2V0U3RhcnRpbmdTZXF1ZW5jZU51bWJlcikKICAgICAgICB9CiAgICAgICAgbG9nRGVidWcocyJHb3Qgc2VxdWVuY2UgbnVtYmVycyBmb3IgJHN0cmVhbU5hbWU6ICRzaGFyZFNlcU51bWJlcnMiKQogICAgICAgIHNoYXJkU2VxTnVtYmVycwogICAgfS50b01hcAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgZmV0Y2hBbGxTaGFyZExhdGVzdFNlcU51bWJlcigpOiBNYXBbU3RyZWFtU2hhcmQsIFN0cmluZ10gPSB7CiAgfQoK</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRPZmZzZXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbAo=</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRPZmZzZXQgPSBTb21lKGVhcmxpZXN0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN1cnJlbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBsYXRlc3QgPSBmZXRjaExhdGVzdE9mZnNldHMoKQo=</text>
+        <text encoding="base64">ICBkZWYgZmV0Y2hBbGxTaGFyZExhdGVzdFNlcU51bWJlcigpOiBNYXBbU3RyZWFtU2hhcmQsIFN0cmluZ10gPSB7CiAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBsYXRlc3QgPSBmZXRjaExhdGVzdE9mZnNldHMoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -430,17 +429,16 @@
       </register>
     </registers>
     <search>
-      <last-search>fetch</last-search>
+      <last-search>maxOffsetsPerTrigger</last-search>
       <last-offset />
-      <last-pattern>fetch</last-pattern>
+      <last-pattern>maxOffsetsPerTrigger</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>initialin</entry>
         <entry encoding="base64">XDxpbml0aWFsUG9zaXRpb25JblN0cmVhbVw+</entry>
         <entry>schem</entry>
         <entry>initial</entry>
@@ -460,6 +458,7 @@
         <entry>credential</entry>
         <entry>startingOffsets</entry>
         <entry>fetch</entry>
+        <entry>maxOffsetsPerTrigger</entry>
       </history-search>
       <history-cmd>
         <entry>69</entry>
