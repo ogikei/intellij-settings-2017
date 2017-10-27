@@ -45,7 +45,9 @@
         <mark key="^" line="262" column="18" />
         <mark key="." line="262" column="18" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.amazonaws/amazon-kinesis-client/srcs/amazon-kinesis-client-1.8.5-sources.jar!/com/amazonaws/services/kinesis/clientlibrary/lib/worker/Worker.java" timestamp="1509004707578" />
+      <file name="$USER_HOME$/.ivy2/cache/com.amazonaws/amazon-kinesis-client/srcs/amazon-kinesis-client-1.8.5-sources.jar!/com/amazonaws/services/kinesis/clientlibrary/lib/worker/Worker.java" timestamp="1509084429622">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark/mllib/src/test/scala/org/apache/spark/ml/feature/MinHashLSHSuite.scala" timestamp="1507700088689">
         <mark key="'" line="30" column="15" />
       </file>
@@ -284,8 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="15" filename="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSourceProvider.scala" />
-      <jump line="37" column="54" filename="$USER_HOME$/OfficeTools/git/spark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaSourceProvider.scala" />
       <jump line="58" column="2" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/StreamExecution.scala" />
       <jump line="96" column="11" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/StreamExecution.scala" />
       <jump line="159" column="25" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/StreamExecution.scala" />
@@ -384,6 +384,8 @@
       <jump line="10" column="17" filename="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSource.scala" />
       <jump line="3" column="1" filename="$USER_HOME$/OfficeTools/git/kinesis2spark/src/main/scala/org/apache/spark/sql/kinesis/KinesisSourceRDD.scala" />
       <jump line="9" column="9" filename="$USER_HOME$/OfficeTools/git/kinesis-example/src/main/scala/Main.scala" />
+      <jump line="401" column="0" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/amazon-kinesis-client/srcs/amazon-kinesis-client-1.8.5-sources.jar!/com/amazonaws/services/kinesis/clientlibrary/lib/worker/Worker.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/amazon-kinesis-client/srcs/amazon-kinesis-client-1.8.5-sources.jar!/com/amazonaws/services/kinesis/clientlibrary/lib/worker/Worker.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
