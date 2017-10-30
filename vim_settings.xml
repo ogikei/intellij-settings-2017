@@ -253,12 +253,12 @@
         <mark key="]" line="31" column="91" />
         <mark key="." line="31" column="91" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/test/polynomials.sc" timestamp="1509375403852">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="5" column="68" />
-        <mark key="]" line="10" column="51" />
-        <mark key="." line="10" column="51" />
-        <mark key="^" line="10" column="51" />
+      <file name="$USER_HOME$/MyWork/git/test/polynomials.sc" timestamp="1509378537260">
+        <mark key="'" line="12" column="27" />
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="20" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisCheckpointer.scala" timestamp="1507099438074">
         <mark key="[" line="36" column="29" />
@@ -424,10 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="348" column="12" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" />
-      <jump line="233" column="24" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/pom.xml" />
-      <jump line="300" column="6" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisReceiver.scala" />
-      <jump line="354" column="23" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisReceiver.scala" />
       <jump line="335" column="19" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/tests/src/test/scala/org/apache/spark/sql/test/SQLTestUtils.scala" />
       <jump line="393" column="6" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/tests/src/test/scala/org/apache/spark/sql/test/SQLTestUtils.scala" />
       <jump line="92" column="25" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/execution/datasources/csv/CSVKinesisValueFormat.scala" />
@@ -524,13 +520,17 @@
       <jump line="6" column="12" filename="$USER_HOME$/MyWork/git/test/src/main/scala/nqueens.scala" />
       <jump line="4" column="13" filename="$USER_HOME$/MyWork/git/test/polynomials.sc" />
       <jump line="17" column="0" filename="$USER_HOME$/MyWork/git/test/polynomials.sc" />
+      <jump line="20" column="48" filename="$USER_HOME$/MyWork/git/test/polynomials.sc" />
+      <jump line="23" column="9" filename="$USER_HOME$/MyWork/git/test/polynomials.sc" />
+      <jump line="24" column="2" filename="$USER_HOME$/MyWork/git/test/polynomials.sc" />
+      <jump line="16" column="27" filename="$USER_HOME$/MyWork/git/test/polynomials.sc" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgLy8g44Gq44Gu44Gn44CBdGVybXMoZXhwKeOBjOWtmOWcqOOBl+OBquOBhOWgtOWQiDAuMOOBqOOBquOCiwo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>”</text>
@@ -539,10 +539,10 @@
         <text encoding="base64">ICAgIC5vcHRpb24oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgLy8g44Gq44Gu44Gn44CBdGVybXMoZXhwKeOBjOWtmOWcqOOBl+OBquOBhOWgtOWQiDAuMOOBqOOBquOCiwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gd2l0aERlZmF1bHRWYWx1ZeOBjDAuMOOBquOBruOBp+OAgU5vbmXjga5jYXNl44Gv5b+F6KaB44Gq44GP44Gq44KLCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -551,7 +551,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -560,10 +560,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyAgc2NhbGE+IE1hcCgxIC0+IDIuMCwgMyAtPiA0LjAsIDUgLT4gNi4yKS50b0xpc3QKICAvLyAgcmVzNTQ6IExpc3RbKEludCwgRG91YmxlKV0gPSBMaXN0KCgxLDIuMCksICgzLDQuMCksICg1LDYuMikpCiAgLy8gIHNjYWxhPiBNYXAoMSAtPiAyLjAsIDMgLT4gNC4wLCA1IC0+IDYuMikudG9MaXN0LnNvcnRlZAogIC8vICByZXM1NTogTGlzdFsoSW50LCBEb3VibGUpXSA9IExpc3QoKDEsMi4wKSwgKDMsNC4wKSwgKDUsNi4yKSkKICAvLyAgc2NhbGE+IE1hcCgxIC0+IDIuMCwgMyAtPiA0LjAsIDUgLT4gNi4yKS50b0xpc3Quc29ydGVkLnJldmVyc2UKICAvLyAgcmVzNTY6IExpc3RbKEludCwgRG91YmxlKV0gPSBMaXN0KCg1LDYuMiksICgzLDQuMCksICgxLDIuMCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICBzY2FsYT4gTWFwKDEgLT4gMi4wLCAzIC0+IDQuMCwgNSAtPiA2LjIpLnRvTGlzdAogICAgLy8gIHJlczU0OiBMaXN0WyhJbnQsIERvdWJsZSldID0gTGlzdCgoMSwyLjApLCAoMyw0LjApLCAoNSw2LjIpKQogICAgLy8gIHNjYWxhPiBNYXAoMSAtPiAyLjAsIDMgLT4gNC4wLCA1IC0+IDYuMikudG9MaXN0LnNvcnRlZAogICAgLy8gIHJlczU1OiBMaXN0WyhJbnQsIERvdWJsZSldID0gTGlzdCgoMSwyLjApLCAoMyw0LjApLCAoNSw2LjIpKQogICAgLy8gIHNjYWxhPiBNYXAoMSAtPiAyLjAsIDMgLT4gNC4wLCA1IC0+IDYuMikudG9MaXN0LnNvcnRlZC5yZXZlcnNlCiAgICAvLyAgcmVzNTY6IExpc3RbKEludCwgRG91YmxlKV0gPSBMaXN0KCg1LDYuMiksICgzLDQuMCksICgxLDIuMCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
