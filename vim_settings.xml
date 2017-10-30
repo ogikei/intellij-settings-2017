@@ -107,6 +107,13 @@
         <mark key="." line="232" column="23" />
         <mark key="^" line="232" column="23" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/test/src/main/scala/nqueens.scala" timestamp="1509355619966">
+        <mark key="'" line="6" column="12" />
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="37" column="21" />
+        <mark key="." line="37" column="21" />
+        <mark key="^" line="37" column="21" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/AmazonKinesis.scala" timestamp="1506933088545">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="16" column="0" />
@@ -206,11 +213,11 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/test/nqueens.sc" timestamp="1509353198318">
-        <mark key="[" line="18" column="26" />
-        <mark key="]" line="24" column="16" />
-        <mark key="." line="24" column="16" />
-        <mark key="^" line="24" column="16" />
+      <file name="$USER_HOME$/MyWork/git/test/nqueens.sc" timestamp="1509355133891">
+        <mark key="[" line="36" column="9" />
+        <mark key="]" line="36" column="9" />
+        <mark key="." line="36" column="9" />
+        <mark key="^" line="36" column="9" />
       </file>
       <file name="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/internal/SQLConf.scala" timestamp="1507187164227">
         <mark key="'" line="739" column="13" />
@@ -315,6 +322,12 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/test/src/main/scala/test.scala" timestamp="1509355525268">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/common/App.scala" timestamp="1505792074311">
         <mark key="[" line="5" column="12" />
         <mark key="]" line="5" column="14" />
@@ -404,11 +417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="23" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/pom.xml" />
-      <jump line="85" column="0" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" />
-      <jump line="185" column="79" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" />
-      <jump line="325" column="27" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" />
-      <jump line="320" column="26" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" />
       <jump line="82" column="3" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisReceiver.scala" />
       <jump line="139" column="18" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" />
       <jump line="348" column="12" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" />
@@ -504,13 +512,18 @@
       <jump line="190" column="47" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/Expression.scala" />
       <jump line="33" column="0" filename="$USER_HOME$/MyWork/git/test/nqueens.sc" />
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/test/nqueens.sc" />
+      <jump line="40" column="0" filename="$USER_HOME$/MyWork/git/test/src/main/scala/test.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/test/src/main/scala/test.scala" />
+      <jump line="1" column="0" filename="$USER_HOME$/MyWork/git/test/src/main/scala/test.scala" />
+      <jump line="38" column="0" filename="$USER_HOME$/MyWork/git/test/src/main/scala/test.scala" />
+      <jump line="6" column="12" filename="$USER_HOME$/MyWork/git/test/src/main/scala/nqueens.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>nqueens</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>nqueens</text>
       </register>
       <register name="/" type="4">
         <text>product</text>
@@ -519,34 +532,34 @@
         <text encoding="base64">ICAgIC5vcHRpb24oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBxdWVlbnMoNCkgYW0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b2JqZWN0IG5xdWVlbnMgewogIGRlZiBxdWVlbnMobjogSW50KTogU2V0W0xpc3RbSW50XV0gPSB7CiAgICBkZWYgcGxhY2VRdWVlbnMoazogSW50KTogU2V0W0xpc3RbSW50XV0gPSB7CiAgICAgIGlmIChrID09IDApIFNldChMaXN0KCkpCiAgICAgIGVsc2UKICAgICAgICBmb3IgewogICAgICAgICAgcXVlZW5zIDwtIHBsYWNlUXVlZW5zKGsgLSAxKQogICAgICAgICAgY29sIDwtIDAgdW50aWwgbgogICAgICAgICAgaWYgaXNTYWZlKGNvbCwgcXVlZW5zKQogICAgICAgICAgLy8g6Kej562U44Gv5ZCE5YiX44Gu6KGM55Wq5Y+344Gu44Oq44K544OICiAgICAgICAgICAvLyBlLmcuIFNldChMaXN0KDEsIDMsIDAsIDIpLCBMaXN0KDIsIDAsIDMsIDEpKQogICAgICAgICAgLy8g44GT44Gu5aC05ZCI6Kej562U44GMMuOBpOOBguOCi+OBk+OBqOOBq+OBquOCiwogICAgICAgIH0geWllbGQgY29sIDo6IHF1ZWVucwogICAgfQogICAgcGxhY2VRdWVlbnMobikKICB9CgogIGRlZiBpc1NhZmUoY29sOiBJbnQsIHF1ZWVuczogTGlzdFtJbnRdKTogQm9vbGVhbiA9IHsKICAgIC8vIHF1ZWVuc+OBrzAgfiBuIC0gMeOBqOOBquOCiwogICAgdmFsIHJvdyA9IHF1ZWVucy5sZW5ndGgKICAgIC8vIHJvdyAtIDHjgYww44Gu5aC05ZCI44CBVmVjdG9yKDAp44Go44Gq44KLCiAgICB2YWwgcXVlZW5zV2l0aFJvdyA9IChyb3cgLSAxIHRvIDAgYnkgLTEpIHppcCBxdWVlbnMKICAgIHF1ZWVuc1dpdGhSb3cgZm9yYWxsIHsKICAgICAgY2FzZSAociwgYykgPT4gY29sICE9IGMgJiYgbWF0aC5hYnMoY29sIC0gYykgIT0gcm93IC0gcgogICAgfQogIH0KCiAgZGVmIHNob3cocXVlZW5zOiBMaXN0W0ludF0pID0gewogICAgdmFsIGxpbmVzID0KICAgICAgZm9yIChjb2wgPC0gcXVlZW5zLnJldmVyc2UpCiAgICAgICAgeWllbGQgVmVjdG9yLmZpbGwocXVlZW5zLmxlbmd0aCkoIiogIikudXBkYXRlZChjb2wsICJYICIpLm1rU3RyaW5nCiAgICAiXG4iICsgKGxpbmVzIG1rU3RyaW5nICJcbiIpCiAgfQoKICAvLyB0ZXN0CiAgcXVlZW5zKDQpCn0KCm5xdWVlbnMucXVlZW5zKDQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBxdWVlbnMoNCkgbWFwIHNob3cK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBxdWVlbnMoNCkgbWFwIHNob3cK</text>
+        <text encoding="base64">bnF1ZWVucy5xdWVlbnMoNCkgbWFwIG5xdWVlbnMuc2hvdwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bnF1ZWVucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YWJzdHJhY3QgY2xhc3MgVGVzdCBleHRlbmRzIFRyZWVOb2RlW10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWJzdHJhY3QgY2xhc3MgVGVzdCBleHRlbmRzIFRyZWVOb2RlW0ludF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmFic3RyYWN0IGNsYXNzIFRlc3RbQUFBIDw6IFRlc3RbQUFBXV0gewogIHNlbGY6IEFBQSA9Pgp9CgphYnN0cmFjdCBjbGFzcyBUZXN0MiBleHRlbmRzIFRlc3RbVGVzdDJdIAoK</text>
+        <text encoding="base64">bnF1ZWVucy5xdWVlbnMoNCkgbWFwIG5xdWVlbnMuc2hvdwo=</text>
       </register>
       <register name=":" type="4">
-        <text>%d</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -600,8 +613,8 @@
         <entry>91</entry>
         <entry>102</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>%d</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
