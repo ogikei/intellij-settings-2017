@@ -253,6 +253,13 @@
         <mark key="]" line="31" column="91" />
         <mark key="." line="31" column="91" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/test/polynomials.sc" timestamp="1509374696165">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="9" column="51" />
+        <mark key="]" line="9" column="51" />
+        <mark key="." line="9" column="51" />
+        <mark key="^" line="9" column="51" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisCheckpointer.scala" timestamp="1507099438074">
         <mark key="[" line="36" column="29" />
         <mark key="]" line="36" column="29" />
@@ -417,8 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="3" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisReceiver.scala" />
-      <jump line="139" column="18" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" />
       <jump line="348" column="12" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" />
       <jump line="233" column="24" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/pom.xml" />
       <jump line="300" column="6" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisReceiver.scala" />
@@ -517,22 +522,24 @@
       <jump line="1" column="0" filename="$USER_HOME$/MyWork/git/test/src/main/scala/test.scala" />
       <jump line="38" column="0" filename="$USER_HOME$/MyWork/git/test/src/main/scala/test.scala" />
       <jump line="6" column="12" filename="$USER_HOME$/MyWork/git/test/src/main/scala/nqueens.scala" />
+      <jump line="4" column="13" filename="$USER_HOME$/MyWork/git/test/polynomials.sc" />
+      <jump line="17" column="0" filename="$USER_HOME$/MyWork/git/test/polynomials.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>nqueens</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>nqueens</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>product</text>
+        <text>”</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC5vcHRpb24oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -544,7 +551,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bnF1ZWVucy5xdWVlbnMoNCkgbWFwIG5xdWVlbnMuc2hvdwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -553,27 +560,26 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyAgc2NhbGE+IE1hcCgxIC0+IDIuMCwgMyAtPiA0LjAsIDUgLT4gNi4yKS50b0xpc3QKICAvLyAgcmVzNTQ6IExpc3RbKEludCwgRG91YmxlKV0gPSBMaXN0KCgxLDIuMCksICgzLDQuMCksICg1LDYuMikpCiAgLy8gIHNjYWxhPiBNYXAoMSAtPiAyLjAsIDMgLT4gNC4wLCA1IC0+IDYuMikudG9MaXN0LnNvcnRlZAogIC8vICByZXM1NTogTGlzdFsoSW50LCBEb3VibGUpXSA9IExpc3QoKDEsMi4wKSwgKDMsNC4wKSwgKDUsNi4yKSkKICAvLyAgc2NhbGE+IE1hcCgxIC0+IDIuMCwgMyAtPiA0LjAsIDUgLT4gNi4yKS50b0xpc3Quc29ydGVkLnJldmVyc2UKICAvLyAgcmVzNTY6IExpc3RbKEludCwgRG91YmxlKV0gPSBMaXN0KCg1LDYuMiksICgzLDQuMCksICgxLDIuMCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bnF1ZWVucy5xdWVlbnMoNCkgbWFwIG5xdWVlbnMuc2hvdwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>product</last-search>
+      <last-search>”</last-search>
       <last-offset />
-      <last-pattern>product</last-pattern>
+      <last-pattern>”</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>external</entry>
         <entry>mani</entry>
         <entry>manifest</entry>
         <entry>main</entry>
@@ -593,9 +599,9 @@
         <entry>attri</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>product</entry>
+        <entry>”</entry>
       </history-search>
       <history-cmd>
-        <entry>;</entry>
         <entry>39</entry>
         <entry>69</entry>
         <entry>44</entry>
@@ -614,6 +620,7 @@
         <entry>102</entry>
         <entry>W</entry>
         <entry>%d</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
