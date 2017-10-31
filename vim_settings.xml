@@ -114,11 +114,11 @@
         <mark key="." line="37" column="7" />
         <mark key="^" line="37" column="7" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/test/test.sc" timestamp="1509449234441">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="9" column="6" />
-        <mark key="." line="9" column="6" />
-        <mark key="^" line="9" column="6" />
+      <file name="$USER_HOME$/MyWork/git/test/test.sc" timestamp="1509449741339">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="11" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/AmazonKinesis.scala" timestamp="1506933088545">
         <mark key="'" line="15" column="0" />
@@ -349,11 +349,12 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/test/src/main/scala/test.scala" timestamp="1509355525268">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/MyWork/git/test/src/main/scala/test.scala" timestamp="1509449910961">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+        <mark key="^" line="9" column="29" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/common/App.scala" timestamp="1505792074311">
         <mark key="[" line="5" column="12" />
@@ -546,41 +547,41 @@
       <jump line="2" column="1" filename="$USER_HOME$/MyWork/git/test/x.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCB3b3JkczogTGlzdFtTdHJpbmddID0gaW4uZ2V0TGluZXMudG9MaXN0Cg==</text>
+        <text encoding="base64">b2JqZWN0IHRlc3QgewogIGRlZiBtYWluKGFyZ3M6IEFycmF5W1N0cmluZ10pOiBVbml0ID0gewogICAgdmFsIE4gPSAxMAogICAgdmFsIGFhID0gZm9yIHsKICAgICAgeCA8LSAyIHRvIE4KICAgICAgeSA8LSAyIHRvIHgKICAgICAgaWYgeCAlIHkgPT0gMAogICAgfSB5aWVsZCAoeCwgeSkKICAgIHByaW50KGFhKQogIH0KfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YWwgTiA9IDEwCiAgdmFsIGFhID0gZm9yIHsKICAgIHggPC0gMiB0byBOCiAgICB5IDwtIDIgdG8geAogICAgaWYgeCAlIHkgPT0gMAogIH0geWllbGQgKHgsIHkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGFhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">b2JqZWN0IHRlc3Qgewo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFsIE4gPSAxMAo=</text>
+        <text encoding="base64">dGVzdC5tYWluKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b2JqZWN0IHRlc3QgewogIHZhbCBOID0gMTAKICB2YWwgYWEgPSBmb3IgewogICAgeCA8LSAyIHRvIE4KICAgIHkgPC0gMiB0byB4CiAgICBpZiB4ICUgeSA9PSAwCiAgfSB5aWVsZCAoeCwgeSkKfQo=</text>
+        <text encoding="base64">dGVzdC5tYWluCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YQo=</text>
+        <text encoding="base64">ICBtYWluKCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -596,7 +597,7 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
