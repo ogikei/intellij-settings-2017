@@ -263,10 +263,12 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/test/src/main/scala/x.scala" timestamp="1509434780028">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/MyWork/git/test/src/main/scala/x.scala" timestamp="1509436811501">
+        <mark key="'" line="36" column="14" />
+        <mark key="[" line="43" column="13" />
+        <mark key="]" line="45" column="21" />
+        <mark key="." line="45" column="21" />
+        <mark key="^" line="45" column="21" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisCheckpointer.scala" timestamp="1507099438074">
         <mark key="[" line="36" column="29" />
@@ -432,8 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="34" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/execution/datasources/csv/CSVKinesisValueFormat.scala" />
-      <jump line="42" column="34" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/execution/datasources/csv/CSVKinesisValueFormat.scala" />
       <jump line="33" column="0" filename="$MAVEN_REPOSITORY$/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar!/au/com/bytecode/opencsv/CSVReader.class" />
       <jump line="91" column="32" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/execution/datasources/csv/CSVKinesisValueFormat.scala" />
       <jump line="51" column="19" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/pom.xml" />
@@ -532,13 +532,15 @@
       <jump line="14" column="18" filename="$USER_HOME$/MyWork/git/test/src/main/scala/x.scala" />
       <jump line="26" column="34" filename="$USER_HOME$/MyWork/git/test/src/main/scala/x.scala" />
       <jump line="8" column="0" filename="$USER_HOME$/MyWork/git/test/src/main/scala/x.scala" />
+      <jump line="32" column="0" filename="$USER_HOME$/MyWork/git/test/src/main/scala/x.scala" />
+      <jump line="36" column="14" filename="$USER_HOME$/MyWork/git/test/src/main/scala/x.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KHdvcmRzMSkK</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>http://lamp.epfl.ch/files/content/sites/lamp/files/teaching/progfun/linuxwords.txt</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNYXBcPg==</text>
@@ -547,31 +549,31 @@
         <text encoding="base64">ICAgIHZhbCB3b3JkczogTGlzdFtTdHJpbmddID0gaW4uZ2V0TGluZXMudG9MaXN0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHdvcmRzMSkK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIHdvcmQubm9uRW1wdHkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCB3b3JkczE6IExpc3RbU3RyaW5nXSA9IGluMS5nZXRMaW5lcy50b0xpc3QK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBpbjE6IEJ1ZmZlcmVkU291cmNlID0gU291cmNlLmZyb21VUkwodXJsMSkK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCB1cmwxID0gImh0dHBzOi8vd3d3LnlhaG9vLmNvLmpwIgo=</text>
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHdvcmRzKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHdvcmRzRm9yTnVtKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -584,7 +586,7 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
