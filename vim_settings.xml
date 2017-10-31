@@ -349,12 +349,12 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/test/src/main/scala/test.scala" timestamp="1509449910961">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="9" column="29" />
-        <mark key="]" line="9" column="29" />
-        <mark key="." line="9" column="29" />
-        <mark key="^" line="9" column="29" />
+      <file name="$USER_HOME$/MyWork/git/test/src/main/scala/test.scala" timestamp="1509462696075">
+        <mark key="'" line="10" column="22" />
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="27" column="27" />
+        <mark key="." line="27" column="27" />
+        <mark key="^" line="27" column="27" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/common/App.scala" timestamp="1505792074311">
         <mark key="[" line="5" column="12" />
@@ -445,7 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="7" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.1/tests/pom.xml" />
       <jump line="23" column="20" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
       <jump line="21" column="16" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
       <jump line="27" column="14" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
@@ -545,59 +544,60 @@
       <jump line="57" column="4" filename="$USER_HOME$/MyWork/git/test/src/main/scala/x.scala" />
       <jump line="35" column="10" filename="$USER_HOME$/MyWork/git/test/src/main/scala/x.scala" />
       <jump line="2" column="1" filename="$USER_HOME$/MyWork/git/test/x.sc" />
+      <jump line="8" column="22" filename="$USER_HOME$/MyWork/git/test/src/main/scala/test.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>”</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">b2JqZWN0IHRlc3QgewogIGRlZiBtYWluKGFyZ3M6IEFycmF5W1N0cmluZ10pOiBVbml0ID0gewogICAgdmFsIE4gPSAxMAogICAgdmFsIGFhID0gZm9yIHsKICAgICAgeCA8LSAyIHRvIE4KICAgICAgeSA8LSAyIHRvIHgKICAgICAgaWYgeCAlIHkgPT0gMAogICAgfSB5aWVsZCAoeCwgeSkKICAgIHByaW50KGFhKQogIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFhKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBOID0gMTAKICAgIHZhbCBhYSA9IGZvciB7CiAgICAgIHggPC0gMiB0byBOCiAgICAgIHkgPC0gMiB0byB4CiAgICAgIGlmIHggJSB5ID09IDAKICAgIH0geWllbGQgKHgsIHkpCgogICAgdmFsIGJiID0gKDIgdG8gTikgZmxhdE1hcCAoeCA9PgogICAgICAoMiB0byB4KSB3aXRoRmlsdGVyICh5ID0+CiAgICAgICAgeCAlIHkgPT0gMCkgbWFwICh5ID0+ICh4LCB5KSkpCiAgICBwcmludChiYikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">b2JqZWN0IHRlc3Qgewo=</text>
+        <text encoding="base64">ICAgIHByaW50KGFhKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGVzdC5tYWluKCkK</text>
+        <text encoding="base64">b2JqZWN0IHRlc3Qgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGVzdC5tYWluCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtYWluKCkK</text>
+        <text encoding="base64">dGVzdC5tYWluKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGVzdC5tYWluCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>”</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>”</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -618,12 +618,11 @@
         <entry>attri</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>product</entry>
-        <entry>”</entry>
         <entry encoding="base64">XDxNYXBcPg==</entry>
         <entry>print</entry>
+        <entry>”</entry>
       </history-search>
       <history-cmd>
-        <entry>39</entry>
         <entry>69</entry>
         <entry>44</entry>
         <entry>6</entry>
@@ -642,6 +641,7 @@
         <entry>W</entry>
         <entry>%d</entry>
         <entry>s</entry>
+        <entry>%s/”/&quot;/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
