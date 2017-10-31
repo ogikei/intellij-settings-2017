@@ -114,6 +114,12 @@
         <mark key="." line="37" column="7" />
         <mark key="^" line="37" column="7" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/test/test.sc" timestamp="1509449234441">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+        <mark key="^" line="9" column="6" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/AmazonKinesis.scala" timestamp="1506933088545">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="16" column="0" />
@@ -204,6 +210,11 @@
         <mark key="." line="22" column="15" />
         <mark key="^" line="22" column="15" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/test/x.sc" timestamp="1509449140056">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/AmazonKinesis.scala" timestamp="1507113048993">
         <mark key="[" line="69" column="14" />
         <mark key="]" line="69" column="16" />
@@ -263,12 +274,11 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/test/src/main/scala/x.scala" timestamp="1509439544553">
+      <file name="$USER_HOME$/MyWork/git/test/src/main/scala/x.scala" timestamp="1509448998511">
         <mark key="'" line="35" column="10" />
-        <mark key="[" line="60" column="26" />
-        <mark key="]" line="60" column="26" />
-        <mark key="." line="60" column="26" />
-        <mark key="^" line="60" column="26" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisCheckpointer.scala" timestamp="1507099438074">
         <mark key="[" line="36" column="29" />
@@ -434,7 +444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="13" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/pom.xml" />
       <jump line="12" column="7" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.1/tests/pom.xml" />
       <jump line="23" column="20" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
       <jump line="21" column="16" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
@@ -534,13 +543,14 @@
       <jump line="61" column="4" filename="$USER_HOME$/MyWork/git/test/src/main/scala/x.scala" />
       <jump line="57" column="4" filename="$USER_HOME$/MyWork/git/test/src/main/scala/x.scala" />
       <jump line="35" column="10" filename="$USER_HOME$/MyWork/git/test/src/main/scala/x.scala" />
+      <jump line="2" column="1" filename="$USER_HOME$/MyWork/git/test/x.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">d29yZCA9PiB3b3Jk</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d29yZCA9PiB3b3Jk</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -549,31 +559,31 @@
         <text encoding="base64">ICAgIHZhbCB3b3JkczogTGlzdFtTdHJpbmddID0gaW4uZ2V0TGluZXMudG9MaXN0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB2YWwgTiA9IDEwCiAgdmFsIGFhID0gZm9yIHsKICAgIHggPC0gMiB0byBOCiAgICB5IDwtIDIgdG8geAogICAgaWYgeCAlIHkgPT0gMAogIH0geWllbGQgKHgsIHkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBkZWYgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">b2JqZWN0IHRlc3Qgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIOKWoSDilqEg4pah4pahCg==</text>
+        <text encoding="base64">dmFsIE4gPSAxMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIOKWoSArIOKWoSDilqHilqEgLT4g4pahICsg4pahICsgCg==</text>
+        <text encoding="base64">b2JqZWN0IHRlc3QgewogIHZhbCBOID0gMTAKICB2YWwgYWEgPSBmb3IgewogICAgeCA8LSAyIHRvIE4KICAgIHkgPC0gMiB0byB4CiAgICBpZiB4ICUgeSA9PSAwCiAgfSB5aWVsZCAoeCwgeSkKfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">YQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
