@@ -263,12 +263,10 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/test/src/main/scala/x.scala" timestamp="1509432871452">
-        <mark key="'" line="14" column="18" />
-        <mark key="[" line="28" column="47" />
-        <mark key="]" line="28" column="46" />
-        <mark key="." line="28" column="46" />
-        <mark key="^" line="28" column="46" />
+      <file name="$USER_HOME$/MyWork/git/test/src/main/scala/x.scala" timestamp="1509434780028">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisCheckpointer.scala" timestamp="1507099438074">
         <mark key="[" line="36" column="29" />
@@ -434,8 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="25" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/execution/datasources/csv/CSVKinesisValueFormat.scala" />
-      <jump line="94" column="18" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/execution/datasources/csv/CSVKinesisValueFormat.scala" />
       <jump line="124" column="34" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/execution/datasources/csv/CSVKinesisValueFormat.scala" />
       <jump line="42" column="34" filename="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/execution/datasources/csv/CSVKinesisValueFormat.scala" />
       <jump line="33" column="0" filename="$MAVEN_REPOSITORY$/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar!/au/com/bytecode/opencsv/CSVReader.class" />
@@ -534,43 +530,45 @@
       <jump line="16" column="27" filename="$USER_HOME$/MyWork/git/test/polynomials.sc" />
       <jump line="7" column="3" filename="$USER_HOME$/MyWork/git/test/src/main/scala/x.scala" />
       <jump line="14" column="18" filename="$USER_HOME$/MyWork/git/test/src/main/scala/x.scala" />
+      <jump line="26" column="34" filename="$USER_HOME$/MyWork/git/test/src/main/scala/x.scala" />
+      <jump line="8" column="0" filename="$USER_HOME$/MyWork/git/test/src/main/scala/x.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KHdvcmRzMSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>http://lamp.epfl.ch/files/content/sites/lamp/files/teaching/progfun/linuxwords.txt</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNYXBcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KHdvcmRDb2RlKCJKQVZBIikpIC8vIDUyODIK</text>
+        <text encoding="base64">ICAgIHZhbCB3b3JkczogTGlzdFtTdHJpbmddID0gaW4uZ2V0TGluZXMudG9MaXN0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHdvcmRzMSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB3b3JkczE6IExpc3RbU3RyaW5nXSA9IGluMS5nZXRMaW5lcy50b0xpc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHdvcmRDb2RlMSgiSkFWQSIpKSAvLyA1MjgyCg==</text>
+        <text encoding="base64">ICAgIHZhbCBpbjE6IEJ1ZmZlcmVkU291cmNlID0gU291cmNlLmZyb21VUkwodXJsMSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiB3b3JkQ29kZSh3b3JkOiBTdHJpbmcpOiBTdHJpbmcgPQogICAgICB3b3JkIG1hcCBNYXAoJ0onIC0+ICc1JywgJ0EnIC0+ICcyJywgJ1YnIC0+ICc4JykK</text>
+        <text encoding="base64">ICAgIHZhbCB1cmwxID0gImh0dHBzOi8vd3d3LnlhaG9vLmNvLmpwIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNoYXJDb2RlKQo=</text>
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHdvcmRzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
