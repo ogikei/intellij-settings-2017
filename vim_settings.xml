@@ -157,11 +157,11 @@
         <mark key="." line="148" column="0" />
         <mark key="^" line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" timestamp="1509516321124">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="4" />
-        <mark key="." line="9" column="4" />
-        <mark key="^" line="9" column="30" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" timestamp="1509519455866">
+        <mark key="[" line="2" column="86" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/AmazonKinesis.scala" timestamp="1506933088545">
         <mark key="'" line="15" column="0" />
@@ -246,12 +246,12 @@
         <mark key="." line="25" column="69" />
         <mark key="^" line="25" column="57" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" timestamp="1509516836103">
-        <mark key="'" line="10" column="37" />
-        <mark key="[" line="15" column="52" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="15" column="50" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" timestamp="1509518135404">
+        <mark key="'" line="22" column="14" />
+        <mark key="[" line="34" column="24" />
+        <mark key="]" line="35" column="5" />
+        <mark key="." line="35" column="5" />
+        <mark key="^" line="35" column="5" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/tests/src/test/scala/org/apache/spark/sql/test/SQLTestData.scala" timestamp="1507097235139">
         <mark key="[" line="292" column="0" />
@@ -462,7 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="7" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.1/tests/pom.xml" />
       <jump line="23" column="20" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
       <jump line="21" column="16" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
       <jump line="27" column="14" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
@@ -562,46 +561,47 @@
       <jump line="16" column="36" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="15" column="81" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="10" column="37" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
+      <jump line="19" column="14" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLlNRTENvbnRleHQK</text>
       </register>
       <register name="-" type="4">
-        <text>tet</text>
+        <text>implicit</text>
       </register>
       <register name="/" type="4">
         <text>app</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC5vcHRpb24oKQo=</text>
+        <text encoding="base64">ICAgIHR5cGUgS2luZXNpc1N0cmVhbXMgPSBJbmRleGVkU2VxW0tpbmVzaXNJbnB1dERTdHJlYW1bQXJyYXlbQnl0ZV1dXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLlNRTENvbnRleHQK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWwgcmVnaW9uID0gIiIK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5zcWxDb250ZXh0LmltcGxpY2l0cy5fCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCByZWdpb24gPSBLaW5lc2lzVXRpbHMuCg==</text>
+        <text encoding="base64">ICAgICAgU1FMQ29udGV4dC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFyCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuZHVyYXRpb24uRHVyYXRpb24K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">YWwga2luZXNpc1N0cmVhbXMgPSAoMCB1bnRpbCBudW1TaGFyZHMpIG1hcCB7CiAgICAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgcmRkLgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcmRkLnRvREYK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgcmRkLgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
