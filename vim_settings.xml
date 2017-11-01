@@ -157,12 +157,12 @@
         <mark key="." line="148" column="0" />
         <mark key="^" line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" timestamp="1509527733944">
+      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" timestamp="1509529519999">
         <mark key="'" line="20" column="18" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="35" column="42" />
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="17" />
+        <mark key="." line="33" column="17" />
+        <mark key="^" line="33" column="17" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/AmazonKinesis.scala" timestamp="1506933088545">
         <mark key="'" line="15" column="0" />
@@ -565,11 +565,11 @@
       <jump line="19" column="18" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5zcWxDb250ZXh0LmltcGxpY2l0cy5fCg==</text>
+      <register name="&quot;" type="4">
+        <text>rowRdd</text>
       </register>
       <register name="-" type="4">
-        <text>strRdd</text>
+        <text>rowRdd</text>
       </register>
       <register name="/" type="4">
         <text>stream</text>
@@ -578,31 +578,31 @@
         <text encoding="base64">ICAgIHR5cGUgS2luZXNpc1N0cmVhbXMgPSBJbmRleGVkU2VxW0tpbmVzaXNJbnB1dERTdHJlYW1bQXJyYXlbQnl0ZV1dXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5zcWxDb250ZXh0LmltcGxpY2l0cy5fCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb2xsZWN0aW9uLkphdmFDb252ZXJ0ZXJzLl8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgcmRkLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGEgPSBSb3cuZnJvbVNlcShzdHJSZGQpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGFhYWEgPSBSb3cuZnJvbVNlcShzdHJSZGQpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZnJvbQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcmRkLgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgcgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhYiA9Pgo=</text>
+        <text encoding="base64">ICAgICAgc3BhcmsuY3JlYXRlRGF0YUZyYW1lKHJkZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHNzc3RyUmRkID0gZm9yIHsKICAgICAgICBhYiA8LSByZGQKICAgICAgICBiIDwtIGFiCiAgICAgICAgYi50b0NoYXIKICAgICAgfSB5aWVsZCBiIDo6IExpc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgawo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
