@@ -157,7 +157,8 @@
         <mark key="." line="148" column="0" />
         <mark key="^" line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" timestamp="1509519455866">
+      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" timestamp="1509521256452">
+        <mark key="'" line="19" column="18" />
         <mark key="[" line="2" column="86" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -246,12 +247,12 @@
         <mark key="." line="25" column="69" />
         <mark key="^" line="25" column="57" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" timestamp="1509518135404">
-        <mark key="'" line="22" column="14" />
-        <mark key="[" line="34" column="24" />
-        <mark key="]" line="35" column="5" />
-        <mark key="." line="35" column="5" />
-        <mark key="^" line="35" column="5" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" timestamp="1509521557288">
+        <mark key="'" line="23" column="14" />
+        <mark key="[" line="18" column="78" />
+        <mark key="]" line="18" column="87" />
+        <mark key="." line="18" column="87" />
+        <mark key="^" line="18" column="87" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/tests/src/test/scala/org/apache/spark/sql/test/SQLTestData.scala" timestamp="1507097235139">
         <mark key="[" line="292" column="0" />
@@ -462,7 +463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="20" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
       <jump line="21" column="16" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
       <jump line="27" column="14" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
       <jump line="38" column="18" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
@@ -562,16 +562,17 @@
       <jump line="15" column="81" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="10" column="37" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="19" column="14" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
+      <jump line="19" column="18" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLlNRTENvbnRleHQK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>implicit</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>app</text>
+        <text>stream</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHR5cGUgS2luZXNpc1N0cmVhbXMgPSBJbmRleGVkU2VxW0tpbmVzaXNJbnB1dERTdHJlYW1bQXJyYXlbQnl0ZV1dXQo=</text>
@@ -608,9 +609,9 @@
       </register>
     </registers>
     <search>
-      <last-search>app</last-search>
+      <last-search>stream</last-search>
       <last-offset />
-      <last-pattern>app</last-pattern>
+      <last-pattern>stream</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -618,7 +619,6 @@
     </search>
     <history>
       <history-search>
-        <entry>manifest</entry>
         <entry>main</entry>
         <entry>userspecified</entry>
         <entry>javaconver</entry>
@@ -638,6 +638,7 @@
         <entry>product</entry>
         <entry>”</entry>
         <entry>app</entry>
+        <entry>stream</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
