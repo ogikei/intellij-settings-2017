@@ -157,12 +157,12 @@
         <mark key="." line="148" column="0" />
         <mark key="^" line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" timestamp="1509524547644">
-        <mark key="'" line="19" column="18" />
-        <mark key="[" line="36" column="13" />
-        <mark key="]" line="36" column="12" />
-        <mark key="." line="36" column="12" />
-        <mark key="^" line="36" column="12" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" timestamp="1509525703966">
+        <mark key="'" line="20" column="18" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="33" column="54" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/AmazonKinesis.scala" timestamp="1506933088545">
         <mark key="'" line="15" column="0" />
@@ -565,11 +565,11 @@
       <jump line="19" column="18" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdmFsIHJkZDM6IFJERFtTdHJpbmddID0gZm9yIHsKICAgICAgICBhYiA8LSByZGQKICAgICAgICBiIDwtIGFiCiAgICAgIH0geWllbGQgYi50b1N0cmluZwo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>stream</text>
@@ -578,31 +578,31 @@
         <text encoding="base64">ICAgIHR5cGUgS2luZXNpc1N0cmVhbXMgPSBJbmRleGVkU2VxW0tpbmVzaXNJbnB1dERTdHJlYW1bQXJyYXlbQnl0ZV1dXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGYK</text>
+        <text encoding="base64">ICAgICAgdmFsIHJkZDM6IFJERFtTdHJpbmddID0gZm9yIHsKICAgICAgICBhYiA8LSByZGQKICAgICAgICBiIDwtIGFiCiAgICAgIH0geWllbGQgYi50b1N0cmluZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcyA9IGFiLnRvU3RyaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICBiIDwtIGFiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHJkZDIgPSByZGQgbWFwIChhYiA9PiBSb3cuZnJvbVNlcShhYikpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGYuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGRmID0gcmRkLnRvREYoImFjdGl2aXR5IikK</text>
+        <text encoding="base64">ICAgICAgICBhYi50bwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGYuY3JlYXRlCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHJkZDM6IFJERFtSb3ddID0gZm9yIHsKICAgICAgICBhYiA8LSByZGQKICAgICAgICBhIDwtIFJvdy5mcm9tU2VxKGFiKQogICAgICB9IHlpZWxkIGEKICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZCAgICBmLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGRmYSA9IGRmLndyaXRlLmZvcm1hdCgianNvbiIpCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGZhLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
