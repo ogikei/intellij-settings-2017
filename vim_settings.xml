@@ -157,12 +157,11 @@
         <mark key="." line="148" column="0" />
         <mark key="^" line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" timestamp="1509529519999">
-        <mark key="'" line="20" column="18" />
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="17" />
-        <mark key="." line="33" column="17" />
-        <mark key="^" line="33" column="17" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" timestamp="1509532041893">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/AmazonKinesis.scala" timestamp="1506933088545">
         <mark key="'" line="15" column="0" />
@@ -247,12 +246,12 @@
         <mark key="." line="25" column="69" />
         <mark key="^" line="25" column="57" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" timestamp="1509523275304">
-        <mark key="'" line="37" column="14" />
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="34" column="27" />
-        <mark key="." line="34" column="27" />
-        <mark key="^" line="34" column="27" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" timestamp="1509531839477">
+        <mark key="'" line="99" column="28" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/tests/src/test/scala/org/apache/spark/sql/test/SQLTestData.scala" timestamp="1507097235139">
         <mark key="[" line="292" column="0" />
@@ -463,11 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="16" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
-      <jump line="27" column="14" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
-      <jump line="38" column="18" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
-      <jump line="43" column="18" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
-      <jump line="50" column="18" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
       <jump line="80" column="18" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/pom.xml" />
       <jump line="37" column="6" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/pom.xml" />
       <jump line="86" column="60" filename="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/pom.xml" />
@@ -563,55 +557,60 @@
       <jump line="10" column="37" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="19" column="14" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="19" column="18" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
+      <jump line="29" column="19" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
+      <jump line="86" column="22" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
+      <jump line="31" column="44" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
+      <jump line="99" column="28" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>rowRdd</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAuZm9ybWF0dGVkKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>rowRdd</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>stream</text>
+        <text>activityext</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHR5cGUgS2luZXNpc1N0cmVhbXMgPSBJbmRleGVkU2VxW0tpbmVzaXNJbnB1dERTdHJlYW1bQXJyYXlbQnl0ZV1dXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb2xsZWN0aW9uLkphdmFDb252ZXJ0ZXJzLl8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAuZm9ybWF0dGVkKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmRkLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAuZm9yCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnRlcnMuXwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmRkLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgYWN0aXZpdHkuY29sbGVjCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3BhcmsuY3JlYXRlRGF0YUZyYW1lKHJkZCkK</text>
+        <text encoding="base64">ICAgICAgYWN0aXZpdHkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgawo=</text>
+        <text encoding="base64">ICAgIGNhc2UgY2xhc3MgQWN0aXZpdHlFeHQoCiAgICAgICAgbG9nX0RhdGU6IFN0cmluZywKICAgICAgICBhY3Rpb246IFN0cmluZywKICAgICAgICBvcHRpb246IFN0cmluZywKICAgICAgICBpM19zZXJ2aWNlX2NvZGU6IFN0cmluZywKICAgICAgICBvcGVuX2lkOiBTdHJpbmcsCiAgICAgICAgc2Vzc2lvbjogU3RyaW5nLAogICAgICAgIGNvb2tpZTogU3RyaW5nLAogICAgICAgIHZpZXdfdHlwZTogU3RyaW5nLAogICAgICAgIHVzZXJfYWdlbnQ6IFN0cmluZywKICAgICAgICB1YV9yZXBsYWNlX2lkOiBTdHJpbmcsCiAgICAgICAgdXJsOiBTdHJpbmcsCiAgICAgICAgdXJsX3JlcGxhY2VfaWQ6IFN0cmluZywKICAgICAgICB0aW1lOiBTdHJpbmcsCiAgICAgICAgaXA6IFN0cmluZywKICAgICAgICBzZWdtZW50OiBTdHJpbmcsCiAgICAgICAgdmFyMTogU3RyaW5nLAogICAgICAgIHZhcjI6IFN0cmluZywKICAgICAgICB2YXIzOiBTdHJpbmcsCiAgICAgICAgdmFyNDogU3RyaW5nLAogICAgICAgIHZhcjU6IFN0cmluZywKICAgICAgICB2aWV3OiBTdHJpbmcsCiAgICAgICAgYXBpOiBTdHJpbmcsCiAgICAgICAgZGV0YWlsOiBTdHJpbmcsCiAgICAgICAgdXNlcjogU3RyaW5nLAogICAgICAgIHB1cmNoYXNlOiBTdHJpbmcsCiAgICAgICAgc3VnZ2VzdDogU3RyaW5nLAogICAgICAgIHJldmlldzogU3RyaW5nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>stream</last-search>
+      <last-search>activityext</last-search>
       <last-offset />
-      <last-pattern>stream</last-pattern>
+      <last-pattern>activityext</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -619,8 +618,6 @@
     </search>
     <history>
       <history-search>
-        <entry>main</entry>
-        <entry>userspecified</entry>
         <entry>javaconver</entry>
         <entry>read</entry>
         <entry>show</entry>
@@ -639,6 +636,8 @@
         <entry>”</entry>
         <entry>app</entry>
         <entry>stream</entry>
+        <entry>java</entry>
+        <entry>activityext</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
