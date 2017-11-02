@@ -99,6 +99,12 @@
         <mark key="^" line="98" column="4" />
         <mark key="." line="98" column="4" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/recommend-log/project/assembly.sbt" timestamp="1509619286676">
+        <mark key="[" line="0" column="56" />
+        <mark key="]" line="0" column="56" />
+        <mark key="^" line="0" column="56" />
+        <mark key="." line="0" column="56" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisUtils.scala" timestamp="1507100172260">
         <mark key="'" line="459" column="0" />
         <mark key="[" line="418" column="51" />
@@ -168,12 +174,12 @@
         <mark key="." line="148" column="0" />
         <mark key="^" line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" timestamp="1509618387204">
-        <mark key="'" line="40" column="10" />
-        <mark key="[" line="65" column="44" />
-        <mark key="]" line="65" column="55" />
-        <mark key="." line="65" column="55" />
-        <mark key="^" line="65" column="55" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" timestamp="1509619066399">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="48" column="55" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/AmazonKinesis.scala" timestamp="1506933088545">
         <mark key="'" line="15" column="0" />
@@ -258,12 +264,12 @@
         <mark key="." line="25" column="69" />
         <mark key="^" line="25" column="57" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" timestamp="1509618125231">
-        <mark key="'" line="142" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="31" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" timestamp="1509619058875">
+        <mark key="'" line="125" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/tests/src/test/scala/org/apache/spark/sql/test/SQLTestData.scala" timestamp="1507097235139">
         <mark key="[" line="292" column="0" />
@@ -340,11 +346,11 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-log/build.sbt" timestamp="1509602942525">
-        <mark key="[" line="8" column="40" />
-        <mark key="]" line="8" column="48" />
-        <mark key="^" line="8" column="48" />
-        <mark key="." line="8" column="48" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-log/build.sbt" timestamp="1509619629412">
+        <mark key="[" line="8" column="50" />
+        <mark key="]" line="8" column="60" />
+        <mark key="." line="8" column="60" />
+        <mark key="^" line="8" column="60" />
       </file>
       <file name="$USER_HOME$/MyWork/git/test/polynomials.sc" timestamp="1509378537260">
         <mark key="'" line="12" column="27" />
@@ -477,10 +483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="17" filename="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/streaming/DataStreamReader.scala" />
-      <jump line="189" column="4" filename="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" />
-      <jump line="238" column="39" filename="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" />
-      <jump line="246" column="0" filename="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" />
       <jump line="334" column="0" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/LogicalPlan.scala" />
       <jump line="190" column="32" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/LogicalPlan.scala" />
       <jump line="529" column="0" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
@@ -537,7 +539,6 @@
       <jump line="85" column="7" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming-kinesis-asl_2.11/srcs/spark-streaming-kinesis-asl_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/kinesis/KinesisInputDStream.scala" />
       <jump line="71" column="44" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming-kinesis-asl_2.11/srcs/spark-streaming-kinesis-asl_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/kinesis/KinesisInputDStream.scala" />
       <jump line="3" column="30" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming-kinesis-asl_2.11/srcs/spark-streaming-kinesis-asl_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/kinesis/KinesisInputDStream.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
       <jump line="34" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="116" column="38" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
@@ -572,60 +573,65 @@
       <jump line="73" column="27" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming-kinesis-asl_2.11/srcs/spark-streaming-kinesis-asl_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/kinesis/KinesisInputDStream.scala" />
       <jump line="28" column="63" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming-kinesis-asl_2.11/srcs/spark-streaming-kinesis-asl_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/kinesis/KinesisInputDStream.scala" />
       <jump line="59" column="36" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
-      <jump line="58" column="32" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
       <jump line="44" column="14" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
       <jump line="31" column="8" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
       <jump line="60" column="17" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
       <jump line="40" column="10" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
+      <jump line="58" column="63" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
+      <jump line="10" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/build.sbt" />
+      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/build.sbt" />
+      <jump line="23" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/build.sbt" />
+      <jump line="18" column="35" filename="$USER_HOME$/OfficeTools/git/recommend-log/build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>println</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>println</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>kinesisstream</text>
+        <text>utils</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCB1bmlvblN0cmVhbXMxID0gc3NjLnVuaW9uKGtpbmVzaXNTdHJlYW1zMSkud2luZG93KE1pbnV0ZXMoNjApLCBNaW51dGVzKDUpKQo=</text>
+        <text encoding="base64">ICAgICAgbWFpbkNsYXNzIGluIGFzc2VtYmx5IDo9IFNvbWUoImNvbS5leGFtcGxlLk1haW4iKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">bGF6eSB2YWwgYXBwID0gKHByb2plY3QgaW4gZmlsZSgiYXBwIikpLgogICAgc2V0dGluZ3MoY29tbW9uU2V0dGluZ3M6IF8qKS4KICAgIHNldHRpbmdzKAogICAgICBtYWluQ2xhc3MgaW4gYXNzZW1ibHkgOj0gU29tZSgiY29tLmV4YW1wbGUuTWFpbiIpLAogICAgKQoKbGF6eSB2YWwgdXRpbHMgPSAocHJvamVjdCBpbiBmaWxlKCJ1dGlscyIpKS4KICAgIHNldHRpbmdzKGNvbW1vblNldHRpbmdzOiBfKikuCiAgICBzZXR0aW5ncygKICAgICAgYXNzZW1ibHlKYXJOYW1lIGluIGFzc2VtYmx5IDo9ICIuamFyIiwKICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IGNyZWF0ZSAyIHN0cmVhbXMsCg==</text>
+        <text encoding="base64">ICAgICAgLy8gbW9yZSBzZXR0aW5ncyBoZXJlIC4uLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLy8gbW9yZSBzZXR0aW5ncyBoZXJlIC4uLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVuaW9uU3RyZWFtczEgZmlsdGVyIHt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVuaW9uU3RyZWFtczEud2luCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGYud2luZG8K</text>
+        <text encoding="base64">LyoKICogTGljZW5zZWQgdG8gdGhlIEFwYWNoZSBTb2Z0d2FyZSBGb3VuZGF0aW9uIChBU0YpIHVuZGVyIG9uZSBvciBtb3JlCiAqIGNvbnRyaWJ1dG9yIGxpY2Vuc2UgYWdyZWVtZW50cy4gIFNlZSB0aGUgTk9USUNFIGZpbGUgZGlzdHJpYnV0ZWQgd2l0aAogKiB0aGlzIHdvcmsgZm9yIGFkZGl0aW9uYWwgaW5mb3JtYXRpb24gcmVnYXJkaW5nIGNvcHlyaWdodCBvd25lcnNoaXAuCiAqIFRoZSBBU0YgbGljZW5zZXMgdGhpcyBmaWxlIHRvIFlvdSB1bmRlciB0aGUgQXBhY2hlIExpY2Vuc2UsIFZlcnNpb24gMi4wCiAqICh0aGUgIkxpY2Vuc2UiKTsgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoCiAqIHRoZSBMaWNlbnNlLiAgWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqICAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiAqIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJBUyBJUyIgQkFTSVMsCiAqIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiAqIGxpbWl0YXRpb25zIHVuZGVyIHRoZSBMaWNlbnNlLgogKi8KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuCg==</text>
+        <text encoding="base64">LyoKICogTGljZW5zZWQgdG8gdGhlIEFwYWNoZSBTb2Z0d2FyZSBGb3VuZGF0aW9uIChBU0YpIHVuZGVyIG9uZSBvciBtb3JlCiAqIGNvbnRyaWJ1dG9yIGxpY2Vuc2UgYWdyZWVtZW50cy4gIFNlZSB0aGUgTk9USUNFIGZpbGUgZGlzdHJpYnV0ZWQgd2l0aAogKiB0aGlzIHdvcmsgZm9yIGFkZGl0aW9uYWwgaW5mb3JtYXRpb24gcmVnYXJkaW5nIGNvcHlyaWdodCBvd25lcnNoaXAuCiAqIFRoZSBBU0YgbGljZW5zZXMgdGhpcyBmaWxlIHRvIFlvdSB1bmRlciB0aGUgQXBhY2hlIExpY2Vuc2UsIFZlcnNpb24gMi4wCiAqICh0aGUgIkxpY2Vuc2UiKTsgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoCiAqIHRoZSBMaWNlbnNlLiAgWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqICAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiAqIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJBUyBJUyIgQkFTSVMsCiAqIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiAqIGxpbWl0YXRpb25zIHVuZGVyIHRoZSBMaWNlbnNlLgogKi8KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuc2gK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>kinesisstream</last-search>
+      <last-search>utils</last-search>
       <last-offset />
-      <last-pattern>kinesisstream</last-pattern>
+      <last-pattern>utils</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -633,7 +639,6 @@
     </search>
     <history>
       <history-search>
-        <entry>parse</entry>
         <entry>treestring</entry>
         <entry>tree</entry>
         <entry>self</entry>
@@ -653,6 +658,7 @@
         <entry>timestamp</entry>
         <entry>time</entry>
         <entry>kinesisstream</entry>
+        <entry>utils</entry>
       </history-search>
       <history-cmd>
         <entry>69</entry>
