@@ -168,12 +168,12 @@
         <mark key="." line="148" column="0" />
         <mark key="^" line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" timestamp="1509614223052">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="19" column="86" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" timestamp="1509615753895">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="62" column="4" />
+        <mark key="]" line="62" column="4" />
+        <mark key="." line="62" column="4" />
+        <mark key="^" line="62" column="4" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/AmazonKinesis.scala" timestamp="1506933088545">
         <mark key="'" line="15" column="0" />
@@ -580,10 +580,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>activityStream</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>activityStream</text>
       </register>
       <register name="/" type="4">
         <text>time</text>
@@ -592,31 +592,31 @@
         <text encoding="base64">ICAgIHZhbCB1bmlvblN0cmVhbXMgPSBzc2MudW5pb24oa2luZXNpc1N0cmVhbXMxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGNyZWF0ZSAyIHN0cmVhbXMsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVuaW9uU3RyZWFtczEgZmlsdGVyIHt9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVuaW9uU3RyZWFtczEud2luCg==</text>
+        <text encoding="base64">ICAgIHVuaW9uU3RyZWFtczEgZmlsdGVyIHt9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGYud2luZG8K</text>
+        <text encoding="base64">ICAgIHVuaW9uU3RyZWFtczEud2luCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuCg==</text>
+        <text encoding="base64">ICAgICAgZGYud2luZG8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuc2gK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAuCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAuc2gK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qc29uNHMuRGVmYXVsdEZvcm1hdHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
