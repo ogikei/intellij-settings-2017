@@ -164,6 +164,12 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/test/scala/RecommendLogSuite.scala" timestamp="1509946476081">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/scalastyle-config.xml" timestamp="1507183378542">
         <mark key="'" line="21" column="18" />
       </file>
@@ -173,10 +179,10 @@
         <mark key="." line="148" column="0" />
         <mark key="^" line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" timestamp="1509945871817">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="48" column="14" />
-        <mark key="]" line="48" column="14" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" timestamp="1509947771869">
+        <mark key="'" line="18" column="28" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="79" />
         <mark key="." line="48" column="14" />
         <mark key="^" line="48" column="14" />
       </file>
@@ -263,10 +269,10 @@
         <mark key="." line="25" column="69" />
         <mark key="^" line="25" column="57" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" timestamp="1509623029530">
-        <mark key="'" line="53" column="4" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="123" column="3" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" timestamp="1509947760445">
+        <mark key="'" line="45" column="41" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="79" />
         <mark key="." line="118" column="0" />
         <mark key="^" line="21" column="65" />
       </file>
@@ -345,12 +351,12 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-log/build.sbt" timestamp="1509623412736">
+      <file name="$USER_HOME$/OfficeTools/git/recommend-log/build.sbt" timestamp="1509946623199">
         <mark key="'" line="7" column="3" />
-        <mark key="[" line="10" column="66" />
-        <mark key="]" line="10" column="66" />
-        <mark key="." line="10" column="66" />
-        <mark key="^" line="10" column="66" />
+        <mark key="[" line="8" column="50" />
+        <mark key="]" line="8" column="50" />
+        <mark key="." line="8" column="50" />
+        <mark key="^" line="8" column="50" />
       </file>
       <file name="$USER_HOME$/MyWork/git/test/polynomials.sc" timestamp="1509378537260">
         <mark key="'" line="12" column="27" />
@@ -459,6 +465,12 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="77" column="28" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/test/scala/com/dmm/dre/common/RecommendLogSuite.scala" timestamp="1509947908564">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/ml/source/libsvm/LibSVMKinesisValueFormat.scala" timestamp="1507183219756">
         <mark key="'" line="36" column="73" />
       </file>
@@ -481,15 +493,11 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1509946509265">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="45" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
-      <jump line="123" column="4" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
-      <jump line="77" column="2" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
-      <jump line="192" column="4" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
-      <jump line="279" column="25" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
-      <jump line="51" column="2" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
-      <jump line="106" column="5" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
       <jump line="77" column="21" filename="$USER_HOME$/MyWork/git/spark/sql/core/src/test/scala/org/apache/spark/sql/UserDefinedTypeSuite.scala" />
       <jump line="82" column="45" filename="$USER_HOME$/MyWork/git/spark/sql/core/src/test/scala/org/apache/spark/sql/UserDefinedTypeSuite.scala" />
       <jump line="85" column="64" filename="$USER_HOME$/MyWork/git/spark/sql/core/src/test/scala/org/apache/spark/sql/UserDefinedTypeSuite.scala" />
@@ -514,7 +522,6 @@
       <jump line="36" column="2" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="6" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="14" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
-      <jump line="21" column="54" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="27" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="25" column="15" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="15" column="81" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
@@ -562,7 +569,6 @@
       <jump line="28" column="63" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming-kinesis-asl_2.11/srcs/spark-streaming-kinesis-asl_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/kinesis/KinesisInputDStream.scala" />
       <jump line="59" column="36" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
       <jump line="44" column="14" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
-      <jump line="31" column="8" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
       <jump line="60" column="17" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
       <jump line="40" column="10" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
@@ -578,68 +584,76 @@
       <jump line="114" column="2" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="53" column="4" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="54" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
-      <jump line="42" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
       <jump line="15" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
       <jump line="41" column="7" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
       <jump line="50" column="2" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
       <jump line="14" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
+      <jump line="46" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
+      <jump line="21" column="8" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
+      <jump line="44" column="12" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
+      <jump line="45" column="41" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
+      <jump line="43" column="24" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
+      <jump line="42" column="24" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
+      <jump line="31" column="28" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
+      <jump line="18" column="28" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
+      <jump line="11" column="1" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/test/scala/com/dmm/dre/common/RecommendLogSuite.scala" />
+      <jump line="6" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/test/scala/com/dmm/dre/common/RecommendLogSuite.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmICJhIiA9PSAiYiIgImFhYSIgZWxzZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>utils</text>
+        <text>ssc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGFjdGl2aXR5U3RyZWFtMSA9IHVuaW9uU3RyZWFtczEgbWFwIHsgYnl0ZUFycmF5ID0+IGZyb21Kc29uKGJ5dGVBcnJheSkgfQo=</text>
+        <text encoding="base64">ICAgIHZhbCBzc2MgPSBuZXcgU3RyZWFtaW5nQ29udGV4dChzcGFyay5zcGFya0NvbnRleHQsIEtpbmVzaXNDb25maWdzLmR1cmF0aW9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3QuY29sbGUK</text>
+        <text encoding="base64">ICAgIGlmICJhIiA9PSAiYiIgImFhYSIgZWxzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVuaW8K</text>
+        <text encoding="base64">ICB2YWwgc3NjID0gc3Bhcmsuc3RyZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYWN0aXZpdHlTdHJlYW0uZm9yZWFjaFJERCB7IHJkZCA9PgogICAgICAgIC8vIHZhbCBkZiA9IHNwYXJrLnNxbENvbnRleHQuY3JlYXRlRGF0YUZyYW1lKHJkZCkKICAgICAgICAvLyBkZi5zaG93KCkKICAgICAgICByZGQuY29sbGVjdCgpLmZvcmVhY2goYWN0ID0+IHByaW50bG4oYWN0LnRvU3RyaW5nKSkKICAgICAgfQoK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3Que0JlZm9yZUFuZEFmdGVyLCBGdW5TdWl0ZX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gdmFsIGEgPSBhY3Rpdml0eVN0cmVhbSBmaWx0ZXIgeyBhY3Rpdml0eSA9PiBhY3Rpdml0eS5hY3Rpb24gPT0gInNob3ciIH0K</text>
+        <text encoding="base64">ICB2YWwgY29uZiA9IG5ldwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gdmFsIHVuaW9uU3RyZWFtczEgPSBzc2MudW5pb24oa2luZXNpc1N0cmVhbXMxKS53aW5kb3coTWludXRlcyg2MCksIE1pbnV0ZXMoNSkpCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBzc2MgPSBfCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBjb25mID0gbmV3IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgZnJvbUpzb24oYnl0ZUFycmF5OiBBcnJheVtCeXRlXSk6IEFjdGl2aXR5RXh0ID0gewogICAgaW1wbGljaXQgdmFsIGZvcm1hdHM6IERlZmF1bHRGb3JtYXRzLnR5cGUgPSBEZWZhdWx0Rm9ybWF0cwogICAgdmFsIG5ld1N0cmluZyA9IG5ldyBTdHJpbmcoYnl0ZUFycmF5LCAiVVRGLTgiKQogICAgdmFsIHBhcnNlZCA9IHBhcnNlKG5ld1N0cmluZykKICAgIHBhcnNlZC5leHRyYWN0W0FjdGl2aXR5RXh0XQogIH0K</text>
+        <text encoding="base64">ICB2YWwgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhc3NlbWJseUphck5hbWUgaW4gYXNzZW1ibHkgOj0gInJlY29tbWVuZC1sb2cuamFyIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>utils</last-search>
+      <last-search>ssc</last-search>
       <last-offset />
-      <last-pattern>utils</last-pattern>
+      <last-pattern>ssc</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>treestring</entry>
         <entry>tree</entry>
         <entry>self</entry>
         <entry>type</entry>
@@ -659,6 +673,7 @@
         <entry>time</entry>
         <entry>kinesisstream</entry>
         <entry>utils</entry>
+        <entry>ssc</entry>
       </history-search>
       <history-cmd>
         <entry>69</entry>
