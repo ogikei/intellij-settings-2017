@@ -179,12 +179,12 @@
         <mark key="." line="148" column="0" />
         <mark key="^" line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" timestamp="1509950551711">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="36" column="4" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" timestamp="1509954256031">
+        <mark key="'" line="21" column="36" />
+        <mark key="[" line="34" column="44" />
+        <mark key="]" line="34" column="44" />
+        <mark key="." line="34" column="44" />
+        <mark key="^" line="34" column="44" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/AmazonKinesis.scala" timestamp="1506933088545">
         <mark key="'" line="15" column="0" />
@@ -498,7 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="64" filename="$USER_HOME$/MyWork/git/spark/sql/core/src/test/scala/org/apache/spark/sql/UserDefinedTypeSuite.scala" />
       <jump line="92" column="13" filename="$USER_HOME$/MyWork/git/spark/sql/core/src/test/scala/org/apache/spark/sql/UserDefinedTypeSuite.scala" />
       <jump line="28" column="0" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
       <jump line="68" column="0" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/Expression.scala" />
@@ -598,13 +597,14 @@
       <jump line="24" column="18" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
       <jump line="36" column="4" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
       <jump line="14" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
+      <jump line="21" column="36" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ssc</text>
