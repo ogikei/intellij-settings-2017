@@ -221,11 +221,12 @@
         <mark key="^" line="1" column="55" />
         <mark key="." line="1" column="55" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/common/package.scala" timestamp="1510206821553">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/common/package.scala" timestamp="1510209336037">
+        <mark key="'" line="16" column="9" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="12" column="53" />
       </file>
       <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" timestamp="1507188198707">
         <mark key="'" line="246" column="0" />
@@ -254,6 +255,9 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/DataFrameReader.scala" timestamp="1510209378604">
+        <mark key="'" line="310" column="42" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.sql.streaming/exp.sc" timestamp="1506938890132">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -280,10 +284,10 @@
         <mark key="." line="25" column="69" />
         <mark key="^" line="25" column="57" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" timestamp="1510204866821">
-        <mark key="'" line="45" column="41" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="79" />
+      <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" timestamp="1510209197081">
+        <mark key="'" line="16" column="66" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="87" column="2" />
         <mark key="." line="118" column="0" />
         <mark key="^" line="21" column="65" />
       </file>
@@ -389,11 +393,11 @@
         <mark key="." line="134" column="0" />
         <mark key="^" line="134" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/common/HiveConvert.scala" timestamp="1510206962658">
-        <mark key="[" line="6" column="31" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="6" column="31" />
-        <mark key="^" line="6" column="31" />
+      <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/common/HiveConvert.scala" timestamp="1510209592318">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="10" column="68" />
+        <mark key="." line="10" column="68" />
+        <mark key="^" line="10" column="68" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-utils/build.sbt" timestamp="1510205159540">
         <mark key="'" line="17" column="5" />
@@ -521,16 +525,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="47" filename="$USER_HOME$/MyWork/git/spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/Expression.scala" />
-      <jump line="33" column="0" filename="$USER_HOME$/MyWork/git/test/nqueens.sc" />
-      <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/test/nqueens.sc" />
-      <jump line="40" column="0" filename="$USER_HOME$/MyWork/git/test/src/main/scala/test.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/test/src/main/scala/test.scala" />
-      <jump line="1" column="0" filename="$USER_HOME$/MyWork/git/test/src/main/scala/test.scala" />
-      <jump line="38" column="0" filename="$USER_HOME$/MyWork/git/test/src/main/scala/test.scala" />
-      <jump line="6" column="12" filename="$USER_HOME$/MyWork/git/test/src/main/scala/nqueens.scala" />
-      <jump line="4" column="13" filename="$USER_HOME$/MyWork/git/test/polynomials.sc" />
-      <jump line="17" column="0" filename="$USER_HOME$/MyWork/git/test/polynomials.sc" />
       <jump line="20" column="48" filename="$USER_HOME$/MyWork/git/test/polynomials.sc" />
       <jump line="23" column="9" filename="$USER_HOME$/MyWork/git/test/polynomials.sc" />
       <jump line="24" column="2" filename="$USER_HOME$/MyWork/git/test/polynomials.sc" />
@@ -557,7 +551,6 @@
       <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="108" column="17" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="124" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
-      <jump line="16" column="18" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="121" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="122" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="17" column="38" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
@@ -621,55 +614,66 @@
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
       <jump line="3" column="1" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/HiveConvert.scala" />
       <jump line="17" column="5" filename="$USER_HOME$/OfficeTools/git/spark-utils/build.sbt" />
+      <jump line="61" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
+      <jump line="16" column="66" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
+      <jump line="16" column="9" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/common/package.scala" />
+      <jump line="40" column="0" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/common/package.scala" />
+      <jump line="17" column="9" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/common/package.scala" />
+      <jump line="276" column="6" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/DataFrameReader.scala" />
+      <jump line="287" column="70" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/DataFrameReader.scala" />
+      <jump line="288" column="59" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/DataFrameReader.scala" />
+      <jump line="309" column="41" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/DataFrameReader.scala" />
+      <jump line="310" column="42" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/DataFrameReader.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>, activityExtSchema</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>, activityExtSchema</text>
       </register>
       <register name="/" type="4">
-        <text>ssc</text>
+        <text>schema</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20uZWVkM3NpOW4iICUgInNidC1hc3NlbWJseSIgJSAiMC4xNC41IikK</text>
+        <text encoding="base64">ICB2YWwgYWN0aXZpdHlFeHRTY2hlbWE6IEFjdGl2aXR5RXh0U2NoZW1hID0gewogICAgU3RydWN0VHlwZShTdHJ1Y3RGaWVsZCgibG9nX2RhdGUiLCBTdHJpbmdUeXBlLCB0cnVlKSA6OgogICAgICAgICAgICAgICBTdHJ1Y3RGaWVsZCgiYWN0aW9uIiwgU3RyaW5nVHlwZSwgdHJ1ZSkgOjoKICAgICAgICAgICAgICAgU3RydWN0RmllbGQoIm9wdGlvbiIsIFN0cmluZ1R5cGUsIHRydWUpIDo6CiAgICAgICAgICAgICAgIFN0cnVjdEZpZWxkKCJpM19zZXJ2aWNlX2NvZGUiLCBTdHJpbmdUeXBlLCB0cnVlKSA6OgogICAgICAgICAgICAgICBTdHJ1Y3RGaWVsZCgib3Blbl9pZCIsIFN0cmluZ1R5cGUsIHRydWUpIDo6CiAgICAgICAgICAgICAgIFN0cnVjdEZpZWxkKCJzZXNzaW9uIiwgU3RyaW5nVHlwZSwgdHJ1ZSkgOjoKICAgICAgICAgICAgICAgU3RydWN0RmllbGQoImNvb2tpZSIsIFN0cmluZ1R5cGUsIHRydWUpIDo6CiAgICAgICAgICAgICAgIFN0cnVjdEZpZWxkKCJ2aWV3X3R5cGUiLCBTdHJpbmdUeXBlLCB0cnVlKSA6OgogICAgICAgICAgICAgICBTdHJ1Y3RGaWVsZCgidXNlcl9hZ2VudCIsIFN0cmluZ1R5cGUsIHRydWUpIDo6CiAgICAgICAgICAgICAgIFN0cnVjdEZpZWxkKCJ1YV9yZXBsYWNlX2lkIiwgU3RyaW5nVHlwZSwgdHJ1ZSkgOjoKICAgICAgICAgICAgICAgU3RydWN0RmllbGQoInVybCIsIFN0cmluZ1R5cGUsIHRydWUpIDo6CiAgICAgICAgICAgICAgIFN0cnVjdEZpZWxkKCJ1cmxfcmVwbGFjZV9pZCIsIFN0cmluZ1R5cGUsIHRydWUpIDo6CiAgICAgICAgICAgICAgIFN0cnVjdEZpZWxkKCJ0aW1lIiwgU3RyaW5nVHlwZSwgdHJ1ZSkgOjoKICAgICAgICAgICAgICAgU3RydWN0RmllbGQoImlwIiwgU3RyaW5nVHlwZSwgdHJ1ZSkgOjoKICAgICAgICAgICAgICAgU3RydWN0RmllbGQoInNlZ21lbnQiLCBTdHJpbmdUeXBlLCB0cnVlKSA6OgogICAgICAgICAgICAgICBTdHJ1Y3RGaWVsZCgidmFyMSIsIFN0cmluZ1R5cGUsIHRydWUpIDo6CiAgICAgICAgICAgICAgIFN0cnVjdEZpZWxkKCJ2YXIyIiwgU3RyaW5nVHlwZSwgdHJ1ZSkgOjoKICAgICAgICAgICAgICAgU3RydWN0RmllbGQoInZhcjMiLCBTdHJpbmdUeXBlLCB0cnVlKSA6OgogICAgICAgICAgICAgICBTdHJ1Y3RGaWVsZCgidmFyNCIsIFN0cmluZ1R5cGUsIHRydWUpIDo6CiAgICAgICAgICAgICAgIFN0cnVjdEZpZWxkKCJ2YXI1IiwgU3RyaW5nVHlwZSwgdHJ1ZSkgOjoKICAgICAgICAgICAgICAgU3RydWN0RmllbGQoInZpZXciLCBTdHJpbmdUeXBlLCB0cnVlKSA6OgogICAgICAgICAgICAgICBTdHJ1Y3RGaWVsZCgiYXBpIiwgU3RyaW5nVHlwZSwgdHJ1ZSkgOjoKICAgICAgICAgICAgICAgU3RydWN0RmllbGQoImRldGFpbCIsIFN0cmluZ1R5cGUsIHRydWUpIDo6CiAgICAgICAgICAgICAgIFN0cnVjdEZpZWxkKCJ1c2VyIiwgU3RyaW5nVHlwZSwgdHJ1ZSkgOjoKICAgICAgICAgICAgICAgU3RydWN0RmllbGQoInB1cmNoYXNlIiwgU3RyaW5nVHlwZSwgdHJ1ZSkgOjoKICAgICAgICAgICAgICAgU3RydWN0RmllbGQoInN1Z2dlc3QiLCBTdHJpbmdUeXBlLCB0cnVlKSA6OgogICAgICAgICAgICAgICBTdHJ1Y3RGaWVsZCgicmV2aWV3IiwgU3RyaW5nVHlwZSwgdHJ1ZSkgOjogTmlsKQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWwgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGF6eSB2YWwgaGl2ZUNvbnZlcnQgPSAocHJvamVjdCBpbiBmaWxlKCIiKSkKICAgIC5zZXR0aW5ncygKICAgICAgbmFtZSA6PSAiaGl2ZS1jb252ZXJ0IiwKICAgICAgY29tbW9uU2V0dGluZ3MKICAgICkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">bmFtZSA6PSAic3BhcmstdXRpbHMiCgp2ZXJzaW9uIDo9ICIwLjEiCgpzY2FsYVZlcnNpb24gOj0gIjIuMTEuMTIiCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">bGF6eSB2YWwgaGl2ZUNvbnZlcnQgPSAocHJvamVjdCBpbiBmaWxlKCIiKSkKICAgIC5zZXR0aW5ncygKICAgICAgbmFtZSA6PSAiaGl2ZS1jb252ZXJ0IiwKICAgICAgY29tbW9uU2V0dGluZ3MKICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>ssc</last-search>
+      <last-search>schema</last-search>
       <last-offset />
-      <last-pattern>ssc</last-pattern>
+      <last-pattern>schema</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -677,9 +681,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tree</entry>
-        <entry>self</entry>
-        <entry>type</entry>
         <entry>basetype</entry>
         <entry>sun</entry>
         <entry>refle</entry>
@@ -697,6 +698,9 @@
         <entry>kinesisstream</entry>
         <entry>utils</entry>
         <entry>ssc</entry>
+        <entry>s3</entry>
+        <entry>type</entry>
+        <entry>schema</entry>
       </history-search>
       <history-cmd>
         <entry>69</entry>
