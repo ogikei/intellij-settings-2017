@@ -469,12 +469,12 @@
         <mark key="." line="118" column="0" />
         <mark key="^" line="21" column="65" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/HiveConvert.scala" timestamp="1510219353612">
-        <mark key="'" line="20" column="26" />
-        <mark key="[" line="21" column="34" />
-        <mark key="]" line="21" column="34" />
-        <mark key="." line="21" column="34" />
-        <mark key="^" line="21" column="35" />
+      <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/HiveConvert.scala" timestamp="1510220679755">
+        <mark key="'" line="18" column="26" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="84" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="51" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/tests/src/test/scala/org/apache/spark/sql/test/SQLTestData.scala" timestamp="1507097235139">
         <mark key="[" line="292" column="0" />
@@ -689,44 +689,44 @@
       <jump line="16" column="26" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/HiveConvert.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>j</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSBOb25lID0+IHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oImZhaWxlZCB0byBmaW5kIGRhdGEgc291cmNlLiIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>format.get.convert()</text>
       </register>
       <register name="/" type="4">
         <text>schema</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCB0YXJnZXRKc29uREYgPSBzcGFyay5zcWxDb250ZXh0LnJlYWQuc2NoZW1hKGFjdGl2aXR5RXh0U2NoZW1hKS5qc29uKHMzUGF0aCkKICAgIHRhcmdldEpzb25ERi53cml0ZS5wYXJxdWV0KHRhcmdldFBhdGgpCg==</text>
+        <text encoding="base64">Ly8gICAgICBjYXNlIGZvcm1hdCA9PiBmb3JtYXQuZ2V0LmNvbnZlcnQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kbW0uZHJlLmNvbnZlcnQuc291cmNlcy5Kc29uCg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSBOb25lID0+IHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oImZhaWxlZCB0byBmaW5kIGRhdGEgc291cmNlLiIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlcnZpY2VMb2FkZXIuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kbW0uZHJlLmNvbnZlcnQuc291cmNlcy5Kc29uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgc2hvcnROYW1lKCkgPSA/Pz8K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSBmcCBpZiBmcC5zID09ICJqc29uIiA9PiBuZXcgSnNvbigpLmNvbnZlcnQoKQogICAgICBjYXNlIE5pbCA9Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IHZhbCBzZXJ2aWNlTG9hZGVyID0gU2VydmljZUxvYWRlci5sb2FkKGNsYXNzT2ZbRm9ybWF0UHJvdmlkZXJdLCBsb2FkZXIpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kbW0uZHJlLmNvbnZlcnQuc291cmNlcy5Kc29uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
