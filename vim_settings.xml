@@ -114,11 +114,11 @@
         <mark key="." line="37" column="7" />
         <mark key="^" line="37" column="7" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/test/test.sc" timestamp="1510476141315">
-        <mark key="[" line="3" column="54" />
-        <mark key="]" line="3" column="54" />
-        <mark key="." line="3" column="54" />
-        <mark key="^" line="3" column="54" />
+      <file name="$USER_HOME$/MyWork/git/test/test.sc" timestamp="1510481151945">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="16" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/AmazonKinesis.scala" timestamp="1506933088545">
         <mark key="'" line="15" column="0" />
@@ -546,11 +546,11 @@
       <jump line="31" column="0" filename="$USER_HOME$/MyWork/git/test/src/main/scala/test.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIOOBguOBguOBguOBggo=</text>
+      <register name="&quot;" type="4">
+        <text>(T, T)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(T, T)</text>
       </register>
       <register name="/" type="4">
         <text>”</text>
@@ -559,31 +559,31 @@
         <text encoding="base64">b2JqZWN0IHRlc3QgewogIGRlZiBtYWluKGFyZ3M6IEFycmF5W1N0cmluZ10pOiBVbml0ID0gewogICAgdmFsIE4gPSAxMAogICAgdmFsIGFhID0gZm9yIHsKICAgICAgeCA8LSAyIHRvIE4KICAgICAgeSA8LSAyIHRvIHgKICAgICAgaWYgeCAlIHkgPT0gMAogICAgfSB5aWVsZCAoeCwgeSkKICAgIHByaW50KGFhKQogIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIOOBguOBguOBguOBggo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgLHYK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHt9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBOID0gMTAKICAgIHZhbCBhYSA9IGZvciB7CiAgICAgIHggPC0gMiB0byBOCiAgICAgIHkgPC0gMiB0byB4CiAgICAgIGlmIHggJSB5ID09IDAKICAgIH0geWllbGQgKHgsIHkpCiAgICBwcmludChhYSkKICB9Cg==</text>
+        <text encoding="base64">ICAgIC8vIOOBguOBguOBguOBggo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIAogICAgLHYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBOID0gMTAKICAgIHZhbCBhYSA9IGZvciB7CiAgICAgIHggPC0gMiB0byBOCiAgICAgIHkgPC0gMiB0byB4CiAgICAgIGlmIHggJSB5ID09IDAKICAgIH0geWllbGQgKHgsIHkpCgogICAgdmFsIGJiID0gKDIgdG8gTikgZmxhdE1hcCAoeCA9PgogICAgICAoMiB0byB4KSB3aXRoRmlsdGVyICh5ID0+CiAgICAgICAgeCAlIHkgPT0gMCkgbWFwICh5ID0+ICh4LCB5KSkpCiAgICBwcmludChiYikK</text>
+        <text encoding="base64">ICAgIHt9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBOID0gMTAKICAgIHZhbCBhYSA9IGZvciB7CiAgICAgIHggPC0gMiB0byBOCiAgICAgIHkgPC0gMiB0byB4CiAgICAgIGlmIHggJSB5ID09IDAKICAgIH0geWllbGQgKHgsIHkpCiAgICBwcmludChhYSkKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFhKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHZhbCBOID0gMTAKICAgIHZhbCBhYSA9IGZvciB7CiAgICAgIHggPC0gMiB0byBOCiAgICAgIHkgPC0gMiB0byB4CiAgICAgIGlmIHggJSB5ID09IDAKICAgIH0geWllbGQgKHgsIHkpCgogICAgdmFsIGJiID0gKDIgdG8gTikgZmxhdE1hcCAoeCA9PgogICAgICAoMiB0byB4KSB3aXRoRmlsdGVyICh5ID0+CiAgICAgICAgeCAlIHkgPT0gMCkgbWFwICh5ID0+ICh4LCB5KSkpCiAgICBwcmludChiYikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
