@@ -246,6 +246,19 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark-example/src/main/scala/com/dmm/example/SparkHiveExample.scala" timestamp="1510889917306">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="48" />
+        <mark key="." line="7" column="48" />
+        <mark key="^" line="7" column="48" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" timestamp="1510888261496">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="17" />
+        <mark key="^" line="25" column="17" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/sources/input/Json.scala" timestamp="1510299089670">
         <mark key="[" line="0" column="35" />
         <mark key="]" line="0" column="35" />
@@ -550,10 +563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="30" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming-kinesis-asl_2.11/srcs/spark-streaming-kinesis-asl_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/kinesis/KinesisInputDStream.scala" />
-      <jump line="34" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
-      <jump line="116" column="38" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
-      <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="108" column="17" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="124" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="121" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
@@ -650,13 +659,17 @@
       <jump line="3" column="0" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/HiveConvert.scala" />
       <jump line="14" column="0" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/HiveConvert.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/HiveConvert.scala" />
+      <jump line="28" column="5" filename="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" />
+      <jump line="3" column="0" filename="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" />
+      <jump line="27" column="20" filename="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" />
+      <jump line="17" column="0" filename="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>spark-warehouse</text>
       </register>
       <register name="-" type="4">
-        <text>system</text>
+        <text>spark-warehouse</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
@@ -668,28 +681,28 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBrCgoK</text>
+        <text encoding="base64">ICAgIHNxbC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgcmRkKCk6IFJERAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgb3V0cHV0KGRmOiBEYXRhRnJhbWUsIHBhdGg6IFN0cmluZyk6IFVuaXQgPSB7CiAgICBkZi53cml0ZS5qc29uKHBhdGgpCiAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjZWYgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjYXNlIGNsYXNzIEFjdGl2aXR5Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnNwYXJrIiAlJSAic3BhcmstbWwiICUgIjIuMi4wIikK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bGFieSB2YWwK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
