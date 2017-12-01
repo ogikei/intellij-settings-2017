@@ -5,14 +5,16 @@
         <BackgroundConfiguration>
           <option name="fileNames">
             <array>
-              <option value="$USER_HOME$/Downloads/sliced-apple-logo_23-2147492557.jpg" />
+              <option value="$USER_HOME$/Downloads/workflow-analysis-apple1-1 (dragged).gif" />
+              <option value="$USER_HOME$/Downloads/apple_animation/workflow-analysis-apple1-2 (dragged).gif" />
+              <option value="$USER_HOME$/Downloads/apple_animation/workflow-analysis-apple1-3 (dragged).gif" />
             </array>
           </option>
-          <option name="fixedPosition" value="false" />
           <option name="position" value="4" />
           <option name="positionOffset" value="100" />
-          <option name="shrink" value="true" />
           <option name="shrinkValue" value="100" />
+          <option name="slideshow" value="true" />
+          <option name="slideshowPause" value="10" />
         </BackgroundConfiguration>
       </list>
     </option>
