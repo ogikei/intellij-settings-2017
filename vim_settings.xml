@@ -246,11 +246,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-example/src/main/scala/com/dmm/example/SparkHiveExample.scala" timestamp="1511853298234">
+      <file name="$USER_HOME$/OfficeTools/git/spark-example/src/main/scala/com/dmm/example/SparkHiveExample.scala" timestamp="1512353805087">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" timestamp="1511847359741">
         <mark key="'" line="2" column="0" />
@@ -665,11 +665,11 @@
       <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>sparkContext</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
