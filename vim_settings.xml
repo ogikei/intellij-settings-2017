@@ -239,6 +239,12 @@
         <mark key="." line="69" column="16" />
         <mark key="^" line="69" column="16" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/.gitignore" timestamp="1512360094425">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="4" column="6" />
+        <mark key="." line="4" column="6" />
+        <mark key="^" line="4" column="6" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/test/nqueens.sc" timestamp="1509355133891">
         <mark key="[" line="36" column="9" />
         <mark key="]" line="36" column="9" />
@@ -430,7 +436,7 @@
         <mark key="." line="5" column="47" />
         <mark key="^" line="4" column="51" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/SparkKafkaExample.scala" timestamp="1512359602544">
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/SparkKafkaExample.scala" timestamp="1512360674980">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="21" column="50" />
         <mark key="]" line="21" column="53" />
@@ -577,7 +583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/.ivy2/cache/org.json4s/json4s-core_2.11/srcs/json4s-core_2.11-3.2.11-sources.jar!/org/json4s/Formats.scala" />
       <jump line="57" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
       <jump line="129" column="9" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming-kinesis-asl_2.11/srcs/spark-streaming-kinesis-asl_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/kinesis/KinesisInputDStream.scala" />
       <jump line="50" column="36" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming-kinesis-asl_2.11/srcs/spark-streaming-kinesis-asl_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/kinesis/KinesisInputDStream.scala" />
@@ -677,13 +682,14 @@
       <jump line="11" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/SparkKafkaExample.scala" />
       <jump line="22" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/build.sbt" />
       <jump line="12" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/build.sbt" />
+      <jump line="19" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/SparkKafkaExample.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>localhost:9092,anotherhost:9092</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>localhost:9092,anotherhost:9092</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
@@ -692,31 +698,31 @@
         <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnNwYXJrIiAlICJzcGFyay1zcWwta2Fma2EtMC0xMF8yLjExIiAlICIyLjIuMCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGF6eSB2YWwgSGl2ZU9uU3BhcmsgPSAocHJvamVjdCBpbiBmaWxlKCIiKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bGF6eSB2YWwgSGl2ZU9uU3BhcmsgPSAocHJvamVjdCBpbiBmaWxlKCIiKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcGFyayA9IFNwYXJrU2Vzc2lvbgogICAgICAgIC5idWlsZGVyKCkKICAgICAgICAuYXBwTmFtZSgiU3BhcmsgS2Fma2EgRXhhbXBsZSIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuZ2V0T3JDcmVhdGUoKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBzcGFyayA9IFNwYXJrU2Vzc2lvbgogICAgICAgIC5idWlsZGVyKCkKICAgICAgICAuYXBwTmFtZSgiU3BhcmsgS2Fma2EgRXhhbXBsZSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb25mID0gc3BhcmsuY29uZi5zZXRtYQo=</text>
+        <text encoding="base64">ICAgICAgICAuZ2V0T3JDcmVhdGUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBzYyA9IHNwYXJrLnNwYXJrQ29udGV4dAo=</text>
+        <text encoding="base64">ICAgIHZhbCBjb25mID0gc3BhcmsuY29uZi5zZXRtYQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIHZhbCBzYyA9IHNwYXJrLnNwYXJrQ29udGV4dAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBzc2MgPSBzYy5zdHJlCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzYyA9IHNwYXJrLnNwYXJrQ29udGV4dAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
