@@ -69,11 +69,6 @@
         <mark key="^" line="25" column="1" />
         <mark key="." line="25" column="1" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-utils/project/assembly.sbt" timestamp="1510205188302">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="56" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/scalastyle-config.xml" timestamp="1507098773397">
         <mark key="'" line="348" column="12" />
         <mark key="[" line="0" column="0" />
@@ -86,6 +81,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/SparkHiveExample.scala" timestamp="1512356439914">
+        <mark key="'" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.sql.streaming/aws/AmazonKinesis.scala" timestamp="1507001278840">
         <mark key="'" line="14" column="16" />
@@ -174,6 +172,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/example/SparkHiveExample.scala" timestamp="1512356189699">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="0" column="28" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" timestamp="1509968051113">
         <mark key="'" line="0" column="0" />
@@ -375,11 +380,6 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/resources/META-INF/services/com.dmm.dre.convert.FormatProvider" timestamp="1510212902743">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/test/java/org/apache/spark/streaming/kinesis/JavaKinesisStreamSuite.java" timestamp="1507098435949">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -429,6 +429,13 @@
         <mark key="]" line="5" column="47" />
         <mark key="." line="5" column="47" />
         <mark key="^" line="4" column="51" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/SparkKafkaExample.scala" timestamp="1512359602544">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="21" column="50" />
+        <mark key="]" line="21" column="53" />
+        <mark key="." line="21" column="53" />
+        <mark key="^" line="21" column="53" />
       </file>
       <file name="$USER_HOME$/MyWork/git/test/polynomials.sc" timestamp="1509378537260">
         <mark key="'" line="12" column="27" />
@@ -546,6 +553,13 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="27" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/build.sbt" timestamp="1512358869274">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="28" column="18" />
+        <mark key="]" line="28" column="27" />
+        <mark key="." line="28" column="27" />
+        <mark key="^" line="28" column="27" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/Ctr.scala" timestamp="1506932042957">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="9" />
@@ -563,19 +577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
-      <jump line="27" column="4" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
-      <jump line="117" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
-      <jump line="30" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
-      <jump line="125" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
-      <jump line="115" column="13" filename="$USER_HOME$/OfficeTools/git/recommend-log/scalastyle-config.xml" />
-      <jump line="3" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/scalastyle-config.xml" />
-      <jump line="11" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
-      <jump line="347" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/scalastyle-config.xml" />
-      <jump line="33" column="17" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
-      <jump line="40" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
-      <jump line="143" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
-      <jump line="387" column="4" filename="$USER_HOME$/.ivy2/cache/org.json4s/json4s-core_2.11/srcs/json4s-core_2.11-3.2.11-sources.jar!/org/json4s/Formats.scala" />
       <jump line="16" column="0" filename="$USER_HOME$/.ivy2/cache/org.json4s/json4s-core_2.11/srcs/json4s-core_2.11-3.2.11-sources.jar!/org/json4s/Formats.scala" />
       <jump line="57" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
       <jump line="129" column="9" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming-kinesis-asl_2.11/srcs/spark-streaming-kinesis-asl_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/kinesis/KinesisInputDStream.scala" />
@@ -663,46 +664,59 @@
       <jump line="11" column="0" filename="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" />
       <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" />
       <jump line="12" column="12" filename="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" />
+      <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/build.sbt" />
+      <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/example/SparkHiveExample.scala" />
+      <jump line="15" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/SparkHiveExample.scala" />
+      <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/SparkHiveExample.scala" />
+      <jump line="5" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/SparkHiveExample.scala" />
+      <jump line="8" column="7" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/SparkKafkaExample.scala" />
+      <jump line="31" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/SparkKafkaExample.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/SparkKafkaExample.scala" />
+      <jump line="7" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/SparkKafkaExample.scala" />
+      <jump line="26" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/SparkKafkaExample.scala" />
+      <jump line="11" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/SparkKafkaExample.scala" />
+      <jump line="22" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/build.sbt" />
+      <jump line="12" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>localhost:9092,anotherhost:9092</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>localhost:9092,anotherhost:9092</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjYXNlIGNsYXNzIENvbmZpZygKICAgICAgaW5wdXRQYXRoOiBTdHJpbmcsCiAgICAgIG91dHB1dFBhdGg6IFN0cmluZywKICAgICAgY2xhc3NOYW1lOiBTdHJpbmcKICApCg==</text>
+        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnNwYXJrIiAlICJzcGFyay1zcWwta2Fma2EtMC0xMF8yLjExIiAlICIyLjIuMCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IGFhYWEgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGF6eSB2YWwgSGl2ZU9uU3BhcmsgPSAocHJvamVjdCBpbiBmaWxlKCIiKSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBhID0gU3BhcmtTZXNzaW9uLmJ1aWxkZXIoKS5nZXRPckNyZWF0ZSgpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzcGFyayA9IFNwYXJrU2Vzc2lvbgogICAgICAgIC5idWlsZGVyKCkKICAgICAgICAuYXBwTmFtZSgiU3BhcmsgS2Fma2EgRXhhbXBsZSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBiID0gYS5yZQo=</text>
+        <text encoding="base64">ICAgICAgICAuZ2V0T3JDcmVhdGUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGIuCg==</text>
+        <text encoding="base64">ICAgIHZhbCBjb25mID0gc3BhcmsuY29uZi5zZXRtYQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGEucmVhCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzYyA9IHNwYXJrLnNwYXJrQ29udGV4dAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmhpdmUubGxhcC5MbGFwQ29udGV4dAo=</text>
+        <text encoding="base64">ICAgIHZhbCBzYyA9IHNwYXJrLnNwYXJrQ29udGV4dAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBzc2MgPSBzYy5zdHJlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
