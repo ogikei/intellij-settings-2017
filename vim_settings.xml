@@ -58,6 +58,12 @@
         <mark key="^" line="7" column="79" />
         <mark key="." line="7" column="79" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProperties.java" timestamp="1512442292611">
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/Main.scala" timestamp="1506923962565">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="6" />
@@ -375,6 +381,12 @@
         <mark key="^" line="116" column="1" />
         <mark key="." line="116" column="1" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerConsumer.java" timestamp="1512442902118">
+        <mark key="[" line="10" column="67" />
+        <mark key="]" line="10" column="67" />
+        <mark key="." line="10" column="67" />
+        <mark key="^" line="10" column="67" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/JsonUtils.scala" timestamp="1507104612769">
         <mark key="[" line="38" column="73" />
         <mark key="]" line="39" column="7" />
@@ -478,7 +490,7 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" timestamp="1512376920372">
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" timestamp="1512442845956">
         <mark key="'" line="28" column="42" />
         <mark key="[" line="14" column="32" />
         <mark key="]" line="14" column="34" />
@@ -710,11 +722,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExample.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLmthZmthIiAlICJrYWZrYV8yLjExIiAlICIwLjEwLjEuMSIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>rebalance</text>
@@ -723,31 +735,31 @@
         <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnNwYXJrIiAlICJzcGFyay1zcWwta2Fma2EtMC0xMF8yLjExIiAlICIyLjIuMCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLmthZmthIiAlICJrYWZrYV8yLjExIiAlICIwLjEwLjEuMSIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLmthZmthIiAlICJrYWZrYV8yLjExIiAlICIwLjEwLjEuMSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
