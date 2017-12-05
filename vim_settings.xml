@@ -493,12 +493,12 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" timestamp="1512444753780">
-        <mark key="'" line="17" column="52" />
-        <mark key="[" line="35" column="2" />
-        <mark key="]" line="35" column="2" />
-        <mark key="." line="35" column="2" />
-        <mark key="^" line="35" column="3" />
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" timestamp="1512445877106">
+        <mark key="'" line="20" column="52" />
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+        <mark key="^" line="16" column="31" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" timestamp="1510209197081">
         <mark key="'" line="16" column="66" />
@@ -728,8 +728,8 @@
       <jump line="17" column="52" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>f</text>
@@ -747,25 +747,25 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFByb3BlcnRpZXMgcHJvcHMgPSBuZXcgUHJvcGVydGllcygpOwogICAgcHJvcHMucHV0KFByb2R1Y2VyQ29uZmlnLkJPT1RTVFJBUF9TRVJWRVJTX0NPTkZJRywgInZtLXN0LTA0MC5kbW0uY28uanA6OTAyMCIpOwogICAgcHJvcHMucHV0KFByb2R1Y2VyQ29uZmlnLkFDS1NfQ09ORklHLCAiYWxsIik7CiAgICBwcm9wcy5wdXQoUHJvZHVjZXJDb25maWcuUkVUUklFU19DT05GSUcsIDApOwogICAgcHJvcHMucHV0KFByb2R1Y2VyQ29uZmlnLlZBTFVFX1NFUklBTElaRVJfQ0xBU1NfQ09ORklHLAogICAgICAgICJvcmcuYXBhY2hlLmthZmthLmNvbW1vbi5zZXJpYWxpemF0aW9uLlN0cmluZ1NlcmlhbGl6ZXIiKTsKICAgIHByb3BzLnB1dChQcm9kdWNlckNvbmZpZy5LRVlfU0VSSUFMSVpFUl9DTEFTU19DT05GSUcsCiAgICAgICAgIm9yZy5hcGFjaGUua2Fma2EuY29tbW9uLnNlcmlhbGl6YXRpb24uU3RyaW5nU2VyaWFsaXplciIpOwoKICAgIFByb2R1Y2VyPFN0cmluZywgU3RyaW5nPiBwcm9kdWNlciA9IG5ldyBLYWZrYVByb2R1Y2VyPD4ocHJvcHMpOwogICAgRXhhbXBsZUNhbGxiYWNrIGNhbGxiYWNrID0gbmV3IEV4YW1wbGVDYWxsYmFjaygpOwogICAgUmFuZG9tIHJhbmQgPSBuZXcgUmFuZG9tKCk7CiAgICBmb3IgKGxvbmcgaSA9IDA7IGkgPCAxMDA7IGkrKykgewogICAgICBQcm9kdWNlclJlY29yZDxTdHJpbmcsIFN0cmluZz4gZGF0YSA9CiAgICAgICAgICBuZXcgUHJvZHVjZXJSZWNvcmQ8PigidGVzdC10b3BpYyIsICJrZXktIiArIGksICJtZXNzYWdlLSIgKyBpKTsKICAgICAgcHJvZHVjZXIuc2VuZChkYXRhLCBjYWxsYmFjayk7CiAgICB9CgogICAgcHJvZHVjZXIuY2xvc2UoKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFByb3BlcnRpZXMgcHJvcHMgPSBuZXcgUHJvcGVydGllcygpOwogICAgcHJvcHMucHV0KFByb2R1Y2VyQ29uZmlnLkJPT1RTVFJBUF9TRVJWRVJTX0NPTkZJRywgInZtLXN0LTA0MC5kbW0uY28uanA6OTAyMCIpOwogICAgcHJvcHMucHV0KFByb2R1Y2VyQ29uZmlnLkFDS1NfQ09ORklHLCAiYWxsIik7CiAgICBwcm9wcy5wdXQoUHJvZHVjZXJDb25maWcuUkVUUklFU19DT05GSUcsIDApOwogICAgcHJvcHMucHV0KFByb2R1Y2VyQ29uZmlnLlZBTFVFX1NFUklBTElaRVJfQ0xBU1NfQ09ORklHLAogICAgICAgICJvcmcuYXBhY2hlLmthZmthLmNvbW1vbi5zZXJpYWxpemF0aW9uLlN0cmluZ1NlcmlhbGl6ZXIiKTsKICAgIHByb3BzLnB1dChQcm9kdWNlckNvbmZpZy5LRVlfU0VSSUFMSVpFUl9DTEFTU19DT05GSUcsCiAgICAgICAgIm9yZy5hcGFjaGUua2Fma2EuY29tbW9uLnNlcmlhbGl6YXRpb24uU3RyaW5nU2VyaWFsaXplciIpOwoKICAgIFByb2R1Y2VyPFN0cmluZywgU3RyaW5nPiBwcm9kdWNlciA9IG5ldyBLYWZrYVByb2R1Y2VyPD4ocHJvcHMpOwogICAgRXhhbXBsZUNhbGxiYWNrIGNhbGxiYWNrID0gbmV3IEV4YW1wbGVDYWxsYmFjaygpOwogICAgUmFuZG9tIHJhbmQgPSBuZXcgUmFuZG9tKCk7CiAgICBmb3IgKGxvbmcgaSA9IDA7IGkgPCAxMDA7IGkrKykgewogICAgICBQcm9kdWNlclJlY29yZDxTdHJpbmcsIFN0cmluZz4gZGF0YSA9CiAgICAgICAgICBuZXcgUHJvZHVjZXJSZWNvcmQ8PigidGVzdC10b3BpYyIsICJrZXktIiArIGksICJtZXNzYWdlLSIgKyBpKTsKICAgICAgcHJvZHVjZXIuc2VuZChkYXRhLCBjYWxsYmFjayk7CiAgICB9CgogICAgcHJvZHVjZXIuY2xvc2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLmthZmthIiAlICJrYWZrYV8yLjExIiAlICIwLjEwLjEuMSIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
