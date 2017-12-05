@@ -159,6 +159,9 @@
         <mark key="." line="25" column="69" />
         <mark key="^" line="25" column="57" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/META-INF/MANIFEST.MF" timestamp="1512444232312">
+        <mark key="[" line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/resources/META-INF/services/com.dmm.dre.convert" timestamp="1510212504866">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
@@ -346,8 +349,8 @@
         <mark key="^" line="25" column="1" />
         <mark key="." line="25" column="1" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/SparkHiveExample.scala" timestamp="1512356439914">
-        <mark key="'" line="5" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/SparkHiveExample.scala" timestamp="1512444271661">
+        <mark key="'" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.sql.streaming/aws/AmazonKinesis.scala" timestamp="1507001278840">
         <mark key="'" line="14" column="16" />
@@ -382,10 +385,10 @@
         <mark key="." line="116" column="1" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerConsumer.java" timestamp="1512442902118">
-        <mark key="[" line="10" column="67" />
-        <mark key="]" line="10" column="67" />
-        <mark key="." line="10" column="67" />
-        <mark key="^" line="10" column="67" />
+        <mark key="[" line="7" column="67" />
+        <mark key="]" line="7" column="67" />
+        <mark key="." line="7" column="67" />
+        <mark key="^" line="7" column="67" />
       </file>
       <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/src/main/scala/org/apache/spark/sql/kinesis/JsonUtils.scala" timestamp="1507104612769">
         <mark key="[" line="38" column="73" />
@@ -490,12 +493,12 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" timestamp="1512442845956">
-        <mark key="'" line="28" column="42" />
-        <mark key="[" line="14" column="32" />
-        <mark key="]" line="14" column="34" />
-        <mark key="." line="14" column="34" />
-        <mark key="^" line="14" column="34" />
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" timestamp="1512444753780">
+        <mark key="'" line="17" column="52" />
+        <mark key="[" line="35" column="2" />
+        <mark key="]" line="35" column="2" />
+        <mark key="." line="35" column="2" />
+        <mark key="^" line="35" column="3" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" timestamp="1510209197081">
         <mark key="'" line="16" column="66" />
@@ -576,6 +579,9 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
+      <file name="/Dummy.txt" timestamp="1512444372162">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/package.scala" timestamp="1510563182249">
         <mark key="'" line="16" column="38" />
         <mark key="[" line="24" column="56" />
@@ -620,11 +626,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="17" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
-      <jump line="114" column="2" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
-      <jump line="53" column="4" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
-      <jump line="54" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
-      <jump line="15" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
       <jump line="41" column="7" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
       <jump line="50" column="2" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
       <jump line="46" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
@@ -720,13 +721,18 @@
       <jump line="24" column="75" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExample.java" />
       <jump line="26" column="12" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExample.java" />
       <jump line="4" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExample.java" />
+      <jump line="29" column="3" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/SparkHiveExample.scala" />
+      <jump line="32" column="2" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" />
+      <jump line="17" column="52" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>rebalance</text>
@@ -735,34 +741,34 @@
         <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnNwYXJrIiAlICJzcGFyay1zcWwta2Fma2EtMC0xMF8yLjExIiAlICIyLjIuMCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFByb3BlcnRpZXMgcHJvcHMgPSBuZXcgUHJvcGVydGllcygpOwogICAgcHJvcHMucHV0KFByb2R1Y2VyQ29uZmlnLkJPT1RTVFJBUF9TRVJWRVJTX0NPTkZJRywgInZtLXN0LTA0MC5kbW0uY28uanA6OTAyMCIpOwogICAgcHJvcHMucHV0KFByb2R1Y2VyQ29uZmlnLkFDS1NfQ09ORklHLCAiYWxsIik7CiAgICBwcm9wcy5wdXQoUHJvZHVjZXJDb25maWcuUkVUUklFU19DT05GSUcsIDApOwogICAgcHJvcHMucHV0KFByb2R1Y2VyQ29uZmlnLlZBTFVFX1NFUklBTElaRVJfQ0xBU1NfQ09ORklHLAogICAgICAgICJvcmcuYXBhY2hlLmthZmthLmNvbW1vbi5zZXJpYWxpemF0aW9uLlN0cmluZ1NlcmlhbGl6ZXIiKTsKICAgIHByb3BzLnB1dChQcm9kdWNlckNvbmZpZy5LRVlfU0VSSUFMSVpFUl9DTEFTU19DT05GSUcsCiAgICAgICAgIm9yZy5hcGFjaGUua2Fma2EuY29tbW9uLnNlcmlhbGl6YXRpb24uU3RyaW5nU2VyaWFsaXplciIpOwoKICAgIFByb2R1Y2VyPFN0cmluZywgU3RyaW5nPiBwcm9kdWNlciA9IG5ldyBLYWZrYVByb2R1Y2VyPD4ocHJvcHMpOwogICAgRXhhbXBsZUNhbGxiYWNrIGNhbGxiYWNrID0gbmV3IEV4YW1wbGVDYWxsYmFjaygpOwogICAgUmFuZG9tIHJhbmQgPSBuZXcgUmFuZG9tKCk7CiAgICBmb3IgKGxvbmcgaSA9IDA7IGkgPCAxMDA7IGkrKykgewogICAgICBQcm9kdWNlclJlY29yZDxTdHJpbmcsIFN0cmluZz4gZGF0YSA9CiAgICAgICAgICBuZXcgUHJvZHVjZXJSZWNvcmQ8PigidGVzdC10b3BpYyIsICJrZXktIiArIGksICJtZXNzYWdlLSIgKyBpKTsKICAgICAgcHJvZHVjZXIuc2VuZChkYXRhLCBjYWxsYmFjayk7CiAgICB9CgogICAgcHJvZHVjZXIuY2xvc2UoKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLmthZmthIiAlICJrYWZrYV8yLjExIiAlICIwLjEwLjEuMSIpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLmthZmthIiAlICJrYWZrYV8yLjExIiAlICIwLjEwLjEuMSIpCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>15</text>
       </register>
     </registers>
     <search>
@@ -798,7 +804,6 @@
         <entry>rebalance</entry>
       </history-search>
       <history-cmd>
-        <entry>69</entry>
         <entry>44</entry>
         <entry>6</entry>
         <entry>:w</entry>
@@ -818,6 +823,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>%d</entry>
         <entry>w</entry>
+        <entry>15</entry>
       </history-cmd>
       <history-expr />
       <history-input />
