@@ -46,6 +46,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="5" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/functional-program-design-in-scala/.gitignore" timestamp="1512537314936">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+        <mark key="^" line="4" column="5" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-log/project/assembly.sbt" timestamp="1510205173295">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="55" />
@@ -122,6 +128,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/functional-program-design-in-scala/src/main/scala/quickcheck/QuickCheck.scala" timestamp="1512538114325">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/sources/input/Json.scala" timestamp="1510299089670">
         <mark key="[" line="0" column="35" />
         <mark key="]" line="0" column="35" />
@@ -146,6 +158,12 @@
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/functional-program-design-in-scala/webui.sbt" timestamp="1512538292054">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="4" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/sources/Orc.scala" timestamp="1510553553276">
         <mark key="[" line="12" column="15" />
@@ -532,6 +550,13 @@
         <mark key="^" line="48" column="54" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/webui.sbt" timestamp="1512538262845">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/functional-program-design-in-scala/src/main/scala/calculator/Calculator.scala" timestamp="1512538630960" />
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisBackedBlockRDD.scala" timestamp="1507098390679">
         <mark key="[" line="224" column="0" />
         <mark key="]" line="196" column="0" />
@@ -556,6 +581,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/functional-program-design-in-scala/assignment.sbt" timestamp="1512538233540">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="1" column="25" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/expr.sc" timestamp="1506996350022">
         <mark key="'" line="1" column="18" />
@@ -626,6 +657,9 @@
         <mark key="]" line="19" column="38" />
         <mark key="." line="19" column="38" />
         <mark key="^" line="19" column="38" />
+      </file>
+      <file name="/fragment.java" timestamp="1512537819343">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -732,7 +766,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKCkK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5NYXRoLm1pbgo=</text>
       </register>
       <register name="-" type="4">
         <text>h</text>
@@ -744,31 +778,31 @@
         <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnNwYXJrIiAlICJzcGFyay1zcWwta2Fma2EtMC0xMF8yLjExIiAlICIyLjIuMCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKCkK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5NYXRoLm1pbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGtra2plCg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFByb3BlcnRpZXMgcHJvcHMgPSBuZXcgUHJvcGVydGllcygpOwogICAgcHJvcHMucHV0KCIxIikKICAgIHRoaXMudG9waWMgPSB0b3BpYzsKICAgIHRoaXMuaXNBc3luYyA9IGlzQXN5bmM7Cg==</text>
+        <text encoding="base64">ICAgIHN1cGVyKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIEthZmthUHJvZHVjZXI8SW50ZWdlciwgU3RyaW5nPiBwcm9kdWNlcjsK</text>
+        <text encoding="base64">ICAgIGtra2plCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIEJvb2xlYW4gaXNBc3luYzsK</text>
+        <text encoding="base64">ICAgIFByb3BlcnRpZXMgcHJvcHMgPSBuZXcgUHJvcGVydGllcygpOwogICAgcHJvcHMucHV0KCIxIikKICAgIHRoaXMudG9waWMgPSB0b3BpYzsKICAgIHRoaXMuaXNBc3luYyA9IGlzQXN5bmM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3AK</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIEthZmthUHJvZHVjZXI8SW50ZWdlciwgU3RyaW5nPiBwcm9kdWNlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3AK</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIEJvb2xlYW4gaXNBc3luYzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByb3AK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaWQuCg==</text>
+        <text encoding="base64">ICAgIHByb3AK</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
