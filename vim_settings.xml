@@ -343,6 +343,11 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/test.sc" timestamp="1512724679035">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.1/tests/src/test/scala/org/apache/spark/sql/test/TestSQLContext.scala" timestamp="1507105801305">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="69" column="0" />
@@ -679,8 +684,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="24" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
-      <jump line="31" column="28" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
       <jump line="18" column="28" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" />
       <jump line="11" column="1" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/test/scala/com/dmm/dre/common/RecommendLogSuite.scala" />
       <jump line="6" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/test/scala/com/dmm/dre/common/RecommendLogSuite.scala" />
@@ -779,13 +782,15 @@
       <jump line="44" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExample.java" />
       <jump line="19" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExample.java" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExample.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/test.sc" />
+      <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/test.sc" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>rebalance</text>
@@ -797,25 +802,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+        <text encoding="base64">dmFsIGVjID0gImFhYSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFsIGIgPSAiYSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LmlkZWEvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWRlYQo=</text>
+        <text encoding="base64">b2JqZWN0IFRlc3QgewogIGRlZiBtYWluKGFyZ3M6IEFycmF5W1N0cmluZ10pOiBJbnQgPSB7CiAgICB2YWwgYSA9IDIKICAgIHZhbCBiID0gNAogICAgYSArIGIKICB9Cn0KVGVzdC5tYWluKEFycmF5KCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQojIyMgSmV0QnJhaW5zIHRlbXBsYXRlCiMgQ292ZXJzIEpldEJyYWlucyBJREVzOiBJbnRlbGxpSiwgUnVieU1pbmUsIFBocFN0b3JtLCBBcHBDb2RlLCBQeUNoYXJtLCBDTGlvbiwgQW5kcm9pZCBTdHVkaW8gYW5kIFdlYnN0b3JtCiMgUmVmZXJlbmNlOiBodHRwczovL2ludGVsbGlqLXN1cHBvcnQuamV0YnJhaW5zLmNvbS9oYy9lbi11cy9hcnRpY2xlcy8yMDY1NDQ4MzkKCiMgVXNlci1zcGVjaWZpYyBzdHVmZjoKLmlkZWEvd29ya3NwYWNlLnhtbAouaWRlYS90YXNrcy54bWwKLmlkZWEvZGljdGlvbmFyaWVzCi5pZGVhL3Zjcy54bWwKLmlkZWEvanNMaWJyYXJ5TWFwcGluZ3MueG1sCgojIFNlbnNpdGl2ZSBvciBoaWdoLWNodXJuIGZpbGVzOgouaWRlYS9kYXRhU291cmNlcy5pZHMKLmlkZWEvZGF0YVNvdXJjZXMueG1sCi5pZGVhL2RhdGFTb3VyY2VzLmxvY2FsLnhtbAouaWRlYS9zcWxEYXRhU291cmNlcy54bWwKLmlkZWEvZHluYW1pYy54bWwKLmlkZWEvdWlEZXNpZ25lci54bWwKCiMgR3JhZGxlOgouaWRlYS9ncmFkbGUueG1sCi5pZGVhL2xpYnJhcmllcwoKIyBNb25nbyBFeHBsb3JlciBwbHVnaW46Ci5pZGVhL21vbmdvU2V0dGluZ3MueG1sCgojIyBGaWxlLWJhc2VkIHByb2plY3QgZm9ybWF0OgoqLml3cwoKIyMgUGx1Z2luLXNwZWNpZmljIGZpbGVzOgoKIyBJbnRlbGxpSgovb3V0LwoKIyBtcGVsdG9uZW4vc2J0LWlkZWEgcGx1Z2luCi5pZGVhX21vZHVsZXMvCgojIEpJUkEgcGx1Z2luCmF0bGFzc2lhbi1pZGUtcGx1Z2luLnhtbAoKIyBDcmFzaGx5dGljcyBwbHVnaW4gKGZvciBBbmRyb2lkIFN0dWRpbyBhbmQgSW50ZWxsaUopCmNvbV9jcmFzaGx5dGljc19leHBvcnRfc3RyaW5ncy54bWwKY3Jhc2hseXRpY3MucHJvcGVydGllcwpjcmFzaGx5dGljcy1idWlsZC5wcm9wZXJ0aWVzCmZhYnJpYy5wcm9wZXJ0aWVzCiMjIyBTQlQgdGVtcGxhdGUKIyBTaW1wbGUgQnVpbGQgVG9vbAojIGh0dHA6Ly93d3cuc2NhbGEtc2J0Lm9yZy9yZWxlYXNlL2RvY3MvR2V0dGluZy1TdGFydGVkL0RpcmVjdG9yaWVzLmh0bWwjY29uZmlndXJpbmctdmVyc2lvbi1jb250cm9sCgp0YXJnZXQvCmxpYl9tYW5hZ2VkLwpzcmNfbWFuYWdlZC8KcHJvamVjdC9ib290LwouaGlzdG9yeQouY2FjaGUKIyMjIFNjYWxhIHRlbXBsYXRlCiouY2xhc3MKKi5sb2cKCiMgc2J0IHNwZWNpZmljCi5saWIvCmRpc3QvKgpwcm9qZWN0L3BsdWdpbnMvcHJvamVjdC8KCiMgU2NhbGEtSURFIHNwZWNpZmljCi5zY2FsYV9kZXBlbmRlbmNpZXMKLndvcmtzaGVldAo=</text>
+        <text encoding="base64">bWFpbigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
