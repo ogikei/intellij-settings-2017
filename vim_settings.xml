@@ -64,7 +64,7 @@
         <mark key="^" line="7" column="79" />
         <mark key="." line="7" column="79" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProperties.java" timestamp="1512449901022">
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProperties.java" timestamp="1513047037678">
         <mark key="[" line="11" column="42" />
         <mark key="]" line="11" column="53" />
         <mark key="." line="11" column="53" />
@@ -324,6 +324,12 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="77" column="28" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/KafkaConsumerExample.scala" timestamp="1513047034100">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend_log/build.sbt" timestamp="1509513193252">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="12" column="25" />
@@ -342,6 +348,11 @@
         <mark key="]" line="9" column="7" />
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/KafkaProperties.scala" timestamp="1513047081862">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/test.sc" timestamp="1512724679035">
         <mark key="[" line="2" column="0" />
@@ -672,12 +683,12 @@
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/hdp_migration_2.11-0.1.pom" timestamp="1512373755520">
         <mark key="'" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExample.java" timestamp="1512554557236">
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExample.java" timestamp="1513046778089">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="19" column="38" />
-        <mark key="." line="19" column="38" />
-        <mark key="^" line="19" column="38" />
+        <mark key="[" line="21" column="129" />
+        <mark key="]" line="21" column="129" />
+        <mark key="." line="21" column="129" />
+        <mark key="^" line="21" column="129" />
       </file>
       <file name="/fragment.java" timestamp="1512539691237">
         <mark key="[" line="0" column="0" />
@@ -787,10 +798,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBQcm9wZXJ0aWVzCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text>rebalance</text>
@@ -799,31 +810,31 @@
         <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnNwYXJrIiAlICJzcGFyay1zcWwta2Fma2EtMC0xMF8yLjExIiAlICIyLjIuMCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBQcm9wZXJ0aWVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFsIGVjID0gImFhYSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFsIGIgPSAiYSIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">b2JqZWN0IFRlc3QgewogIGRlZiBtYWluKGFyZ3M6IEFycmF5W1N0cmluZ10pOiBJbnQgPSB7CiAgICB2YWwgYSA9IDIKICAgIHZhbCBiID0gNAogICAgYSArIGIKICB9Cn0KVGVzdC5tYWluKEFycmF5KCkpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">bWFpbigpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBhcHBsZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB2YWwgYSA9IDIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBLYWZrYUNvbnN1bWVyRXhhbXBsZS5hCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgCg==</text>
+        <text encoding="base64">ICB2YWwgYiA9IDMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBLYWZrYUNvbnN1bWVyRXhhbXBsZS5hCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
