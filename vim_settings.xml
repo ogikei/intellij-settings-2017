@@ -255,6 +255,12 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExampleJava.java" timestamp="1513055911702">
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="32" />
+        <mark key="^" line="16" column="32" />
+        <mark key="." line="16" column="32" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/tests/src/test/scala/org/apache/spark/sql/catalyst/plans/PlanTest.scala" timestamp="1507017020352">
         <mark key="'" line="103" column="0" />
         <mark key="[" line="0" column="0" />
@@ -596,8 +602,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExampleJava.java" timestamp="1513050115781">
-        <mark key="'" line="18" column="11" />
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExampleJava.java" timestamp="1513056032008">
+        <mark key="'" line="52" column="0" />
         <mark key="[" line="18" column="31" />
         <mark key="]" line="18" column="34" />
         <mark key="." line="18" column="34" />
@@ -720,8 +726,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="6" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/DataFrameReader.scala" />
-      <jump line="287" column="70" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/DataFrameReader.scala" />
       <jump line="288" column="59" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/DataFrameReader.scala" />
       <jump line="309" column="41" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/DataFrameReader.scala" />
       <jump line="310" column="42" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/DataFrameReader.scala" />
@@ -820,6 +824,8 @@
       <jump line="17" column="2" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExampleJava.java" />
       <jump line="18" column="11" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExampleJava.java" />
       <jump line="62" column="16" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" />
+      <jump line="22" column="22" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExampleJava.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExampleJava.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
