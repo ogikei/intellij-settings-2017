@@ -9,11 +9,12 @@
         <mark key="." line="24" column="15" />
         <mark key="^" line="24" column="15" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" timestamp="1513234734686">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="10" column="15" />
-        <mark key="." line="10" column="15" />
-        <mark key="^" line="10" column="15" />
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" timestamp="1513237868535">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="51" column="3" />
+        <mark key="]" line="52" column="1" />
+        <mark key="." line="52" column="1" />
+        <mark key="^" line="52" column="1" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.sql.streaming/aws/package.scala" timestamp="1507001382676">
         <mark key="[" line="0" column="20" />
@@ -692,8 +693,8 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/java/KafkaProducerExample.java" timestamp="1513232102792">
-        <mark key="'" line="24" column="19" />
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/java/KafkaProducerExample.java" timestamp="1513236992481">
+        <mark key="'" line="37" column="13" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="21" column="91" />
       </file>
@@ -767,9 +768,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="38" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/package.scala" />
-      <jump line="18" column="0" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/HiveConvert.scala" />
-      <jump line="3" column="0" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/HiveConvert.scala" />
       <jump line="14" column="0" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/HiveConvert.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/HiveConvert.scala" />
       <jump line="28" column="5" filename="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" />
@@ -867,13 +865,16 @@
       <jump line="42" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/java/KafkaProducerExampleJava.java" />
       <jump line="16" column="45" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/java/KafkaProducerExample.java" />
       <jump line="24" column="19" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/java/KafkaProducerExample.java" />
+      <jump line="37" column="13" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/java/KafkaProducerExample.java" />
+      <jump line="27" column="20" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Int</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0FzeW5jXD4=</text>
@@ -882,22 +883,22 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCBDT05ORUNUSU9OX1RJTUVPVVQgPSAxMDAwMDA7CiAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0xJRU5UX0lEID0gImthZmthRXhhbXBsZSI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YWwgbnVtYmVyU3RyZWFtID0gU3RyZWFtLmZyb20oMCkuaXRlcmF0b3IK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgY2xvc3VyZShpOiBJbnQpOiBJbnQgPSB7CiAgICBkZWYgZnVuYygpID0gaSArIDEKICB9Cg==</text>
+        <text encoding="base64">ICB2YWwgc3RhcnRUaW1lID0gc3RhcnRUaW1lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB7fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNsb3N1cmUK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -906,7 +907,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBtZXNzYWdlTm8gPSAxCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
@@ -919,7 +920,7 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
