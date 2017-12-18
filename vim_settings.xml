@@ -12,8 +12,8 @@
         <mark key="." line="24" column="15" />
         <mark key="^" line="24" column="15" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" timestamp="1513574821289">
-        <mark key="'" line="55" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" timestamp="1513580185488">
+        <mark key="'" line="2" column="0" />
         <mark key="[" line="2" column="27" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -777,9 +777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/build.sbt" />
-      <jump line="12" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/build.sbt" />
-      <jump line="19" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/SparkKafkaExample.scala" />
       <jump line="20" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" />
       <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" />
       <jump line="24" column="40" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" />
@@ -849,7 +846,6 @@
       <jump line="24" column="19" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/java/KafkaProducerExample.java" />
       <jump line="37" column="13" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/java/KafkaProducerExample.java" />
       <jump line="27" column="20" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" />
-      <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" />
       <jump line="21" column="77" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaConsumerExample.scala" />
       <jump line="6" column="31" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaConsumerExample.scala" />
       <jump line="8" column="48" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaConsumerExample.scala" />
@@ -877,6 +873,10 @@
       <jump line="12" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" />
       <jump line="6" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" />
       <jump line="55" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" />
+      <jump line="9" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" />
+      <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" />
+      <jump line="62" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
