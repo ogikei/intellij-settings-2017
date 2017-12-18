@@ -126,7 +126,8 @@
         <mark key="." line="37" column="7" />
         <mark key="^" line="37" column="7" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/java/KafkaProperties.java" timestamp="1513232139448">
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/java/KafkaProperties.java" timestamp="1513590968783">
+        <mark key="'" line="16" column="0" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="55" />
       </file>
@@ -378,7 +379,8 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/java/KafkaProducerConsumer.java" timestamp="1513239541101">
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/java/KafkaProducerConsumer.java" timestamp="1513590962792">
+        <mark key="'" line="1" column="0" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="69" />
         <mark key="." line="13" column="54" />
@@ -483,7 +485,8 @@
         <mark key="." line="421" column="35" />
         <mark key="^" line="421" column="35" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProperties.scala" timestamp="1513232237394">
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProperties.scala" timestamp="1513590980343">
+        <mark key="'" line="15" column="13" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -778,10 +781,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" />
-      <jump line="24" column="40" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" />
-      <jump line="25" column="35" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" />
-      <jump line="4" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" />
       <jump line="18" column="19" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/hdp_migration_2.11-0.1.pom" />
       <jump line="32" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/hdp_migration_2.11-0.1.pom" />
       <jump line="16" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/pom.xml" />
@@ -878,6 +877,10 @@
       <jump line="62" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" />
       <jump line="43" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" />
+      <jump line="12" column="2" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/java/KafkaProducerConsumer.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/java/KafkaProducerConsumer.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/java/KafkaProperties.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProperties.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
