@@ -415,11 +415,11 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/test.sc" timestamp="1513584694680">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="0" column="9" />
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/test.sc" timestamp="1513585086588">
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
       </file>
       <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/spark/spark-2.1/tests/src/test/scala/org/apache/spark/sql/test/TestSQLContext.scala" timestamp="1507105801305">
         <mark key="[" line="0" column="0" />
@@ -880,8 +880,8 @@
       <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -893,34 +893,34 @@
         <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJSZWNlaXZlZCBtZXNzYWdlOiAoIiArIHJlY29yZC5rZXkoKSArICIsICIgKwogICAgICAgICAgcmVjb3JkLnZhbHVlKCkgKyAiKSBhdCBvZmZzZXQgIiArIHJlY29yZC5vZmZzZXQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtYWluCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFsIGEgPSAxCnZhbCBiID0gMgoK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihyZWNvcmRzLm5leHQoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciAocmVjb3JkIDwtIHJlY29yZHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEV4ZWN1dG9ycy5uZXdTaW5nbGVUaHJlYWRFeGVjdXRvci5leGVjdXRlKAogICAgICBuZXcgUnVubmFibGUgewogICAgICAgIG92ZXJyaWRlIGRlZiBydW4oKTogVW5pdCA9IHsKICAgICAgICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgICAgIHZhbCByZWNvcmRzID0gY29uc3VtZXIucG9sbCgxMDAwKQogICAgICAgICAgICBmb3IgKHJlY29yZCA8LSByZWNvcmRzKSB7CiAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJSZWNlaXZlZCBtZXNzYWdlOiAoIiArIHJlY29yZC5rZXkoKSArICIsICIgKyByZWNvcmQudmFsdWUoKSArICIpIGF0IG9mZnNldCAiICsgcmVjb3JkLm9mZnNldCgpKQogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihyZWNvcmRzLm5leHQoKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%d</text>
       </register>
     </registers>
     <search>
@@ -974,8 +974,8 @@
         <entry>s</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>15</entry>
-        <entry>%d</entry>
         <entry>w</entry>
+        <entry>%d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
