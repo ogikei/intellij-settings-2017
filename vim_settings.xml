@@ -40,12 +40,11 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" timestamp="1514004557384">
-        <mark key="'" line="14" column="13" />
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="20" />
-        <mark key="." line="16" column="20" />
-        <mark key="^" line="16" column="20" />
+      <file name="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" timestamp="1514006108925">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+        <mark key="^" line="3" column="17" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/hdp_migration_2.11-0.1.pom" timestamp="1512373755520">
         <mark key="'" line="32" column="0" />
@@ -128,6 +127,9 @@
         <mark key="]" line="9" column="8" />
         <mark key="." line="9" column="8" />
         <mark key="^" line="9" column="8" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/haskell-example/stack.yaml" timestamp="1514005597098">
+        <mark key="'" line="55" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/Credential.scala" timestamp="1506930551710">
         <mark key="[" line="4" column="0" />
@@ -690,9 +692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="9" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/common/package.scala" />
-      <jump line="40" column="0" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/common/package.scala" />
-      <jump line="17" column="9" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="276" column="6" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/DataFrameReader.scala" />
       <jump line="287" column="70" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/DataFrameReader.scala" />
       <jump line="288" column="59" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/DataFrameReader.scala" />
@@ -790,13 +789,16 @@
       <jump line="36" column="0" filename="$USER_HOME$/MyWork/git/test/src/main/scala/nqueens.scala" />
       <jump line="4" column="37" filename="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" />
       <jump line="14" column="13" filename="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" />
+      <jump line="2" column="36" filename="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" />
+      <jump line="18" column="0" filename="$USER_HOME$/MyWork/git/haskell-example/stack.yaml" />
+      <jump line="55" column="0" filename="$USER_HOME$/MyWork/git/haskell-example/stack.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>putStrLn &quot;Hello world&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>putStrLn &quot;Hello world&quot;</text>
       </register>
       <register name="/" type="4">
         <text>rebalance</text>
@@ -805,31 +807,31 @@
         <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnNwYXJrIiAlICJzcGFyay1zcWwta2Fma2EtMC0xMF8yLjExIiAlICIyLjIuMCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IERhdGEuU3RyaW5nLlN0cmlwCgpteUlmIFRydWUgdGhlbkZ1bmMgZWxzZUZ1bmMgPSB0aGVuRnVuYwpteUlmIEZhbHNlIHRoZW5GdW5jIGVsc2VGdW5jID0gZWxzZUZ1bmMKCm1haW4gPQogIGxldCB4ID0gNQogIGluIHByaW50ICQgbXlJZiAoeCA9PSA1KSAiaXMgZml2ZSIgImlzIG5vdCBmaXZlIgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZmFjdG9yaWFsIG4gPSBpZiBuIDwgMiB0aGVuIDEgZWxzZSBuICogZmFjdG9yaWFsIChuIC0gMSkKbWFpbiA9IHByaW50ICQgZmFjdG9yaWFsIDUK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZiB4ID0geCArIDEwCmcgeCA9IHggKiB4Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">bWFpbiA9IHByaW50IHJlc3VsdAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">bW9kdWxlIE1haW4gKG1haW4pIHdoZXJlCgpuZXd0eXBlIE15VHlwZSA9IE15RGF0YUNvbnN0cnVjdG9yIFN0cmluZwoKY2xhc3MgTXlDbGFzcyBhIHdoZXJlCiAgbmFtZSA6OiBhIC0+IFN0cmluZwoKaW5zdGFuY2UgTXlDbGFzcyBNeVR5cGUgd2hlcmUKICBuYW1lIChNeURhdGFDb25zdHJ1Y3RvciBuYW1lKSA9IG5hbWUKCmZ1bmMgeCA9IHgKZnVuYycgeSA9IHkKCm1haW4gPSBkbwogIHByaW50ICQgbmFtZSAoTXlEYXRhQ29uc3RydWN0b3IgIkhhc2tlbGwiKQogIHByaW50ICQgMTAwICsgMjAwCiAgcHJpbnQgJCAoKykgMTAwIDIwMAoK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">YQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IERhdGEuU3RyaW5nLlN0cmlwCgpteUlmIFRydWUgdGhlbkZ1bmMgZWxzZUZ1bmMgPSB0aGVuRnVuYwpteUlmIEZhbHNlIHRoZW5GdW5jIGVsc2VGdW5jID0gZWxzZUZ1bmMKCm1haW4gPQogIGxldCB4ID0gNQogIGluIHByaW50ICQgbXlJZiAoeCA9PSA1KSAiaXMgZml2ZSIgImlzIG5vdCBmaXZlIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZmFjdG9yaWFsIG4gPSBpZiBuIDwgMiB0aGVuIDEgZWxzZSBuICogZmFjdG9yaWFsIChuIC0gMSkKbWFpbiA9IHByaW50ICQgZmFjdG9yaWFsIDUK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZiB4ID0geCArIDEwCmcgeCA9IHggKiB4Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">bWFpbiA6OiBJTyAoKQo=</text>
+        <text encoding="base64">bWFpbiA9IHByaW50IHJlc3VsdAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVzdWx0ID0gbWFwIGFkZEJyYWNrZXRzIFsib25lIiwgInR3byIsICJ0aHJlZSJdCg==</text>
+        <text encoding="base64">bWFpbiA6OiBJTyAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -842,7 +844,7 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
