@@ -40,6 +40,13 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" timestamp="1514004557384">
+        <mark key="'" line="14" column="13" />
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+        <mark key="^" line="16" column="20" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/hdp_migration_2.11-0.1.pom" timestamp="1512373755520">
         <mark key="'" line="32" column="0" />
       </file>
@@ -535,7 +542,7 @@
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512522538673">
+      <file name="/Dummy.txt" timestamp="1514002269908">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/HiveConvert.scala" timestamp="1510212742583">
@@ -678,13 +685,11 @@
         <mark key="^" line="23" column="3" />
         <mark key="." line="23" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1512539691237">
+      <file name="/fragment.java" timestamp="1514002269935">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
-      <jump line="16" column="66" filename="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="16" column="9" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="40" column="0" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/common/package.scala" />
       <jump line="17" column="9" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/common/package.scala" />
@@ -783,13 +788,15 @@
       <jump line="31" column="2" filename="$USER_HOME$/MyWork/git/test/src/main/scala/nqueens.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/test/src/main/scala/nqueens.scala" />
       <jump line="36" column="0" filename="$USER_HOME$/MyWork/git/test/src/main/scala/nqueens.scala" />
+      <jump line="4" column="37" filename="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" />
+      <jump line="14" column="13" filename="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>rebalance</text>
@@ -798,31 +805,31 @@
         <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnNwYXJrIiAlICJzcGFyay1zcWwta2Fma2EtMC0xMF8yLjExIiAlICIyLjIuMCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+        <text encoding="base64">aW1wb3J0IERhdGEuU3RyaW5nLlN0cmlwCgpteUlmIFRydWUgdGhlbkZ1bmMgZWxzZUZ1bmMgPSB0aGVuRnVuYwpteUlmIEZhbHNlIHRoZW5GdW5jIGVsc2VGdW5jID0gZWxzZUZ1bmMKCm1haW4gPQogIGxldCB4ID0gNQogIGluIHByaW50ICQgbXlJZiAoeCA9PSA1KSAiaXMgZml2ZSIgImlzIG5vdCBmaXZlIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmFjdG9yaWFsIG4gPSBpZiBuIDwgMiB0aGVuIDEgZWxzZSBuICogZmFjdG9yaWFsIChuIC0gMSkKbWFpbiA9IHByaW50ICQgZmFjdG9yaWFsIDUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LmlkZWEvCg==</text>
+        <text encoding="base64">ZiB4ID0geCArIDEwCmcgeCA9IHggKiB4Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWRlYQo=</text>
+        <text encoding="base64">bWFpbiA9IHByaW50IHJlc3VsdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQojIyMgSmV0QnJhaW5zIHRlbXBsYXRlCiMgQ292ZXJzIEpldEJyYWlucyBJREVzOiBJbnRlbGxpSiwgUnVieU1pbmUsIFBocFN0b3JtLCBBcHBDb2RlLCBQeUNoYXJtLCBDTGlvbiwgQW5kcm9pZCBTdHVkaW8gYW5kIFdlYnN0b3JtCiMgUmVmZXJlbmNlOiBodHRwczovL2ludGVsbGlqLXN1cHBvcnQuamV0YnJhaW5zLmNvbS9oYy9lbi11cy9hcnRpY2xlcy8yMDY1NDQ4MzkKCiMgVXNlci1zcGVjaWZpYyBzdHVmZjoKLmlkZWEvd29ya3NwYWNlLnhtbAouaWRlYS90YXNrcy54bWwKLmlkZWEvZGljdGlvbmFyaWVzCi5pZGVhL3Zjcy54bWwKLmlkZWEvanNMaWJyYXJ5TWFwcGluZ3MueG1sCgojIFNlbnNpdGl2ZSBvciBoaWdoLWNodXJuIGZpbGVzOgouaWRlYS9kYXRhU291cmNlcy5pZHMKLmlkZWEvZGF0YVNvdXJjZXMueG1sCi5pZGVhL2RhdGFTb3VyY2VzLmxvY2FsLnhtbAouaWRlYS9zcWxEYXRhU291cmNlcy54bWwKLmlkZWEvZHluYW1pYy54bWwKLmlkZWEvdWlEZXNpZ25lci54bWwKCiMgR3JhZGxlOgouaWRlYS9ncmFkbGUueG1sCi5pZGVhL2xpYnJhcmllcwoKIyBNb25nbyBFeHBsb3JlciBwbHVnaW46Ci5pZGVhL21vbmdvU2V0dGluZ3MueG1sCgojIyBGaWxlLWJhc2VkIHByb2plY3QgZm9ybWF0OgoqLml3cwoKIyMgUGx1Z2luLXNwZWNpZmljIGZpbGVzOgoKIyBJbnRlbGxpSgovb3V0LwoKIyBtcGVsdG9uZW4vc2J0LWlkZWEgcGx1Z2luCi5pZGVhX21vZHVsZXMvCgojIEpJUkEgcGx1Z2luCmF0bGFzc2lhbi1pZGUtcGx1Z2luLnhtbAoKIyBDcmFzaGx5dGljcyBwbHVnaW4gKGZvciBBbmRyb2lkIFN0dWRpbyBhbmQgSW50ZWxsaUopCmNvbV9jcmFzaGx5dGljc19leHBvcnRfc3RyaW5ncy54bWwKY3Jhc2hseXRpY3MucHJvcGVydGllcwpjcmFzaGx5dGljcy1idWlsZC5wcm9wZXJ0aWVzCmZhYnJpYy5wcm9wZXJ0aWVzCiMjIyBTQlQgdGVtcGxhdGUKIyBTaW1wbGUgQnVpbGQgVG9vbAojIGh0dHA6Ly93d3cuc2NhbGEtc2J0Lm9yZy9yZWxlYXNlL2RvY3MvR2V0dGluZy1TdGFydGVkL0RpcmVjdG9yaWVzLmh0bWwjY29uZmlndXJpbmctdmVyc2lvbi1jb250cm9sCgp0YXJnZXQvCmxpYl9tYW5hZ2VkLwpzcmNfbWFuYWdlZC8KcHJvamVjdC9ib290LwouaGlzdG9yeQouY2FjaGUKIyMjIFNjYWxhIHRlbXBsYXRlCiouY2xhc3MKKi5sb2cKCiMgc2J0IHNwZWNpZmljCi5saWIvCmRpc3QvKgpwcm9qZWN0L3BsdWdpbnMvcHJvamVjdC8KCiMgU2NhbGEtSURFIHNwZWNpZmljCi5zY2FsYV9kZXBlbmRlbmNpZXMKLndvcmtzaGVldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWFpbiA6OiBJTyAoKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVzdWx0ID0gbWFwIGFkZEJyYWNrZXRzIFsib25lIiwgInR3byIsICJ0aHJlZSJdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
