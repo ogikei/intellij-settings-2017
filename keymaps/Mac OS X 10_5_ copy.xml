@@ -2,5 +2,11 @@
   <action id="Macro.golint">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
   <action id="TypeHierarchy" />
 </keymap>
