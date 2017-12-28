@@ -441,8 +441,8 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" timestamp="1514430046281">
-        <mark key="'" line="179" column="10" />
+      <file name="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" timestamp="1514449231309">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/test.sc" timestamp="1513738492549">
         <mark key="[" line="0" column="0" />
@@ -722,7 +722,6 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1514448290129" />
       <file name="$USER_HOME$/MyWork/git/spark/structured-streaming.puml" timestamp="1507187252953">
         <mark key="[" line="9" column="1" />
         <mark key="]" line="11" column="0" />
@@ -845,7 +844,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="37" filename="$USER_HOME$/OfficeTools/git/spark-example/src/main/scala/com/dmm/example/SparkHiveExample.scala" />
       <jump line="21" column="0" filename="$USER_HOME$/OfficeTools/git/spark-example/src/main/scala/com/dmm/example/SparkHiveExample.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/spark-example/src/main/scala/com/dmm/example/SparkHiveExample.scala" />
       <jump line="11" column="0" filename="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" />
@@ -929,7 +927,6 @@
       <jump line="362" column="17" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
       <jump line="154" column="14" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
       <jump line="292" column="17" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
       <jump line="17" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
       <jump line="429" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
       <jump line="1178" column="4" filename="$MAVEN_REPOSITORY$/org/apache/hive/hive-exec/2.3.2/hive-exec-2.3.2.jar!/org/apache/hadoop/hive/conf/HiveConf.class" />
@@ -945,6 +942,8 @@
       <jump line="181" column="23" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
       <jump line="116" column="31" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
       <jump line="179" column="10" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
+      <jump line="195" column="4" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -997,7 +996,7 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
