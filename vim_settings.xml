@@ -441,6 +441,9 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
       </file>
+      <file name="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" timestamp="1514429391083">
+        <mark key="'" line="179" column="10" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/test.sc" timestamp="1513738492549">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -510,6 +513,9 @@
         <mark key="]" line="9" column="20" />
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="20" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/hive/hive-exec/2.3.2/hive-exec-2.3.2.jar!/org/apache/hadoop/hive/conf/HiveConf.class" timestamp="1514429197038">
+        <mark key="'" line="1522" column="159" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisUtils.scala" timestamp="1507100172260">
         <mark key="'" line="459" column="0" />
@@ -767,7 +773,7 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514002269908">
+      <file name="/Dummy.txt" timestamp="1514428698623">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/functional-program-design-in-scala/build.sbt" timestamp="1512539490832">
@@ -838,28 +844,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="19" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/HiveConvert.scala" />
-      <jump line="16" column="26" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/HiveConvert.scala" />
-      <jump line="21" column="12" filename="$USER_HOME$/OfficeTools/git/spark-utils/build.sbt" />
-      <jump line="30" column="4" filename="$USER_HOME$/OfficeTools/git/spark-utils/build.sbt" />
-      <jump line="37" column="33" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/package.scala" />
-      <jump line="22" column="0" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/HiveConvert.scala" />
-      <jump line="5" column="51" filename="$USER_HOME$/OfficeTools/git/spark-utils/build.sbt" />
-      <jump line="6" column="57" filename="$USER_HOME$/OfficeTools/git/spark-utils/build.sbt" />
-      <jump line="39" column="2" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/package.scala" />
-      <jump line="14" column="0" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/package.scala" />
-      <jump line="9" column="13" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/package.scala" />
-      <jump line="15" column="38" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/package.scala" />
-      <jump line="18" column="0" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/HiveConvert.scala" />
-      <jump line="3" column="0" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/HiveConvert.scala" />
-      <jump line="14" column="0" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/HiveConvert.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/HiveConvert.scala" />
-      <jump line="28" column="5" filename="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" />
-      <jump line="3" column="0" filename="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" />
-      <jump line="27" column="20" filename="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" />
-      <jump line="17" column="0" filename="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" />
-      <jump line="18" column="0" filename="$USER_HOME$/OfficeTools/git/spark-example/src/main/scala/com/dmm/example/SparkHiveExample.scala" />
-      <jump line="16" column="0" filename="$USER_HOME$/OfficeTools/git/spark-example/src/main/scala/com/dmm/example/SparkHiveExample.scala" />
       <jump line="11" column="37" filename="$USER_HOME$/OfficeTools/git/spark-example/src/main/scala/com/dmm/example/SparkHiveExample.scala" />
       <jump line="21" column="0" filename="$USER_HOME$/OfficeTools/git/spark-example/src/main/scala/com/dmm/example/SparkHiveExample.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/spark-example/src/main/scala/com/dmm/example/SparkHiveExample.scala" />
@@ -938,6 +922,28 @@
       <jump line="19" column="8" filename="$USER_HOME$/MyWork/git/haskell-example/app/Program4.hs" />
       <jump line="20" column="13" filename="$USER_HOME$/MyWork/git/haskell-example/app/Program4.hs" />
       <jump line="10" column="20" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" />
+      <jump line="70" column="20" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
+      <jump line="87" column="4" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
+      <jump line="362" column="17" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
+      <jump line="154" column="14" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
+      <jump line="292" column="17" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
+      <jump line="429" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
+      <jump line="1178" column="4" filename="$MAVEN_REPOSITORY$/org/apache/hive/hive-exec/2.3.2/hive-exec-2.3.2.jar!/org/apache/hadoop/hive/conf/HiveConf.class" />
+      <jump line="1184" column="364" filename="$MAVEN_REPOSITORY$/org/apache/hive/hive-exec/2.3.2/hive-exec-2.3.2.jar!/org/apache/hadoop/hive/conf/HiveConf.class" />
+      <jump line="1185" column="291" filename="$MAVEN_REPOSITORY$/org/apache/hive/hive-exec/2.3.2/hive-exec-2.3.2.jar!/org/apache/hadoop/hive/conf/HiveConf.class" />
+      <jump line="1188" column="395" filename="$MAVEN_REPOSITORY$/org/apache/hive/hive-exec/2.3.2/hive-exec-2.3.2.jar!/org/apache/hadoop/hive/conf/HiveConf.class" />
+      <jump line="1512" column="253" filename="$MAVEN_REPOSITORY$/org/apache/hive/hive-exec/2.3.2/hive-exec-2.3.2.jar!/org/apache/hadoop/hive/conf/HiveConf.class" />
+      <jump line="1522" column="159" filename="$MAVEN_REPOSITORY$/org/apache/hive/hive-exec/2.3.2/hive-exec-2.3.2.jar!/org/apache/hadoop/hive/conf/HiveConf.class" />
+      <jump line="158" column="54" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
+      <jump line="178" column="71" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
+      <jump line="180" column="57" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
+      <jump line="182" column="6" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
+      <jump line="181" column="23" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
+      <jump line="116" column="31" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
+      <jump line="179" column="10" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -947,7 +953,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>rebalance</text>
+        <text>none</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwMCAtPiBhCg==</text>
@@ -984,20 +990,16 @@
       </register>
     </registers>
     <search>
-      <last-search>rebalance</last-search>
+      <last-search>none</last-search>
       <last-offset />
-      <last-pattern>rebalance</last-pattern>
+      <last-pattern>none</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>kinesisstream</entry>
-        <entry>utils</entry>
-        <entry>ssc</entry>
-        <entry>s3</entry>
         <entry>type</entry>
         <entry>schema</entry>
         <entry encoding="base64">XDxwcm92aWRlZFw+</entry>
@@ -1014,6 +1016,10 @@
         <entry encoding="base64">XDxudW1iZXJTdHJlYW1cPg==</entry>
         <entry encoding="base64">XDxwcm9kdWNlclw+</entry>
         <entry>callback</entry>
+        <entry>test</entry>
+        <entry>hiveserver2</entry>
+        <entry>hive.server2.authentication</entry>
+        <entry>none</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
