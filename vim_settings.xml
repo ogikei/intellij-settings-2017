@@ -40,10 +40,11 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" timestamp="1514098860374">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" timestamp="1514612065791">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="31" />
+        <mark key="." line="8" column="40" />
+        <mark key="^" line="14" column="31" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/hdp_migration_2.11-0.1.pom" timestamp="1512373755520">
         <mark key="'" line="32" column="0" />
@@ -383,6 +384,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="4" column="5" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="/Haskell Stack REPL" timestamp="1514610094886">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/CTR.scala" timestamp="1506933064260">
         <mark key="'" line="10" column="1" />
@@ -801,43 +805,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>rebalance</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwMCAtPiBhCg==</text>
+        <text encoding="base64">bWFpbiA6OiBJTygpCg==</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">bWFpbiA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IERhdGEuTGlzdAoKZm9ybWF0TGlzdCA6OiBTdHJpbmcgLT4gKFN0cmluZyAtPiAoU3RyaW5nIC0+IChbU3RyaW5nXSAtPiBTdHJpbmcpKSkKZm9ybWF0TGlzdCBzdGFydCBlbmQgc2VwYXJhdG9yIHhzID0gc3RhcnQgKysgaW50ZXJjYWxhdGUgc2VwYXJhdG9yIChtYXAgc2hvdyB4cykgKysgZW5kCgptYWluIDo6IElPKCkKbWFpbiA9IHB1dFN0ckxuICQgZm9ybWF0TGlzdCAiPGxpc3Q+IiAiPC9saXN0PiIgInwiIFsiZmlyc3QiLCAic2Vjb25kIiwgInRoaXJkIiwgImZvdXJ0aCJdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9hbXR0TGkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">bW9kdWxlIFByb2dyYW00IHdoZXJlCg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZiB4ID0gY2FzZSB4IG9mIHAwIC0+IGEKICAgICAgICAgICAgICAgIHAxIC0+IGIKCmcgeCA9IGNhc2UgeCBvZgogICAgICAgIHAwIC0+IGEKICAgICAgICBwMSAtPiBiCgphID0gdW5kZWZpbmVkOyBiID0gdW5kZWZpbmVkCm1haW4gPSB1bmRlZmluZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGcK</text>
+        <text encoding="base64">bW9kdWxlIFByb2dyYW00IHdoZXJlCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
