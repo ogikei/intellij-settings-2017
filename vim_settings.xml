@@ -450,6 +450,9 @@
       <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/HiveConvert.scala" timestamp="1510712297787">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/authentication/AuthenticationModules.java" timestamp="1514727529094">
+        <mark key="'" line="34" column="25" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/.gitignore" timestamp="1512360094425">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="4" column="6" />
@@ -554,6 +557,7 @@
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="20" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/presto/presto-parser/src/main/java/com/facebook/presto/sql/parser/AstBuilder.java" timestamp="1514727913242" />
       <file name="/Dummy.txt" timestamp="1514002269908">
         <mark key="[" line="0" column="0" />
       </file>
@@ -702,9 +706,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="12" filename="$USER_HOME$/OfficeTools/git/spark-utils/build.sbt" />
-      <jump line="30" column="4" filename="$USER_HOME$/OfficeTools/git/spark-utils/build.sbt" />
-      <jump line="37" column="33" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/package.scala" />
       <jump line="22" column="0" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/HiveConvert.scala" />
       <jump line="5" column="51" filename="$USER_HOME$/OfficeTools/git/spark-utils/build.sbt" />
       <jump line="6" column="57" filename="$USER_HOME$/OfficeTools/git/spark-utils/build.sbt" />
@@ -802,6 +803,9 @@
       <jump line="12" column="26" filename="$USER_HOME$/MyWork/git/haskell-example/app/Program4.hs" />
       <jump line="8" column="8" filename="$USER_HOME$/MyWork/git/haskell-example/app/Program4.hs" />
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/haskell-example/app/Program4.hs" />
+      <jump line="33" column="4" filename="$USER_HOME$/MyWork/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/authentication/AuthenticationModules.java" />
+      <jump line="108" column="0" filename="$USER_HOME$/MyWork/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/authentication/AuthenticationModules.java" />
+      <jump line="34" column="25" filename="$USER_HOME$/MyWork/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/authentication/AuthenticationModules.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
