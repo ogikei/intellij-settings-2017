@@ -9,6 +9,9 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="14" column="31" />
       </file>
+      <file name="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-v2/src/main/java/org/apache/hadoop/hive/ql/exec/SentryFilterDDLTask.java" timestamp="1515569320060">
+        <mark key="'" line="146" column="6" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/pom.xml" timestamp="1507113420605">
         <mark key="[" line="24" column="15" />
         <mark key="]" line="24" column="15" />
@@ -350,8 +353,8 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" timestamp="1515563380522">
-        <mark key="'" line="428" column="0" />
+      <file name="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" timestamp="1515569287029">
+        <mark key="'" line="26" column="20" />
         <mark key="[" line="421" column="3" />
         <mark key="]" line="421" column="2" />
         <mark key="^" line="421" column="2" />
@@ -712,8 +715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/app/HiveConvert.scala" />
-      <jump line="28" column="5" filename="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" />
       <jump line="3" column="0" filename="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" />
       <jump line="27" column="20" filename="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" />
       <jump line="17" column="0" filename="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" />
@@ -812,6 +813,8 @@
       <jump line="17" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
       <jump line="422" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
       <jump line="428" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
+      <jump line="26" column="20" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
+      <jump line="146" column="6" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-v2/src/main/java/org/apache/hadoop/hive/ql/exec/SentryFilterDDLTask.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
