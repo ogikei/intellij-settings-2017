@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-v2/src/main/java/org/apache/sentry/binding/hive/v2/authorizer/SentryHiveAccessController.java" timestamp="1515573434561">
+        <mark key="'" line="199" column="0" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" timestamp="1514726618090">
         <mark key="[" line="14" column="7" />
         <mark key="]" line="14" column="31" />
@@ -710,9 +713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" />
-      <jump line="27" column="20" filename="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" />
-      <jump line="17" column="0" filename="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" />
       <jump line="18" column="0" filename="$USER_HOME$/OfficeTools/git/spark-example/src/main/scala/com/dmm/example/SparkHiveExample.scala" />
       <jump line="16" column="0" filename="$USER_HOME$/OfficeTools/git/spark-example/src/main/scala/com/dmm/example/SparkHiveExample.scala" />
       <jump line="11" column="37" filename="$USER_HOME$/OfficeTools/git/spark-example/src/main/scala/com/dmm/example/SparkHiveExample.scala" />
@@ -810,6 +810,9 @@
       <jump line="428" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
       <jump line="26" column="20" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
       <jump line="146" column="6" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-v2/src/main/java/org/apache/hadoop/hive/ql/exec/SentryFilterDDLTask.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-v2/src/main/java/org/apache/sentry/binding/hive/v2/authorizer/SentryHiveAccessController.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-v2/src/main/java/org/apache/sentry/binding/hive/v2/authorizer/SentryHiveAccessController.java" />
+      <jump line="199" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-v2/src/main/java/org/apache/sentry/binding/hive/v2/authorizer/SentryHiveAccessController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
