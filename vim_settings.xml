@@ -356,6 +356,12 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/hdp/ambari/tasks/main.yml" timestamp="1515734405524">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/ansible/production" timestamp="1515727848002" />
       <file name="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" timestamp="1515569287029">
         <mark key="'" line="26" column="20" />
@@ -816,11 +822,11 @@
       <jump line="199" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-v2/src/main/java/org/apache/sentry/binding/hive/v2/authorizer/SentryHiveAccessController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyREJcPg==</text>
@@ -829,31 +835,31 @@
         <text encoding="base64">bWFpbiA6OiBJTygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWFpbiA9IAo=</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWFpbiA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IERhdGEuTGlzdAoKZm9ybWF0TGlzdCA6OiBTdHJpbmcgLT4gKFN0cmluZyAtPiAoU3RyaW5nIC0+IChbU3RyaW5nXSAtPiBTdHJpbmcpKSkKZm9ybWF0TGlzdCBzdGFydCBlbmQgc2VwYXJhdG9yIHhzID0gc3RhcnQgKysgaW50ZXJjYWxhdGUgc2VwYXJhdG9yIChtYXAgc2hvdyB4cykgKysgZW5kCgptYWluIDo6IElPKCkKbWFpbiA9IHB1dFN0ckxuICQgZm9ybWF0TGlzdCAiPGxpc3Q+IiAiPC9saXN0PiIgInwiIFsiZmlyc3QiLCAic2Vjb25kIiwgInRoaXJkIiwgImZvdXJ0aCJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IERhdGEuTGlzdAoKZm9ybWF0TGlzdCA6OiBTdHJpbmcgLT4gKFN0cmluZyAtPiAoU3RyaW5nIC0+IChbU3RyaW5nXSAtPiBTdHJpbmcpKSkKZm9ybWF0TGlzdCBzdGFydCBlbmQgc2VwYXJhdG9yIHhzID0gc3RhcnQgKysgaW50ZXJjYWxhdGUgc2VwYXJhdG9yIChtYXAgc2hvdyB4cykgKysgZW5kCgptYWluIDo6IElPKCkKbWFpbiA9IHB1dFN0ckxuICQgZm9ybWF0TGlzdCAiPGxpc3Q+IiAiPC9saXN0PiIgInwiIFsiZmlyc3QiLCAic2Vjb25kIiwgInRoaXJkIiwgImZvdXJ0aCJdCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Zm9hbXR0TGkK</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bW9kdWxlIFByb2dyYW00IHdoZXJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
