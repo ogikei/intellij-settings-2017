@@ -61,6 +61,9 @@
         <mark key="." line="348" column="12" />
         <mark key="^" line="348" column="12" />
       </file>
+      <file name="/Dummy.scala" timestamp="1516870943289">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/Credential.scala" timestamp="1506930551710">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -79,10 +82,11 @@
         <mark key="^" line="0" column="56" />
         <mark key="." line="0" column="56" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/HiveOnSpark.scala" timestamp="1516850974963">
-        <mark key="[" line="4" column="41" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/HiveOnSpark.scala" timestamp="1516871258757">
+        <mark key="[" line="41" column="10" />
+        <mark key="]" line="43" column="3" />
+        <mark key="." line="43" column="3" />
+        <mark key="^" line="43" column="3" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/build.sbt" timestamp="1507112517816">
         <mark key="[" line="7" column="73" />
@@ -326,8 +330,8 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SparkHiveExample.scala" timestamp="1516849375477">
-        <mark key="[" line="20" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SparkHiveExample.scala" timestamp="1516869986164">
+        <mark key="[" line="9" column="0" />
         <mark key="]" line="14" column="21" />
         <mark key="^" line="14" column="21" />
         <mark key="." line="14" column="21" />
@@ -848,43 +852,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFjCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyREJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bWFpbiA6OiBJTygpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzcGFyayA9IFNwYXJrU2Vzc2lvbgogICAgICAgIC5idWlsZGVyKCkKICAgICAgICAuYXBwTmFtZSgiU3BhcmsgSGl2ZSBFeGFtcGxlIikKICAgICAgICAuY29uZmlnKCJzcGFyay5zcWwud2FyZWhvdXNlLmRpciIsIHdhcmVob3VzZUxvY2F0aW9uKQogICAgICAgIC5lbmFibGVIaXZlU3VwcG9ydCgpCiAgICAgICAgLmdldE9yQ3JlYXRlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFjCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgIGFjCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">bWFpbiA9IAo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBhY3Rpdml0eURGID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IERhdGEuTGlzdAoKZm9ybWF0TGlzdCA6OiBTdHJpbmcgLT4gKFN0cmluZyAtPiAoU3RyaW5nIC0+IChbU3RyaW5nXSAtPiBTdHJpbmcpKSkKZm9ybWF0TGlzdCBzdGFydCBlbmQgc2VwYXJhdG9yIHhzID0gc3RhcnQgKysgaW50ZXJjYWxhdGUgc2VwYXJhdG9yIChtYXAgc2hvdyB4cykgKysgZW5kCgptYWluIDo6IElPKCkKbWFpbiA9IHB1dFN0ckxuICQgZm9ybWF0TGlzdCAiPGxpc3Q+IiAiPC9saXN0PiIgInwiIFsiZmlyc3QiLCAic2Vjb25kIiwgInRoaXJkIiwgImZvdXJ0aCJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9hbXR0TGkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAucmVhZAogICAgICAgIC5jb25maWcoInNwYXJrLnNxbC53YXJlaG91c2UuZGlyIiwgd2FyZWhvdXNlTG9jYXRpb24pCiAgICAgICAgLm9yYygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuY29uZmlnKCJzcGFyay5zcWwud2FyZWhvdXNlLmRpciIsIHdhcmVob3VzZUxvY2F0aW9uKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
