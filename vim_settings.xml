@@ -48,10 +48,11 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRaw.scala" timestamp="1516873274233">
-        <mark key="[" line="4" column="41" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRaw.scala" timestamp="1517213232726">
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+        <mark key="^" line="16" column="31" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/HiveConvert.scala" timestamp="1510212742583">
         <mark key="[" line="13" column="51" />
@@ -260,8 +261,12 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" timestamp="1516873205291">
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" timestamp="1517213171501">
         <mark key="'" line="7" column="0" />
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="13" column="43" />
+        <mark key="." line="13" column="43" />
+        <mark key="^" line="13" column="43" />
       </file>
       <file name="$USER_HOME$/MyWork/git/functional-programming-principles-in-scala/.gitignore" timestamp="1512541341908">
         <mark key="[" line="3" column="17" />
@@ -866,44 +871,44 @@
       <jump line="7" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyREJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcGFyayA9IFNwYXJrU2Vzc2lvbgogICAgICAgIC5idWlsZGVyKCkKICAgICAgICAuYXBwTmFtZSgiU3BhcmsgSGl2ZSBFeGFtcGxlIikKICAgICAgICAuY29uZmlnKCJzcGFyay5zcWwud2FyZWhvdXNlLmRpciIsIHdhcmVob3VzZUxvY2F0aW9uKQogICAgICAgIC5lbmFibGVIaXZlU3VwcG9ydCgpCiAgICAgICAgLmdldE9yQ3JlYXRlKCkK</text>
+        <text encoding="base64">ICAgIHZhbCB3YXJlaG91c2VMb2NhdGlvbiA9IG5ldyBGaWxlKCIvdXNlci9oaXZlL3dhcmVob3VzZSIpLmdldEFic29sdXRlUGF0aAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB2YWwgd2FyZWhvdXNlTG9jYXRpb24gPSBuZXcgRmlsZSgiL3VzZXIvaGl2ZS93YXJlaG91c2UiKS5nZXRBYnNvbHV0ZVBhdGgK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHZhbCB3YXJlaG91c2VMb2NhdGlvbiA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">cWwoCiAgICAg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTRUxFQ1QgKgogICAgICAgICxSQU5LKCkgT1ZFUihPUkRFUiBCWSBjdiBERVNDKSBhcyByYW5rX2N2CiAgICAgICAgRlJPTQogICAgICAgIHN1bW1hcnlfcmF0ZQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">cWwoCiAgICAg</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
