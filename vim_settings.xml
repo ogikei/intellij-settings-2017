@@ -262,12 +262,12 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" timestamp="1517799290538">
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" timestamp="1518573909322">
         <mark key="'" line="129" column="0" />
-        <mark key="[" line="113" column="56" />
-        <mark key="]" line="113" column="56" />
-        <mark key="." line="113" column="56" />
-        <mark key="^" line="113" column="58" />
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="7" />
+        <mark key="." line="20" column="7" />
+        <mark key="^" line="20" column="7" />
       </file>
       <file name="$USER_HOME$/MyWork/git/functional-programming-principles-in-scala/.gitignore" timestamp="1512541341908">
         <mark key="[" line="3" column="17" />
@@ -879,8 +879,8 @@
       <jump line="129" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGdqamRkCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -891,21 +891,11 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAuY29uZmlnKCJzcGFyay5zcWwud2FyZWhvdXNlLmRpciIsIHdhcmVob3VzZUxvY2F0aW9uKQo=</text>
       </register>
-      <register name="1" type="8">
-        <text>|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGdqamRkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGdldE9yQ3JlYXRlCg==</text>
       </register>
       <register name="3" type="8">
         <text>|
@@ -917,10 +907,11 @@
 |
 |
 |
+|
 |</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="8">
         <text>|
@@ -932,19 +923,12 @@
 |
 |
 |
-|
-|
-|
-|
 |</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgKQo=</text>
-      </register>
-      <register name="8" type="8">
+      <register name="7" type="8">
         <text>|
 |
 |
@@ -954,10 +938,17 @@
 |
 |
 |
+|
+|
+|
+|
 |</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAtLS0g5aSJ5YuV5L+C5pWwCg==</text>
+        <text encoding="base64">ICAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
