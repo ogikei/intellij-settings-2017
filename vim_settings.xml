@@ -48,12 +48,12 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRaw.scala" timestamp="1517373001719">
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRaw.scala" timestamp="1519292454787">
         <mark key="'" line="40" column="55" />
-        <mark key="[" line="40" column="64" />
-        <mark key="]" line="40" column="65" />
-        <mark key="." line="40" column="65" />
-        <mark key="^" line="140" column="11" />
+        <mark key="[" line="128" column="6" />
+        <mark key="]" line="128" column="6" />
+        <mark key="." line="128" column="6" />
+        <mark key="^" line="128" column="6" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/HiveConvert.scala" timestamp="1510212742583">
         <mark key="[" line="13" column="51" />
@@ -265,12 +265,12 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" timestamp="1519262380887">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="7" />
-        <mark key="." line="20" column="7" />
-        <mark key="^" line="20" column="7" />
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" timestamp="1519292428754">
+        <mark key="'" line="54" column="7" />
+        <mark key="[" line="116" column="6" />
+        <mark key="]" line="116" column="6" />
+        <mark key="." line="116" column="6" />
+        <mark key="^" line="116" column="6" />
       </file>
       <file name="$USER_HOME$/MyWork/git/functional-programming-principles-in-scala/.gitignore" timestamp="1512541341908">
         <mark key="[" line="3" column="17" />
@@ -772,18 +772,15 @@
       <file name="/fragment.java" timestamp="1514002269935">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRawUnique.scala" timestamp="1517373615100">
-        <mark key="'" line="27" column="26" />
-        <mark key="[" line="130" column="29" />
-        <mark key="]" line="130" column="29" />
-        <mark key="." line="130" column="29" />
-        <mark key="^" line="156" column="11" />
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRawUnique.scala" timestamp="1519292490813">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="143" column="6" />
+        <mark key="]" line="143" column="6" />
+        <mark key="." line="143" column="6" />
+        <mark key="^" line="143" column="6" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/SparkHiveExample.scala" />
-      <jump line="32" column="2" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" />
-      <jump line="33" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" />
       <jump line="17" column="52" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" />
       <jump line="186" column="11" filename="$USER_HOME$/.ivy2/cache/org.apache.kafka/kafka-clients/srcs/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/clients/producer/KafkaProducer.java" />
       <jump line="100" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" />
@@ -881,13 +878,16 @@
       <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaConsumerExample.scala" />
       <jump line="39" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaConsumerExample.scala" />
       <jump line="6" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaConsumerExample.scala" />
+      <jump line="115" column="7" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" />
+      <jump line="54" column="7" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" />
+      <jump line="141" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRawUnique.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdqamRkCg==</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>20</text>
