@@ -225,6 +225,9 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaConsumerExample.scala" timestamp="1519290556295">
+        <mark key="'" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/test/scala/org/apache/spark/sql/UserDefinedTypeSuite.scala" timestamp="1507201530450">
         <mark key="'" line="92" column="13" />
         <mark key="[" line="36" column="12" />
@@ -778,10 +781,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="75" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExample.java" />
-      <jump line="26" column="12" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExample.java" />
-      <jump line="4" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExample.java" />
-      <jump line="29" column="3" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" />
       <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/SparkHiveExample.scala" />
       <jump line="32" column="2" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" />
       <jump line="33" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" />
@@ -878,6 +877,10 @@
       <jump line="43" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" />
       <jump line="1" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" />
       <jump line="39" column="19" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" />
+      <jump line="29" column="39" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaConsumerExample.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaConsumerExample.scala" />
+      <jump line="39" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaConsumerExample.scala" />
+      <jump line="6" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaConsumerExample.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
