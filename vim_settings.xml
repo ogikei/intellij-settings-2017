@@ -386,7 +386,6 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SparkKafkaExample.scala" timestamp="1519285982307" />
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/Ctr.scala" timestamp="1506932042957">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="9" />
@@ -457,6 +456,12 @@
         <mark key="]" line="23" column="3" />
         <mark key="^" line="23" column="3" />
         <mark key="." line="23" column="3" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/effective-java/build.gradle" timestamp="1519351969492">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+        <mark key="^" line="0" column="16" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/tests/src/test/scala/org/apache/spark/sql/test/SharedSQLContext.scala" timestamp="1507097213579">
         <mark key="[" line="25" column="1" />
@@ -712,7 +717,6 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.2.0-sources.jar!/org/apache/spark/sql/catalyst/analysis/Analyzer.scala" timestamp="1519294580551" />
       <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/common/HiveConvert.scala" timestamp="1510211743221">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="26" />
@@ -885,10 +889,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>20</text>
