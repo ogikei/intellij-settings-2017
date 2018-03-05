@@ -21,12 +21,11 @@
         <mark key="." line="24" column="15" />
         <mark key="^" line="24" column="15" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" timestamp="1520219862071">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="7" column="50" />
-        <mark key="]" line="7" column="58" />
-        <mark key="." line="7" column="58" />
-        <mark key="^" line="7" column="58" />
+      <file name="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" timestamp="1520220581161">
+        <mark key="[" line="11" column="53" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" timestamp="1519289040272">
         <mark key="'" line="39" column="19" />
@@ -793,7 +792,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExample.java" />
       <jump line="19" column="0" filename="$USER_HOME$/MyWork/git/test/src/main/scala/test.scala" />
       <jump line="20" column="10" filename="$USER_HOME$/MyWork/git/test/src/main/scala/test.scala" />
       <jump line="22" column="13" filename="$USER_HOME$/MyWork/git/test/src/main/scala/test.scala" />
@@ -893,13 +891,14 @@
       <jump line="64" column="0" filename="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" />
       <jump line="5" column="0" filename="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" />
       <jump line="61" column="0" filename="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" />
+      <jump line="7" column="21" filename="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text>20</text>
@@ -908,31 +907,31 @@
         <text encoding="base64">ICBwcml2YXRlIGZpbmFsIGludCBmYXQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtYWluCg==</text>
+        <text encoding="base64">CiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TnV0Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TnV0cmkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gVGVsZXNjb3BpbmcgY29uc3RydWN0b3IgcGF0dGVybiAtIGRvZXMgbm90IHNjYWxlIHdlbGwhCg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICBOdXRyaXRpb25GYWN0cyBjYWNhQ29sYSA9IG5ldyBCdWlsZGVyKDI0MCwgOCkKICAgICAgICAuY2Fsb3JpZXMoMTAwKS5zb2RpdW0oMzUpLmNhcmJvaHlkcmF0ZSgyNykuYnVpbGQoKTsKICB9CgogIC8vIHJlcXVpcmVkCiAgcHJpdmF0ZSBmaW5hbCBpbnQgc2VydmluZ1NpemU7CiAgcHJpdmF0ZSBmaW5hbCBpbnQgc2VydmluZ3M7CgogIC8vIG5vdCByZXF1aXJlZAogIHByaXZhdGUgZmluYWwgaW50IGNhbG9yaWVzOwogIHByaXZhdGUgZmluYWwgaW50IGZhdDsKICBwcml2YXRlIGZpbmFsIGludCBzb2RpdW07CiAgcHJpdmF0ZSBmaW5hbCBpbnQgY2FyYm9oeWRyYXRlOwoKICBwdWJsaWMgc3RhdGljIGNsYXNzIEJ1aWxkZXIgewogICAgcHJpdmF0ZSBmaW5hbCBpbnQgc2VydmluZ1NpemU7CiAgICBwcml2YXRlIGZpbmFsIGludCBzZXJ2aW5nczsKCiAgICBwcml2YXRlIGludCBjYWxvcmllcyA9IDA7CiAgICBwcml2YXRlIGludCBmYXQgPSAwOwogICAgcHJpdmF0ZSBpbnQgc29kaXVtID0gMDsKICAgIHByaXZhdGUgaW50IGNhcmJvaHlkcmF0ZSA9IDA7CgogICAgcHVibGljIEJ1aWxkZXIoaW50IHNlcnZpbmdTaXplLCBpbnQgc2VydmluZ3MpIHsKICAgICAgdGhpcy5zZXJ2aW5nU2l6ZSA9IHNlcnZpbmdTaXplOwogICAgICB0aGlzLnNlcnZpbmdzID0gc2VydmluZ3M7CiAgICB9CgogICAgcHVibGljIEJ1aWxkZXIgY2Fsb3JpZXMoaW50IHZhbCkgewogICAgICBjYWxvcmllcyA9IHZhbDsKICAgICAgcmV0dXJuIHRoaXM7CiAgICB9CgogICAgcHVibGljIEJ1aWxkZXIgZmF0KGludCB2YWwpIHsKICAgICAgZmF0ID0gdmFsOwogICAgICByZXR1cm4gdGhpczsKICAgIH0KCiAgICBwdWJsaWMgQnVpbGRlciBzb2RpdW0oaW50IHZhbCkgewogICAgICBzb2RpdW0gPSB2YWw7CiAgICAgIHJldHVybiB0aGlzOwogICAgfQoKICAgIHB1YmxpYyBCdWlsZGVyIGNhcmJvaHlkcmF0ZShpbnQgdmFsKSB7CiAgICAgIGNhcmJvaHlkcmF0ZSA9IHZhbDsKICAgICAgcmV0dXJuIHRoaXM7CiAgICB9CgogICAgcHVibGljIE51dHJpdGlvbkZhY3RzIGJ1aWxkKCkgewogICAgICByZXR1cm4gbmV3IE51dHJpdGlvbkZhY3RzKHRoaXMpOwogICAgfQogIH0KCiAgcHJpdmF0ZSBOdXRyaXRpb25GYWN0cyhCdWlsZGVyIGJ1aWxkZXIpIHsKICAgIHNlcnZpbmdTaXplID0gYnVpbGRlci5zZXJ2aW5nU2l6ZTsKICAgIHNlcnZpbmdzID0gYnVpbGRlci5zZXJ2aW5nczsKICAgIGNhbG9yaWVzID0gYnVpbGRlci5jYWxvcmllczsKICAgIGZhdCA9IGJ1aWxkZXIuZmF0OwogICAgc29kaXVtID0gYnVpbGRlci5zb2RpdW07CiAgICBjYXJib2h5ZHJhdGUgPSBidWlsZGVyLmNhcmJvaHlkcmF0ZTsKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJpbGMgc3RhdGljIAo=</text>
+        <text encoding="base64">ICBtYWluCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgTnV0cml0aW9uRmFjdHMoaW50IHNlcnZpbmdTaXplLCBpbnQgc2VydmluZ3MpIHsKICAgIHRoaXMoc2VydmluZ1NpemUsIHNlcnZpbmdzLCAwKTsKICB9CgogIHB1YmxpYyBOdXRyaXRpb25GYWN0cyhpbnQgc2VydmluZ1NpemUsIGludCBzZXJ2aW5ncywgaW50IGNhbG9yaWVzKSB7CiAgICB0aGlzKHNlcnZpbmdTaXplLCBzZXJ2aW5ncywgY2Fsb3JpZXMsIDApOwogIH0KCiAgcHVibGljIE51dHJpdGlvbkZhY3RzKGludCBzZXJ2aW5nU2l6ZSwgaW50IHNlcnZpbmdzLCBpbnQgY2Fsb3JpZXMsIGludCBmYXQpIHsKICAgIHRoaXMoc2VydmluZ1NpemUsIHNlcnZpbmdzLCBjYWxvcmllcywgZmF0LCAwKTsKICB9CgogIHB1YmxpYyBOdXRyaXRpb25GYWN0cyhpbnQgc2VydmluZ1NpemUsIGludCBzZXJ2aW5ncywgaW50IGNhbG9yaWVzLCBpbnQgZmF0LCBpbnQgc29kaXVtKSB7CiAgICB0aGlzKHNlcnZpbmdTaXplLCBzZXJ2aW5ncywgY2Fsb3JpZXMsIGZhdCwgc29kaXVtLCAwKTsKICB9CgogIHB1YmxpYyBOdXRyaXRpb25GYWN0cyhpbnQgc2VydmluZ1NpemUsIGludCBzZXJ2aW5ncywgaW50IGNhbG9yaWVzLCBpbnQgZmF0LCBpbnQgc29kaXVtLCBpbnQgY2FyYm9oeWRyYXRlKSB7CiAgICB0aGlzLnNlcnZpbmdTaXplID0gc2VydmluZ1NpemU7CiAgICB0aGlzLnNlcnZpbmdzID0gc2VydmluZ3M7CiAgICB0aGlzLmNhbG9yaWVzID0gY2Fsb3JpZXM7CiAgICB0aGlzLmZhdCA9IGZhdDsKICAgIHRoaXMuc29kaXVtID0gc29kaXVtOwogICAgdGhpcy5jYXJib2h5ZHJhdGUgPSBjYXJib2h5ZHJhdGU7CiAgfQoK</text>
+        <text encoding="base64">TnV0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMoc2VydmluZ1NpemUsIHNlcnZpbmdzLCBjYWxvcmllcywgZmF0LCBzb2RpdW0sIDApOwo=</text>
+        <text encoding="base64">TnV0cmkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgRWZmZWN0aXZlKCkgewogIH0K</text>
+        <text encoding="base64">Ly8gVGVsZXNjb3BpbmcgY29uc3RydWN0b3IgcGF0dGVybiAtIGRvZXMgbm90IHNjYWxlIHdlbGwhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIGludAo=</text>
+        <text encoding="base64">ICBwdWJpbGMgc3RhdGljIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
