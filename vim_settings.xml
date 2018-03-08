@@ -89,11 +89,11 @@
       <file name="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-v2/src/main/java/org/apache/sentry/binding/hive/v2/authorizer/SentryHiveAccessController.java" timestamp="1515573434561">
         <mark key="'" line="199" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" timestamp="1520469538932">
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="12" column="52" />
-        <mark key="." line="12" column="52" />
-        <mark key="^" line="12" column="52" />
+      <file name="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" timestamp="1520471865475">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+        <mark key="^" line="12" column="14" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/pom.xml" timestamp="1507098860340">
         <mark key="'" line="233" column="24" />
@@ -783,7 +783,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="42" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerExample.java" />
       <jump line="25" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExample.java" />
       <jump line="6" column="49" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExample.java" />
       <jump line="24" column="75" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExample.java" />
@@ -883,13 +882,14 @@
       <jump line="113" column="8" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" />
       <jump line="129" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" />
+      <jump line="6" column="0" filename="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Sgt</text>
+        <text>retru</text>
       </register>
       <register name="-" type="4">
-        <text>Sgt</text>
+        <text>retru</text>
       </register>
       <register name="/" type="4">
         <text>20</text>
@@ -898,41 +898,31 @@
         <text encoding="base64">ICAgICAgICAuY29uZmlnKCJzcGFyay5zcWwud2FyZWhvdXNlLmRpciIsIHdhcmVob3VzZUxvY2F0aW9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiBlcXVhbHMoT2JqZWN0IG9iaikgewogICAgcmV0dXJuIHN1cGVyLmVxdWFscyhvYmopOwogIH0K</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBQYXR0ZXJuIFJPTUFOID0gUGF0dGVybi5jb21waWxlKAogICAgICAiXig/PS4pTSooQ1tNRF18RD9DezAsM30pIgogICk7CiAgc3RhdGljIGJvb2xlYW4gaXNSb21hbk51bWVyYWwoU3RyaW5nIHMpIHsKICAgIHJldHVybiBST01BTi5tYXRjaGVyKHMpLm1hdGNoZXMoKTsKICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMZXhpY29uIGRpY3Rpb25hcnkgPSAuLi47CgogIHByaXZhdGUgU3BlbGxDaGVja2VyKC4uLikge30KICBwdWJsaWMgc3RhdGljIElOU1RBTkNFID0gbmV3IFNwZWxsQ2hlY2tlciguLi4pOwoKICBwdWJsaWMgYm9vbGVhbiBpc1ZhbGlkKFN0cmluZyB3b3JkKSB7IC4uLiB9CiAgcHVibGljIExpc3Q8U3RyaW5nPiBzdWdnZXN0aW9ucyhTdHJpbmcgdHlwbykgeyAuLi4gfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gSW5hcHByb3ByaWF0ZSB1c2Ugb2Ygc2luZ2xldG9uIC0gaW5mbGV4aWJsZSAmIHVudGVzdGFibGUhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIElOU1RBTkNFID0gbmV3IFNwZWxsQ2hlY2tlciguLi4pOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIExleGljb24gZGljdGlvbmFyeTsKCiAgcHVibGljIFNwZWxsQ2hlY2tlcihMZXhpY29uIGRpY3Rpb25hcnkpIHsKICAgIHRoaXMuZGljdGlvbmFyeSA9IE9iamVjdHMucmVxdWlyZU5vbk51bGwoZGljdGlvbmFyeSk7CiAgfQoKICBwdWJsaWMgYm9vbGVhbiBpc1ZhbGlkKFN0cmluZyB3b3JkKSB7IC4uLiB9CiAgcHVibGljIExpc3Q8U3RyaW5nPiBzdWdnZXN0aW9ucyhTdHJpbmcgdHlwbykgeyAuLi4gfQoKICBzdGF0aWMgYm9vbGVhbiBpc1JvbWFuTnVtZXJhbChTdHJpbmcgcykgewogICAgcmV0dXJuIHMubWF0Y2hlcygiXig/PS4pTSooQ1tNRF18RD9DezAsM30pIik7CiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIExpc3Q8U3RyaW5nPiBzdWdnZXN0aW9ucyhTdHJpbmcgdHlwZSkgeyAuLi4gfQo=</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiBlcXVhbHMoT2JqZWN0IG9iaikgewogICAgcmV0dXJuIHN1cGVyLmVxdWFscyhvYmopOwogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gTm9uaW5zdGFudGlhYmxlIHV0aWxpdHkgY2xhc3MKcHVibGljIGNsYXNzIFV0aWxpdHlDbGFzcyB7CiAgLy8gU3VwcHJlc3MgZGVmYXVsdCBjb25zdHJ1Y3RvciBmb3Igbm9uaW5zdGFudGlhYmlsaXR5CiAgcHJpdmF0ZSBVdGlsaXR5Q2xhc3MoKSB7CiAgICB0aHJvdyBuZXcgQXNzZXJ0aW9uRXJyb3IoKTsKICB9CiAgLi4uIC8vIFJlbWFpbmRlciBvbWl0dGVkCn0K</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMZXhpY29uIGRpY3Rpb25hcnkgPSAuLi47CgogIHByaXZhdGUgU3BlbGxDaGVja2VyKC4uLikge30KICBwdWJsaWMgc3RhdGljIElOU1RBTkNFID0gbmV3IFNwZWxsQ2hlY2tlciguLi4pOwoKICBwdWJsaWMgYm9vbGVhbiBpc1ZhbGlkKFN0cmluZyB3b3JkKSB7IC4uLiB9CiAgcHVibGljIExpc3Q8U3RyaW5nPiBzdWdnZXN0aW9ucyhTdHJpbmcgdHlwbykgeyAuLi4gfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIElOU1RBTkNFID0gbmV3IFNwZWxsQ2hlY2tlciguLi4pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIExpc3Q8U3RyaW5nPiBzdWdnZXN0aW9ucyhTdHJpbmcgdHlwZSkgeyAuLi4gfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
