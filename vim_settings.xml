@@ -393,6 +393,7 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="27" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/build.sbt" timestamp="1521014477650" />
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/Ctr.scala" timestamp="1506932042957">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="9" />
@@ -784,6 +785,13 @@
       <file name="/fragment.java" timestamp="1514002269935">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/algorithm/build.sbt" timestamp="1521014509217">
+        <mark key="'" line="9" column="20" />
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="17" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRawUnique.scala" timestamp="1520829500209">
         <mark key="'" line="142" column="7" />
         <mark key="[" line="42" column="63" />
@@ -796,7 +804,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" />
       <jump line="1" column="0" filename="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" />
       <jump line="8" column="0" filename="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" />
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" />
@@ -896,13 +903,14 @@
       <jump line="18" column="0" filename="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" />
       <jump line="39" column="4" filename="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" />
       <jump line="27" column="45" filename="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" />
+      <jump line="11" column="20" filename="$USER_HOME$/OfficeTools/git/algorithm/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>A</text>
       </register>
       <register name="-" type="4">
-        <text>clenable</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGVhbmFibGVcPg==</text>
@@ -914,28 +922,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">bmFtZSA6PSAiYWxnb3JpdGhtIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc3RyZWFtaW5nU2V0dGluZ3MsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgc3FsU2V0dGluZ3MsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG8K</text>
+        <text encoding="base64">c2NhbGFWZXJzaW9uIDo9ICIyLjExLjEyIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gU2luZ2xldG9uIHdpdGggcHVibGljIGZpbmFsIGZpZWxkCg==</text>
+        <text encoding="base64">dmVyc2lvbiA6PSAiMC4xIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgcHVibGljIHN0YXRpYyBmaW5hbCBFbHZpcyBJTlNUQU5DRSA9IG5ldyBFbHZpcygpOwogIHByaXZhdGUgRWx2aXMoKSB7IC4uLiB9CgogIHB1YmxpYyB2b2lkIGxlYXZlVGhlQnVpbGRpbmcoKSB7IC4uLiB9Cgp9CgpwdWJsaWMgY2xhc3MgRWx2aXMgewogIHByaXZhdGUgc3RhdGljIGZpbmFsIEVsdmlzIElOU1RBTkNFID0gbmV3IEVsdmlzKCk7CiAgcHJpdmF0ZSBFbHZpcygpIHsgLi4uIH0KICBwdWJsaWMgc3RhdGljIEVsdmlzIGdldEluc3RhbmNlKCkgewogICAgcmV0dXJuIElOU1RBTkNFOwogIH0KICBwdWJsaWMgdm9pZCBsZWF2ZVRoZUJ1aWxkaW5nKCkgeyAuLi4gfQoKICBwcml2YXRlIE9iamVjdCByZWFkUmVzb2x2ZSgpIHsKICAgIHJldHVybiBJTlNUQU5DRTsKICB9Cn0KCgpwdWJsaWMgZW51bSBFbHZpcyB7CiAgSU5TVEFOQ0U7CiAgcHVibGljIHZvaWQgbGVhdmVUaGVCdWlsZGluZygpIHsgLi4uIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -948,7 +956,7 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
