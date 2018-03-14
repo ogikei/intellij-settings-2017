@@ -367,11 +367,11 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/algorithm/src/main/scala/sorting/InsertionSortScala.scala" timestamp="1521020653117">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="19" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="10" column="19" />
+      <file name="$USER_HOME$/OfficeTools/git/algorithm/src/main/scala/sorting/InsertionSortScala.scala" timestamp="1521023859814">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="34" />
+        <mark key="." line="18" column="34" />
+        <mark key="^" line="18" column="34" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SparkHiveExample.scala" timestamp="1516869986164">
         <mark key="[" line="9" column="0" />
@@ -500,11 +500,11 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/algorithm/src/test/scala/sorting/TestInsertionSortScala.scala" timestamp="1521020047378">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="5" column="1" />
-        <mark key="." line="5" column="1" />
-        <mark key="^" line="5" column="1" />
+      <file name="$USER_HOME$/OfficeTools/git/algorithm/src/test/scala/sorting/TestInsertionSortScala.scala" timestamp="1521023464635">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+        <mark key="^" line="4" column="28" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/tests/src/test/scala/org/apache/spark/sql/test/SharedSQLContext.scala" timestamp="1507097213579">
         <mark key="[" line="25" column="1" />
@@ -603,6 +603,12 @@
         <mark key="]" line="39" column="26" />
         <mark key="." line="39" column="26" />
         <mark key="^" line="39" column="26" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/algorithm/src/test/scala/sorting/InsertionSortScalaSuite.scala" timestamp="1521023501918">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="20" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/sources/Json.scala" timestamp="1510553604797">
         <mark key="[" line="14" column="26" />
@@ -823,7 +829,7 @@
       <file name="$USER_HOME$/MyWork/git/test/src/main/scala/test.scala" timestamp="1513504759472">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1514002269935">
+      <file name="/fragment.java" timestamp="1521023278826">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/algorithm/build.sbt" timestamp="1521020252737">
@@ -947,44 +953,44 @@
       <jump line="11" column="20" filename="$USER_HOME$/OfficeTools/git/algorithm/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>class</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFkZCAK</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>最初laは空</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGVhbmFibGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
+        <text encoding="base64">ICAgIHZhbCBleHBlY3RlZCA9IExpc3QoNSwgMTUsIDMwLCAzNSwgNDAsIDUwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFkZCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGRrCg==</text>
+        <text encoding="base64">ICAgIC8vIOepuuOBrkxpc3Tjgavov73liqDjgZfjgabjgYTjgY8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICApCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGtrCg==</text>
+        <text encoding="base64">ICBkZWYgdGVzdEluc2VydGlvblNvcnQoKTogVW5pdCA9IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGtlZWUK</text>
+        <text encoding="base64">ICBUCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBleHBlY3RlZCA9IExpc3QoNSwgMTUsIDMwLCAzNSwgNDAsIDUwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHZhbCAgPSBMaXN0KDUsIDE1LCAzMCwgMzUsIDQwLCA1MCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
