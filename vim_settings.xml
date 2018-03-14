@@ -21,12 +21,12 @@
         <mark key="." line="24" column="15" />
         <mark key="^" line="24" column="15" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" timestamp="1520819930683">
-        <mark key="'" line="27" column="15" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="37" column="36" />
+      <file name="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" timestamp="1521004273251">
+        <mark key="'" line="27" column="45" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="55" column="32" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" timestamp="1520405142359">
         <mark key="'" line="45" column="0" />
@@ -796,8 +796,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="9" filename="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" />
-      <jump line="4" column="0" filename="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" />
       <jump line="12" column="0" filename="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" />
       <jump line="1" column="0" filename="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" />
       <jump line="8" column="0" filename="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" />
@@ -890,22 +888,24 @@
       <jump line="17" column="43" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/java/KafkaConsumerExample.java" />
       <jump line="9" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/java/KafkaConsumerExample.java" />
       <jump line="45" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/KafkaProducerExample.scala" />
-      <jump line="27" column="15" filename="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" />
       <jump line="88" column="17" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" />
       <jump line="114" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" />
       <jump line="81" column="21" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" />
       <jump line="128" column="8" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRaw.scala" />
       <jump line="142" column="7" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRawUnique.scala" />
+      <jump line="18" column="0" filename="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" />
+      <jump line="39" column="4" filename="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" />
+      <jump line="27" column="45" filename="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>19</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>19</text>
+        <text>clenable</text>
       </register>
       <register name="/" type="4">
-        <text>int</text>
+        <text encoding="base64">XDxjbGVhbmFibGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIGZpbmFsIGludCBmYXQ7Cg==</text>
@@ -914,37 +914,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MTUgMTkgMjYKCjI3IDI4IDEgMgoKNiA4IDkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAiIiIKICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cHJpdmF0ZSBPYmplY3QgcmVhZFJlc29sdmUoKSB7CiAgcmV0dXJuIElOU1RBTkNFOwp9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwdWIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG8K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gU2luZ2xldG9uIHdpdGggcHVibGljIGZpbmFsIGZpZWxkCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgcHVibGljIHN0YXRpYyBmaW5hbCBFbHZpcyBJTlNUQU5DRSA9IG5ldyBFbHZpcygpOwogIHByaXZhdGUgRWx2aXMoKSB7IC4uLiB9CgogIHB1YmxpYyB2b2lkIGxlYXZlVGhlQnVpbGRpbmcoKSB7IC4uLiB9Cgp9CgpwdWJsaWMgY2xhc3MgRWx2aXMgewogIHByaXZhdGUgc3RhdGljIGZpbmFsIEVsdmlzIElOU1RBTkNFID0gbmV3IEVsdmlzKCk7CiAgcHJpdmF0ZSBFbHZpcygpIHsgLi4uIH0KICBwdWJsaWMgc3RhdGljIEVsdmlzIGdldEluc3RhbmNlKCkgewogICAgcmV0dXJuIElOU1RBTkNFOwogIH0KICBwdWJsaWMgdm9pZCBsZWF2ZVRoZUJ1aWxkaW5nKCkgeyAuLi4gfQoKICBwcml2YXRlIE9iamVjdCByZWFkUmVzb2x2ZSgpIHsKICAgIHJldHVybiBJTlNUQU5DRTsKICB9Cn0KCgpwdWJsaWMgZW51bSBFbHZpcyB7CiAgSU5TVEFOQ0U7CiAgcHVibGljIHZvaWQgbGVhdmVUaGVCdWlsZGluZygpIHsgLi4uIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>int</last-search>
+      <last-search encoding="base64">XDxjbGVhbmFibGVcPg==</last-search>
       <last-offset />
-      <last-pattern>int</last-pattern>
+      <last-pattern encoding="base64">XDxjbGVhbmFibGVcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -952,8 +952,6 @@
     </search>
     <history>
       <history-search>
-        <entry>app</entry>
-        <entry>stream</entry>
         <entry>java</entry>
         <entry>activityext</entry>
         <entry>format</entry>
@@ -972,6 +970,8 @@
         <entry encoding="base64">XDxjdXJyREJcPg==</entry>
         <entry>20</entry>
         <entry>int</entry>
+        <entry encoding="base64">XDxjbGVuYWJsZVw+</entry>
+        <entry encoding="base64">XDxjbGVhbmFibGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
