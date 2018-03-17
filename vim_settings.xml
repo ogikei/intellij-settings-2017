@@ -96,11 +96,11 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="55" column="32" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" timestamp="1521260521120">
-        <mark key="[" line="18" column="31" />
-        <mark key="]" line="18" column="56" />
-        <mark key="." line="18" column="56" />
-        <mark key="^" line="18" column="56" />
+      <file name="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" timestamp="1521274055983">
+        <mark key="[" line="25" column="57" />
+        <mark key="]" line="25" column="57" />
+        <mark key="^" line="25" column="57" />
+        <mark key="." line="25" column="57" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/pom.xml" timestamp="1507098860340">
         <mark key="'" line="233" column="24" />
@@ -802,11 +802,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" />
-      <jump line="1" column="0" filename="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" />
-      <jump line="8" column="0" filename="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" />
-      <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" />
-      <jump line="19" column="8" filename="$USER_HOME$/MyWork/git/haskell-example/app/Program4.hs" />
       <jump line="20" column="13" filename="$USER_HOME$/MyWork/git/haskell-example/app/Program4.hs" />
       <jump line="12" column="26" filename="$USER_HOME$/MyWork/git/haskell-example/app/Program4.hs" />
       <jump line="8" column="8" filename="$USER_HOME$/MyWork/git/haskell-example/app/Program4.hs" />
@@ -902,13 +897,18 @@
       <jump line="18" column="0" filename="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" />
       <jump line="39" column="4" filename="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" />
       <jump line="27" column="45" filename="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" />
+      <jump line="14" column="66" filename="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" />
+      <jump line="33" column="3" filename="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmIChvIGluc3RhbmNlb2YgQ2FzZUluc2Vuc2l0aXZlU3RyaW5nKSByZXR1cm4gcy5lcXVhbHNJZ25vcmVDYXNlKCgoQ2FzZUluc2Vuc2l0aXZlU3RyaW5nKSBvKS5zKTsKICAgIGlmIChvIGluc3RhbmNlb2YgU3RyaW5nKSAvLyBPbmUtd2F5IGludGVyb3BlcmFiaWxpdHkhCiAgICAgIHJldHVybiBzLmVxdWFsc0lnbm9yZUNhc2UoKFN0cmluZykgbyk7CiAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>- the best way to close resources!</text>
+        <text>CaseInsensitiveString</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGVhbmFibGVcPg==</text>
@@ -917,31 +917,31 @@
         <text encoding="base64">ICBwcml2YXRlIGZpbmFsIGludCBmYXQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmIChvIGluc3RhbmNlb2YgQ2FzZUluc2Vuc2l0aXZlU3RyaW5nKSByZXR1cm4gcy5lcXVhbHNJZ25vcmVDYXNlKCgoQ2FzZUluc2Vuc2l0aXZlU3RyaW5nKSBvKS5zKTsKICAgIGlmIChvIGluc3RhbmNlb2YgU3RyaW5nKSAvLyBPbmUtd2F5IGludGVyb3BlcmFiaWxpdHkhCiAgICAgIHJldHVybiBzLmVxdWFsc0lnbm9yZUNhc2UoKFN0cmluZykgbyk7CiAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyB0cnktd2l0aC1yZXNvdXJjZXMgd2l0aCBhIGNhdGNoIGNsYXVzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdGF0aWMgU3RyaW5nZmlyc3RMaW5lT2ZGaWxlKFN0cmluZyBwYXRoLCBTdHJpbmcgZGVmYXVsdFZhbCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgIHRyeSAoQnVmZmVyZWRSZWFkZXIgYnIgPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IEZpbGVSZWFkZXIocGF0aCkpKSB7CiAgICAgIHJldHVybiBici5yZWFkTGluZSgpOwogICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICByZXR1cm4gZGVmYXVsdFZhbDsK</text>
+        <text encoding="base64">ICAgIENhc2VJbnNlbnNpdGl2ZVN0cmluZyBjaXMgPSBuZXcgQ2FzZUluc2Vuc2l0aXZlU3RyaW5nKCJQb2xpc2giKTsKICAgIFN0cmluZyBzID0gInBvbGlzaCI7CiAgICBjaXMuZXF1YWxzKHMpOwogICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyB0cnktd2l0aC1yZXNvdXJjZXMgb24gbXVsdGlwbGUgcmVzb3VyY2VzIC0gc2hvcnQgYW5kIHN3ZWV0CiAgc3RhdGljIHZvaWQgY29weShTdHJpbmcgc3JjLCBTdHJpbmcgZHN0KSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgdHJ5IChJbnB1dFN0cmVhbSBpbiA9IG5ldyBGaWxlSW5wdXRTdHJlYW0oc3JjKTsKICAgICAgICAgT3V0cHV0U3RyZWFtIG91dCA9IG5ldyBGaWxlT3V0cHV0U3RyZWFtKGRzdCkpIHsKICAgICAgYnl0ZVtdIGJ1ZiA9IG5ldyBieXRlW0JVRkZFUl9TSVpFXTsKICAgICAgaW50IG47CiAgICAgIHdoaWxlICgobiA9IGluLnJlYWQoYnVmKSkgPj0gMCkgewogICAgICAgIG91dC53cml0ZShidWYsIDAsIG4pOwogICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyeSAoQnVmZmVyZWRSZWFkZXIgYnIgPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IEZpbGVSZWFkZXIocGF0aCkpKSB7CiAgICAgIHJldHVybiBici5yZWFkTGluZSgpOwogICAgfQo=</text>
+        <text encoding="base64">ICBDYXNlSW5zZW5zaXRpdmVTdHJpbmcgY2lzID0gbmV3IENhc2VJbnNlbnNpdGl2ZVN0cmluZygiUG9saXNoIik7CiAgU3RyaW5nIHMgPSAicG9saXNoIjsKICBjaXMuZXF1YWxzKHMpCiAgCiAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyB0cnktZmluYWxseSBpcyB1Z2x5IHdoZW4gdXNlZCB3aXRoIG1vcmUgdGhhbiBvbmUgcmVzb3VyY2VzIQogIHN0YXRpYyB2b2lkIGNvcHkoU3RyaW5nIHNyYywgU3RyaW5nIGRzdCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgIElucHV0U3RyZWFtIGluID0gbmV3IEZpbGVJbnB1dFN0cmVhbShzcmMpOwogICAgdHJ5IHsKICAgICAgT3V0cHV0U3RyZWFtIG91dCA9IG5ldyBGaWxlT3V0cHV0U3RyZWFtKGRzdCk7CiAgICAgIHRyeSB7CiAgICAgICAgYnl0ZVtdIGJ1ZiA9IG5ldyBCeXRlW0JVRkZFUl9TSVpFXTsKICAgICAgICBpbnQgbjsKICAgICAgICB3aGlsZSAoKG4gPSBpbi5yZWFkKGJ1ZikpID49IDApCiAgICAgICAgICBvdXQud3JpdGUoYnVmLCAwLCBuKTsKICAgICAgfSBmaW5hbGx5IHsKICAgICAgICBvdXQuY2xvc2UoKTsKICAgICAgfQogICAgfSBmaW5hbGx5IHsKICAgICAgaW4uY2xvc2UoKTsKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICBwcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
