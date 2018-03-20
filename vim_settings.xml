@@ -96,11 +96,12 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="55" column="32" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" timestamp="1521274679203">
-        <mark key="[" line="25" column="57" />
-        <mark key="]" line="25" column="57" />
-        <mark key="^" line="25" column="57" />
-        <mark key="." line="25" column="57" />
+      <file name="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" timestamp="1521523283097">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="51" column="18" />
+        <mark key="]" line="51" column="27" />
+        <mark key="^" line="51" column="27" />
+        <mark key="." line="51" column="27" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/pom.xml" timestamp="1507098860340">
         <mark key="'" line="233" column="24" />
@@ -802,9 +803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="13" filename="$USER_HOME$/MyWork/git/haskell-example/app/Program4.hs" />
-      <jump line="12" column="26" filename="$USER_HOME$/MyWork/git/haskell-example/app/Program4.hs" />
-      <jump line="8" column="8" filename="$USER_HOME$/MyWork/git/haskell-example/app/Program4.hs" />
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/haskell-example/app/Program4.hs" />
       <jump line="33" column="4" filename="$USER_HOME$/MyWork/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/authentication/AuthenticationModules.java" />
       <jump line="108" column="0" filename="$USER_HOME$/MyWork/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/authentication/AuthenticationModules.java" />
@@ -902,13 +900,16 @@
       <jump line="33" column="3" filename="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" />
       <jump line="21" column="0" filename="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" />
       <jump line="34" column="0" filename="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" />
+      <jump line="8" column="11" filename="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" />
+      <jump line="20" column="21" filename="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChvIGluc3RhbmNlb2YgQ2FzZUluc2Vuc2l0aXZlU3RyaW5nKSByZXR1cm4gcy5lcXVhbHNJZ25vcmVDYXNlKCgoQ2FzZUluc2Vuc2l0aXZlU3RyaW5nKSBvKS5zKTsKICAgIGlmIChvIGluc3RhbmNlb2YgU3RyaW5nKSAvLyBPbmUtd2F5IGludGVyb3BlcmFiaWxpdHkhCiAgICAgIHJldHVybiBzLmVxdWFsc0lnbm9yZUNhc2UoKFN0cmluZykgbyk7CiAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name="-" type="4">
-        <text>CaseInsensitiveString</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGVhbmFibGVcPg==</text>
@@ -917,31 +918,31 @@
         <text encoding="base64">ICBwcml2YXRlIGZpbmFsIGludCBmYXQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChvIGluc3RhbmNlb2YgQ2FzZUluc2Vuc2l0aXZlU3RyaW5nKSByZXR1cm4gcy5lcXVhbHNJZ25vcmVDYXNlKCgoQ2FzZUluc2Vuc2l0aXZlU3RyaW5nKSBvKS5zKTsKICAgIGlmIChvIGluc3RhbmNlb2YgU3RyaW5nKSAvLyBPbmUtd2F5IGludGVyb3BlcmFiaWxpdHkhCiAgICAgIHJldHVybiBzLmVxdWFsc0lnbm9yZUNhc2UoKFN0cmluZykgbyk7CiAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFBvaW50IHAgPSBuZXcgUG9pbnQoMSwgMik7CiAgICBDb2xvclBvaW50IGNwID0gbmV3IENvbG9yUG9pbnQoMSwgMiwgQ29sb3IuUkVEKTsKICAgIHAuZXF1YWxzKGNwKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIENhc2VJbnNlbnNpdGl2ZVN0cmluZyBjaXMgPSBuZXcgQ2FzZUluc2Vuc2l0aXZlU3RyaW5nKCJQb2xpc2giKTsKICAgIFN0cmluZyBzID0gInBvbGlzaCI7CiAgICBjaXMuZXF1YWxzKHMpOwogICAgCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdXBlci5lcXVhbHMobykgJiYgKChDb2xvclBvaW50KSBvKS5jb2xvciA9PSBjb2xvcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdXBlci5lcXVhbHMobykgJiYgKChDb2xvclBvaW50KSBvKS5jb2xvciA9PSBjb2xvcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICghKG8gaW5zdGFuY2VvZiBDb2xvclBvaW50KSkgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBDYXNlSW5zZW5zaXRpdmVTdHJpbmcgY2lzID0gbmV3IENhc2VJbnNlbnNpdGl2ZVN0cmluZygiUG9saXNoIik7CiAgU3RyaW5nIHMgPSAicG9saXNoIjsKICBjaXMuZXF1YWxzKHMpCiAgCiAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
