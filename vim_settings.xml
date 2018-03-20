@@ -96,12 +96,12 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="55" column="32" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" timestamp="1521525065912">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="57" column="33" />
-        <mark key="]" line="57" column="33" />
-        <mark key="." line="57" column="33" />
-        <mark key="^" line="57" column="33" />
+      <file name="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" timestamp="1521526708445">
+        <mark key="'" line="9" column="21" />
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+        <mark key="^" line="29" column="21" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/pom.xml" timestamp="1507098860340">
         <mark key="'" line="233" column="24" />
@@ -803,9 +803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/haskell-example/app/Program4.hs" />
-      <jump line="33" column="4" filename="$USER_HOME$/MyWork/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/authentication/AuthenticationModules.java" />
-      <jump line="108" column="0" filename="$USER_HOME$/MyWork/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/authentication/AuthenticationModules.java" />
       <jump line="34" column="25" filename="$USER_HOME$/MyWork/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/authentication/AuthenticationModules.java" />
       <jump line="407" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
       <jump line="88" column="4" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
@@ -903,13 +900,16 @@
       <jump line="8" column="11" filename="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" />
       <jump line="20" column="21" filename="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" />
       <jump line="5" column="0" filename="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" />
+      <jump line="56" column="39" filename="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" />
+      <jump line="9" column="21" filename="$USER_HOME$/MyWork/git/effective-java/src/main/java/Test.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>ommited</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>ommited</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGVhbmFibGVcPg==</text>
@@ -918,31 +918,31 @@
         <text encoding="base64">ICBwcml2YXRlIGZpbmFsIGludCBmYXQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIGludCB4OwogIHByaXZhdGUgZmluYWwgaW50IHk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIENvbG9yUG9pbnQgcDEgPSBuZXcgQ29sb3JQb2ludCgxLDIsIENvbG9yLlJFRCk7CiAgICBQb2ludCBwMiA9IG5ldyBQb2ludCgxLCAyKTsKICAgIENvbG9yUG9pbnQgcDMgPSBuZXcgQ29sb3JQb2ludCgxLCAyLCBDb2xvci5CTFVFKTsKCiAgICBwMS5lcXVhbHMocDIpOyAvLyB0cnVlCiAgICBwMi5lcXVhbHMocDMpOyAvLyB0cnVlCiAgICBwMS5lcXVhbHMocDMpOyAvLyBmYWxzZSEK</text>
+        <text encoding="base64">cHVibGljIGZpbmFsIGNsYXNzIFBvaW50IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBwdWJsaWMgUG9pbnQoaW50IHgsIGludCB5KSB7CiAgICB0aGlzLnggPSB4OwogICAgdGhpcy55ID0geTsKICB9CgogIEBPdmVycmlkZQogIHB1YmxpYyBib29sZWFuIGVxdWFscyhPYmplY3QgbykgewogICAgaWYgKCEobyBpbnN0YW5jZW9mIFBvaW50KSkgewogICAgICByZXR1cm4gZmFsc2U7CiAgICB9CiAgICBQb2ludCBwID0gKFBvaW50KSBvOwogICAgcmV0dXJuIHAueCA9PSB4ICYmIHAueSA9PSB5OwogIH0KCiAgLy8gUmVtYWluZGVyIG9taXR0ZWQKfQoKcHVibGljIGNsYXNzIENvbG9yUG9pbnQgZXh0ZW5kcyBQb2ludCB7CgogIHByaXZhdGUgZmluYWwgQ29sb3IgY29sb3I7CgogIHB1YmxpYyBDb2xvclBvaW50KGludCB4LCBpbnQgeSwgQ29sb3IgY29sb3IpIHsKICAgIHN1cGVyKHgsIHkpOwogICAgdGhpcy5jb2xvciA9IGNvbG9yOwogIH0KCiAgLy8gQnJva2VuIC0gdmlvbGF0ZXMgTGlza292IHN1YnN0aXR1dGlvbiBwcmluY2lwbGUhCiAgQE92ZXJyaWRlCiAgcHVibGljIGJvb2xlYW4gZXF1YWxzKE9iamVjdCBvKSB7CiAgICBpZiAobyA9PSBudWxsIHx8IG8uZ2V0Q2xhc3MoKSAhPSBnZXRDbGFzcygpKSB7CiAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KICAgIFBvaW50IHAgPSAoUG9pbnQpIG87CiAgICByZXR1cm4gcC54ID09IHggJiYgcC55ID09IHk7CiAgfQogIC8vIFJlbWFpbmRlciBvbWl0dGVkCgogIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCiAgfQoKICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTZXQ8UG9pbnQ+IHVuaXRDaXJjbGUgPSBTZXQub2YoCiAgICAgIG5ldyBQb2ludCgxLCAwKSwgbmV3IFBvaW50KDAsIDEpLAogICAgICBuZXcgUG9pbnQoLTEsIDApLCBuZXcgUG9pbnQoMCwgLTEpKTsKICAKICBwdWJsaWMgc3RhdGljIGJvb2xlYW4gb25Vbml0Q2lyY2xlKFBvaW50IHApIHsKICAgIHJldHVybiB1bml0Q2lyY2xlCiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICghKG8gaW5zdGFuY2VvZiBDb2xvclBvaW50KSkgcmV0dXJuIGZhbHNlOwogICAgLy8gaWYgbyBpcyBhIG5vcm1hbCBQb2ludCwgZG8gYSBjb2xvci1ibGluZCBjb21wYXJpc29uCiAgICBpZiAoIShvIGluc3RhbmNlb2YgQ29sb3JQb2ludCkpCiAgICAgIHJldHVybiBvLmVxdWFscyh0aGlzKTsKICAgIC8vIG8gaXMgYSBDb2xvclBvaW50LCBkbyBhIGZ1bGwgY29tcGFyaXNvbgogICAgcmV0dXJuIHN1cGVyLmVxdWFscyhvKSAmJiAoKENvbG9yUG9pbnQpIG8pLmNvbG9yID09IGNvbG9yOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDsK</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIENvbG9yIGNvbG9yOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
