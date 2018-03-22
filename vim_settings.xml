@@ -417,7 +417,7 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/build.sbt" timestamp="1521019659741">
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/build.sbt" timestamp="1521688986246">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="^" line="10" column="0" />
@@ -707,6 +707,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/algorithm/.gitignore" timestamp="1521689908806">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/source/Json.scala" timestamp="1510213790887">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="31" />
@@ -771,6 +777,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/java/KafkaProducerExample.java" timestamp="1521689532246">
+        <mark key="'" line="18" column="2" />
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="2" />
+        <mark key="^" line="14" column="2" />
+        <mark key="." line="14" column="2" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/common/HiveConvert.scala" timestamp="1510211743221">
         <mark key="[" line="0" column="20" />
@@ -851,7 +864,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" />
       <jump line="8" column="0" filename="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" />
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/haskell-example/app/Main.hs" />
       <jump line="19" column="8" filename="$USER_HOME$/MyWork/git/haskell-example/app/Program4.hs" />
@@ -951,13 +963,14 @@
       <jump line="39" column="4" filename="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" />
       <jump line="27" column="45" filename="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" />
       <jump line="11" column="20" filename="$USER_HOME$/OfficeTools/git/algorithm/build.sbt" />
+      <jump line="18" column="2" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/java/KafkaProducerExample.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFkZCAK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>最初laは空</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGVhbmFibGVcPg==</text>
@@ -966,31 +979,31 @@
         <text encoding="base64">ICAgIHZhbCBleHBlY3RlZCA9IExpc3QoNSwgMTUsIDMwLCAzNSwgNDAsIDUwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFkZCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIOepuuOBrkxpc3Tjgavov73liqDjgZfjgabjgYTjgY8K</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGFkZCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">ICAgIC8vIOepuuOBrkxpc3Tjgavov73liqDjgZfjgabjgYTjgY8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgdGVzdEluc2VydGlvblNvcnQoKTogVW5pdCA9IHsK</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBUCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBleHBlY3RlZCA9IExpc3QoNSwgMTUsIDMwLCAzNSwgNDAsIDUwKQo=</text>
+        <text encoding="base64">ICBkZWYgdGVzdEluc2VydGlvblNvcnQoKTogVW5pdCA9IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCAgPSBMaXN0KDUsIDE1LCAzMCwgMzUsIDQwLCA1MCkK</text>
+        <text encoding="base64">ICBUCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
