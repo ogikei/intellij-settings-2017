@@ -309,11 +309,11 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/algorithm/src/main/scala/sorting/HeapSortScala.scala" timestamp="1521866596835">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="16" column="20" />
-        <mark key="." line="16" column="20" />
-        <mark key="^" line="16" column="20" />
+      <file name="$USER_HOME$/MyWork/git/algorithm/src/main/scala/sorting/HeapSortScala.scala" timestamp="1521867748289">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-log/project/assembly.sbt" timestamp="1510205173295">
         <mark key="[" line="0" column="0" />
@@ -669,7 +669,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/algorithm/src/main/java/sorting/SelectionSortJava.java" timestamp="1521853083859">
+      <file name="$USER_HOME$/MyWork/git/algorithm/src/main/java/sorting/SelectionSortJava.java" timestamp="1521867347346">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -851,7 +851,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
       <jump line="422" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
       <jump line="428" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
       <jump line="26" column="20" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
@@ -951,13 +950,14 @@
       <jump line="33" column="4" filename="$USER_HOME$/MyWork/git/algorithm/src/main/java/sorting/HeapSortJava.java" />
       <jump line="39" column="6" filename="$USER_HOME$/MyWork/git/algorithm/src/main/java/sorting/HeapSortJava.java" />
       <jump line="6" column="13" filename="$USER_HOME$/MyWork/git/algorithm/src/main/java/sorting/HeapSortJava.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/MyWork/git/algorithm/src/main/scala/sorting/HeapSortScala.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbCBsZW4gPSBsYS5sZW5ndGgKICAgIHZhbCBoZWFwOiBMaXN0W0ludF0gPSBmb3IgKGkgPC0gbGVuIC8gMiAtIDEgdG8gMCBieSAtMSkK</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>int</text>
@@ -966,31 +966,31 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihBcnJheXMudG9TdHJpbmcoYWN0dWFsKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaGVhcGkoKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBsZW4gPSBsYS5sZW5ndGgKICAgIHZhbCBoZWFwOiBMaXN0W0ludF0gPSBmb3IgKGkgPC0gbGVuIC8gMiAtIDEgdG8gMCBieSAtMSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">b3IgKCkgewogICAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBkZWYgaGVhcGlmeShsYTogTGlzdFtJbnRdLCBsZW46IEludCwgaTogSW50KTogTGlzdFtJbnRdID0gewogICAgdmFsIGxhcmdlc3QgPSBpCiAgICB2YWwgbCA9IGkgKiAyICsgMQogICAgdmFsIHIgPSBpICogMiArIDIKICAgIGlmIChsIDwgbGVuICYmIGxhKGwpID4gbGEobGFyZ2VzdCkpCiAgICBpZiAociA8IGxlbiAmJiBsYShyKSA+IGxhKGxhcmdlc3QpKQogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbAo=</text>
+        <text encoding="base64">ICAgICAgaGVhcGlmeShsYSwgbGVuLCBpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbAo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBsYiA9Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBMaXN0Cg==</text>
+        <text encoding="base64">ICBkZWYgawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGFyZ2VzdCA9IGwK</text>
+        <text encoding="base64">ICAgIGZvciAoaSA8LSBsZW4gLSAxIHRvIDAgYnkgLTEpIHsKICAgICAgaGVhcGlmeShoZWFwLCBpLCAwKQogICAgfQogICAgbGEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
