@@ -22,12 +22,11 @@
         <mark key="." line="30" column="14" />
         <mark key="^" line="30" column="14" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" timestamp="1521004273251">
-        <mark key="'" line="28" column="45" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="56" column="32" />
+      <file name="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" timestamp="1522051123749">
+        <mark key="[" line="18" column="51" />
+        <mark key="]" line="18" column="51" />
+        <mark key="." line="18" column="51" />
+        <mark key="^" line="18" column="51" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/algorithm/src/test/scala/sorting/SelectionSortScalaSuite.scala" timestamp="1521708117032">
         <mark key="[" line="9" column="0" />
@@ -889,7 +888,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="8" filename="$USER_HOME$/MyWork/git/haskell-example/app/Program4.hs" />
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/haskell-example/app/Program4.hs" />
       <jump line="33" column="4" filename="$USER_HOME$/MyWork/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/authentication/AuthenticationModules.java" />
       <jump line="108" column="0" filename="$USER_HOME$/MyWork/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/authentication/AuthenticationModules.java" />
@@ -989,13 +987,14 @@
       <jump line="22" column="1" filename="$USER_HOME$/OfficeTools/git/algorithm/src/main/java/sorting/SelectionSortJava.java" />
       <jump line="30" column="14" filename="$USER_HOME$/OfficeTools/git/algorithm/src/main/java/sorting/QuickSortJava.java" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/algorithm/src/main/java/sorting/QuickSortJava.java" />
+      <jump line="15" column="28" filename="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>expectedTestCountewee</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>expectedTestCountewee</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGVhbmFibGVcPg==</text>
@@ -1004,31 +1003,31 @@
         <text encoding="base64">ICAgIHZhbCBsYSA9IExpc3QoNDAsIDMwLCAxNSwgMzUsIDUwLCA1KQogICAgdmFsIGV4cGVjdGVkID0gTGlzdCg1LCAxNSwgMzAsIDM1LCA0MCwgNTApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsYSBmaWx0ZXIK</text>
+        <text encoding="base64">ICBNYXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIHNob3J0IGFyZWFDb2RlLCBwcmVmaXgsIGxpbmVOdW07CgogIHB1YmxpYyBQaG9uZU51bWJlcihpbnQgYXJlYUNvZGUsIGludCBwcmVmaXgsIGludCBsaW5lTnVtKSB7CiAgICB0aGlzLmFyZWFDb2RlID0gYXJlYUNvZGUKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">ICAvLyBSZXNvdXJjZSB0aGF0IHJlcXVpcmVzIGNsZWFuaW5nLiBNdXN0IG5vdCByZWZlciB0byBSb29tIQogIHByaXZhdGUgc3RhdGljIGNsYXNzIFN0YXRlIGltcGxlbWVudHMgUnVubmFibGUgewogICAgaW50IG51bUp1bmtQaWxlczsgLy8gTnVtYmVyIG9mIGp1bmsgcGlsZXMgaW4gdGhpcyByb29tCiAgICBTdGF0ZShpbnQgbnVtSnVua1BpbGVzKSB7CiAgICAgIHRoaXMubnVtSnVua1BpbGVzID0gbnVtSnVua1BpbGVzOwogICAgfQogICAgLy8gSW52b2tlZCBieSBjbG9zZSBtZXRob2Qgb3IgY2xlYW5lcgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQ2xlYW5pbmcgcm9vbSIpOwogICAgICBudW1KdW5rUGlsZXMgPSAwOwogICAgfQogIH0KCiAgLy8gVGhlIHN0YXRlIG9mIHRoaXMgcm9vbSwgc2hhcmVkIHdpdGggb3VyIGNsZWFuYWJsZQogIHByaXZhdGUgZmluYWwgU3RhdGUgc3RhdGU7CiAgLy8gT3VyIGNsZWFuYWJsZS4gQ2xlYW5zIHRoZSByb29tIHdoZW4gaXQncyBlbGlnaWJsZSBmb3IgZ2MKICBwcml2YXRlIGZpbmFsIENsZWFuZXIuQ2xlYW5hYmxlIGNsZWFuYWJsZTsKCiAgcHVibGljIFJvb20oaW50IG51bUp1bmtQaWxlcykgewogICAgc3RhdGUgPSBuZXcgU3RhdGUobnVtSnVua1BpbGVzKTsKICAgIGNsZWFuYWJsZSA9IGNsZWFuZXIucmVnaXN0ZXIodGhpcywgc3RhdGUpOwogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgY2xvc2UoKSB7CiAgICBjbGVhbmFibGUuY2xlYW4oKTsKICB9Cgp9CgpwdWJsaWMgY2xhc3MgQWR1bHQgewogIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgIHRyeSAoUm9vbSBteVJvb20gPSBuZXcgUm9vbSg3KSkgewogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImdvb2RieWUiKTsKICAgIH0KICB9Cn0KCnB1YmxpYyBjbGFzcyBUZWVuYWdlciB7CiAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgbmV3IFJvb20oOTkpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJQZWFjZSBvdXQiKTsKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsYSBmaWx0ZXIK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IAogICAgYXNzZXJ0QXJyYQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
