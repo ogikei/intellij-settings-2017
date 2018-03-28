@@ -884,12 +884,12 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" timestamp="1522226923998">
-        <mark key="'" line="86" column="2" />
-        <mark key="[" line="26" column="1" />
-        <mark key="]" line="26" column="1" />
-        <mark key="." line="26" column="1" />
-        <mark key="^" line="26" column="1" />
+      <file name="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" timestamp="1522228668201">
+        <mark key="'" line="19" column="71" />
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+        <mark key="^" line="12" column="15" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRawUnique.scala" timestamp="1520829500209">
         <mark key="'" line="142" column="7" />
@@ -900,10 +900,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="14" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
-      <jump line="17" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
-      <jump line="422" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
-      <jump line="428" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
       <jump line="26" column="20" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
       <jump line="146" column="6" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-v2/src/main/java/org/apache/hadoop/hive/ql/exec/SentryFilterDDLTask.java" />
       <jump line="48" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-v2/src/main/java/org/apache/sentry/binding/hive/v2/authorizer/SentryHiveAccessController.java" />
@@ -991,7 +987,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/algorithm/src/main/java/sorting/QuickSortJava.java" />
       <jump line="15" column="28" filename="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" />
       <jump line="142" column="1" filename="$USER_HOME$/OfficeTools/git/effective-java/aws_price.js" />
-      <jump line="24" column="20" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
       <jump line="92" column="2" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
       <jump line="51" column="6" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
       <jump line="73" column="0" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
@@ -1000,16 +995,21 @@
       <jump line="8" column="12" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
       <jump line="22" column="1" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
       <jump line="86" column="2" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
+      <jump line="29" column="17" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
+      <jump line="24" column="25" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
+      <jump line="79" column="7" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
+      <jump line="18" column="71" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://monitoring.us-west-2.amazonaws.com</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>https://monitoring.us-west-2.amazonaws.com</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGVhbmFibGVcPg==</text>
+        <text>3</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBsYSA9IExpc3QoNDAsIDMwLCAxNSwgMzUsIDUwLCA1KQogICAgdmFsIGV4cGVjdGVkID0gTGlzdCg1LCAxNSwgMzAsIDM1LCA0MCwgNTApCg==</text>
@@ -1046,17 +1046,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGVhbmFibGVcPg==</last-search>
+      <last-search>3</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGVhbmFibGVcPg==</last-pattern>
+      <last-pattern>3</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>java</entry>
         <entry>activityext</entry>
         <entry>format</entry>
         <entry>timestamp</entry>
@@ -1076,6 +1075,7 @@
         <entry>int</entry>
         <entry encoding="base64">XDxjbGVuYWJsZVw+</entry>
         <entry encoding="base64">XDxjbGVhbmFibGVcPg==</entry>
+        <entry>3</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
