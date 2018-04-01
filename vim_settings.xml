@@ -694,6 +694,13 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="4" column="40" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/ogikei-bot/index.js" timestamp="1522573311286">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="52" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/sources/Text.scala" timestamp="1510553638133">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="9" column="20" />
@@ -876,7 +883,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="428" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
       <jump line="26" column="20" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-common/src/main/java/org/apache/sentry/binding/hive/authz/HiveAuthzBinding.java" />
       <jump line="146" column="6" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-v2/src/main/java/org/apache/hadoop/hive/ql/exec/SentryFilterDDLTask.java" />
       <jump line="48" column="0" filename="$USER_HOME$/oss/git/bigdata/sentry/sentry-binding/sentry-binding-hive-v2/src/main/java/org/apache/sentry/binding/hive/v2/authorizer/SentryHiveAccessController.java" />
@@ -976,13 +982,14 @@
       <jump line="6" column="13" filename="$USER_HOME$/MyWork/git/algorithm/src/main/java/sorting/HeapSortJava.java" />
       <jump line="1" column="0" filename="$USER_HOME$/MyWork/git/algorithm/src/main/scala/sorting/HeapSortScala.scala" />
       <jump line="9" column="0" filename="$USER_HOME$/MyWork/git/algorithm/src/main/scala/sorting/HeapSortScala.scala" />
+      <jump line="4" column="0" filename="$USER_HOME$/MyWork/git/ogikei-bot/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>int</text>
