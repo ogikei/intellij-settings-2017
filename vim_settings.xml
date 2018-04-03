@@ -610,12 +610,12 @@
         <mark key="^" line="12" column="37" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" timestamp="1522655504355">
-        <mark key="'" line="69" column="4" />
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="4" />
-        <mark key="." line="33" column="4" />
-        <mark key="^" line="33" column="3" />
+      <file name="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" timestamp="1522722038870">
+        <mark key="'" line="29" column="25" />
+        <mark key="[" line="35" column="21" />
+        <mark key="]" line="35" column="22" />
+        <mark key="^" line="35" column="22" />
+        <mark key="." line="35" column="22" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerConsumer.java" timestamp="1512442902118">
         <mark key="[" line="7" column="67" />
@@ -907,6 +907,12 @@
         <mark key="." line="19" column="38" />
         <mark key="^" line="19" column="38" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/flagon-docs/.gitignore" timestamp="1522720747899">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+      </file>
       <file name="/fragment.java" timestamp="1521702426642">
         <mark key="[" line="0" column="0" />
       </file>
@@ -933,7 +939,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="29" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRaw.scala" />
       <jump line="26" column="27" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRaw.scala" />
       <jump line="27" column="26" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRaw.scala" />
       <jump line="35" column="40" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRaw.scala" />
@@ -1033,63 +1038,63 @@
       <jump line="92" column="1" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
       <jump line="18" column="19" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
       <jump line="69" column="4" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
+      <jump line="29" column="25" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>更</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>更</text>
       </register>
       <register name="/" type="4">
-        <text>length</text>
+        <text>modi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRiTmFtZS5wdXNoKHBhdGhbaV0uc3BsaXQoJy8nKVsxXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0YWJsZU5hbWUgPSB0YWJsZU5hbWVbaV0ubWF0Y2gocmVnKVswXTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">bWQvKiovKi5tZAohbWQvaW5kZXgubWQKZGF0YS9kZXZlbG9wCnNpdGUvCi5rZXkKcGFnZXMvCg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">Owo=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">J3VzZSBzdHJpY3QnOwoKLy8gaHR0cHPjg6Ljgrjjg6Xjg7zjg6vjga7oqq3jgb/ovrzjgb8KY29uc3QgaHR0cHMgPSByZXF1aXJlKCdodHRwcycpOwoKLy9TbGFja+OBrkluY29taW5nIFdlYmhvb2tz6Kit5a6a44Gn5Y+W5b6X44GX44GfV2ViaG9vayBVUkzjgpLjgrvjg4Pjg4gKY29uc3Qgc2xhY2sgPSAnaHR0cHM6Ly9ob29rcy5zbGFjay5jb20vc2VydmljZXMvVDA5RFJENFBRL0I5WDk0Rzk0Si9hNU5GOEVHdnRHbXlOTUlPeHdHNGV4czAnOwoKZXhwb3J0cy5oYW5kbGVyID0gKGV2ZW50LCBjb250ZXh0LCBjYWxsYmFjaykgPT4gewoKICAvL0dpdEh1YuOBrumAmuefpeODoeODg+OCu+ODvOOCuOOCklNOU+e1jOeUseOBp+WPluW+lwogIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGV2ZW50KSk7CiAgY29uc3QgbWVzc2FnZSA9IEpTT04ucGFyc2UoZXZlbnQuUmVjb3Jkc1swXS5TbnMuTWVzc2FnZSk7CiAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkobWVzc2FnZSkpOwoKICAvL0dpdEh1YuOBruOCpOODmeODs+ODiOOCv+OCpOODl+OCkuWPluW+lwogIGNvbnN0IGV2ZW50VHlwZSA9IGV2ZW50LlJlY29yZHNbMF0uU25zLk1lc3NhZ2VBdHRyaWJ1dGVzWydYLUdpdGh1Yi1FdmVudCddLlZhbHVlOwogIGxldCB0ZXh0ID0gJyc7CiAgY29uc3QgcGF0aCA9IG1lc3NhZ2UuY29tbWl0c1swXS5tb2RpZmllZDsKICBsZXQgZGJOYW1lID0gW107CiAgbGV0IHRhYmxlTmFtZSA9IFtdOwogIGZvciAobGV0IGkgPSAwOyBpIDwgcGF0aC5sZW5ndGg7IGkrKykgewogICAgaWYgKHBhdGhbaV0uc3BsaXQoJy8nKVswXSAhPT0gImRvY3MiKSBjb250aW51ZTsKICAgIGRiTmFtZS5wdXNoKHBhdGhbaV0uc3BsaXQoJy8nKVsxXSk7CiAgICB0YWJsZU5hbWUucHVzaChwYXRoW2ldLnNwbGl0KCcvJylbMl0pOwogIH0KICBpZiAoZGJOYW1lID09PSAnJyB8fCB0YWJsZU5hbWUgPT09ICcnKSByZXR1cm4gdHJ1ZTsKICBzd2l0Y2ggKGV2ZW50VHlwZSkgewogICAgICAvLyDjgqTjg5njg7Pjg4jjgr/jgqTjg5fjgYwgImlzc3VlX2NvbW1lbnQi44Gu5aC05ZCICiAgICBjYXNlICdwdXNoJzogewogICAgICB0ZXh0ICs9ICLku6XkuIvjga7lhoXlrrnjgYzlpInmm7TjgZXjgozjgb7jgZfjgZ/jgIJcbiI7CiAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwgZGJOYW1lLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgdGV4dCArPSAiLS0tLS0tLS0tLS0tLS0tLS0tLS0iICsgJ1xuJzsKICAgICAgICB0ZXh0ICs9ICJEQuWQje+8miIgKyBkYk5hbWVbaV0gKyAnXG4nOwogICAgICAgIGNvbnN0IHJlZyA9IC8oLispKFwuW14uXSskKS87CiAgICAgICAgdGFibGVOYW1lID0gdGFibGVOYW1lW2ldLm1hdGNoKHJlZylbMV07CiAgICAgICAgdGV4dCArPSAiVGFibGXlkI3vvJoiICsgdGFibGVOYW1lW2ldICsgJ1xuJzsKICAgICAgICB0ZXh0ICs9ICItLS0tLS0tLS0tLS0tLS0tLS0tLSIgKyAnXG4nOwogICAgICB9CiAgICAgIHRleHQgKz0gbWVzc2FnZS5jb21taXRzWzBdLnVybDsKICAgICAgYnJlYWs7CiAgICB9CgogICAgZGVmYXVsdDogewogICAgICBicmVhazsKICAgIH0KICB9CgogIGlmICh0ZXh0Lmxlbmd0aCA9PT0gMCkgewogICAgY2FsbGJhY2sobnVsbCwgJ3N1Y2Nlc3MnKTsKICB9IGVsc2UgewogICAgY29uc3QgYm9keSA9IHsKICAgICAgdGV4dDogdGV4dAogICAgfTsKICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGJvZHkpKTsKCiAgICBjb25zdCBvcHRpb25zID0gewogICAgICBob3N0OiBzbGFjay5zcGxpdCgnLycpWzJdLAogICAgICBwb3J0OiA0NDMsCiAgICAgIHBhdGg6ICcvJyArIHNsYWNrLnNwbGl0KCcvJykuc2xpY2UoMykuam9pbignLycpLAogICAgICBoZWFkZXJzOiB7CiAgICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJywKICAgICAgICAnQ29udGVudC1MZW5ndGgnOiBCdWZmZXIuYnl0ZUxlbmd0aChKU09OLnN0cmluZ2lmeShib2R5KSkKICAgICAgfSwKICAgICAgbWV0aG9kOiAnUE9TVCcKICAgIH07CiAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShvcHRpb25zKSk7CgogICAgY29uc3QgcmVxID0gaHR0cHMucmVxdWVzdChvcHRpb25zLCAocmVzKSA9PiB7CiAgICAgIHJlcy5zZXRFbmNvZGluZygndXRmOCcpOwogICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh7c3RhdHVzQ29kZTogcmVzLnN0YXR1c0NvZGV9KSk7CiAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHJlcy5oZWFkZXJzKSk7CiAgICAgIHJlcy5vbignZGF0YScsIChjaHVuaykgPT4gewogICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHtjaHVuazogY2h1bmt9KSk7CiAgICAgIH0pOwogICAgICByZXMub24oJ2VuZCcsICgpID0+IHsKICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh7bWVzc2FnZTogJ05vIG1vcmUgZGF0YSBpbiByZXNwb25zZS4nfSkpOwogICAgICAgIGNhbGxiYWNrKG51bGwsICdzdWNjZXNzJyk7CiAgICAgIH0pOwogICAgfSk7CgogICAgcmVxLndyaXRlKEpTT04uc3RyaW5naWZ5KGJvZHkpKTsKCiAgICByZXEub24oJ2Vycm9yJywgKGUpID0+IHsKICAgICAgY29uc29sZS5sb2coZSk7CiAgICAgIGNhbGxiYWNrKGUpOwogICAgfSk7CgogICAgcmVxLmVuZCgpOwogIH0KCn07Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBkYk5hbWUK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBsZXQgaXNEb2NzID0gZmFsc2U7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHBhdGhbaV0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGlzRG9jcwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB0YWJsZU5hbWUyID0gInRlc3QueW1sIjsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvKC4rKShcLlteLl0rJCkvOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB0YWJsZU5hbWUyID0gInRlc3QueW1sIjsK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>length</last-search>
+      <last-search>modi</last-search>
       <last-offset />
-      <last-pattern>length</last-pattern>
+      <last-pattern>modi</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>kinesisstream</entry>
         <entry>utils</entry>
         <entry>ssc</entry>
         <entry>s3</entry>
@@ -1109,6 +1114,7 @@
         <entry>context</entry>
         <entry encoding="base64">XDxsaW5rXD4=</entry>
         <entry>length</entry>
+        <entry>modi</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
