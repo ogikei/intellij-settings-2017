@@ -610,12 +610,12 @@
         <mark key="^" line="12" column="37" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" timestamp="1522730663974">
-        <mark key="'" line="28" column="22" />
-        <mark key="[" line="56" column="17" />
-        <mark key="]" line="56" column="18" />
-        <mark key="." line="56" column="18" />
-        <mark key="^" line="56" column="18" />
+      <file name="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" timestamp="1522734890703">
+        <mark key="'" line="48" column="23" />
+        <mark key="[" line="40" column="28" />
+        <mark key="]" line="40" column="30" />
+        <mark key="." line="40" column="30" />
+        <mark key="^" line="40" column="30" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaProducerConsumer.java" timestamp="1512442902118">
         <mark key="[" line="7" column="67" />
@@ -935,7 +935,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="7" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" />
       <jump line="54" column="7" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" />
       <jump line="14" column="0" filename="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" />
       <jump line="62" column="0" filename="$USER_HOME$/OfficeTools/git/effective-java/src/main/java/jp/ogikei/Effective.java" />
@@ -1035,10 +1034,11 @@
       <jump line="28" column="17" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
       <jump line="25" column="8" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
       <jump line="24" column="22" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
+      <jump line="48" column="23" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gdGV4dCArPSBtZXNzYWdlLmNvbW1pdHNbMF0udXJsOwo=</text>
+      <register name="&quot;" type="4">
+        <text>message.commits[0].url</text>
       </register>
       <register name="-" type="4">
         <text>message.commits[0].url</text>
@@ -1046,35 +1046,35 @@
       <register name="/" type="4">
         <text>path</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8gdGV4dCArPSBtZXNzYWdlLmNvbW1pdHNbMF0udXJsOwo=</text>
+      <register name="0" type="4">
+        <text>message.commits[0].url</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gdGV4dCArPSBtZXNzYWdlLmNvbW1pdHNbMF0udXJsOwo=</text>
+        <text encoding="base64">ICB1cmwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGV4Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGV4dCArPSAi5Lul5LiL44Gu5YaF5a6544GM6L+95YqgL+WkieabtOOBleOCjOOBvuOBl+OBn+OAglxuIjsK</text>
+        <text encoding="base64">ICBjb25zdCBYTUxIdHRwUmVxdWVzdCA9IHJlcXVpcmUoInhtbGh0dHByZXF1ZXN0IikuWE1MSHR0cFJlcXVlc3Q7CiAgY29uc3QgcmVxdWVzdCA9IG5ldyBYTUxIdHRwUmVxdWVzdCgpOwogIHJlcXVlc3Qub3BlbigiR0VUIiwgbWVzc2FnZS5jb21taXRzWzBdLnVybCwgdHJ1ZSk7CiAgcmVxdWVzdC5vbnJlYWR5c3RhdGVjaGFuZ2UgPSBmdW5jdGlvbiAoKSB7CiAgICBpZiAocmVxdWVzdC5yZWFkeVN0YXRlID09PSA0ICYmIHJlcXVlc3Quc3RhdHVzID09PSAyMDApIHsKICAgICAgLy/lj5fkv6HlrozkuobmmYLjga7lh6bnkIYKICAgICAgY29uc3QgcmVzdWx0ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoInJlc3VsdF9nZXQiKTsKICAgICAgY29uc3QgdGV4dCA9IGRvY3VtZW50LmNyZWF0ZVRleHROb2RlKGRlY29kZVVSSShyZXF1ZXN0LnJlc3BvbnNlVGV4dCkpOwogICAgICByZXN1bHQuYXBwZW5kQ2hpbGQodGV4dCk7CiAgICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7CiAgICB9CiAgfTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpCg==</text>
+        <text encoding="base64">ICAudgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0YWJsZU5hbWVbaV0pOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXF1ZXN0LnNlbmQoIiIpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYk5hbWUpOwogIGNvbnNvbGUubG9nKHRhYmxlTmFtZSk7CiAgY29uc29sZS5sb2codGFibGVOYW1lWzFdKTsKICBjb25zb2xlLmxvZyhkb2NzQ291bnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0YWJsZQo=</text>
+        <text encoding="base64">ICBjb25zdCByZXF1ZXN0ID0gY3JlYXRlWE1MSHR0cFJlcXVlc3QoKTsKICByZXF1ZXN0Lm9wZW4oIkdFVCIsIG1lc3NhZ2UuY29tbWl0c1swXS51cmwsIGZhbHNlKTsKICByZXF1ZXN0LnNlbmQoIiIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
