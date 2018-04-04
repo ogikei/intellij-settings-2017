@@ -877,6 +877,12 @@
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/common_core/load_summary_i3.dig" timestamp="1522814679611">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="25" />
+        <mark key="^" line="2" column="103" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/package.scala" timestamp="1506932476761">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="15" />
@@ -1036,11 +1042,11 @@
       <jump line="105" column="23" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$USER_HOME$/OfficeTools/git/i3-mole/scripts/</text>
       </register>
       <register name="-" type="4">
-        <text>${PARTITION_NAME}</text>
+        <text>$USER_HOME$/OfficeTools/git/i3-mole/scripts/</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
@@ -1049,31 +1055,31 @@
         <text encoding="base64">ICAgICAgY29sb3I6ICdnb29kJywKICAgICAgZmllbGRzOiBmaWVsZHMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICArIHN1bW1hcnlfYWRkX3BhcnRpdGlvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UGEK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">UEEK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aT0wCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29sb3I6ICdnb29kJywK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICA7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">UGEK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">UEEK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aT0wCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1lc3NhZ2UgPSB7CiAgICAgIGNoYW5uZWw6IGNoYW5uZWxfbmFtZSwKICAgICAgYXR0YWNobWVudHM6IFt7CiAgICAgICAgZmFsbGJhY2s6ICIiLAogICAgICAgIHByZXRleHQ6ICcnLAogICAgICAgIGNvbG9yOiAnZ29vZCcsCiAgICAgICAgZmllbGRzOiBmaWVsZHMKICAgICAgfV0KICAgIH07CiAgICBjb25zdCBvcHRpb25zID0gdXJsLnBhcnNlKGNoYW5uZWxfdXJsKTsKICAgIG9wdGlvbnMubWV0aG9kID0gJ1BPU1QnOwogICAgb3B0aW9ucy5oZWFkZXIgPSB7CiAgICAgICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicsCiAgICAgICdDb250ZW50LUxlbmd0aCc6IEJ1ZmZlci5ieXRlTGVuZ3RoKGJvZHkpCiAgICB9OwogICAgbGV0IHN0YXR1c0NvZGU7CiAgICBjb25zdCBwb3N0UmVxID0gaHR0cHMucmVxdWVzdChvcHRpb25zLCBmdW5jdGlvbiAocmVzKSB7CiAgICAgIGNvbnN0IGNodW5rcyA9IFtdOwogICAgICByZXMuc2V0RW5jb2RpbmcoJ3V0ZjgnKTsKICAgICAgcmVzLm9uKCdkYXRhJywgZnVuY3Rpb24gKGNodW5rKSB7CiAgICAgICAgcmV0dXJuIGNodW5rcy5wdXNoKGNodW5rKTsKICAgICAgfSk7CiAgICAgIHJlcy5vbignZW5kJywgZnVuY3Rpb24gKCkgewogICAgICAgIGNvbnN0IGJvZHkgPSBjaHVua3Muam9pbignJyk7CiAgICAgICAgc3RhdHVzQ29kZSA9IHJlcy5zdGF0dXNDb2RlOwogICAgICB9KTsKICAgICAgcmV0dXJuIHJlczsKICAgIH0pOwogICAgcG9zdFJlcS53cml0ZShib2R5KTsKICAgIHBvc3RSZXEuZW5kKCk7CiAgICBpZiAoc3RhdHVzQ29kZSA8IDQwMCkgewogICAgICBjb250ZXh0LnN1Y2NlZWQoKTsKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29sb3I6ICdnb29kJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9wdGlvbnMuaG9zdDogc2xhY2suc3BsaXQoJy8nKVsyXSwK</text>
+        <text encoding="base64">ICA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
