@@ -284,7 +284,7 @@
         <mark key="^" line="36" column="9" />
         <mark key="." line="36" column="9" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/ansible/.gitignore" timestamp="1522819774624">
+      <file name="$USER_HOME$/OfficeTools/git/ansible/.gitignore" timestamp="1522820512294">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
@@ -732,6 +732,12 @@
         <mark key="." line="357" column="2" />
         <mark key="^" line="323" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/digdag/digdag_secret/templates/etc/digdag/secrets/i3-mole.yml" timestamp="1522820709545">
+        <mark key="[" line="10" column="66" />
+        <mark key="]" line="10" column="66" />
+        <mark key="." line="10" column="66" />
+        <mark key="^" line="10" column="69" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/resources/META-INF/services/com.dmm.dre.convert.app.FormatProvider" timestamp="1510297668424">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="30" />
@@ -1054,25 +1060,25 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i3_mole_glue_aws_sec_key</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>i3_mole_glue_aws_sec_key</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
       </register>
-      <register name="0" type="4">
-        <text>${secret:i3_mole_glue_aws_sec_key}</text>
+      <register name="0" type="2">
+        <text encoding="base64">aTNfbW9sZV9nbHVlX2F3c19zZWNfa2V5OiB7e2kzX21vbGVfZ2x1ZV9hd3NbaTNfZW52XS5zZWNfa2V5fX0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICArIHN1bW1hcnlfYWRkX3BhcnRpdGlvbgo=</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICArIHN1bW1hcnlfYWRkX3BhcnRpdGlvbgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1081,16 +1087,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UEEK</text>
+        <text encoding="base64">UGEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aT0wCg==</text>
+        <text encoding="base64">UEEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29sb3I6ICdnb29kJywK</text>
+        <text encoding="base64">aT0wCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
