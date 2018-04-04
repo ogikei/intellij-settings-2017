@@ -48,7 +48,7 @@
         <mark key="." line="62" column="1" />
         <mark key="^" line="62" column="1" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-mole/scripts/summary_add_partition.sh" timestamp="1522813353703">
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/scripts/summary_add_partition.sh" timestamp="1522819851354">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="45" />
         <mark key="." line="5" column="45" />
@@ -168,12 +168,17 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/common_core/extract_i3.dig" timestamp="1522819874316" />
       <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" timestamp="1509968051113">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="34" column="44" />
         <mark key="]" line="34" column="44" />
         <mark key="." line="34" column="44" />
         <mark key="^" line="34" column="44" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/common_core/load_purchase.dig" timestamp="1522820177165">
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="24" column="54" />
       </file>
       <file name="$USER_HOME$/MyWork/git/test/src/main/scala/nqueens.scala" timestamp="1513936451897">
         <mark key="'" line="36" column="0" />
@@ -278,6 +283,12 @@
         <mark key="]" line="36" column="9" />
         <mark key="^" line="36" column="9" />
         <mark key="." line="36" column="9" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/ansible/.gitignore" timestamp="1522819774624">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="1" column="5" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisTestUtils.scala" timestamp="1507099381817">
         <mark key="[" line="192" column="23" />
@@ -877,11 +888,11 @@
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-mole/common_core/load_summary_i3.dig" timestamp="1522814679611">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="25" />
-        <mark key="." line="2" column="25" />
-        <mark key="^" line="2" column="103" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/common_core/load_summary_i3.dig" timestamp="1522820190308">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="27" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/package.scala" timestamp="1506932476761">
         <mark key="[" line="4" column="16" />
@@ -1043,22 +1054,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$USER_HOME$/OfficeTools/git/i3-mole/scripts/</text>
+        <text>i3_mole_glue_aws_sec_key</text>
       </register>
       <register name="-" type="4">
-        <text>$USER_HOME$/OfficeTools/git/i3-mole/scripts/</text>
+        <text>i3_mole_glue_aws_sec_key</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29sb3I6ICdnb29kJywKICAgICAgZmllbGRzOiBmaWVsZHMK</text>
+      <register name="0" type="4">
+        <text>${secret:i3_mole_glue_aws_sec_key}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICArIHN1bW1hcnlfYWRkX3BhcnRpdGlvbgo=</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICArIHN1bW1hcnlfYWRkX3BhcnRpdGlvbgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1067,19 +1078,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UEEK</text>
+        <text encoding="base64">UGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aT0wCg==</text>
+        <text encoding="base64">UEEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29sb3I6ICdnb29kJywK</text>
+        <text encoding="base64">aT0wCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA7Cg==</text>
+        <text encoding="base64">ICAgICAgY29sb3I6ICdnb29kJywK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
