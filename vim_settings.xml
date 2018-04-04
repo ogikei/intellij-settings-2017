@@ -43,7 +43,7 @@
         <mark key="." line="62" column="1" />
         <mark key="^" line="62" column="1" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-mole/scripts/summary_add_partition.sh" timestamp="1522823120333">
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/scripts/summary_add_partition.sh" timestamp="1522825684345">
         <mark key="[" line="10" column="23" />
         <mark key="]" line="10" column="25" />
         <mark key="." line="10" column="25" />
@@ -703,6 +703,12 @@
         <mark key="^" line="1" column="55" />
         <mark key="." line="1" column="55" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/common_core.dig" timestamp="1522823922550">
+        <mark key="[" line="52" column="28" />
+        <mark key="]" line="52" column="42" />
+        <mark key="." line="52" column="42" />
+        <mark key="^" line="52" column="42" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/AmazonKinesis.scala" timestamp="1507113048993">
         <mark key="[" line="69" column="14" />
         <mark key="]" line="69" column="16" />
@@ -885,11 +891,11 @@
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-mole/common_core/load_summary_i3.dig" timestamp="1522823209259">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="15" />
-        <mark key="." line="4" column="15" />
-        <mark key="^" line="4" column="15" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/common_core/load_summary_i3.dig" timestamp="1522825305799">
+        <mark key="[" line="6" column="55" />
+        <mark key="]" line="6" column="55" />
+        <mark key="." line="6" column="55" />
+        <mark key="^" line="6" column="55" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/package.scala" timestamp="1506932476761">
         <mark key="[" line="4" column="16" />
@@ -1051,43 +1057,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>xxx.</text>
+        <text encoding="base64">IGhoOm1tJw==</text>
       </register>
       <register name="-" type="4">
-        <text>xxx.</text>
+        <text encoding="base64">IGhoOm1tJw==</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcHJvZHVjdGlvbjogeHh4Lgo=</text>
+      <register name="0" type="4">
+        <text>${moment().startOf('month').format('YYYY-MM-DD hh:mm')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEVOVgo=</text>
+        <text encoding="base64">ICAgICAgZmlyc3Rfb2ZfbW9udGg6IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBfaWYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRyZV9kYl9pcFtwcm9kdWN0aW9uXQo=</text>
+        <text encoding="base64">ICAgIEVOVgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICFpbmNsdWRlOiBwYXJhbXMvY29tbW9uLmRpZwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRyZV9kYl9pcFtwcm9kdWN0aW9uXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICFpbmNsdWRlOiBwYXJhbXMvY29tbW9uLmRpZwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
