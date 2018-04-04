@@ -43,11 +43,11 @@
         <mark key="." line="62" column="1" />
         <mark key="^" line="62" column="1" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-mole/scripts/summary_add_partition.sh" timestamp="1522825684345">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="10" column="25" />
-        <mark key="^" line="10" column="25" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/scripts/summary_add_partition.sh" timestamp="1522826589686">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="14" column="1" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/algorithm/src/main/java/sorting/SelectionSortJava.java" timestamp="1521700766607">
         <mark key="'" line="23" column="1" />
@@ -551,12 +551,6 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/digdag/digdag_secret/vars/i3-mole_vault.yml" timestamp="1522822399136">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="10" />
-        <mark key="." line="32" column="10" />
-        <mark key="^" line="32" column="10" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-mole/common_admage.dig" timestamp="1522822828680" />
       <file name="$USER_HOME$/OfficeTools/git/algorithm/src/main/scala/sorting/QuickSortScala.scala" timestamp="1522046660793">
         <mark key="[" line="7" column="44" />
@@ -891,11 +885,11 @@
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-mole/common_core/load_summary_i3.dig" timestamp="1522825305799">
-        <mark key="[" line="6" column="55" />
-        <mark key="]" line="6" column="55" />
-        <mark key="." line="6" column="55" />
-        <mark key="^" line="6" column="55" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/common_core/load_summary_i3.dig" timestamp="1522827063833">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/package.scala" timestamp="1506932476761">
         <mark key="[" line="4" column="16" />
@@ -1057,10 +1051,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGhoOm1tJw==</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGhoOm1tJw==</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
@@ -1069,31 +1063,31 @@
         <text>${moment().startOf('month').format('YYYY-MM-DD hh:mm')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZmlyc3Rfb2ZfbW9udGg6IAo=</text>
+        <text encoding="base64">ICAgIF9kbzoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBfaWYK</text>
+        <text encoding="base64">ICAgIGlmPjogJHttb21lbnQoKS5zdGFydE9mKCdtb250aCcpLmZvcm1hdCgnWVlZWS1NTS1ERCcpfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEVOVgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRyZV9kYl9pcFtwcm9kdWN0aW9uXQo=</text>
+        <text encoding="base64">Zm9yIHRhcmdldF90YWJsZSBpbiAke3RhcmdldF90YWJsZXNbQF19OyBkbwogIHF1ZXJ5PSJBTFRFUiBUQUJMRSAke3RhcmdldF90YWJsZX0gQUREIFBBUlRJVElPTihQQVJUSVRJT04gJHtQQVJUSVRJT05fTkFNRX0gVkFMVUVTIExFU1MgVEhBTiAoJ1wnJyR7UEFSVElUSU9OX0RBVEV9J1wnJykpOyIKICBzc2ggMTcyLjI3LjQ4LjE1NCAtbyBTdHJpY3RIb3N0S2V5Q2hlY2tpbmc9bm8gXAogICJteXNxbCAtaCR7ZHJlX2RiX2lwW0VOVl19IC1QMzMwNiAtdXdyaXRlciAtcCcke0RCX1BBU1NXT1JEfScgaTMgLWUgJyR7cXVlcnl9JyAiCmRvbmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICFpbmNsdWRlOiBwYXJhbXMvY29tbW9uLmRpZwo=</text>
+        <text encoding="base64">ICBlY2hvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhYWFhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZmlyc3Rfb2ZfbW9udGg6IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBfaWYK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
