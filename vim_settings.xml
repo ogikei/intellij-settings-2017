@@ -183,11 +183,11 @@
         <mark key="." line="37" column="7" />
         <mark key="^" line="37" column="7" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/dre-dig/summary-add-partition.dig" timestamp="1522835161683">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="18" column="15" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/dre-dig/summary-add-partition.dig" timestamp="1522837063629">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="18" column="41" />
+        <mark key="." line="18" column="41" />
+        <mark key="^" line="18" column="41" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/.gitignore" timestamp="1512360094425">
         <mark key="[" line="3" column="21" />
@@ -684,6 +684,7 @@
         <mark key="." line="148" column="0" />
         <mark key="^" line="148" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/dre-dig/lib/params/common.dig" timestamp="1522837158087" />
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/AmazonKinesis.scala" timestamp="1506933088545">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="16" column="0" />
@@ -1068,44 +1069,44 @@
       <jump line="9" column="2" filename="$USER_HOME$/OfficeTools/git/ansible/roles/digdag/digdag_secret/vars/dre-dig_vault.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBxdWVyeToK</text>
+      <register name="&quot;" type="4">
+        <text>MMM Do YY</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>MMM Do YY</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFnaW5nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgJHt0YXJnZXRfdGFibGV9IEFERCBQQVJUSVRJT04oUEFSVElUSU9OICR7UEFSVElUSU9OX05BTUV9IFZBTFVFUyBMRVNTIFRIQU4gKCdcJycke1BBUlRJVElPTl9EQVRFfSdcJycpKTsiCg==</text>
+        <text encoding="base64">X2V4cG9ydDoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBxdWVyeToK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2g+OiB8Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaD46Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgJHt0YXJnZXRfdGFibGV9IEFERCBQQVJUSVRJT04oUEFSVElUSU9OICR7UEFSVElUSU9OX05BTUV9IFZBTFVFUyBMRVNTIFRIQU4gKCdcJycke1BBUlRJVElPTl9EQVRFfSdcJycpKTsiCg==</text>
+        <text encoding="base64">ICAgICAgcXVlcnk6IEFMVEVSIFRBQkxFICR7dGFyZ2V0X3RhYmxlfSBBREQgUEFSVElUSU9OKFBBUlRJVElPTiAke1BBUlRJVElPTl9OQU1FfSBWQUxVRVMgTEVTUyBUSEFOICgnJHtQQVJUSVRJT05fREFURX0nKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeT0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcXVlcnk6IEFMVEVSIFRBQkxFICR7dGFyZ2V0X3RhYmxlfSBBREQgUEFSVElUSU9OKFBBUlRJVElPTiAke1BBUlRJVElPTl9OQU1FfSBWQUxVRVMgTEVTUyBUSEFOICgnJHtQQVJUSVRJT05fREFURX0nKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcXVlcnk6IEFMVEVSIFRBQkxFICR7dGFyZ2V0X3RhYmxlfSBBREQgUEFSVElUSU9OKFBBUlRJVElPTiAke1BBUlRJVElPTl9OQU1FfSBWQUxVRVMgTEVTUyBUSEFOICgnJHtQQVJUSVRJT05fREFURX0nKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcXVlcnk6IEFMVEVSIFRBQkxFICR7dGFyZ2V0X3RhYmxlfSBBREQgUEFSVElUSU9OKFBBUlRJVElPTiAke1BBUlRJVElPTl9OQU1FfSBWQUxVRVMgTEVTUyBUSEFOICgnJHtQQVJUSVRJT05fREFURX0nKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
