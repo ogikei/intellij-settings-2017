@@ -148,6 +148,12 @@
         <mark key="." line="82" column="29" />
         <mark key="^" line="82" column="29" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/observatory/src/main/scala/observatory/utils/Resources.scala" timestamp="1523000068826">
+        <mark key="[" line="7" column="44" />
+        <mark key="]" line="7" column="44" />
+        <mark key="." line="7" column="44" />
+        <mark key="^" line="7" column="44" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-log/project/assembly.sbt" timestamp="1510205173295">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="55" />
@@ -419,11 +425,11 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/observatory/src/main/scala/observatory/utils/SparkJob.scala" timestamp="1522998624379">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="28" />
-        <mark key="." line="3" column="28" />
-        <mark key="^" line="3" column="28" />
+      <file name="$USER_HOME$/MyWork/git/observatory/src/main/scala/observatory/utils/SparkJob.scala" timestamp="1523000227241">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+        <mark key="^" line="7" column="4" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/tests/src/test/scala/org/apache/spark/sql/catalyst/plans/PlanTest.scala" timestamp="1507017020352">
         <mark key="'" line="103" column="0" />
@@ -854,11 +860,11 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/observatory/src/main/scala/observatory/Extraction.scala" timestamp="1522998300815">
-        <mark key="[" line="24" column="90" />
-        <mark key="]" line="25" column="1" />
-        <mark key="." line="25" column="1" />
-        <mark key="^" line="25" column="1" />
+      <file name="$USER_HOME$/MyWork/git/observatory/src/main/scala/observatory/Extraction.scala" timestamp="1523000442305">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="33" />
+        <mark key="." line="22" column="33" />
+        <mark key="^" line="22" column="33" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.sql.streaming/common/SparkApp.scala" timestamp="1507010053794">
         <mark key="[" line="8" column="25" />
@@ -877,6 +883,12 @@
       </file>
       <file name="$USER_HOME$/OfficeTools/git/aws-price/diff.py" timestamp="1522398971861">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/observatory/.gitignore" timestamp="1523000839998">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="4" column="6" />
+        <mark key="." line="4" column="6" />
+        <mark key="^" line="4" column="6" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-example/build.sbt" timestamp="1512355281502">
         <mark key="'" line="12" column="12" />
@@ -1069,11 +1081,11 @@
       <jump line="213" column="10" filename="$USER_HOME$/OfficeTools/git/ansible/production" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>aap</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>aap</text>
+        <text>co</text>
       </register>
       <register name="/" type="4">
         <text>154</text>
@@ -1082,31 +1094,31 @@
         <text>${moment().startOf('month').format('YYYY-MM-DD hh:mm')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbXBvCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbmNhdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIF9kbzoK</text>
+        <text encoding="base64">ICAgIHBhdGhzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmPjogJHttb21lbnQoKS5zdGFydE9mKCdtb250aCcpLmZvcm1hdCgnWVlZWS1NTS1ERCcpfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRwCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yIHRhcmdldF90YWJsZSBpbiAke3RhcmdldF90YWJsZXNbQF19OyBkbwogIHF1ZXJ5PSJBTFRFUiBUQUJMRSAke3RhcmdldF90YWJsZX0gQUREIFBBUlRJVElPTihQQVJUSVRJT04gJHtQQVJUSVRJT05fTkFNRX0gVkFMVUVTIExFU1MgVEhBTiAoJ1wnJyR7UEFSVElUSU9OX0RBVEV9J1wnJykpOyIKICBzc2ggMTcyLjI3LjQ4LjE1NCAtbyBTdHJpY3RIb3N0S2V5Q2hlY2tpbmc9bm8gXAogICJteXNxbCAtaCR7ZHJlX2RiX2lwW0VOVl19IC1QMzMwNiAtdXdyaXRlciAtcCcke0RCX1BBU1NXT1JEfScgaTMgLWUgJyR7cXVlcnl9JyAiCmRvbmUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBlY2hvCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhYWFhCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
