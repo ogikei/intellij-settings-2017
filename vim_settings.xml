@@ -182,12 +182,12 @@
         <mark key="." line="37" column="7" />
         <mark key="^" line="37" column="7" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/dre-dig/summary-add-partition.dig" timestamp="1523247607904">
-        <mark key="'" line="19" column="98" />
-        <mark key="[" line="18" column="51" />
-        <mark key="]" line="18" column="53" />
-        <mark key="." line="18" column="53" />
-        <mark key="^" line="18" column="53" />
+      <file name="$USER_HOME$/OfficeTools/git/dre-dig/summary-add-partition.dig" timestamp="1523251699104">
+        <mark key="'" line="21" column="98" />
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="14" column="14" />
+        <mark key="^" line="14" column="14" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/.gitignore" timestamp="1512360094425">
         <mark key="[" line="3" column="21" />
@@ -743,9 +743,9 @@
         <mark key="^" line="323" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/ansible/roles/digdag/digdag_secret/templates/etc/digdag/secrets/i3-mole.yml" timestamp="1522832758035">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/resources/META-INF/services/com.dmm.dre.convert.app.FormatProvider" timestamp="1510297668424">
         <mark key="[" line="0" column="0" />
@@ -1061,10 +1061,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>subtract</text>
+        <text>下</text>
       </register>
       <register name="-" type="4">
-        <text>subtract</text>
+        <text>下</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJ0aXRpb25EYXRlXD4=</text>
@@ -1100,7 +1100,7 @@
         <text encoding="base64">ICAgICAgICBxdWVyeT0K</text>
       </register>
       <register name=":" type="4">
-        <text>%d</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1153,9 +1153,9 @@
         <entry>15</entry>
         <entry>114</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>%de</entry>
         <entry>%d</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
