@@ -1,9 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="golint">
-      <action id="GoImportsFileAction" />
-      <action id="Tool_External Tools_golint" />
-      <action id="SaveAll" />
-    </macro>
-  </component>
-</application>
