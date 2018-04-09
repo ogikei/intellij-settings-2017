@@ -89,7 +89,7 @@
         <mark key="." line="348" column="12" />
         <mark key="^" line="348" column="12" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/digdag/digdag_secret/templates/etc/digdag/secrets/dre-dig.yml" timestamp="1522832761014">
+      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/digdag/digdag_secret/templates/etc/digdag/secrets/dre-dig.yml" timestamp="1523241088309">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="0" />
@@ -164,7 +164,6 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-mole/common_core/extract_i3.dig" timestamp="1522819874316" />
       <file name="$USER_HOME$/OfficeTools/git/recommend-log/src/main/scala/com/dmm/dre/common/RecommendLog.scala" timestamp="1509968051113">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="34" column="44" />
@@ -183,11 +182,11 @@
         <mark key="." line="37" column="7" />
         <mark key="^" line="37" column="7" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/dre-dig/summary-add-partition.dig" timestamp="1522837063629">
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="18" column="41" />
-        <mark key="." line="18" column="41" />
-        <mark key="^" line="18" column="41" />
+      <file name="$USER_HOME$/OfficeTools/git/dre-dig/summary-add-partition.dig" timestamp="1523241174754">
+        <mark key="'" line="19" column="98" />
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="11" />
+        <mark key="." line="20" column="11" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/.gitignore" timestamp="1512360094425">
         <mark key="[" line="3" column="21" />
@@ -233,7 +232,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/digdag/digdag_server/files/etc/digdag/params/production.yml" timestamp="1522823176298" />
       <file name="$USER_HOME$/MyWork/git/functional-program-design-in-scala/webui.sbt" timestamp="1512538292054">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="4" />
@@ -572,7 +570,6 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-mole/common_admage.dig" timestamp="1522822828680" />
       <file name="$USER_HOME$/OfficeTools/git/algorithm/src/main/scala/sorting/QuickSortScala.scala" timestamp="1522046660793">
         <mark key="[" line="7" column="44" />
         <mark key="]" line="7" column="51" />
@@ -684,7 +681,6 @@
         <mark key="." line="148" column="0" />
         <mark key="^" line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/dre-dig/lib/params/common.dig" timestamp="1522837158087" />
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/AmazonKinesis.scala" timestamp="1506933088545">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="16" column="0" />
@@ -957,7 +953,6 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/ansible/staging" timestamp="1522829600409" />
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRawUnique.scala" timestamp="1520829500209">
         <mark key="'" line="142" column="7" />
         <mark key="[" line="42" column="63" />
@@ -967,7 +962,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRawUnique.scala" />
       <jump line="3" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRawUnique.scala" />
       <jump line="17" column="43" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/java/KafkaConsumerExample.java" />
       <jump line="9" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/java/KafkaConsumerExample.java" />
@@ -1067,55 +1061,56 @@
       <jump line="213" column="10" filename="$USER_HOME$/OfficeTools/git/ansible/production" />
       <jump line="3" column="2" filename="$USER_HOME$/OfficeTools/git/ansible/roles/digdag/digdag_secret/vars/dre-dig_vault.yml" />
       <jump line="9" column="2" filename="$USER_HOME$/OfficeTools/git/ansible/roles/digdag/digdag_secret/vars/dre-dig_vault.yml" />
+      <jump line="19" column="98" filename="$USER_HOME$/OfficeTools/git/dre-dig/summary-add-partition.dig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MMM Do YY</text>
+        <text encoding="base64">ZWNobyA=</text>
       </register>
       <register name="-" type="4">
-        <text>MMM Do YY</text>
+        <text encoding="base64">ZWNobyA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGFnaW5nXD4=</text>
+        <text encoding="base64">XDxwYXJ0aXRpb25EYXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">X2V4cG9ydDoK</text>
+        <text encoding="base64">ICAgICAgICBwYXJ0aXRpb25OYW1lOiAke21vbWVudCgpLnN1YnRyYWN0KDEsICdtb250aHMnKS5mb3JtYXQoJ1lZWVlNTScpfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgbGxsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzaD46Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0c3M6IHAke21vbWVudCgpLnN0YXJ0T2YoJy0yIG1vbnRoJykuZm9ybWF0KCdZWVlZTU0nKX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEQK</text>
+        <text encoding="base64">ICAgICAgICBwYXJ0aXRpb25EYXRlOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcXVlcnk6IEFMVEVSIFRBQkxFICR7dGFyZ2V0X3RhYmxlfSBBREQgUEFSVElUSU9OKFBBUlRJVElPTiAke1BBUlRJVElPTl9OQU1FfSBWQUxVRVMgTEVTUyBUSEFOICgnJHtQQVJUSVRJT05fREFURX0nKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeT0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzaD46Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcXVlcnk6IEFMVEVSIFRBQkxFICR7dGFyZ2V0X3RhYmxlfSBBREQgUEFSVElUSU9OKFBBUlRJVElPTiAke1BBUlRJVElPTl9OQU1FfSBWQUxVRVMgTEVTUyBUSEFOICgnJHtQQVJUSVRJT05fREFURX0nKSk7Cg==</text>
+        <text encoding="base64">ICAgIEQK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgcXVlcnk6IEFMVEVSIFRBQkxFICR7dGFyZ2V0X3RhYmxlfSBBREQgUEFSVElUSU9OKFBBUlRJVElPTiAke1BBUlRJVElPTl9OQU1FfSBWQUxVRVMgTEVTUyBUSEFOICgnJHtQQVJUSVRJT05fREFURX0nKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcXVlcnk6IEFMVEVSIFRBQkxFICR7dGFyZ2V0X3RhYmxlfSBBREQgUEFSVElUSU9OKFBBUlRJVElPTiAke1BBUlRJVElPTl9OQU1FfSBWQUxVRVMgTEVTUyBUSEFOICgnJHtQQVJUSVRJT05fREFURX0nKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeT0K</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGFnaW5nXD4=</last-search>
+      <last-search encoding="base64">XDxwYXJ0aXRpb25EYXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGFnaW5nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJ0aXRpb25EYXRlXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -1123,9 +1118,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdXJyREJcPg==</entry>
-        <entry>20</entry>
-        <entry>int</entry>
         <entry encoding="base64">XDxjbGVuYWJsZVw+</entry>
         <entry encoding="base64">XDxjbGVhbmFibGVcPg==</entry>
         <entry>3</entry>
@@ -1143,6 +1135,9 @@
         <entry>digdag</entry>
         <entry>154</entry>
         <entry encoding="base64">XDxzdGFnaW5nXD4=</entry>
+        <entry>test</entry>
+        <entry encoding="base64">XDxwYXJ0aXRpb25OYW1lXD4=</entry>
+        <entry encoding="base64">XDxwYXJ0aXRpb25EYXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
