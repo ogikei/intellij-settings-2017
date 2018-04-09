@@ -89,7 +89,7 @@
         <mark key="." line="348" column="12" />
         <mark key="^" line="348" column="12" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/digdag/digdag_secret/templates/etc/digdag/secrets/dre-dig.yml" timestamp="1523241088309">
+      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/digdag/digdag_secret/templates/etc/digdag/secrets/dre-dig.yml" timestamp="1523246060449">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="0" />
@@ -182,11 +182,12 @@
         <mark key="." line="37" column="7" />
         <mark key="^" line="37" column="7" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/dre-dig/summary-add-partition.dig" timestamp="1523242433385">
+      <file name="$USER_HOME$/OfficeTools/git/dre-dig/summary-add-partition.dig" timestamp="1523247607904">
         <mark key="'" line="19" column="98" />
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="20" column="11" />
-        <mark key="." line="20" column="11" />
+        <mark key="[" line="18" column="51" />
+        <mark key="]" line="18" column="53" />
+        <mark key="." line="18" column="53" />
+        <mark key="^" line="18" column="53" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/.gitignore" timestamp="1512360094425">
         <mark key="[" line="3" column="21" />
@@ -575,11 +576,6 @@
         <mark key="]" line="7" column="51" />
         <mark key="." line="7" column="51" />
         <mark key="^" line="7" column="51" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/ansible/roles/digdag/digdag_secret/vars/dre-dig_vault.yml" timestamp="1522833132120">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/tests/src/test/scala/org/apache/spark/sql/test/SharedSQLContext.scala" timestamp="1507097213579">
         <mark key="[" line="25" column="1" />
@@ -1065,10 +1061,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZWNobyA=</text>
+        <text>subtract</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWNobyA=</text>
+        <text>subtract</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJ0aXRpb25EYXRlXD4=</text>
