@@ -182,7 +182,7 @@
         <mark key="." line="37" column="7" />
         <mark key="^" line="37" column="7" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/dre-dig/summary-add-partition.dig" timestamp="1523261762515">
+      <file name="$USER_HOME$/OfficeTools/git/dre-dig/summary-add-partition.dig" timestamp="1523262583617">
         <mark key="'" line="25" column="6" />
         <mark key="[" line="32" column="29" />
         <mark key="]" line="32" column="33" />
@@ -724,6 +724,13 @@
         <mark key="^" line="1" column="55" />
         <mark key="." line="1" column="55" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/dig-lib/scripts/execute_hiveql.sh" timestamp="1523262696271">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="51" column="38" />
+        <mark key="]" line="51" column="46" />
+        <mark key="." line="51" column="46" />
+        <mark key="^" line="51" column="46" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-mole/common_core.dig" timestamp="1522823922550">
         <mark key="[" line="52" column="28" />
         <mark key="]" line="52" column="42" />
@@ -886,6 +893,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/dig-lib/.gitignore" timestamp="1523262660763">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/java/KafkaProducerExample.java" timestamp="1521689532246">
         <mark key="'" line="18" column="2" />
         <mark key="[" line="14" column="32" />
@@ -973,9 +986,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="20" filename="$USER_HOME$/OfficeTools/git/algorithm/build.sbt" />
-      <jump line="18" column="2" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/java/KafkaProducerExample.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/OfficeTools/git/algorithm/src/main/java/sorting/SelectionSortJava.java" />
       <jump line="8" column="4" filename="$USER_HOME$/OfficeTools/git/algorithm/src/main/java/sorting/SelectionSortJava.java" />
       <jump line="22" column="1" filename="$USER_HOME$/OfficeTools/git/algorithm/src/main/java/sorting/SelectionSortJava.java" />
       <jump line="30" column="14" filename="$USER_HOME$/OfficeTools/git/algorithm/src/main/java/sorting/QuickSortJava.java" />
@@ -1073,13 +1083,16 @@
       <jump line="35" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SparkKafkaExample.scala" />
       <jump line="32" column="31" filename="$USER_HOME$/OfficeTools/git/dre-dig/summary-add-partition.dig" />
       <jump line="25" column="6" filename="$USER_HOME$/OfficeTools/git/dre-dig/summary-add-partition.dig" />
+      <jump line="9" column="9" filename="$USER_HOME$/OfficeTools/git/dig-lib/scripts/execute_hiveql.sh" />
+      <jump line="46" column="0" filename="$USER_HOME$/OfficeTools/git/dig-lib/scripts/execute_hiveql.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/dig-lib/scripts/execute_hiveql.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>table</text>
+        <text>16000000</text>
       </register>
       <register name="-" type="4">
-        <text>table</text>
+        <text>16000000</text>
       </register>
       <register name="/" type="4">
         <text>table</text>
@@ -1088,31 +1101,31 @@
         <text>indiv_olg_trn_summary</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7dGFibGU6IFt0cm5fc3VtbWFyeSwgaW5kaXZfb2xnX3Rybl9zdW1tYXJ5XX0K</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7dGFibGU6IFt0cm5fc3VtbWFyeSwgaW5kaXZfb2xnX3Rybl9zdW1tYXJ5XX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">X2Vycm9yOgogIHNsYWNrPjogbGliL3RlbXBsYXRlcy9lcnJvci55bWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">X2Vycm9yOgogIHNsYWNrPjogbGliL3RlbXBsYXRlcy9lcnJvci55bWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">X2V4cG9ydDoKICAhaW5jbHVkZSA6IGxpYi9wYXJhbXMvY29tbW9uLmRpZwogICFpbmNsdWRlIDogcGFyYW1zL2NvbW1vbi5kaWcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">X2V4cG9ydDoKICAhaW5jbHVkZSA6IGxpYi9wYXJhbXMvY29tbW9uLmRpZwogICFpbmNsdWRlIDogcGFyYW1zL2NvbW1vbi5kaWcK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcGFyayA9IFNwYXJrU2Vzc2lvbgogICAgICAgIC5idWlsZGVyKCkKICAgICAgICAuYXBwTmFtZSgiU3BhcmsgSGl2ZSBFeGFtcGxlIikKICAgICAgICAuY29uZmlnKCJzcGFyay5zcWwud2FyZWhvdXNlLmRpciIsIHdhcmVob3VzZUxvY2F0aW9uKQogICAgICAgIC5lbmFibGVIaXZlU3VwcG9ydCgpCiAgICAgICAgLmdldE9yQ3JlYXRlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCB3YXJlaG91c2VMb2NhdGlvbiA9ICIvYXBwcy9oaXZlL3dhcmVob3VzZSIK</text>
+        <text encoding="base64">ICAgIHZhbCBzcGFyayA9IFNwYXJrU2Vzc2lvbgogICAgICAgIC5idWlsZGVyKCkKICAgICAgICAuYXBwTmFtZSgiU3BhcmsgSGl2ZSBFeGFtcGxlIikKICAgICAgICAuY29uZmlnKCJzcGFyay5zcWwud2FyZWhvdXNlLmRpciIsIHdhcmVob3VzZUxvY2F0aW9uKQogICAgICAgIC5lbmFibGVIaXZlU3VwcG9ydCgpCiAgICAgICAgLmdldE9yQ3JlYXRlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
