@@ -237,6 +237,12 @@
         <mark key="." line="22" column="15" />
         <mark key="^" line="22" column="15" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala-capstone/src/main/scala/observatory/Grading.scala" timestamp="1523333368414">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/botkit/package.json" timestamp="1522578128560">
         <mark key="'" line="41" column="3" />
       </file>
@@ -909,12 +915,15 @@
       <file name="/fragment.java" timestamp="1514002269935">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala-capstone/src/main/scala/observatory/Visualization.scala" timestamp="1523335946236">
+        <mark key="'" line="12" column="53" />
+        <mark key="[" line="26" column="30" />
+        <mark key="]" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="26" column="28" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="8" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRaw.scala" />
-      <jump line="92" column="24" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRaw.scala" />
-      <jump line="117" column="12" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRaw.scala" />
-      <jump line="61" column="20" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRawUnique.scala" />
       <jump line="129" column="14" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRaw.scala" />
       <jump line="31" column="31" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRaw.scala" />
       <jump line="39" column="29" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRaw.scala" />
@@ -1011,13 +1020,17 @@
       <jump line="54" column="0" filename="$USER_HOME$/MyWork/git/functional-programming-in-scala-capstone/src/main/scala/observatory/Extraction.scala" />
       <jump line="43" column="0" filename="$USER_HOME$/MyWork/git/functional-programming-in-scala-capstone/src/main/scala/observatory/Extraction.scala" />
       <jump line="56" column="4" filename="$USER_HOME$/MyWork/git/functional-programming-in-scala-capstone/src/main/scala/observatory/Extraction.scala" />
+      <jump line="16" column="0" filename="$USER_HOME$/MyWork/git/functional-programming-in-scala-capstone/src/main/scala/observatory/Visualization.scala" />
+      <jump line="21" column="0" filename="$USER_HOME$/MyWork/git/functional-programming-in-scala-capstone/src/main/scala/observatory/Visualization.scala" />
+      <jump line="40" column="3" filename="$USER_HOME$/MyWork/git/functional-programming-in-scala-capstone/src/main/scala/observatory/Visualization.scala" />
+      <jump line="12" column="53" filename="$USER_HOME$/MyWork/git/functional-programming-in-scala-capstone/src/main/scala/observatory/Visualization.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stations.csv</text>
+        <text>A</text>
       </register>
       <register name="-" type="4">
-        <text>stations.csv</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>join</text>
@@ -1026,31 +1039,31 @@
         <text encoding="base64">ICB2YWwgc3RhdGlvbnNQYXRoOiBTdHJpbmcgPSAiL3N0YXRpb25zLmNzdiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YWwK</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiAgICAgICAgICAgICAgICAgICAgQAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGtra2sK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAUnVuV2l0aChjbGFzc09mW0pVbml0UnVubmVyXSkK</text>
+        <text encoding="base64">ICAgIGtrawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hcAo=</text>
+        <text encoding="base64">ICAgIHZhbCBsb2NhdGlvbiA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgLyoqCiAgICogQHBhcmFtIHRlbXBlcmF0dXJlcyBrbm93biB0ZW1wZXJhdHVyZXMKICAgKiBAcGFyYW0gY29sb3JzIGNvbG9yIHNjYWxlCiAgICogQHJldHVybiBhIDM2MMOXMTgwIGltYWdlIHdoZXJlIGVhY2ggcGl4ZWwgc2hvd3MgdGhlIHByZWRpY3RlZCB0ZW1wZXJhdHVyZSBhdCBpdHMgbG9jYXRpb24KICAgKi8KICBkZWYgdmlzdWFsaXplKHRlbXBlcmF0dXJlczogSXRlcmFibGVbKExvY2F0aW9uLCBEb3VibGUpXSwKICAgICAgICAgICAgICAgIGNvbG9yczogSXRlcmFibGVbKERvdWJsZSwgQ29sb3IpXSk6IEltYWdlID0gewogICAgdmFsIGltYWdlV2lkdGggPSAzNjAKICAgIHZhbCBpbWFnZUhlaWdodCA9IDE4MAoKICAgIHZhbCBsb2NhdGlvbk1hcCA9IAogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
