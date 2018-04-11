@@ -467,12 +467,12 @@
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SparkKafkaExample.scala" timestamp="1523256705451">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" timestamp="1523432534309">
-        <mark key="'" line="379" column="0" />
-        <mark key="[" line="376" column="41" />
-        <mark key="]" line="376" column="53" />
-        <mark key="." line="376" column="53" />
-        <mark key="^" line="376" column="53" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" timestamp="1523433701663">
+        <mark key="'" line="339" column="25" />
+        <mark key="[" line="339" column="24" />
+        <mark key="]" line="339" column="25" />
+        <mark key="." line="339" column="25" />
+        <mark key="^" line="339" column="25" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/build.sbt" timestamp="1521688986246">
         <mark key="[" line="10" column="0" />
@@ -1102,18 +1102,18 @@
       <jump line="377" column="10" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="398" column="15" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="376" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="339" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="379" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="339" column="25" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>adhoc</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>adhoc</text>
       </register>
       <register name="/" type="4">
-        <text>insert</text>
+        <text>2018-04-10</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">SU5TRVJUIE9WRVJXUklURSBUQUJMRSBgaTNgLmBhY3Rpdml0eWAKUEFSVElUSU9OKGR0ID0gJyR7ZHR9JywgYWN0aW9uLCBvcHRpb24pIC0tIGR5bmFtaWMgcGFydGl0aW9u44Gv54++5Zyo5pyJ5Yq544Gn44Gv44Gq44GE44Gu44Gn44GT44Gu5b2iCgpTRUxFQ1QKICAgIGFjdC5pM19zZXJ2aWNlX2NvZGUsIGFjdC5kaXZpc2lvbiwgYWN0LnNlcnZpY2UsIGFjdC5wdXJjaGFzZV9zaXRlLCBhY3Quc2VhcmNoX3NpdGUsIGFjdC5zZWFyY2hfc2VydmljZSwKICAgIGFjdC5zZWFyY2hfY2F0ZWdvcnksCiAgICBhY3Quc2VydmljZV9mbG9vciwKICAgIGFjdC5vcGVuX2lkLAogICAgYWN0Lm1lbWJlcl9pZCwKICAgIGFjdC5zZXNzaW9uLAogICAgYWN0LmNvb2tpZSwKICAgIGFjdC52aWV3X3R5cGUsCiAgICBhY3QudXNlcl9hZ2VudCwKICAgIGFjdC51YV9yZXBsYWNlX2lkLAogICAgYWN0LnVybCwKICAgIGFjdC51cmxfcmVwbGFjZV9pZCwKICAgICcnIGFzIHBhZ2VfaWQsICAgICAtLSDjg5rjg7zjgrhJROOCkuaMr+OCi+OCiOOBhuOBquODhOODvOODq+OChOi7oue9ruWHpueQhuOBjOWPr+iDveOBq+OBquOBo+OBn+OCiUpvaW4KICAgIGFjdC50aW1lLAogICAgYWN0LmlwLAogICAgYWN0LnNlZ21lbnQsCiAgICBhY3QudmFyMSwKICAgIGFjdC52YXIyLAogICAgYWN0LnZhcjMsCiAgICBhY3QudmFyNCwKICAgIGFjdC52YXI1LAogICAgYWN0LnZpZXcsCiAgICBhY3QuYXBpLAogICAgYWN0LmRldGFpbCwKICAgIGFjdC51c2VyLAogICAgYWN0LnB1cmNoYXNlLAogICAgYWN0LnN1Z2dlc3QsCiAgICBhY3QucmV2aWV3LAogICAgLS0gYS5kdCBhcyBkdCwgICAgICAgICBzdHJpY3Tjg6Ljg7zjg4njgarjgonjgIHjgZPjga7ooYzjga/kuI3opoEKICAgIGFjdC5hY3Rpb24gYXMgYWN0aW9uLAogICAgYWN0Lm9wdGlvbiBhcyBvcHRpb24K</text>
@@ -1146,21 +1146,20 @@
         <text encoding="base64">V0hFUkUK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/${dt}/2018-04-10/g</text>
+        <text>%s/2018-04-10/${dt}/g</text>
       </register>
     </registers>
     <search>
-      <last-search>insert</last-search>
+      <last-search>2018-04-10</last-search>
       <last-offset />
-      <last-pattern>insert</last-pattern>
-      <last-replace>2018-04-10</last-replace>
-      <last-substitute>${dt}</last-substitute>
+      <last-pattern>2018-04-10</last-pattern>
+      <last-replace>${dt}</last-replace>
+      <last-substitute>2018-04-10</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>path</entry>
         <entry>digdag</entry>
         <entry>154</entry>
         <entry encoding="base64">XDxzdGFnaW5nXD4=</entry>
@@ -1180,9 +1179,9 @@
         <entry>dt</entry>
         <entry>location</entry>
         <entry>insert</entry>
+        <entry>2018-04-10</entry>
       </history-search>
       <history-cmd>
-        <entry>17</entry>
         <entry>31</entry>
         <entry>99</entry>
         <entry>104</entry>
@@ -1202,6 +1201,7 @@
         <entry>%d</entry>
         <entry>w</entry>
         <entry>%s/${dt}/2018-04-10/g</entry>
+        <entry>%s/2018-04-10/${dt}/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
