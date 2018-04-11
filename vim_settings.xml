@@ -505,12 +505,11 @@
       <file name="$USER_HOME$/OfficeTools/git/ansible/production" timestamp="1522828406471">
         <mark key="'" line="213" column="10" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/test-project/diff.js" timestamp="1523438558963">
+      <file name="$USER_HOME$/OfficeTools/git/test-project/diff.js" timestamp="1523439881441">
         <mark key="'" line="49" column="0" />
-        <mark key="[" line="132" column="20" />
-        <mark key="]" line="132" column="19" />
-        <mark key="^" line="132" column="19" />
-        <mark key="." line="132" column="19" />
+        <mark key="[" line="128" column="46" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/algorithm/src/test/scala/sorting/HeapSortScalaSuite.scala" timestamp="1522046718868">
         <mark key="[" line="9" column="43" />
@@ -685,8 +684,8 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/test-project/billing.js" timestamp="1523438311961">
-        <mark key="'" line="39" column="6" />
+      <file name="$USER_HOME$/OfficeTools/git/test-project/billing.js" timestamp="1523439608870">
+        <mark key="'" line="26" column="4" />
         <mark key="[" line="146" column="2" />
         <mark key="]" line="148" column="0" />
         <mark key="^" line="148" column="0" />
@@ -1021,7 +1020,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="48" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="233" column="30" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="264" column="38" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="294" column="44" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
@@ -1117,17 +1115,18 @@
       <jump line="23" column="47" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="69" column="29" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="65" column="19" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
-      <jump line="24" column="8" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
-      <jump line="26" column="4" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="39" column="6" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="49" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
+      <jump line="57" column="20" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
+      <jump line="24" column="8" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
+      <jump line="26" column="4" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>postFlagonDocsDiff</text>
       </register>
       <register name="/" type="4">
         <text>field</text>
@@ -1136,31 +1135,31 @@
         <text encoding="base64">Y29uc3QgaHR0cHMgPSByZXF1aXJlKCdodHRwcycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgaHR0cHMgPSByZXF1aXJlKCdodHRwcycpOwo=</text>
+        <text encoding="base64">ICBmaXJsZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGJvZHkpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
