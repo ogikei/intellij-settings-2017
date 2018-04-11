@@ -27,6 +27,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/i3-dwh/ddl/i3/activity.q" timestamp="1523435409819" />
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.sql.streaming/aws/package.scala" timestamp="1507001382676">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="22" />
@@ -170,10 +171,6 @@
         <mark key="]" line="34" column="44" />
         <mark key="." line="34" column="44" />
         <mark key="^" line="34" column="44" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-mole/common_core/load_purchase.dig" timestamp="1522820177165">
-        <mark key="[" line="24" column="21" />
-        <mark key="]" line="24" column="54" />
       </file>
       <file name="$USER_HOME$/MyWork/git/test/src/main/scala/nqueens.scala" timestamp="1513936451897">
         <mark key="'" line="36" column="0" />
@@ -508,6 +505,13 @@
       <file name="$USER_HOME$/OfficeTools/git/ansible/production" timestamp="1522828406471">
         <mark key="'" line="213" column="10" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/test-project/diff.js" timestamp="1523437758677">
+        <mark key="'" line="102" column="18" />
+        <mark key="[" line="80" column="29" />
+        <mark key="]" line="80" column="29" />
+        <mark key="^" line="80" column="29" />
+        <mark key="." line="80" column="29" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/algorithm/src/test/scala/sorting/HeapSortScalaSuite.scala" timestamp="1522046718868">
         <mark key="[" line="9" column="43" />
         <mark key="]" line="10" column="28" />
@@ -546,6 +550,12 @@
         <mark key="]" line="14" column="5" />
         <mark key="." line="14" column="5" />
         <mark key="^" line="14" column="5" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/test-project/diff-current.js" timestamp="1523436747784">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="126" column="2" />
+        <mark key="^" line="126" column="2" />
+        <mark key="." line="126" column="2" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisCheckpointer.scala" timestamp="1507099438074">
         <mark key="[" line="36" column="29" />
@@ -632,8 +642,12 @@
         <mark key="." line="421" column="35" />
         <mark key="^" line="421" column="35" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-dwh/ddl/i3/activity_corrupt.q" timestamp="1523428459819">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-dwh/ddl/i3/activity_corrupt.q" timestamp="1523435504892">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="0" column="48" />
+        <mark key="." line="0" column="48" />
+        <mark key="^" line="0" column="48" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/algorithm/src/test/java/sorting/TestSelectionSortJava.java" timestamp="1521700594310">
         <mark key="[" line="12" column="37" />
@@ -670,6 +684,13 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/test-project/billing.js" timestamp="1523437814787">
+        <mark key="'" line="141" column="10" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="31" />
+        <mark key="^" line="49" column="4" />
+        <mark key="." line="49" column="4" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/structured/Ctr.scala" timestamp="1506931084797">
         <mark key="[" line="5" column="50" />
@@ -876,10 +897,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/dre-dig/digdag-logdelete.dig" timestamp="1522834242592">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="10" />
-      </file>
       <file name="$USER_HOME$/MyWork/git/spark/structured-streaming.puml" timestamp="1507187252953">
         <mark key="[" line="9" column="1" />
         <mark key="]" line="11" column="0" />
@@ -1004,34 +1021,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="826" column="6" filename="$USER_HOME$/OfficeTools/git/ansible/site.yml" />
-      <jump line="24" column="0" filename="$USER_HOME$/OfficeTools/git/ansible/production" />
-      <jump line="525" column="14" filename="$USER_HOME$/OfficeTools/git/ansible/production" />
-      <jump line="208" column="10" filename="$USER_HOME$/OfficeTools/git/ansible/production" />
-      <jump line="213" column="10" filename="$USER_HOME$/OfficeTools/git/ansible/production" />
-      <jump line="3" column="2" filename="$USER_HOME$/OfficeTools/git/ansible/roles/digdag/digdag_secret/vars/dre-dig_vault.yml" />
-      <jump line="9" column="2" filename="$USER_HOME$/OfficeTools/git/ansible/roles/digdag/digdag_secret/vars/dre-dig_vault.yml" />
-      <jump line="19" column="98" filename="$USER_HOME$/OfficeTools/git/dre-dig/summary-add-partition.dig" />
-      <jump line="16" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/utils/SparkJob.scala" />
-      <jump line="51" column="7" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" />
-      <jump line="122" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" />
-      <jump line="30" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" />
-      <jump line="117" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsNormalized.scala" />
-      <jump line="71" column="11" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRawUnique.scala" />
-      <jump line="16" column="20" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SparkKafkaExample.scala" />
-      <jump line="22" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SparkKafkaExample.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SparkKafkaExample.scala" />
-      <jump line="35" column="0" filename="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SparkKafkaExample.scala" />
-      <jump line="32" column="31" filename="$USER_HOME$/OfficeTools/git/dre-dig/summary-add-partition.dig" />
-      <jump line="25" column="6" filename="$USER_HOME$/OfficeTools/git/dre-dig/summary-add-partition.dig" />
-      <jump line="9" column="9" filename="$USER_HOME$/OfficeTools/git/dig-lib/scripts/execute_hiveql.sh" />
-      <jump line="46" column="0" filename="$USER_HOME$/OfficeTools/git/dig-lib/scripts/execute_hiveql.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/dig-lib/scripts/execute_hiveql.sh" />
-      <jump line="451" column="7" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="3" column="29" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="102" column="29" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="364" column="29" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="400" column="48" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="41" column="19" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="81" column="25" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="95" column="28" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
@@ -1104,68 +1093,90 @@
       <jump line="376" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="379" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="339" column="25" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="124" column="2" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
+      <jump line="138" column="2" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
+      <jump line="109" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
+      <jump line="136" column="8" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
+      <jump line="29" column="1" filename="$USER_HOME$/OfficeTools/git/i3-dwh/ddl/i3/activity_corrupt.q" />
+      <jump line="20" column="13" filename="$USER_HOME$/OfficeTools/git/i3-dwh/ddl/i3/activity_corrupt.q" />
+      <jump line="21" column="0" filename="$USER_HOME$/OfficeTools/git/i3-dwh/ddl/i3/activity_corrupt.q" />
+      <jump line="12" column="14" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
+      <jump line="41" column="15" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
+      <jump line="121" column="14" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
+      <jump line="20" column="2" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
+      <jump line="54" column="6" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
+      <jump line="60" column="4" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
+      <jump line="81" column="2" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
+      <jump line="94" column="20" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
+      <jump line="9" column="21" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
+      <jump line="12" column="18" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
+      <jump line="2" column="3" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
+      <jump line="102" column="18" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
+      <jump line="14" column="13" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
+      <jump line="23" column="6" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
+      <jump line="44" column="20" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
+      <jump line="50" column="8" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
+      <jump line="62" column="2" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
+      <jump line="63" column="2" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
+      <jump line="141" column="10" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>adhoc</text>
+        <text>text</text>
       </register>
       <register name="-" type="4">
-        <text>adhoc</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
-        <text>2018-04-10</text>
+        <text>post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SU5TRVJUIE9WRVJXUklURSBUQUJMRSBgaTNgLmBhY3Rpdml0eWAKUEFSVElUSU9OKGR0ID0gJyR7ZHR9JywgYWN0aW9uLCBvcHRpb24pIC0tIGR5bmFtaWMgcGFydGl0aW9u44Gv54++5Zyo5pyJ5Yq544Gn44Gv44Gq44GE44Gu44Gn44GT44Gu5b2iCgpTRUxFQ1QKICAgIGFjdC5pM19zZXJ2aWNlX2NvZGUsIGFjdC5kaXZpc2lvbiwgYWN0LnNlcnZpY2UsIGFjdC5wdXJjaGFzZV9zaXRlLCBhY3Quc2VhcmNoX3NpdGUsIGFjdC5zZWFyY2hfc2VydmljZSwKICAgIGFjdC5zZWFyY2hfY2F0ZWdvcnksCiAgICBhY3Quc2VydmljZV9mbG9vciwKICAgIGFjdC5vcGVuX2lkLAogICAgYWN0Lm1lbWJlcl9pZCwKICAgIGFjdC5zZXNzaW9uLAogICAgYWN0LmNvb2tpZSwKICAgIGFjdC52aWV3X3R5cGUsCiAgICBhY3QudXNlcl9hZ2VudCwKICAgIGFjdC51YV9yZXBsYWNlX2lkLAogICAgYWN0LnVybCwKICAgIGFjdC51cmxfcmVwbGFjZV9pZCwKICAgICcnIGFzIHBhZ2VfaWQsICAgICAtLSDjg5rjg7zjgrhJROOCkuaMr+OCi+OCiOOBhuOBquODhOODvOODq+OChOi7oue9ruWHpueQhuOBjOWPr+iDveOBq+OBquOBo+OBn+OCiUpvaW4KICAgIGFjdC50aW1lLAogICAgYWN0LmlwLAogICAgYWN0LnNlZ21lbnQsCiAgICBhY3QudmFyMSwKICAgIGFjdC52YXIyLAogICAgYWN0LnZhcjMsCiAgICBhY3QudmFyNCwKICAgIGFjdC52YXI1LAogICAgYWN0LnZpZXcsCiAgICBhY3QuYXBpLAogICAgYWN0LmRldGFpbCwKICAgIGFjdC51c2VyLAogICAgYWN0LnB1cmNoYXNlLAogICAgYWN0LnN1Z2dlc3QsCiAgICBhY3QucmV2aWV3LAogICAgLS0gYS5kdCBhcyBkdCwgICAgICAgICBzdHJpY3Tjg6Ljg7zjg4njgarjgonjgIHjgZPjga7ooYzjga/kuI3opoEKICAgIGFjdC5hY3Rpb24gYXMgYWN0aW9uLAogICAgYWN0Lm9wdGlvbiBhcyBvcHRpb24K</text>
+        <text encoding="base64">Y29uc3QgaHR0cHMgPSByZXF1aXJlKCdodHRwcycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0tIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIC0tIOKWsuKWsumZpOWkluadoeS7tuaMh+WumgogICAgLS0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">Y29uc3QgaHR0cHMgPSByZXF1aXJlKCdodHRwcycpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGJvZHkpKTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgICAgICAgICAtLSDilrzilrzpmaTlpJbmnaHku7bmjIflrprvvIhVTklPTuOBmeOCi+aZguOBq+abuOOBkeOBsOaXqeOBneOBhuOBoOOBkeOBqeOAgTLnrofmiYDjgavmm7jjgYvjgarjgYTjgajjgYTjgZHjgarjgY/jgarjgovjgYvjgonjgIHjgZPjga7mrrXpmo7jgafntZ7jgaPjgabjgb/jgovvvIkKICAgICAgICAgICAgLS0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFjdAo=</text>
+        <text encoding="base64">ICAgICAgdGV4dDogdGV4dAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RlJPTQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGJvZHkgPSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">V0hFUkUK</text>
+        <text encoding="base64">ICAgIHBvc3RCaWxsaW5nVG9TbGFjayh0ZXh0LCBjb250ZXh0KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/2018-04-10/${dt}/g</text>
+        <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>2018-04-10</last-search>
+      <last-search>post</last-search>
       <last-offset />
-      <last-pattern>2018-04-10</last-pattern>
-      <last-replace>${dt}</last-replace>
-      <last-substitute>2018-04-10</last-substitute>
+      <last-pattern>post</last-pattern>
+      <last-replace>const</last-replace>
+      <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>digdag</entry>
-        <entry>154</entry>
-        <entry encoding="base64">XDxzdGFnaW5nXD4=</entry>
-        <entry>test</entry>
-        <entry encoding="base64">XDxwYXJ0aXRpb25OYW1lXD4=</entry>
-        <entry encoding="base64">XDxwYXJ0aXRpb25EYXRlXD4=</entry>
         <entry>spark</entry>
         <entry>table</entry>
         <entry>act</entry>
@@ -1180,9 +1191,14 @@
         <entry>location</entry>
         <entry>insert</entry>
         <entry>2018-04-10</entry>
+        <entry>var</entry>
+        <entry>return</entry>
+        <entry>http</entry>
+        <entry>flagon</entry>
+        <entry>情報</entry>
+        <entry>post</entry>
       </history-search>
       <history-cmd>
-        <entry>31</entry>
         <entry>99</entry>
         <entry>104</entry>
         <entry>193</entry>
@@ -1198,10 +1214,11 @@
         <entry>114</entry>
         <entry>wq</entry>
         <entry>%de</entry>
-        <entry>%d</entry>
         <entry>w</entry>
         <entry>%s/${dt}/2018-04-10/g</entry>
         <entry>%s/2018-04-10/${dt}/g</entry>
+        <entry>%s/var/const/g</entry>
+        <entry>%d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
