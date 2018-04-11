@@ -457,14 +457,22 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="27" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/test2.q" timestamp="1523426081332">
+        <mark key="'" line="45" column="9" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="16" />
+        <mark key="." line="45" column="16" />
+        <mark key="^" line="45" column="16" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SparkKafkaExample.scala" timestamp="1523256705451">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" timestamp="1523425010807">
-        <mark key="'" line="330" column="69" />
-        <mark key="[" line="451" column="0" />
-        <mark key="]" line="451" column="0" />
-        <mark key="." line="451" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" timestamp="1523428314785">
+        <mark key="'" line="410" column="0" />
+        <mark key="[" line="468" column="0" />
+        <mark key="]" line="468" column="0" />
+        <mark key="." line="468" column="0" />
+        <mark key="^" line="468" column="2" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/build.sbt" timestamp="1521688986246">
         <mark key="[" line="10" column="0" />
@@ -624,6 +632,9 @@
         <mark key="." line="421" column="35" />
         <mark key="^" line="421" column="35" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/i3-dwh/ddl/i3/activity_corrupt.q" timestamp="1523428459819">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/algorithm/src/test/java/sorting/TestSelectionSortJava.java" timestamp="1521700594310">
         <mark key="[" line="12" column="37" />
         <mark key="]" line="12" column="37" />
@@ -737,12 +748,12 @@
         <mark key="." line="52" column="50" />
         <mark key="^" line="52" column="50" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/test.q" timestamp="1523424987941">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="39" column="4" />
-        <mark key="]" line="39" column="3" />
-        <mark key="^" line="39" column="3" />
-        <mark key="." line="39" column="3" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/test.q" timestamp="1523425291752">
+        <mark key="'" line="58" column="3" />
+        <mark key="[" line="97" column="3" />
+        <mark key="]" line="97" column="2" />
+        <mark key="." line="97" column="2" />
+        <mark key="^" line="97" column="2" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/AmazonKinesis.scala" timestamp="1507113048993">
         <mark key="[" line="69" column="14" />
@@ -993,29 +1004,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/OfficeTools/git/aws-price/diff.js" />
-      <jump line="19" column="6" filename="$USER_HOME$/OfficeTools/git/aws-price/diff.js" />
-      <jump line="62" column="6" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="72" column="4" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="76" column="27" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="148" column="39" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="155" column="35" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="76" column="29" filename="$USER_HOME$/OfficeTools/git/aws-price/diff.js" />
-      <jump line="80" column="0" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.coffee" />
-      <jump line="87" column="11" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
-      <jump line="92" column="1" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
-      <jump line="18" column="19" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
-      <jump line="69" column="4" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
-      <jump line="13" column="2" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
-      <jump line="11" column="2" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
-      <jump line="89" column="6" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
-      <jump line="81" column="8" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
-      <jump line="78" column="8" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
-      <jump line="76" column="6" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
-      <jump line="75" column="6" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
-      <jump line="71" column="4" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
-      <jump line="59" column="4" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
       <jump line="19" column="6" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
       <jump line="37" column="31" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
       <jump line="38" column="25" filename="$USER_HOME$/OfficeTools/git/aws-price/aws-diff.js" />
@@ -1093,46 +1081,69 @@
       <jump line="329" column="50" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="332" column="69" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="29" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/test.q" />
+      <jump line="42" column="4" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/test.q" />
+      <jump line="58" column="3" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/test.q" />
+      <jump line="24" column="5" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/test2.q" />
+      <jump line="54" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/test2.q" />
+      <jump line="37" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/test2.q" />
+      <jump line="38" column="32" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/test2.q" />
+      <jump line="43" column="9" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/test2.q" />
+      <jump line="378" column="327" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="347" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="346" column="83" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="357" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="343" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="355" column="5" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="376" column="22" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="6" column="30" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="345" column="354" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="334" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="9" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="344" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="382" column="246" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="385" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="410" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>R</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>p</text>
       </register>
-      <register name="0" type="4">
-        <text>indiv_olg_trn_summary</text>
+      <register name="0" type="2">
+        <text encoding="base64">SU5TRVJUIE9WRVJXUklURSBUQUJMRSBgaTNgLmBhY3Rpdml0eWAKUEFSVElUSU9OKGR0ID0gJyR7ZHR9JywgYWN0aW9uLCBvcHRpb24pIC0tIGR5bmFtaWMgcGFydGl0aW9u44Gv54++5Zyo5pyJ5Yq544Gn44Gv44Gq44GE44Gu44Gn44GT44Gu5b2iCgpTRUxFQ1QKICAgIGFjdC5pM19zZXJ2aWNlX2NvZGUsIGFjdC5kaXZpc2lvbiwgYWN0LnNlcnZpY2UsIGFjdC5wdXJjaGFzZV9zaXRlLCBhY3Quc2VhcmNoX3NpdGUsIGFjdC5zZWFyY2hfc2VydmljZSwKICAgIGFjdC5zZWFyY2hfY2F0ZWdvcnksCiAgICBhY3Quc2VydmljZV9mbG9vciwKICAgIGFjdC5vcGVuX2lkLAogICAgYWN0Lm1lbWJlcl9pZCwKICAgIGFjdC5zZXNzaW9uLAogICAgYWN0LmNvb2tpZSwKICAgIGFjdC52aWV3X3R5cGUsCiAgICBhY3QudXNlcl9hZ2VudCwKICAgIGFjdC51YV9yZXBsYWNlX2lkLAogICAgYWN0LnVybCwKICAgIGFjdC51cmxfcmVwbGFjZV9pZCwKICAgICcnIGFzIHBhZ2VfaWQsICAgICAtLSDjg5rjg7zjgrhJROOCkuaMr+OCi+OCiOOBhuOBquODhOODvOODq+OChOi7oue9ruWHpueQhuOBjOWPr+iDveOBq+OBquOBo+OBn+OCiUpvaW4KICAgIGFjdC50aW1lLAogICAgYWN0LmlwLAogICAgYWN0LnNlZ21lbnQsCiAgICBhY3QudmFyMSwKICAgIGFjdC52YXIyLAogICAgYWN0LnZhcjMsCiAgICBhY3QudmFyNCwKICAgIGFjdC52YXI1LAogICAgYWN0LnZpZXcsCiAgICBhY3QuYXBpLAogICAgYWN0LmRldGFpbCwKICAgIGFjdC51c2VyLAogICAgYWN0LnB1cmNoYXNlLAogICAgYWN0LnN1Z2dlc3QsCiAgICBhY3QucmV2aWV3LAogICAgLS0gYS5kdCBhcyBkdCwgICAgICAgICBzdHJpY3Tjg6Ljg7zjg4njgarjgonjgIHjgZPjga7ooYzjga/kuI3opoEKICAgIGFjdC5hY3Rpb24gYXMgYWN0aW9uLAogICAgYWN0Lm9wdGlvbiBhcyBvcHRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SU5TRVJUIE9WRVJXUklURSBUQUJMRSBgaTNgLmBpYWN0aXZpdHlfY29ycnVwdGAKU0VMRUNUICogRlJPTSBhY3QgCg==</text>
+        <text encoding="base64">ICAgIC0tIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIC0tIOKWsuKWsumZpOWkluadoeS7tuaMh+WumgogICAgLS0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RlJPTQo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">V0hFUkUgYWN0Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Owo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLS0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgICAgICAgICAtLSDilrzilrzpmaTlpJbmnaHku7bmjIflrprvvIhVTklPTuOBmeOCi+aZguOBq+abuOOBkeOBsOaXqeOBneOBhuOBoOOBkeOBqeOAgTLnrofmiYDjgavmm7jjgYvjgarjgYTjgajjgYTjgZHjgarjgY/jgarjgovjgYvjgonjgIHjgZPjga7mrrXpmo7jgafntZ7jgaPjgabjgb/jgovvvIkKICAgICAgICAgICAgLS0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ICAgIGFjdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">RlJPTQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">V0hFUkUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
