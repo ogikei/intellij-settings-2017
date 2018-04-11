@@ -69,7 +69,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRaw.scala" timestamp="1523256564073">
+      <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SearchHotwordsRaw.scala" timestamp="1523417254987">
         <mark key="'" line="116" column="8" />
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="21" />
@@ -460,12 +460,11 @@
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SparkKafkaExample.scala" timestamp="1523256705451">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" timestamp="1523415755835">
-        <mark key="'" line="102" column="29" />
-        <mark key="[" line="451" column="24" />
-        <mark key="]" line="451" column="24" />
-        <mark key="^" line="451" column="2" />
-        <mark key="." line="451" column="24" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" timestamp="1523417735875">
+        <mark key="'" line="332" column="69" />
+        <mark key="[" line="451" column="0" />
+        <mark key="]" line="451" column="0" />
+        <mark key="." line="451" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/build.sbt" timestamp="1521688986246">
         <mark key="[" line="10" column="0" />
@@ -987,28 +986,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="1" filename="$USER_HOME$/OfficeTools/git/effective-java/aws_price.js" />
-      <jump line="92" column="2" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="51" column="6" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="73" column="0" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="102" column="41" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="110" column="0" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="8" column="12" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="22" column="1" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="86" column="2" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="29" column="17" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="24" column="25" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="79" column="7" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="18" column="71" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="153" column="0" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="147" column="6" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="154" column="0" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="157" column="0" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="156" column="0" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
-      <jump line="96" column="3" filename="$USER_HOME$/OfficeTools/git/aws-price/diff.js" />
       <jump line="4" column="0" filename="$USER_HOME$/OfficeTools/git/aws-price/diff.js" />
       <jump line="26" column="0" filename="$USER_HOME$/OfficeTools/git/aws-price/diff.js" />
       <jump line="19" column="6" filename="$USER_HOME$/OfficeTools/git/aws-price/diff.js" />
@@ -1083,59 +1060,81 @@
       <jump line="46" column="0" filename="$USER_HOME$/OfficeTools/git/dig-lib/scripts/execute_hiveql.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/dig-lib/scripts/execute_hiveql.sh" />
       <jump line="451" column="7" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="1" column="20" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="3" column="29" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="4" column="24" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="102" column="29" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="364" column="29" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="400" column="48" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="41" column="19" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="81" column="25" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="95" column="28" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="129" column="41" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="130" column="40" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="131" column="40" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="141" column="30" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="172" column="36" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="205" column="48" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="206" column="48" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="207" column="48" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="233" column="30" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="264" column="38" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="294" column="44" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="4" column="24" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="49" column="4" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="5" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="123" column="34" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="199" column="46" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="1" column="20" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="329" column="50" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="332" column="69" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>16000000</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">SU5TRVJUIE9WRVJXUklURSBUQUJMRSBgaTNgLmBpYWN0aXZpdHlfY29ycnVwdGAKU0VMRUNUICogRlJPTSBhY3QgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>16000000</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ext</text>
+        <text>p</text>
       </register>
       <register name="0" type="4">
         <text>indiv_olg_trn_summary</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+        <text encoding="base64">SU5TRVJUIE9WRVJXUklURSBUQUJMRSBgaTNgLmBpYWN0aXZpdHlfY29ycnVwdGAKU0VMRUNUICogRlJPTSBhY3QgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7dGFibGU6IFt0cm5fc3VtbWFyeSwgaW5kaXZfb2xnX3Rybl9zdW1tYXJ5XX0K</text>
+        <text encoding="base64">RlJPTQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V0hFUkUgYWN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">X2Vycm9yOgogIHNsYWNrPjogbGliL3RlbXBsYXRlcy9lcnJvci55bWwK</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">X2V4cG9ydDoKICAhaW5jbHVkZSA6IGxpYi9wYXJhbXMvY29tbW9uLmRpZwogICFpbmNsdWRlIDogcGFyYW1zL2NvbW1vbi5kaWcK</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcGFyayA9IFNwYXJrU2Vzc2lvbgogICAgICAgIC5idWlsZGVyKCkKICAgICAgICAuYXBwTmFtZSgiU3BhcmsgSGl2ZSBFeGFtcGxlIikKICAgICAgICAuY29uZmlnKCJzcGFyay5zcWwud2FyZWhvdXNlLmRpciIsIHdhcmVob3VzZUxvY2F0aW9uKQogICAgICAgIC5lbmFibGVIaXZlU3VwcG9ydCgpCiAgICAgICAgLmdldE9yQ3JlYXRlKCkK</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ext</last-search>
+      <last-search>p</last-search>
       <last-offset />
-      <last-pattern>ext</last-pattern>
+      <last-pattern>p</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>”</last-substitute>
       <last-dir>1</last-dir>
@@ -1143,10 +1142,6 @@
     </search>
     <history>
       <history-search>
-        <entry>context</entry>
-        <entry encoding="base64">XDxsaW5rXD4=</entry>
-        <entry>length</entry>
-        <entry>modi</entry>
         <entry>console</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>tablename</entry>
@@ -1163,6 +1158,10 @@
         <entry>table</entry>
         <entry>act</entry>
         <entry>ext</entry>
+        <entry encoding="base64">XDxzaXRlX2luZm9fdjJcPg==</entry>
+        <entry>action</entry>
+        <entry>activity_ext</entry>
+        <entry>p</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
