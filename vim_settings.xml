@@ -460,8 +460,8 @@
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SparkKafkaExample.scala" timestamp="1523256705451">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" timestamp="1523417735875">
-        <mark key="'" line="332" column="69" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" timestamp="1523425010807">
+        <mark key="'" line="330" column="69" />
         <mark key="[" line="451" column="0" />
         <mark key="]" line="451" column="0" />
         <mark key="." line="451" column="0" />
@@ -737,6 +737,13 @@
         <mark key="." line="52" column="50" />
         <mark key="^" line="52" column="50" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/test.q" timestamp="1523424987941">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="39" column="4" />
+        <mark key="]" line="39" column="3" />
+        <mark key="^" line="39" column="3" />
+        <mark key="." line="39" column="3" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/AmazonKinesis.scala" timestamp="1507113048993">
         <mark key="[" line="69" column="14" />
         <mark key="]" line="69" column="16" />
@@ -986,7 +993,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/OfficeTools/git/aws-price/diff.js" />
       <jump line="26" column="0" filename="$USER_HOME$/OfficeTools/git/aws-price/diff.js" />
       <jump line="19" column="6" filename="$USER_HOME$/OfficeTools/git/aws-price/diff.js" />
       <jump line="62" column="6" filename="$USER_HOME$/OfficeTools/git/aws-price/aws_price.js" />
@@ -1086,13 +1092,14 @@
       <jump line="1" column="20" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="329" column="50" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="332" column="69" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="29" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/test.q" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">SU5TRVJUIE9WRVJXUklURSBUQUJMRSBgaTNgLmBpYWN0aXZpdHlfY29ycnVwdGAKU0VMRUNUICogRlJPTSBhY3QgCg==</text>
+      <register name="&quot;" type="4">
+        <text>R</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>R</text>
       </register>
       <register name="/" type="4">
         <text>p</text>
