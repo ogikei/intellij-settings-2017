@@ -505,12 +505,12 @@
       <file name="$USER_HOME$/OfficeTools/git/ansible/production" timestamp="1522828406471">
         <mark key="'" line="213" column="10" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/test-project/diff.js" timestamp="1523508239660">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="132" column="44" />
-        <mark key="]" line="132" column="44" />
-        <mark key="." line="132" column="44" />
-        <mark key="^" line="132" column="47" />
+      <file name="$USER_HOME$/OfficeTools/git/test-project/diff.js" timestamp="1523509453771">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="139" column="53" />
+        <mark key="]" line="139" column="53" />
+        <mark key="." line="139" column="53" />
+        <mark key="^" line="139" column="53" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/algorithm/src/test/scala/sorting/HeapSortScalaSuite.scala" timestamp="1522046718868">
         <mark key="[" line="9" column="43" />
@@ -1094,7 +1094,6 @@
       <jump line="54" column="6" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="60" column="4" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="81" column="2" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
-      <jump line="94" column="20" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
       <jump line="5" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
       <jump line="9" column="21" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
       <jump line="12" column="18" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
@@ -1105,7 +1104,6 @@
       <jump line="50" column="8" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="62" column="2" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="63" column="2" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
       <jump line="141" column="39" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="150" column="35" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="151" column="13" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
@@ -1121,46 +1119,48 @@
       <jump line="20" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
       <jump line="23" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
       <jump line="27" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
+      <jump line="94" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>N</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>N</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>field</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBhZGRlZFBhdGggPSBtZXNzYWdlLmNvbW1pdHNbMF0uYWRkZWQ7CiAgY29uc3QgbW9kaWZpZWRQYXRoID0gbWVzc2FnZS5jb21taXRzWzBdLm1vZGlmaWVkOwogIGNvbnN0IHJlbW92ZWRQYXRoID0gbWVzc2FnZS5jb21taXRzWzBdLnJlbW92ZWQ7Cg==</text>
+        <text encoding="base64">ICAgIGZpZWxkcy5wdXNoKHsKICAgICAgdGl0bGU6IHRleHQsCiAgICAgIHZhbHVlOiB0ZXh0LAogICAgICBzaG9ydDogdHJ1ZQogICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmaWVsZHMucHVzaCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmb3IgKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBmb3IgKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
