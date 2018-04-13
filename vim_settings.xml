@@ -463,8 +463,8 @@
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SparkKafkaExample.scala" timestamp="1523256705451">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" timestamp="1523521890346">
-        <mark key="'" line="339" column="25" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" timestamp="1523587022454">
+        <mark key="'" line="339" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -1020,8 +1020,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="382" column="246" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="385" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="410" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="15" column="24" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="315" column="29" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
@@ -1049,9 +1047,7 @@
       <jump line="371" column="15" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="377" column="10" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="398" column="15" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="376" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="379" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="339" column="25" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="124" column="2" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
       <jump line="138" column="2" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="109" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
@@ -1120,6 +1116,10 @@
       <jump line="15" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
       <jump line="92" column="15" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
       <jump line="17" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
+      <jump line="7" column="23" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="471" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="376" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="339" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1129,7 +1129,7 @@
         <text>, context</text>
       </register>
       <register name="/" type="4">
-        <text>field</text>
+        <text>insert</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgY2hhbm5lbF9uYW1lID0gJyNvZ2l3YXJhLXRlc3QnOwo=</text>
@@ -1166,13 +1166,13 @@
       </register>
     </registers>
     <search>
-      <last-search>field</last-search>
+      <last-search>insert</last-search>
       <last-offset />
-      <last-pattern>field</last-pattern>
+      <last-pattern>insert</last-pattern>
       <last-replace>const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1180,7 +1180,6 @@
         <entry>${dt}</entry>
         <entry>dt</entry>
         <entry>location</entry>
-        <entry>insert</entry>
         <entry>2018-04-10</entry>
         <entry>var</entry>
         <entry>return</entry>
@@ -1196,6 +1195,7 @@
         <entry>console</entry>
         <entry>short</entry>
         <entry>field</entry>
+        <entry>insert</entry>
       </history-search>
       <history-cmd>
         <entry>99</entry>
