@@ -795,6 +795,13 @@
         <mark key="." line="357" column="2" />
         <mark key="^" line="323" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/test-project/test.hql" timestamp="1523609866612">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/utils/SparkJob.scala" timestamp="1523256414056">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="14" column="21" />
@@ -1027,8 +1034,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="462" column="1" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/test.q" />
-      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/test.q" />
       <jump line="337" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="90" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="374" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
@@ -1127,10 +1132,12 @@
       <jump line="8" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/test.sql" />
       <jump line="5" column="13" filename="$USER_HOME$/OfficeTools/git/test-project/test.sql" />
       <jump line="28" column="9" filename="$USER_HOME$/OfficeTools/git/test-project/test.sql" />
+      <jump line="7" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/test.hql" />
+      <jump line="35" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/test.hql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, context</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>, context</text>
@@ -1142,31 +1149,31 @@
         <text encoding="base64">Y29uc3QgY2hhbm5lbF9uYW1lID0gJyNvZ2l3YXJhLXRlc3QnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYm9keSA9IGNodW5rcy5qb2luKCcnKTsK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">U0VMRUNUCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gU2xhY2vjga5JbmNvbWluZyBXZWJob29rc+ioreWumuOBp+WPluW+l+OBl+OBn1dlYmhvb2sgVVJM44KS44K744OD44OICg==</text>
+        <text encoding="base64">c2VsZWN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdGFibGVOYW1lID0gdGFibGVOYW1lc1tpXS5tYXRjaChyZWcpWzFdOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgYm9keSA9IGNodW5rcy5qb2luKCcnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHMgPT09ICJkb2NzIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0YWJsZUluZm8pOwo=</text>
+        <text encoding="base64">Ly8gU2xhY2vjga5JbmNvbWluZyBXZWJob29rc+ioreWumuOBp+WPluW+l+OBl+OBn1dlYmhvb2sgVVJM44KS44K744OD44OICg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChzKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdGFibGVOYW1lID0gdGFibGVOYW1lc1tpXS5tYXRjaChyZWcpWzFdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhib2R5KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHMgPT09ICJkb2NzIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsbwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0YWJsZUluZm8pOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvYXJyYXk8Pi8vZw==</text>
