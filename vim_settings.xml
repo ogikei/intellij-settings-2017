@@ -269,12 +269,12 @@
         <mark key="^" line="48" column="54" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala-capstone/src/main/scala/observatory/Interaction.scala" timestamp="1523689612370">
+      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala-capstone/src/main/scala/observatory/Interaction.scala" timestamp="1523690365842">
         <mark key="'" line="4" column="34" />
-        <mark key="[" line="70" column="6" />
-        <mark key="]" line="70" column="11" />
-        <mark key="." line="4" column="34" />
-        <mark key="^" line="70" column="11" />
+        <mark key="[" line="63" column="22" />
+        <mark key="]" line="63" column="26" />
+        <mark key="." line="63" column="26" />
+        <mark key="^" line="63" column="26" />
       </file>
       <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/pom.xml" timestamp="1507183117483">
         <mark key="'" line="99" column="31" />
@@ -1109,10 +1109,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>Year, Tile</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>Year, Tile</text>
       </register>
       <register name="/" type="4">
         <text>field</text>
