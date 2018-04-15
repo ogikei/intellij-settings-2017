@@ -26,6 +26,8 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
-  <action id="Switcher" />
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
   <action id="TypeHierarchy" />
 </keymap>
