@@ -463,12 +463,12 @@
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SparkKafkaExample.scala" timestamp="1523256705451">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" timestamp="1523850416514">
-        <mark key="'" line="1" column="44" />
-        <mark key="[" line="402" column="0" />
-        <mark key="]" line="402" column="3" />
-        <mark key="." line="402" column="3" />
-        <mark key="^" line="402" column="3" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" timestamp="1523851837729">
+        <mark key="'" line="433" column="16" />
+        <mark key="[" line="440" column="0" />
+        <mark key="]" line="440" column="0" />
+        <mark key="." line="440" column="0" />
+        <mark key="^" line="440" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/build.sbt" timestamp="1521688986246">
         <mark key="[" line="10" column="0" />
@@ -799,12 +799,12 @@
         <mark key="." line="357" column="2" />
         <mark key="^" line="323" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/test-project/test.hql" timestamp="1523609866612">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/test-project/test.hql" timestamp="1523852412884">
+        <mark key="'" line="339" column="7" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="2" />
+        <mark key="." line="1" column="2" />
+        <mark key="^" line="1" column="2" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/utils/SparkJob.scala" timestamp="1523256414056">
         <mark key="'" line="18" column="0" />
@@ -1038,22 +1038,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="374" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="379" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="124" column="2" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
-      <jump line="138" column="2" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
-      <jump line="109" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
-      <jump line="136" column="8" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
-      <jump line="29" column="1" filename="$USER_HOME$/OfficeTools/git/i3-dwh/ddl/i3/activity_corrupt.q" />
-      <jump line="20" column="13" filename="$USER_HOME$/OfficeTools/git/i3-dwh/ddl/i3/activity_corrupt.q" />
-      <jump line="21" column="0" filename="$USER_HOME$/OfficeTools/git/i3-dwh/ddl/i3/activity_corrupt.q" />
-      <jump line="12" column="14" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
-      <jump line="41" column="15" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
-      <jump line="121" column="14" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
-      <jump line="20" column="2" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
-      <jump line="54" column="6" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="60" column="4" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="5" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
       <jump line="9" column="21" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
@@ -1138,67 +1122,78 @@
       <jump line="377" column="18" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="398" column="15" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="1" column="44" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="410" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="433" column="16" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="486" column="25" filename="$USER_HOME$/OfficeTools/git/test-project/test.hql" />
+      <jump line="17" column="15" filename="$USER_HOME$/OfficeTools/git/test-project/test.hql" />
+      <jump line="341" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/test.hql" />
+      <jump line="447" column="28" filename="$USER_HOME$/OfficeTools/git/test-project/test.hql" />
+      <jump line="14" column="21" filename="$USER_HOME$/OfficeTools/git/test-project/test.hql" />
+      <jump line="298" column="19" filename="$USER_HOME$/OfficeTools/git/test-project/test.hql" />
+      <jump line="450" column="29" filename="$USER_HOME$/OfficeTools/git/test-project/test.hql" />
+      <jump line="1" column="23" filename="$USER_HOME$/OfficeTools/git/test-project/test.hql" />
+      <jump line="82" column="34" filename="$USER_HOME$/OfficeTools/git/test-project/test.hql" />
+      <jump line="158" column="46" filename="$USER_HOME$/OfficeTools/git/test-project/test.hql" />
+      <jump line="288" column="50" filename="$USER_HOME$/OfficeTools/git/test-project/test.hql" />
+      <jump line="330" column="12" filename="$USER_HOME$/OfficeTools/git/test-project/test.hql" />
+      <jump line="446" column="7" filename="$USER_HOME$/OfficeTools/git/test-project/test.hql" />
+      <jump line="339" column="7" filename="$USER_HOME$/OfficeTools/git/test-project/test.hql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>dt</text>
+        <text>overwrite</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgY2hhbm5lbF9uYW1lID0gJyNvZ2l3YXJhLXRlc3QnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXBzaXRvcnkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKLy8gaHR0cHPjg6Ljgrjjg6Xjg7zjg6vjga7oqq3jgb/ovrzjgb8KY29uc3QgaHR0cHMgPSByZXF1aXJlKCdodHRwcycpOwpjb25zdCB1cmwgPSByZXF1aXJlKCd1cmwnKTsKCi8vIGNvbnN0IGNoYW5uZWxfbmFtZSA9ICcjb2dpd2FyYS10ZXN0JzsKY29uc3QgY2hhbm5lbF9uYW1lID0gJyNiZC1ncjEnOwoKLy8gU2xhY2sgSW5jb21pbmcgV2ViaG9vayBVUkzjgpLmjIflrprjgIIKLy8gY29uc3QgY2hhbm5lbF91cmwgPSAnaHR0cHM6Ly9ob29rcy5zbGFjay5jb20vc2VydmljZXMvVDA5RFJENFBRL0I5WDk0Rzk0Si9hNU5GOEVHdnRHbXlOTUlPeHdHNGV4czAnOwpjb25zdCBjaGFubmVsX3VybCA9ICdodHRwczovL2hvb2tzLnNsYWNrLmNvbS9zZXJ2aWNlcy9UMDlEUkQ0UFEvQkE0TFEwODEwL3dQYUpmV2poN3ZvWmltQVpCR2lpaUlNdic7Cgpjb25zdCBnZXRGbGFnb25Eb2NzRGlmZiA9IGZ1bmN0aW9uIChldmVudCwgY29udGV4dCkgewogIGNvbnN0IG1lc3NhZ2UgPSBKU09OLnBhcnNlKGV2ZW50LlJlY29yZHNbMF0uU25zLk1lc3NhZ2UpOwogIGNvbnN0IGV2ZW50VHlwZSA9IGV2ZW50LlJlY29yZHNbMF0uU25zLk1lc3NhZ2VBdHRyaWJ1dGVzWydYLUdpdGh1Yi1FdmVudCddLlZhbHVlOwogIGNvbnN0IGNvbW1pdFVybCA9IG1lc3NhZ2UuY29tbWl0c1swXS51cmw7CgogIGlmIChldmVudFR5cGUgIT09ICJwdXNoIikgewogICAgcmV0dXJuIHRydWU7CiAgfQoKICBjb25zdCBhZGRlZFBhdGggPSBtZXNzYWdlLmNvbW1pdHNbMF0uYWRkZWQ7CiAgY29uc3QgbW9kaWZpZWRQYXRoID0gbWVzc2FnZS5jb21taXRzWzBdLm1vZGlmaWVkOwogIGNvbnN0IHJlbW92ZWRQYXRoID0gbWVzc2FnZS5jb21taXRzWzBdLnJlbW92ZWQ7CiAgY29uc3QgcGF0aHMgPSB7fTsKICBwYXRoc1siQWRkZWQiXSA9IGFkZGVkUGF0aDsKICBwYXRoc1siTW9kaWZpZWQiXSA9IG1vZGlmaWVkUGF0aDsKICBwYXRoc1siUmVtb3ZlZCJdID0gcmVtb3ZlZFBhdGg7CgogIGNvbnN0IGZpZWxkcyA9IGNyZWF0ZUZpZWxkcyhwYXRocywgY29udGV4dCk7CiAgY29uc3QgYXR0YWNobWVudHMgPSBjcmVhdGVBdHRhY2htZW50cyhmaWVsZHMsIGNvbW1pdFVybCk7CgogIGNvbnN0IGJvZHkgPSBKU09OLnN0cmluZ2lmeShhdHRhY2htZW50cyk7CiAgY29uc3Qgb3B0aW9ucyA9IHVybC5wYXJzZShjaGFubmVsX3VybCk7CiAgb3B0aW9ucy5tZXRob2QgPSAnUE9TVCc7CiAgb3B0aW9ucy5oZWFkZXIgPSB7CiAgICAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nLAogICAgJ0NvbnRlbnQtTGVuZ3RoJzogQnVmZmVyLmJ5dGVMZW5ndGgoYm9keSkKICB9OwogIGxldCBzdGF0dXNDb2RlID0gNDAwOwogIGNvbnN0IHBvc3RSZXEgPSBodHRwcy5yZXF1ZXN0KG9wdGlvbnMsIGZ1bmN0aW9uIChyZXMpIHsKICAgIGNvbnN0IGNodW5rcyA9IFtdOwogICAgcmVzLnNldEVuY29kaW5nKCd1dGY4Jyk7CiAgICByZXMub24oJ2RhdGEnLCBmdW5jdGlvbiAoY2h1bmspIHsKICAgICAgcmV0dXJuIGNodW5rcy5wdXNoKGNodW5rKTsKICAgIH0pOwogICAgcmVzLm9uKCdlbmQnLCBmdW5jdGlvbiAoKSB7CiAgICAgIHN0YXR1c0NvZGUgPSByZXMuc3RhdHVzQ29kZTsKICAgIH0pOwogICAgcmV0dXJuIHJlczsKICB9KTsKICBwb3N0UmVxLndyaXRlKGJvZHkpOwogIHBvc3RSZXEuZW5kKCk7CiAgaWYgKHN0YXR1c0NvZGUgPCA0MDApIHsKICAgIGNvbnRleHQuc3VjY2VlZCgpOwogIH0KfTsKCmNvbnN0IGNyZWF0ZUZpZWxkcyA9IGZ1bmN0aW9uIChwYXRocykgewogIGNvbnN0IGZpZWxkcyA9IFtdOwogIGZvciAoY29uc3Qgc3RhdHVzIGluIHBhdGhzKSB7CiAgICBpZiAocGF0aHMuaGFzT3duUHJvcGVydHkoc3RhdHVzKSkgewogICAgICBpZiAocGF0aHNbc3RhdHVzXSAhPT0gIiIpIHsKICAgICAgICBjb25zdCB0YWJsZUluZm8gPSBwYXJzZVZhbHVlKHBhdGhzW3N0YXR1c10pOwogICAgICAgIGZpZWxkcy5wdXNoKHsKICAgICAgICAgIHRpdGxlOiBzdGF0dXMsCiAgICAgICAgICB2YWx1ZTogdGFibGVJbmZvLAogICAgICAgICAgc2hvcnQ6IHRydWUKICAgICAgICB9KQogICAgICB9CiAgICB9CiAgfQogIHJldHVybiBmaWVsZHMKfTsKCmNvbnN0IHBhcnNlVmFsdWUgPSBmdW5jdGlvbiAodmFsdWUpIHsKICBsZXQgdGFibGVJbmZvID0gJyc7CiAgZm9yIChsZXQgaSA9IDA7IGkgPCB2YWx1ZS5sZW5ndGg7IGkrKykgewogICAgY29uc3Qgc1ZhbHVlID0gdmFsdWVbaV0uc3BsaXQoJy8nKTsKICAgIGlmIChzVmFsdWVbMF0gPT09ICJkb2NzIikgewogICAgICBjb25zdCByZWcgPSAvKC4rKShcLlteLl0rJCkvOwogICAgICB0YWJsZUluZm8gKz0gIkRCTmFtZTogIiArIHNWYWx1ZVsxXSArICdcbicgKyAiVGFibGVOYW1lOiAiICsgc1ZhbHVlWzJdLm1hdGNoKHJlZylbMV0gKyAnXG4nOwogICAgfQogIH0KICByZXR1cm4gdGFibGVJbmZvCn07Cgpjb25zdCBjcmVhdGVBdHRhY2htZW50cyA9IGZ1bmN0aW9uIChmaWVsZHMsIGNvbW1pdFVybCkgewogIHJldHVybiB7CiAgICBjaGFubmVsOiBjaGFubmVsX25hbWUsCiAgICBhdHRhY2htZW50czogW3sKICAgICAgdGl0bGU6ICJmbGFnb24tZG9jcyDmm7TmlrDmg4XloLEiLAogICAgICB0aXRsZV9saW5rOiBjb21taXRVcmwsCiAgICAgIGNvbG9yOiAnZ29vZCcsCiAgICAgIGZpZWxkczogZmllbGRzLAogICAgICBmb290ZXI6ICLmnKzlpInmm7TjgYzlj43mmKDjgZXjgozjgZ/nirbmhYvjgafjga7jg4fjg7zjgr/jga7jgZTliKnnlKjjga/jgIHnv4zml6Xku6XpmY3jgajjgarjgorjgb7jgZnjgIIiCiAgICB9XQogIH0KfTsKCmV4cG9ydHMuaGFuZGxlciA9IGZ1bmN0aW9uIChldmVudCwgY29udGV4dCkgewogIGdldEZsYWdvbkRvY3NEaWZmKGV2ZW50LCBjb250ZXh0KQp9Owo=</text>
+        <text encoding="base64">V0lUSCBiYXNlX2RhdGEgQVMgKAogIFNFTEVDVCBESVNUSU5DVAogIGBhY3Rpb25gLAogIGBvcHRpb25gLAogIGBpM19zZXJ2aWNlX2NvZGVgLAogIGBkaXZpc2lvbmAgLAogIGBzZXJ2aWNlYCAsCiAgYHB1cmNoYXNlX3NpdGVgICwKICBgc2VhcmNoX3NpdGVgICwKICBgc2VhcmNoX3NlcnZpY2VgICwKICBgc2VhcmNoX2NhdGVnb3J5YCAsCiAgYHNlcnZpY2VfZmxvb3JgICwKICBgb3Blbl9pZGAgLAogIGBtZW1iZXJfaWRgICwKICBgc2Vzc2lvbmAgLAogIGBjb29raWVgICwKICBgdmlld190eXBlYCAsCiAgYHVzZXJfYWdlbnRgICwKICBgdWFfcmVwbGFjZV9pZGAgLAogIGB1cmxgICwKICBgdXJsX3JlcGxhY2VfaWRgICwKICBgcGFnZV9pZGAgLAogIGB0aW1lYCAsCiAgYGlwYCAsCiAgYHNlZ21lbnRgICwKICBgdmFyMWAgLAogIGB2YXIyYCAsCiAgYHZhcjNgICwKICBgdmFyNGAgLAogIGB2YXI1YCAsCiAgYHZpZXdgICwKICBgYXBpYCAsCiAgYGRldGFpbGAgLAogIGB1c2VyYCAsCiAgYHB1cmNoYXNlYCAsCiAgYHN1Z2dlc3RgICwKICBgcmV2aWV3YAopCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8YSBocmVmPSJodHRwczovL2NvbmZsLmFybXMuZG1tLmNvbS9wYWdlcy92aWV3cGFnZS5hY3Rpb24/cGFnZUlkPTIyODUzOTI4IiB0YXJnZXQ9Il9ibGFuayI+MjAxNi0wNC0yOF9UUi05Nl9NQVXjg6zjg5vjgprjg7zjg4jjga7kvJrlk6FVVeOBruaVsOWApOOBi+OCmTIwMTYwMzAx44GL44KJ5aKX5Yqg44GX44Gm44GE44KLPC9hPgo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXBzaXRvcnkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAyMDE2LTAzLTAx44KI44KK5YmN44Gu5Lya5ZOhVVXlgKTjga/jgIHkuI3mraPjg4fjg7zjgr/jgYzmt7fjgZbjgaPjgabjgYTjgovjgZ/jgoHlj4LogIPjgavjgarjgonjgarjgYQ8YnI+Cg==</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKLy8gaHR0cHPjg6Ljgrjjg6Xjg7zjg6vjga7oqq3jgb/ovrzjgb8KY29uc3QgaHR0cHMgPSByZXF1aXJlKCdodHRwcycpOwpjb25zdCB1cmwgPSByZXF1aXJlKCd1cmwnKTsKCi8vIGNvbnN0IGNoYW5uZWxfbmFtZSA9ICcjb2dpd2FyYS10ZXN0JzsKY29uc3QgY2hhbm5lbF9uYW1lID0gJyNiZC1ncjEnOwoKLy8gU2xhY2sgSW5jb21pbmcgV2ViaG9vayBVUkzjgpLmjIflrprjgIIKLy8gY29uc3QgY2hhbm5lbF91cmwgPSAnaHR0cHM6Ly9ob29rcy5zbGFjay5jb20vc2VydmljZXMvVDA5RFJENFBRL0I5WDk0Rzk0Si9hNU5GOEVHdnRHbXlOTUlPeHdHNGV4czAnOwpjb25zdCBjaGFubmVsX3VybCA9ICdodHRwczovL2hvb2tzLnNsYWNrLmNvbS9zZXJ2aWNlcy9UMDlEUkQ0UFEvQkE0TFEwODEwL3dQYUpmV2poN3ZvWmltQVpCR2lpaUlNdic7Cgpjb25zdCBnZXRGbGFnb25Eb2NzRGlmZiA9IGZ1bmN0aW9uIChldmVudCwgY29udGV4dCkgewogIGNvbnN0IG1lc3NhZ2UgPSBKU09OLnBhcnNlKGV2ZW50LlJlY29yZHNbMF0uU25zLk1lc3NhZ2UpOwogIGNvbnN0IGV2ZW50VHlwZSA9IGV2ZW50LlJlY29yZHNbMF0uU25zLk1lc3NhZ2VBdHRyaWJ1dGVzWydYLUdpdGh1Yi1FdmVudCddLlZhbHVlOwogIGNvbnN0IGNvbW1pdFVybCA9IG1lc3NhZ2UuY29tbWl0c1swXS51cmw7CgogIGlmIChldmVudFR5cGUgIT09ICJwdXNoIikgewogICAgcmV0dXJuIHRydWU7CiAgfQoKICBjb25zdCBhZGRlZFBhdGggPSBtZXNzYWdlLmNvbW1pdHNbMF0uYWRkZWQ7CiAgY29uc3QgbW9kaWZpZWRQYXRoID0gbWVzc2FnZS5jb21taXRzWzBdLm1vZGlmaWVkOwogIGNvbnN0IHJlbW92ZWRQYXRoID0gbWVzc2FnZS5jb21taXRzWzBdLnJlbW92ZWQ7CiAgY29uc3QgcGF0aHMgPSB7fTsKICBwYXRoc1siQWRkZWQiXSA9IGFkZGVkUGF0aDsKICBwYXRoc1siTW9kaWZpZWQiXSA9IG1vZGlmaWVkUGF0aDsKICBwYXRoc1siUmVtb3ZlZCJdID0gcmVtb3ZlZFBhdGg7CgogIGNvbnN0IGZpZWxkcyA9IGNyZWF0ZUZpZWxkcyhwYXRocywgY29udGV4dCk7CiAgY29uc3QgYXR0YWNobWVudHMgPSBjcmVhdGVBdHRhY2htZW50cyhmaWVsZHMsIGNvbW1pdFVybCk7CgogIGNvbnN0IGJvZHkgPSBKU09OLnN0cmluZ2lmeShhdHRhY2htZW50cyk7CiAgY29uc3Qgb3B0aW9ucyA9IHVybC5wYXJzZShjaGFubmVsX3VybCk7CiAgb3B0aW9ucy5tZXRob2QgPSAnUE9TVCc7CiAgb3B0aW9ucy5oZWFkZXIgPSB7CiAgICAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nLAogICAgJ0NvbnRlbnQtTGVuZ3RoJzogQnVmZmVyLmJ5dGVMZW5ndGgoYm9keSkKICB9OwogIGxldCBzdGF0dXNDb2RlID0gNDAwOwogIGNvbnN0IHBvc3RSZXEgPSBodHRwcy5yZXF1ZXN0KG9wdGlvbnMsIGZ1bmN0aW9uIChyZXMpIHsKICAgIGNvbnN0IGNodW5rcyA9IFtdOwogICAgcmVzLnNldEVuY29kaW5nKCd1dGY4Jyk7CiAgICByZXMub24oJ2RhdGEnLCBmdW5jdGlvbiAoY2h1bmspIHsKICAgICAgcmV0dXJuIGNodW5rcy5wdXNoKGNodW5rKTsKICAgIH0pOwogICAgcmVzLm9uKCdlbmQnLCBmdW5jdGlvbiAoKSB7CiAgICAgIHN0YXR1c0NvZGUgPSByZXMuc3RhdHVzQ29kZTsKICAgIH0pOwogICAgcmV0dXJuIHJlczsKICB9KTsKICBwb3N0UmVxLndyaXRlKGJvZHkpOwogIHBvc3RSZXEuZW5kKCk7CiAgaWYgKHN0YXR1c0NvZGUgPCA0MDApIHsKICAgIGNvbnRleHQuc3VjY2VlZCgpOwogIH0KfTsKCmNvbnN0IGNyZWF0ZUZpZWxkcyA9IGZ1bmN0aW9uIChwYXRocykgewogIGNvbnN0IGZpZWxkcyA9IFtdOwogIGZvciAoY29uc3Qgc3RhdHVzIGluIHBhdGhzKSB7CiAgICBpZiAocGF0aHMuaGFzT3duUHJvcGVydHkoc3RhdHVzKSkgewogICAgICBpZiAocGF0aHNbc3RhdHVzXSAhPT0gIiIpIHsKICAgICAgICBjb25zdCB0YWJsZUluZm8gPSBwYXJzZVZhbHVlKHBhdGhzW3N0YXR1c10pOwogICAgICAgIGZpZWxkcy5wdXNoKHsKICAgICAgICAgIHRpdGxlOiBzdGF0dXMsCiAgICAgICAgICB2YWx1ZTogdGFibGVJbmZvLAogICAgICAgICAgc2hvcnQ6IHRydWUKICAgICAgICB9KQogICAgICB9CiAgICB9CiAgfQogIHJldHVybiBmaWVsZHMKfTsKCmNvbnN0IHBhcnNlVmFsdWUgPSBmdW5jdGlvbiAodmFsdWUpIHsKICBsZXQgdGFibGVJbmZvID0gJyc7CiAgZm9yIChsZXQgaSA9IDA7IGkgPCB2YWx1ZS5sZW5ndGg7IGkrKykgewogICAgY29uc3Qgc1ZhbHVlID0gdmFsdWVbaV0uc3BsaXQoJy8nKTsKICAgIGlmIChzVmFsdWVbMF0gPT09ICJkb2NzIikgewogICAgICBjb25zdCByZWcgPSAvKC4rKShcLlteLl0rJCkvOwogICAgICB0YWJsZUluZm8gKz0gIkRCTmFtZTogIiArIHNWYWx1ZVsxXSArICdcbicgKyAiVGFibGVOYW1lOiAiICsgc1ZhbHVlWzJdLm1hdGNoKHJlZylbMV0gKyAnXG4nOwogICAgfQogIH0KICByZXR1cm4gdGFibGVJbmZvCn07Cgpjb25zdCBjcmVhdGVBdHRhY2htZW50cyA9IGZ1bmN0aW9uIChmaWVsZHMsIGNvbW1pdFVybCkgewogIHJldHVybiB7CiAgICBjaGFubmVsOiBjaGFubmVsX25hbWUsCiAgICBhdHRhY2htZW50czogW3sKICAgICAgdGl0bGU6ICJmbGFnb24tZG9jcyDmm7TmlrDmg4XloLEiLAogICAgICB0aXRsZV9saW5rOiBjb21taXRVcmwsCiAgICAgIGNvbG9yOiAnZ29vZCcsCiAgICAgIGZpZWxkczogZmllbGRzLAogICAgICBmb290ZXI6ICLmnKzlpInmm7TjgYzlj43mmKDjgZXjgozjgZ/nirbmhYvjgafjga7jg4fjg7zjgr/jga7jgZTliKnnlKjjga/jgIHnv4zml6Xku6XpmY3jgajjgarjgorjgb7jgZnjgIIiCiAgICB9XQogIH0KfTsKCmV4cG9ydHMuaGFuZGxlciA9IGZ1bmN0aW9uIChldmVudCwgY29udGV4dCkgewogIGdldEZsYWdvbkRvY3NEaWZmKGV2ZW50LCBjb250ZXh0KQp9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8YSBocmVmPSJodHRwczovL2NvbmZsLmFybXMuZG1tLmNvbS9wYWdlcy92aWV3cGFnZS5hY3Rpb24/cGFnZUlkPTIyODUzOTI4IiB0YXJnZXQ9Il9ibGFuayI+MjAxNi0wNC0yOF9UUi05Nl9NQVXjg6zjg5vjgprjg7zjg4jjga7kvJrlk6FVVeOBruaVsOWApOOBi+OCmTIwMTYwMzAx44GL44KJ5aKX5Yqg44GX44Gm44GE44KLPC9hPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUCg==</text>
+        <text encoding="base64">ICAyMDE2LTAzLTAx44KI44KK5YmN44Gu5Lya5ZOhVVXlgKTjga/jgIHkuI3mraPjg4fjg7zjgr/jgYzmt7fjgZbjgaPjgabjgYTjgovjgZ/jgoHlj4LogIPjgavjgarjgonjgarjgYQ8YnI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VsZWN0Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYm9keSA9IGNodW5rcy5qb2luKCcnKTsK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">U0VMRUNUCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">c2VsZWN0Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>%d</text>
+        <text>%s/${dt}/2018-04-10/g</text>
       </register>
     </registers>
     <search>
-      <last-search>dt</last-search>
+      <last-search>overwrite</last-search>
       <last-offset />
-      <last-pattern>dt</last-pattern>
-      <last-replace />
-      <last-substitute encoding="base64">YXJyYXk8Pg==</last-substitute>
+      <last-pattern>overwrite</last-pattern>
+      <last-replace>2018-04-10</last-replace>
+      <last-substitute>${dt}</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>2018-04-10</entry>
-        <entry>var</entry>
-        <entry>return</entry>
-        <entry>http</entry>
-        <entry>flagon</entry>
         <entry>情報</entry>
         <entry>post</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
@@ -1209,11 +1204,16 @@
         <entry>console</entry>
         <entry>short</entry>
         <entry>field</entry>
-        <entry>insert</entry>
         <entry>string</entry>
         <entry>''</entry>
         <entry encoding="base64">YXJyYXk8Pg==</entry>
+        <entry encoding="base64">XDw3XD4=</entry>
         <entry>dt</entry>
+        <entry>insert</entry>
+        <entry>${dt}</entry>
+        <entry>insert over</entry>
+        <entry>activity</entry>
+        <entry>overwrite</entry>
       </history-search>
       <history-cmd>
         <entry>153</entry>
@@ -1229,13 +1229,13 @@
         <entry>wq</entry>
         <entry>%de</entry>
         <entry>w</entry>
-        <entry>%s/${dt}/2018-04-10/g</entry>
         <entry>%s/2018-04-10/${dt}/g</entry>
         <entry>%s/var/const/g</entry>
         <entry>%s/string/''/g</entry>
         <entry>%s/''//g</entry>
         <entry encoding="base64">JXMvYXJyYXk8Pi8vZw==</entry>
         <entry>%d</entry>
+        <entry>%s/${dt}/2018-04-10/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
