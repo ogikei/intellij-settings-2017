@@ -463,8 +463,8 @@
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/SparkKafkaExample.scala" timestamp="1523256705451">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" timestamp="1523587022454">
-        <mark key="'" line="339" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" timestamp="1523841729759">
+        <mark key="'" line="1" column="44" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -1034,27 +1034,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="337" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="90" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="374" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="1" column="47" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="39" column="24" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="53" column="28" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="84" column="32" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="99" column="30" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="130" column="36" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="160" column="40" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="177" column="36" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="191" column="30" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="222" column="38" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="252" column="44" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="290" column="48" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="303" column="36" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="325" column="40" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="340" column="10" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="371" column="15" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="377" column="10" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="398" column="15" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="379" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="124" column="2" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
       <jump line="138" column="2" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
@@ -1134,6 +1115,25 @@
       <jump line="28" column="9" filename="$USER_HOME$/OfficeTools/git/test-project/test.sql" />
       <jump line="7" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/test.hql" />
       <jump line="35" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/test.hql" />
+      <jump line="378" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="39" column="24" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="53" column="28" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="84" column="40" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="99" column="30" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="130" column="36" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="160" column="48" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="177" column="44" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="191" column="30" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="222" column="38" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="252" column="44" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="290" column="56" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="303" column="44" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="325" column="35" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="340" column="18" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="371" column="15" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="377" column="18" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="398" column="15" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="1" column="44" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1143,7 +1143,7 @@
         <text>, context</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">YXJyYXk8Pg==</text>
+        <text>dt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgY2hhbm5lbF9uYW1lID0gJyNvZ2l3YXJhLXRlc3QnOwo=</text>
@@ -1180,9 +1180,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">YXJyYXk8Pg==</last-search>
+      <last-search>dt</last-search>
       <last-offset />
-      <last-pattern encoding="base64">YXJyYXk8Pg==</last-pattern>
+      <last-pattern>dt</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">YXJyYXk8Pg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1190,7 +1190,6 @@
     </search>
     <history>
       <history-search>
-        <entry>location</entry>
         <entry>2018-04-10</entry>
         <entry>var</entry>
         <entry>return</entry>
@@ -1210,6 +1209,7 @@
         <entry>string</entry>
         <entry>''</entry>
         <entry encoding="base64">YXJyYXk8Pg==</entry>
+        <entry>dt</entry>
       </history-search>
       <history-cmd>
         <entry>153</entry>
