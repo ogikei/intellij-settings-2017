@@ -334,12 +334,6 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler-2/src/main/java/com/dmm/aws/Main.java" timestamp="1523947166845">
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/git/algorithm/src/main/java/sorting/InsertionSort.java" timestamp="1521017977101">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="29" />
@@ -397,12 +391,6 @@
         <mark key="]" line="9" column="1" />
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
-      </file>
-      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler-2/src/main/java/com/dmm/aws/util/ReadConfig.java" timestamp="1523946829563">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/main/scala/org/apache/spark/examples/streaming/KinesisWordCountASL.scala" timestamp="1507096635657">
         <mark key="[" line="262" column="0" />
@@ -511,11 +499,12 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/test-project/diff.js" timestamp="1523943718412">
+      <file name="$USER_HOME$/OfficeTools/git/test-project/diff.js" timestamp="1523949696518">
         <mark key="'" line="15" column="77" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+        <mark key="[" line="19" column="46" />
+        <mark key="]" line="19" column="51" />
+        <mark key="." line="19" column="51" />
+        <mark key="^" line="19" column="51" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/algorithm/src/test/scala/sorting/HeapSortScalaSuite.scala" timestamp="1522046718868">
         <mark key="[" line="9" column="43" />
@@ -1167,10 +1156,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>change-log</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>change-log</text>
       </register>
       <register name="/" type="4">
         <text>value</text>
