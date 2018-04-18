@@ -150,7 +150,7 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-dwh/ddl/common_malmag/cuenote_deliver_id_list.q" timestamp="1524029016626">
+      <file name="$USER_HOME$/OfficeTools/git/i3-dwh/ddl/common_malmag/cuenote_deliver_id_list.q" timestamp="1524030736122">
         <mark key="a" line="0" column="27" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="8" column="16" />
@@ -217,7 +217,7 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-dwh/ddl/common_malmag/mailmagazine_only_email_users.q" timestamp="1524029034618">
+      <file name="$USER_HOME$/OfficeTools/git/i3-dwh/ddl/common_malmag/mailmagazine_only_email_users.q" timestamp="1524030607514">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="8" column="16" />
         <mark key="." line="8" column="0" />
@@ -812,11 +812,11 @@
         <mark key="." line="22" column="20" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-collector/lib/hive/dml/common/malmag/transform_cuenote_adbook_list.q" timestamp="1524029089433">
-        <mark key="[" line="8" column="2" />
-        <mark key="]" line="8" column="2" />
-        <mark key="." line="8" column="2" />
-        <mark key="^" line="8" column="2" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-collector/lib/hive/dml/common/malmag/transform_cuenote_adbook_list.q" timestamp="1524030803559">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="9" column="3" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisReceiver.scala" timestamp="1507098953425">
         <mark key="'" line="354" column="23" />
@@ -832,11 +832,11 @@
         <mark key="." line="1" column="2" />
         <mark key="^" line="1" column="2" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-collector/env/production/collecting/common/malmag/collecting.json5" timestamp="1524030104008">
-        <mark key="[" line="16" column="72" />
-        <mark key="]" line="16" column="90" />
-        <mark key="." line="16" column="90" />
-        <mark key="^" line="16" column="90" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-collector/env/production/collecting/common/malmag/collecting.json5" timestamp="1524030476113">
+        <mark key="[" line="17" column="72" />
+        <mark key="]" line="17" column="90" />
+        <mark key="." line="17" column="90" />
+        <mark key="^" line="17" column="90" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/scala/utils/SparkJob.scala" timestamp="1523256414056">
         <mark key="'" line="18" column="0" />
@@ -1058,11 +1058,11 @@
         <mark key="." line="154" column="34" />
         <mark key="^" line="154" column="34" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-collector/env/production/collecting/common/malmag/import.json5" timestamp="1524030127106">
-        <mark key="[" line="21" column="98" />
-        <mark key="]" line="21" column="98" />
-        <mark key="." line="21" column="98" />
-        <mark key="^" line="21" column="97" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-collector/env/production/collecting/common/malmag/import.json5" timestamp="1524030504250">
+        <mark key="[" line="21" column="147" />
+        <mark key="]" line="22" column="155" />
+        <mark key="." line="22" column="155" />
+        <mark key="^" line="22" column="155" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExample.java" timestamp="1512554557236">
         <mark key="'" line="0" column="0" />
@@ -1196,10 +1196,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text encoding="base64">IHN0cmluZyk=</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IHN0cmluZyk=</text>
       </register>
       <register name="/" type="4">
         <text>value</text>
@@ -1208,31 +1208,31 @@
         <text encoding="base64">LS1udW0tbWFwcGVycyAyIC0tbnVsbC1zdHJpbmcgXFxOIC0tbnVsbC1ub24tc3RyaW5nIFxcTiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBgZW1haWxfaWRgCiAgLCBgc2VydmljZV9pZGAKICAsIGBhZGRyZXNzYAogICwgYGFkZHJlc3Nfc2AKICAsIGByZWdpc3RfZGF0ZWAKICAsIGBib3VuY2VfY291bnRgCiAgLCBgbWVtYmVyX2lkYAogICwgYHN0YW1wYAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y3Vlbm90ZV9hZGJvb2tfbGlzdApjdWVub3RlX2FkYm9va19saXN0CmBtZW1iZXJfaWRgCixgZ3JvdXBfbmFtZWAKLGBjcmVhdGVkYAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBgbWVtYmVyX2lkYAogICxgZ3JvdXBfbmFtZWAKICAsYGNyZWF0ZWRgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LS0gY29tbW9uX21hbG1hZwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHtISVZFX1RBQkxFOiAicmF3X2NvbW1vbl9tYWxtYWcubWFpbG1hZ2F6aW5lX3NlcnZpY2VfbXN0IiwgT1BUUzogIi0tbnVtLW1hcHBlcnMgMiAtLXNwbGl0LWJ5IHNlcnZpY2VfaWQiLCBRVUVSWTogImxpYi9oaXZlL2RtbC8uc3FsIiB9LAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHtEQl9UQUJMRTogIm1hbG1hZ19hY3Rpb25fbG9nX3QiLCBISVZFX1RBQkxFOiAicmF3X2NvbW1vbl9tYWxtYWcubWFsbWFnX2FjdGlvbl9sb2ciLCBPUFRTOiAiLS1zcGxpdC1ieSBjcmVhdGVfdGltZSIsIFdIRVJFOiAic3RhbXAgYmV0d2VlbiAnJHtEVH0gMDA6MDA6MDAnIGFuZCAnJHtEVH0gMjM6NTk6NTknIn0sCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBgZW1haWxfaWRgCiAgLCBgc2VydmljZV9pZGAKICAsIGBhZGRyZXNzYAogICwgYGFkZHJlc3Nfc2AKICAsIGByZWdpc3RfZGF0ZWAKICAsIGBib3VuY2VfY291bnRgCiAgLCBgbWVtYmVyX2lkYAogICwgYHN0YW1wYAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAsICBgc3RhbXBgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBgZW1haWxfaWRgCiAgLCBgc2VydmljZV9pZGAKICAsIGBhZGRyZXNzYAogICwgYGFkZHJlc3Nfc2AKICAsIGByZWdpc3RfZGF0ZWAKICAsIGBib3VuY2VfY291bnRgCiAgLCBgbWVtYmVyX2lkYAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y3Vlbm90ZV9hZGJvb2tfbGlzdApjdWVub3RlX2FkYm9va19saXN0CmBtZW1iZXJfaWRgCixgZ3JvdXBfbmFtZWAKLGBjcmVhdGVkYAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">VU5JUVVFIEtFWShgc2VydmljZV9pZGApLApLRVkgYHR5cGVgKGB0eXBlYCksCktFWSBgZGV2aWNlYChgZGV2aWNlYCkKKUVOR0lORSA9IElubm9EQiBERUZBVUxUIENIQVJTRVQgPSB1dGY4Cg==</text>
+        <text encoding="base64">ICBgbWVtYmVyX2lkYAogICxgZ3JvdXBfbmFtZWAKICAsYGNyZWF0ZWRgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
