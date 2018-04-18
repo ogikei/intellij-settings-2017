@@ -150,7 +150,7 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-dwh/ddl/common_malmag/cuenote_deliver_id_list.q" timestamp="1524030736122">
+      <file name="$USER_HOME$/OfficeTools/git/i3-dwh/ddl/common_malmag/cuenote_deliver_id_list.q" timestamp="1524031600259">
         <mark key="a" line="0" column="27" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="8" column="16" />
@@ -277,6 +277,12 @@
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/i3-collector/env/production/delivering/common/malmag/delivering.json5" timestamp="1524032117455">
+        <mark key="[" line="69" column="75" />
+        <mark key="]" line="69" column="93" />
+        <mark key="." line="69" column="93" />
+        <mark key="^" line="69" column="93" />
       </file>
       <file name="$USER_HOME$/MyWork/git/spark/sql/core/src/test/scala/org/apache/spark/sql/UserDefinedTypeSuite.scala" timestamp="1507201530450">
         <mark key="'" line="92" column="13" />
@@ -453,6 +459,9 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/i3-collector/lib/hdfs/distcp2s3.sh" timestamp="1524032351763">
+        <mark key="'" line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/algorithm/src/main/java/sorting/InsertionSortJava.java" timestamp="1521699628138">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="4" column="34" />
@@ -536,6 +545,7 @@
         <mark key="]" line="14" column="145" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-collector/lib/hive/dml/common/malmag/transform_mailmagazine_only_email_users.q" timestamp="1524030017653" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-collector/job/extract_production/common-malmag" timestamp="1524032155490" />
       <file name="$USER_HOME$/OfficeTools/git/ansible/site.yml" timestamp="1522828328343">
         <mark key="'" line="826" column="6" />
         <mark key="[" line="96" column="7" />
@@ -1058,11 +1068,11 @@
         <mark key="." line="154" column="34" />
         <mark key="^" line="154" column="34" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-collector/env/production/collecting/common/malmag/import.json5" timestamp="1524030504250">
-        <mark key="[" line="21" column="147" />
-        <mark key="]" line="22" column="155" />
-        <mark key="." line="22" column="155" />
-        <mark key="^" line="22" column="155" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-collector/env/production/collecting/common/malmag/import.json5" timestamp="1524032615789">
+        <mark key="[" line="22" column="113" />
+        <mark key="]" line="22" column="113" />
+        <mark key="." line="22" column="113" />
+        <mark key="^" line="22" column="112" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/java/com/dmm/hdp/migration/KafkaConsumerExample.java" timestamp="1512554557236">
         <mark key="'" line="0" column="0" />
@@ -1093,7 +1103,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="29" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="65" column="19" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="39" column="6" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="49" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
@@ -1193,19 +1202,20 @@
       <jump line="20" column="33" filename="$USER_HOME$/OfficeTools/git/emr-scheduler-2/src/main/java/com/dmm/aws/util/ReadConfig.java" />
       <jump line="7" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler-2/src/main/java/com/dmm/aws/util/ReadConfig.java" />
       <jump line="7" column="1" filename="$USER_HOME$/OfficeTools/git/i3-collector/lib/hive/dml/common/malmag/transform_cuenote_adbook_list.q" />
+      <jump line="59" column="0" filename="$USER_HOME$/OfficeTools/git/i3-collector/lib/hdfs/distcp2s3.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHN0cmluZyk=</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0cmluZyk=</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>value</text>
+        <text>collect</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">LS1udW0tbWFwcGVycyAyIC0tbnVsbC1zdHJpbmcgXFxOIC0tbnVsbC1ub24tc3RyaW5nIFxcTiA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgbmFtZTogIm1haWxtYWdhemluZV9vbmx5X2VtYWlsX3VzZXJzIiwKICAgICAgdGFza3M6IFsKICAgICAgICB7CiAgICAgICAgICBTUkNfUEFUSDogIi91c2VyL2hpdmUvd2FyZWhvdXNlL2NvbW1vbl9tYWxtYWcuZGIvbWFpbG1hZ2F6aW5lX29ubHlfZW1haWxfdXNlcnMvIiwKICAgICAgICAgIERFU1RfUEFUSDogInMzYTovLyR7YnVja2V0fS91c2VyL2hpdmUvd2FyZWhvdXNlL2NvbW1vbl9tYWxtYWcuZGIvbWFpbG1hZ2F6aW5lX29ubHlfZW1haWxfdXNlcnMvIgogICAgICAgIH0sCiAgICAgIF0KICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBgZW1haWxfaWRgCiAgLCBgc2VydmljZV9pZGAKICAsIGBhZGRyZXNzYAogICwgYGFkZHJlc3Nfc2AKICAsIGByZWdpc3RfZGF0ZWAKICAsIGBib3VuY2VfY291bnRgCiAgLCBgbWVtYmVyX2lkYAogICwgYHN0YW1wYAo=</text>
@@ -1239,9 +1249,9 @@
       </register>
     </registers>
     <search>
-      <last-search>value</last-search>
+      <last-search>collect</last-search>
       <last-offset />
-      <last-pattern>value</last-pattern>
+      <last-pattern>collect</last-pattern>
       <last-replace>2018-04-10</last-replace>
       <last-substitute>${dt}</last-substitute>
       <last-dir>1</last-dir>
@@ -1249,7 +1259,6 @@
     </search>
     <history>
       <history-search>
-        <entry>post</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
         <entry encoding="base64">XDxiaWxsaW5nc1w+</entry>
         <entry>billing</entry>
@@ -1269,6 +1278,7 @@
         <entry>activity</entry>
         <entry>overwrite</entry>
         <entry>value</entry>
+        <entry>collect</entry>
       </history-search>
       <history-cmd>
         <entry>153</entry>
