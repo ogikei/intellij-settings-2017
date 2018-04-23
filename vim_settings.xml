@@ -27,6 +27,13 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/emr/Cluster.java" timestamp="1524458992721">
+        <mark key="'" line="15" column="25" />
+        <mark key="[" line="17" column="33" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.sql.streaming/aws/package.scala" timestamp="1507001382676">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="22" />
@@ -185,12 +192,18 @@
         <mark key="." line="37" column="7" />
         <mark key="^" line="37" column="7" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/ec2/spot/Fleet.java" timestamp="1524458889496" />
       <file name="$USER_HOME$/OfficeTools/git/dre-dig/summary-add-partition.dig" timestamp="1523262583617">
         <mark key="'" line="25" column="6" />
         <mark key="[" line="32" column="29" />
         <mark key="]" line="32" column="33" />
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="33" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/util/ReadConfig.java" timestamp="1524459025107">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/.gitignore" timestamp="1512360094425">
         <mark key="[" line="3" column="21" />
@@ -254,6 +267,12 @@
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/emr/config/Config.java" timestamp="1524458962838">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/coursera-functional-program-design-in-scala/build.sbt" timestamp="1512539707965">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -271,6 +290,12 @@
         <mark key="]" line="25" column="69" />
         <mark key="." line="25" column="69" />
         <mark key="^" line="25" column="57" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/util/Calendar.java" timestamp="1524459018993">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/resources/META-INF/services/com.dmm.dre.convert" timestamp="1510212504866">
         <mark key="[" line="0" column="0" />
@@ -544,8 +569,6 @@
         <mark key="[" line="14" column="90" />
         <mark key="]" line="14" column="145" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-collector/lib/hive/dml/common/malmag/transform_mailmagazine_only_email_users.q" timestamp="1524030017653" />
-      <file name="$USER_HOME$/OfficeTools/git/i3-collector/job/extract_production/common-malmag" timestamp="1524032155490" />
       <file name="$USER_HOME$/OfficeTools/git/ansible/site.yml" timestamp="1522828328343">
         <mark key="'" line="826" column="6" />
         <mark key="[" line="96" column="7" />
@@ -755,6 +778,12 @@
         <mark key="]" line="148" column="0" />
         <mark key="." line="148" column="0" />
         <mark key="^" line="148" column="0" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/Main.java" timestamp="1524459310170">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.streaming/aws/AmazonKinesis.scala" timestamp="1506933088545">
         <mark key="'" line="15" column="0" />
@@ -1103,7 +1132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="19" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="39" column="6" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="49" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
       <jump line="57" column="20" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
@@ -1203,10 +1231,11 @@
       <jump line="7" column="0" filename="$USER_HOME$/OfficeTools/git/emr-scheduler-2/src/main/java/com/dmm/aws/util/ReadConfig.java" />
       <jump line="7" column="1" filename="$USER_HOME$/OfficeTools/git/i3-collector/lib/hive/dml/common/malmag/transform_cuenote_adbook_list.q" />
       <jump line="59" column="0" filename="$USER_HOME$/OfficeTools/git/i3-collector/lib/hdfs/distcp2s3.sh" />
+      <jump line="11" column="25" filename="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/emr/Cluster.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -1218,31 +1247,31 @@
         <text encoding="base64">ICAgIHsKICAgICAgbmFtZTogIm1haWxtYWdhemluZV9vbmx5X2VtYWlsX3VzZXJzIiwKICAgICAgdGFza3M6IFsKICAgICAgICB7CiAgICAgICAgICBTUkNfUEFUSDogIi91c2VyL2hpdmUvd2FyZWhvdXNlL2NvbW1vbl9tYWxtYWcuZGIvbWFpbG1hZ2F6aW5lX29ubHlfZW1haWxfdXNlcnMvIiwKICAgICAgICAgIERFU1RfUEFUSDogInMzYTovLyR7YnVja2V0fS91c2VyL2hpdmUvd2FyZWhvdXNlL2NvbW1vbl9tYWxtYWcuZGIvbWFpbG1hZ2F6aW5lX29ubHlfZW1haWxfdXNlcnMvIgogICAgICAgIH0sCiAgICAgIF0KICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBgZW1haWxfaWRgCiAgLCBgc2VydmljZV9pZGAKICAsIGBhZGRyZXNzYAogICwgYGFkZHJlc3Nfc2AKICAsIGByZWdpc3RfZGF0ZWAKICAsIGBib3VuY2VfY291bnRgCiAgLCBgbWVtYmVyX2lkYAogICwgYHN0YW1wYAo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5kbW0uYXdzLmF1dGguQ3JlZGVudGlhbDsKaW1wb3J0IGNvbS5kbW0uYXdzLmVjMi5zcG90LkZsZWV0OwppbXBvcnQgY29tLmRtbS5hd3MuZW1yLkNsdXN0ZXI7CmltcG9ydCBjb20uZG1tLmF3cy51dGlsLlJlYWRDb25maWc7Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBgZW1haWxfaWRgCiAgLCBgc2VydmljZV9pZGAKICAsIGBhZGRyZXNzYAogICwgYGFkZHJlc3Nfc2AKICAsIGByZWdpc3RfZGF0ZWAKICAsIGBib3VuY2VfY291bnRgCiAgLCBgbWVtYmVyX2lkYAogICwgYHN0YW1wYAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAsICBgc3RhbXBgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBgZW1haWxfaWRgCiAgLCBgc2VydmljZV9pZGAKICAsIGBhZGRyZXNzYAogICwgYGFkZHJlc3Nfc2AKICAsIGByZWdpc3RfZGF0ZWAKICAsIGBib3VuY2VfY291bnRgCiAgLCBgbWVtYmVyX2lkYAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKaW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkxvZ2dlcjsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7CmltcG9ydCBqYXZhLnV0aWwuSGFzaE1hcDsKaW1wb3J0IGphdmEudXRpbC5JdGVyYXRvcjsKaW1wb3J0IGphdmEudXRpbC5MaXN0OwppbXBvcnQgamF2YS51dGlsLk1hcDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3Vlbm90ZV9hZGJvb2tfbGlzdApjdWVub3RlX2FkYm9va19saXN0CmBtZW1iZXJfaWRgCixgZ3JvdXBfbmFtZWAKLGBjcmVhdGVkYAo=</text>
+        <text encoding="base64">ICBgZW1haWxfaWRgCiAgLCBgc2VydmljZV9pZGAKICAsIGBhZGRyZXNzYAogICwgYGFkZHJlc3Nfc2AKICAsIGByZWdpc3RfZGF0ZWAKICAsIGBib3VuY2VfY291bnRgCiAgLCBgbWVtYmVyX2lkYAogICwgYHN0YW1wYAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBgbWVtYmVyX2lkYAogICxgZ3JvdXBfbmFtZWAKICAsYGNyZWF0ZWRgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
@@ -1255,7 +1284,7 @@
       <last-replace>2018-04-10</last-replace>
       <last-substitute>${dt}</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
