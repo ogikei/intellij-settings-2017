@@ -1039,12 +1039,12 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="/code.py" timestamp="1525945350580">
-        <mark key="'" line="15" column="24" />
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="18" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="18" />
+      <file name="/code.py" timestamp="1526014728085">
+        <mark key="'" line="42" column="24" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="61" />
+        <mark key="." line="1" column="61" />
+        <mark key="^" line="1" column="61" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/aws-price/diff.js" timestamp="1522403911627">
         <mark key="'" line="76" column="29" />
@@ -1241,28 +1241,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>shape</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRhdGFbcG9zXSkK</text>
+        <text encoding="base64">cHJpbnQoJycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBOb3RlIHRoYXQgdGhpcyBmdW5jdGlvbiBpbnNlcnRzIGEgY29sdW1uIHdpdGggJ29uZXMnIGluIHRoZSBkZXNpZ24gbWF0cml4IGZvciB0aGUgaW50ZXJjZXB0Lgpwb2x5ID0gUG9seW5vbWlhbEZlYXR1cmVzKDYpClhYID0gcG9seS5maXRfdHJhbnNmb3JtKGRhdGEyWzosMDoyXSkKWFguc2hhcGUK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoZGF0YVsxXSkK</text>
+        <text encoding="base64">ICAgIHByaW50KHRoZXRhLnJlc2hhcGUoLTEsIDEpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoZGF0YVswXSkK</text>
+        <text encoding="base64">ICAgIHByaW50KHRoZXRhKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1274,10 +1274,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBvcyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBvcyA9IAo=</text>
+        <text encoding="base64">ICAgIEogPSAoMSAvIG0pICogWC5ULmRvdChoIC0geSkK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
