@@ -14,11 +14,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/infrastructure/dml/maria/20180604_mst_i3_report_role.sql" timestamp="1528083527511">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="7" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="1" column="7" />
+      <file name="$USER_HOME$/OfficeTools/git/infrastructure/dml/maria/20180604_mst_i3_report_role.sql" timestamp="1528084716886">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="42" column="217" />
+        <mark key="]" line="42" column="220" />
+        <mark key="^" line="42" column="220" />
+        <mark key="." line="42" column="220" />
       </file>
       <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/pom.xml" timestamp="1507113420605">
         <mark key="[" line="24" column="15" />
@@ -1142,7 +1143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
       <jump line="9" column="21" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
       <jump line="12" column="18" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
       <jump line="2" column="3" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
@@ -1242,13 +1242,14 @@
       <jump line="446" column="7" filename="$USER_HOME$/OfficeTools/git/test-project/test.hql" />
       <jump line="339" column="7" filename="$USER_HOME$/OfficeTools/git/test-project/test.hql" />
       <jump line="15" column="21" filename="/code.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/OfficeTools/git/infrastructure/dml/maria/20180604_mst_i3_report_role.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>F</text>
+        <text>25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,62,65,66,67,68,69,70,71,72,73,74,75,76,77,79,81,82,84,85,87,88,90,92,93,95,98,99,100,102</text>
       </register>
       <register name="-" type="4">
-        <text>F</text>
+        <text>25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,62,65,66,67,68,69,70,71,72,73,74,75,76,77,79,81,82,84,85,87,88,90,92,93,95,98,99,100,102</text>
       </register>
       <register name="/" type="4">
         <text>overwrite</text>
