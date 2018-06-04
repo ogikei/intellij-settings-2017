@@ -14,12 +14,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/infrastructure/dml/maria/20180604_mst_i3_report_role.sql" timestamp="1528084716886">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="42" column="217" />
-        <mark key="]" line="42" column="220" />
-        <mark key="^" line="42" column="220" />
-        <mark key="." line="42" column="220" />
+      <file name="$USER_HOME$/OfficeTools/git/infrastructure/dml/maria/20180604_mst_i3_report_role.sql" timestamp="1528091105054">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="42" column="221" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/pom.xml" timestamp="1507113420605">
         <mark key="[" line="24" column="15" />
@@ -246,6 +246,12 @@
         <mark key="]" line="0" column="35" />
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="35" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/infrastructure/.gitignore" timestamp="1528091224410">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="5" />
+        <mark key="^" line="3" column="5" />
+        <mark key="." line="3" column="5" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/pom.xml" timestamp="1512374299269">
         <mark key="'" line="40" column="0" />
@@ -1245,11 +1251,11 @@
       <jump line="24" column="0" filename="$USER_HOME$/OfficeTools/git/infrastructure/dml/maria/20180604_mst_i3_report_role.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,62,65,66,67,68,69,70,71,72,73,74,75,76,77,79,81,82,84,85,87,88,90,92,93,95,98,99,100,102</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,62,65,66,67,68,69,70,71,72,73,74,75,76,77,79,81,82,84,85,87,88,90,92,93,95,98,99,100,102</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>overwrite</text>
@@ -1257,32 +1263,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y3dkID0gb3MuZ2V0Y3dkKCkKcGF0aCA9IGN3ZCArICcvbm90ZWJvb2tzL2RhdGEvZXgyZGF0YTEudHh0Jwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">MzggLyBhbGwKCi0tICAgIDEwM++8iOOCteODvOODk+OCueWIpeODrOODneODvOODiCAtIOWVj+OBhOWQiOOCj+OBm++8iQotLSAgICBhbGwgLyBhbGwgLyA2MwoKLS0g5LuK5Zue6L+95Yqg44GX44Gf44Os44Od44O844OICi0tIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0tIOWVj+OBhOWQiOOCj+OBmwo=</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gYGkzYC5gbXN0X2kzX3JlcG9ydF9yb2xlYCAoYGkzX3JlcG9ydF9yb2xlX2lkYCwgYGkzX3JlcG9ydF9yb2xlX25hbWVgLCBgc3ViX21lbnVfaWRgLCBgc3RhdHVzX2NvZGVgLCBgY3JlYXRlX2RhdGV0aW1lYCwgYHVwZGF0ZV90aW1lc3RhbXBgKSBWQUxVRVMKKDQxLCdQRuS6i+alremDqCcsJzEwMSwxMDInLCcxJyxOT1coKSxDVVJSRU5UX1RJTUVTVEFNUCk7Cgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">LS0tIOWVj+OBhOWQiOOCj+OBmwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">MzggLyBhbGwKCi0tICAgIDEwM++8iOOCteODvOODk+OCueWIpeODrOODneODvOODiCAtIOWVj+OBhOWQiOOCj+OBm++8iQotLSAgICBhbGwgLyBhbGwgLyA2MwoKLS0g5LuK5Zue6L+95Yqg44GX44Gf44Os44Od44O844OICi0tIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0tIOWVj+OBhOWQiOOCj+OBmwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBsb2FkIE1BVExBQiBmaWxlcwo=</text>
+        <text encoding="base64">LS0tIOWVj+OBhOWQiOOCj+OBmwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAlbG9hZCAuLi8uLi9zdGFuZGFyZF9pbXBvcnQudHh0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyVjb25maWcgSW5saW5lQmFja2VuZC5maWd1cmVfZm9ybWF0cyA9IHsncGRmJyx9Cg==</text>
+        <text encoding="base64">IyBsb2FkIE1BVExBQiBmaWxlcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjbGFzcyBQaG9uZU51bWJlciB7CiAgICBpbnQgYXJlYUNvZGU7CiAgfQo=</text>
+        <text encoding="base64">IyAlbG9hZCAuLi8uLi9zdGFuZGFyZF9pbXBvcnQudHh0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyVjb25maWcgSW5saW5lQmFja2VuZC5maWd1cmVfZm9ybWF0cyA9IHsncGRmJyx9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
