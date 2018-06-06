@@ -182,12 +182,6 @@
         <mark key="^" line="348" column="12" />
         <mark key="." line="348" column="12" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala-capstone/src/main/scala/observatory/Manipulation.scala" timestamp="1523693727210">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/example/SparkHiveExample.scala" timestamp="1512356189699">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="0" column="23" />
@@ -240,6 +234,9 @@
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/SparkSession.scala" timestamp="1528266271614">
+        <mark key="'" line="150" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/sources/input/Json.scala" timestamp="1510299089670">
         <mark key="[" line="0" column="35" />
@@ -778,12 +775,6 @@
         <mark key="^" line="148" column="0" />
         <mark key="." line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala-capstone/src/main/scala/observatory/models.scala" timestamp="1523693769338">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/structured/Ctr.scala" timestamp="1506931084797">
         <mark key="[" line="5" column="50" />
         <mark key="]" line="5" column="49" />
@@ -1158,7 +1149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="2" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="150" column="35" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="69" column="29" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="65" column="19" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
@@ -1258,6 +1248,7 @@
       <jump line="116" column="0" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/SQLContext.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/SQLContext.scala" />
       <jump line="1125" column="0" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/SQLContext.scala" />
+      <jump line="150" column="0" filename="$USER_HOME$/OfficeTools/git/spark/sql/core/src/main/scala/org/apache/spark/sql/SparkSession.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
