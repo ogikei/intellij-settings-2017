@@ -806,11 +806,12 @@
         <mark key="^" line="36" column="9" />
         <mark key="." line="36" column="9" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/atcoder/main.py" timestamp="1529993348419">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="13" />
-        <mark key="^" line="4" column="13" />
+      <file name="$USER_HOME$/MyWork/git/atcoder/main.py" timestamp="1529996987321">
+        <mark key="'" line="18" column="8" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/common/App.scala" timestamp="1505792074311">
         <mark key="[" line="5" column="12" />
@@ -1187,10 +1188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="3" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
-      <jump line="102" column="18" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
-      <jump line="14" column="13" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
-      <jump line="44" column="20" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="50" column="8" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="62" column="2" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
       <jump line="63" column="2" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
@@ -1287,10 +1284,14 @@
       <jump line="5" column="0" filename="$USER_HOME$/MyWork/git/silicon-valle-style/lesson.py" />
       <jump line="3" column="6" filename="$USER_HOME$/MyWork/git/silicon-valle-style/lesson.py" />
       <jump line="14" column="7" filename="$USER_HOME$/MyWork/git/python_programming_demo_app-0.0.1/roboter/views/console.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/MyWork/git/atcoder/main.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/MyWork/git/atcoder/main.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/atcoder/main.py" />
+      <jump line="18" column="8" filename="$USER_HOME$/MyWork/git/atcoder/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>k</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGEgPSBpbnQoaW5wdXQoKSkKICAgIGIsIGMgPSBtYXAoaW50LCBpbnB1dCgpLnNwbGl0KCkpCiAgICBzID0gaW5wdXQoKQogICAgcHJpbnQoJ3t9IHt9Jy5mb3JtYXQoYSArIGIgKyBjLCBzKSkK</text>
       </register>
       <register name="-" type="4">
         <text>k</text>
@@ -1302,31 +1303,31 @@
         <text encoding="base64">Y3dkID0gb3MuZ2V0Y3dkKCkKcGF0aCA9IGN3ZCArICcvbm90ZWJvb2tzL2RhdGEvZXgyZGF0YTEudHh0Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGEgPSBpbnQoaW5wdXQoKSkKICAgIGIsIGMgPSBtYXAoaW50LCBpbnB1dCgpLnNwbGl0KCkpCiAgICBzID0gaW5wdXQoKQogICAgcHJpbnQoJ3t9IHt9Jy5mb3JtYXQoYSArIGIgKyBjLCBzKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGEgPSBpbnB1dCgpIGIgPSBpbnB1dCgpCiAgICBjID0gaW5wdXQoKQogICAgcHJpbnQoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgIGEgPSBpbnB1dCgpIGIgPSBpbnB1dCgpCiAgICBjID0gaW5wdXQoKQogICAgcHJpbnQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIHJhbmdlKDMpOgo=</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhID0gaW5wdXQoKQo=</text>
+        <text encoding="base64">ICAgIHdoaWxlIHJhbmdlKDMpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhID0gaW5wdXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
