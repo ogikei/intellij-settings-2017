@@ -119,6 +119,12 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="19" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/emr-scheduler/src/main/java/com/dmm/aws/ec2/spot/Fleet.java" timestamp="1532672688431">
+        <mark key="[" line="56" column="58" />
+        <mark key="]" line="56" column="70" />
+        <mark key="." line="56" column="70" />
+        <mark key="^" line="56" column="70" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/scala-test/project/plugin.sbt" timestamp="1530156006429">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="60" />
@@ -716,6 +722,9 @@
         <mark key="." line="5" column="47" />
         <mark key="^" line="4" column="51" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" timestamp="1532672649209">
+        <mark key="'" line="126" column="84" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/hdp-migration-spark/src/main/scala/com/dmm/hdp/migration/SparkKafkaExample.scala" timestamp="1512378823739">
         <mark key="[" line="2" column="63" />
         <mark key="]" line="3" column="0" />
@@ -788,24 +797,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="29" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
-      <jump line="151" column="5" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
-      <jump line="23" column="37" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
-      <jump line="25" column="28" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
-      <jump line="28" column="25" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
-      <jump line="117" column="1" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
-      <jump line="202" column="2" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
-      <jump line="3" column="4" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
-      <jump line="62" column="10" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
-      <jump line="76" column="23" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
-      <jump line="82" column="2" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
-      <jump line="35" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
-      <jump line="81" column="2" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
-      <jump line="107" column="4" filename="$USER_HOME$/OfficeTools/git/test-project/billing.js" />
-      <jump line="14" column="25" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
       <jump line="95" column="15" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
       <jump line="15" column="0" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
       <jump line="92" column="15" filename="$USER_HOME$/OfficeTools/git/test-project/diff.js" />
@@ -888,64 +879,80 @@
       <jump line="152" column="3" filename="$USER_HOME$/OfficeTools/git/scala-test/src/main/scala/com.dmm.i3.recommend/DFItemToItemCross.scala" />
       <jump line="32" column="4" filename="$USER_HOME$/OfficeTools/git/scala-test/src/main/scala/com.dmm.i3.recommend/DFItemToItemCross.scala" />
       <jump line="6" column="0" filename="$USER_HOME$/OfficeTools/git/scala-test/src/main/scala/com.dmm.i3.recommend/DFItemToItemCross.scala" />
+      <jump line="227" column="6" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" />
+      <jump line="259" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" />
+      <jump line="21" column="72" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" />
+      <jump line="166" column="56" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" />
+      <jump line="165" column="47" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" />
+      <jump line="160" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" />
+      <jump line="159" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" />
+      <jump line="149" column="60" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" />
+      <jump line="148" column="48" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" />
+      <jump line="144" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" />
+      <jump line="143" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" />
+      <jump line="133" column="56" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" />
+      <jump line="132" column="47" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" />
+      <jump line="127" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" />
+      <jump line="27" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" />
+      <jump line="46" column="84" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" />
+      <jump line="47" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" />
+      <jump line="126" column="84" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuc2NvdmVyYWdlIiAlICJzYnQtc2NvdmVyYWdlIiAlICIxLjUuMSIpCg==</text>
+        <text encoding="base64">ICAgIC53aXRoCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>outputsource</text>
+        <text>fleet</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAuc2V0UHJlZmVyZW5jZShBbGlnblNpbmdsZUxpbmVDYXNlU3RhdGVtZW50cywgdHJ1ZSkKICAuc2V0UHJlZmVyZW5jZShBbGlnblBhcmFtZXRlcnMsIHRydWUpCiAgLnNldFByZWZlcmVuY2UoRG91YmxlSW5kZW50Q2xhc3NEZWNsYXJhdGlvbiwgdHJ1ZSkKICAuc2V0UHJlZmVyZW5jZShJbmRlbnRXaXRoVGFicywgZmFsc2UpCiAgLnNldFByZWZlcmVuY2UoQWxpZ25Bcmd1bWVudHMsIHRydWUpCiAgLnNldFByZWZlcmVuY2UoRG91YmxlSW5kZW50Q2xhc3NEZWNsYXJhdGlvbiwgdHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuc2NvdmVyYWdlIiAlICJzYnQtc2NvdmVyYWdlIiAlICIxLjUuMSIpCg==</text>
+        <text encoding="base64">ICAgIC53aXRoCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuc2NhbGFyaWZvcm0iICUgInNidC1zY2FsYXJpZm9ybSIgJSAiMS44LjIiKQo=</text>
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuc2NvdmVyYWdlIiAlICJzYnQtc2NvdmVyYWdlIiAlICIxLjUuMSIpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuc2NhbGFyaWZvcm0iICUgInNidC1zY2FsYXJpZm9ybSIgJSAiMS44LjIiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5zZXRQcmVmZXJlbmNlKEFsaWduU2luZ2xlTGluZUNhc2VTdGF0ZW1lbnRzLCB0cnVlKQogICAgLnNldFByZWZlcmVuY2UoRG91YmxlSW5kZW50Q29uc3RydWN0b3JBcmd1bWVudHMsIHRydWUpCiAgICAuc2V0UHJlZmVyZW5jZShEYW5nbGluZ0Nsb3NlUGFyZW50aGVzaXMsIFByZXNlcnZlKQo=</text>
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuc2NhbGFyaWZvcm0iICUgInNidC1zY2FsYXJpZm9ybSIgJSAiMS44LjIiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5zZXRQcmVmZXJlbmNlKEFsaWduU2luZ2xlTGluZUNhc2VTdGF0ZW1lbnRzLCB0cnVlKQogICAgLnNldFByZWZlcmVuY2UoRG91YmxlSW5kZW50Q29uc3RydWN0b3JBcmd1bWVudHMsIHRydWUpCiAgICAuc2V0UHJlZmVyZW5jZShEYW5nbGluZ0Nsb3NlUGFyZW50aGVzaXMsIFByZXNlcnZlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2NhbGFyaWZvcm1JdFNldHRpbmdzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">c2NhbGFyaWZvcm1JdFNldHRpbmdzCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">c2NhbGFyaWZvcm1JdFNldHRpbmdzCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>outputsource</last-search>
+      <last-search>fleet</last-search>
       <last-offset />
-      <last-pattern>outputsource</last-pattern>
+      <last-pattern>fleet</last-pattern>
       <last-replace>2018-04-10</last-replace>
       <last-substitute>${dt}</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>http</entry>
-        <entry>flagon</entry>
         <entry>情報</entry>
         <entry>post</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
@@ -964,6 +971,8 @@
         <entry>nxt</entry>
         <entry>apptype</entry>
         <entry>outputsource</entry>
+        <entry>bid</entry>
+        <entry>fleet</entry>
       </history-search>
       <history-cmd>
         <entry>26</entry>
