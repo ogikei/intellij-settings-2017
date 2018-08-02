@@ -95,6 +95,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="/Dummy.scala" timestamp="1533185791594">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/functional-program-design-in-scala/webui.sbt" timestamp="1512538292054">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="4" />
@@ -294,12 +297,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/FileReadable.scala" timestamp="1533182035131">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="5" column="38" />
-        <mark key="^" line="5" column="38" />
-        <mark key="." line="5" column="38" />
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/FileReadable.scala" timestamp="1533185363284">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+        <mark key="^" line="2" column="1" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/ansible/roles/digdag/digdag_secret/vars/i3-mole_vault.yml" timestamp="1522832853923">
         <mark key="[" line="42" column="0" />
@@ -447,6 +449,12 @@
         <mark key="]" line="13" column="13" />
         <mark key="." line="13" column="13" />
         <mark key="^" line="26" column="15" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MultiplicationTable.scala" timestamp="1533185906581">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="8" column="16" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/test/scala/org/apache/spark/streaming/kinesis/KinesisReceiverSuite.scala" timestamp="1507096757883">
         <mark key="[" line="37" column="1" />
@@ -914,43 +922,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>fleet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAuc2V0UHJlZmVyZW5jZShBbGlnblNpbmdsZUxpbmVDYXNlU3RhdGVtZW50cywgdHJ1ZSkKICAuc2V0UHJlZmVyZW5jZShBbGlnblBhcmFtZXRlcnMsIHRydWUpCiAgLnNldFByZWZlcmVuY2UoRG91YmxlSW5kZW50Q2xhc3NEZWNsYXJhdGlvbiwgdHJ1ZSkKICAuc2V0UHJlZmVyZW5jZShJbmRlbnRXaXRoVGFicywgZmFsc2UpCiAgLnNldFByZWZlcmVuY2UoQWxpZ25Bcmd1bWVudHMsIHRydWUpCiAgLnNldFByZWZlcmVuY2UoRG91YmxlSW5kZW50Q2xhc3NEZWNsYXJhdGlvbiwgdHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgaSA8LSAxIHRvIDkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQXJyYXlbQXJyYXlbU3RyaW5nXV0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgdGVzdDEgewoKfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC53aXRoCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuc2NvdmVyYWdlIiAlICJzYnQtc2NvdmVyYWdlIiAlICIxLjUuMSIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuc2NhbGFyaWZvcm0iICUgInNidC1zY2FsYXJpZm9ybSIgJSAiMS44LjIiKQo=</text>
+        <text encoding="base64">ICAgICAgaWYgaiA9PSA5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuc2NhbGFyaWZvcm0iICUgInNidC1zY2FsYXJpZm9ybSIgJSAiMS44LjIiKQo=</text>
+        <text encoding="base64">ICAgICAgaWYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC5zZXRQcmVmZXJlbmNlKEFsaWduU2luZ2xlTGluZUNhc2VTdGF0ZW1lbnRzLCB0cnVlKQogICAgLnNldFByZWZlcmVuY2UoRG91YmxlSW5kZW50Q29uc3RydWN0b3JBcmd1bWVudHMsIHRydWUpCiAgICAuc2V0UHJlZmVyZW5jZShEYW5nbGluZ0Nsb3NlUGFyZW50aGVzaXMsIFByZXNlcnZlKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oY2FsYygpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2NhbGFyaWZvcm1JdFNldHRpbmdzCg==</text>
+        <text encoding="base64">IAogCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
@@ -1004,10 +1012,10 @@
         <entry>%s/2018-04-10/${dt}/g</entry>
         <entry>%s/var/const/g</entry>
         <entry>w</entry>
-        <entry>$d</entry>
         <entry>%e</entry>
         <entry encoding="base64">JzwsJz4lZA==</entry>
         <entry>%</entry>
+        <entry>$d</entry>
         <entry>%d</entry>
       </history-cmd>
       <history-expr />
