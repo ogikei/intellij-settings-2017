@@ -670,12 +670,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalcMain.scala" timestamp="1533215688783">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="42" column="17" />
-        <mark key="]" line="42" column="42" />
-        <mark key="." line="42" column="42" />
-        <mark key="^" line="42" column="42" />
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalcMain.scala" timestamp="1533216921881">
+        <mark key="'" line="25" column="17" />
+        <mark key="[" line="64" column="63" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/ansible-for-github/.gitignore" timestamp="1523858711388">
         <mark key="[" line="0" column="23" />
@@ -865,7 +864,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="30" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="130" column="36" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="160" column="48" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="177" column="44" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
@@ -965,55 +963,56 @@
       <jump line="10" column="0" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalcMain.scala" />
       <jump line="20" column="19" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalculator.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalculator.scala" />
+      <jump line="25" column="17" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalcMain.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>\d{4}-\d{2}-\d{2}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG1vdmllCg==</text>
       </register>
       <register name="-" type="4">
-        <text>\d{4}-\d{2}-\d{2}</text>
+        <text>moviedate</text>
       </register>
       <register name="/" type="4">
-        <text>birth</text>
+        <text>now</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50bG4oIueUt+aAp+OBr00s5aWz5oCn44GvRuOBp+aAp+WIpeOCkuWFpeWKm+OBl+OBpuOBj+OBoOOBleOBhDoiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vdmllCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFsIHRvTGVuZ3RoOiBTdHJpbmcgPT4gSW50ID0gXy5sZW5ndGgK</text>
+        <text encoding="base64">ICAgIGNhc2UgID0+IEdlbmVyYWwKICAgIGNhc2UgVW5pdmVyc2l0eVN0dWRlbnQgPT4gVW5pdmVyc2l0eVN0dWRlbnQKICAgIGNhc2UgSGlnaFNjaG9vbFN0dWRlbnQgPT4gSGlnaFNjaG9vbFN0dWRlbnQKICAgIGNhc2UgRWxlbWVudGFyeVNjaG9vbFN0dWRlbnQgPT4gRWxlbWVudGFyeVNjaG9vbFN0dWRlbnQKICAgIGNhc2UgVW5kZXI1WWVhcnNPbGQgPT4gVW5kZXI1WWVhcnNPbGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCByZWcgPSAiIiJcZHs0fS1cZHsyfS1cZHsyfSIiIi5yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSAxMDAwMAo=</text>
+        <text encoding="base64">dmFsIHRvTGVuZ3RoOiBTdHJpbmcgPT4gSW50ID0gXy5sZW5ndGgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJpcnRoU3RyaW5nIG1hdGNoIHsKICAgICAgY2FzZSAiIgogICAgfQo=</text>
+        <text encoding="base64">ICAgIHZhbCByZWcgPSAiIiJcZHs0fS1cZHsyfS1cZHsyfSIiIi5yCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZWxzZSAxMDAwMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpcnRoU3RyaW5nIG1hdGNoIHsKICAgICAgY2FzZSAiIgogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLm1hdGguRnJhY3Rpb25hbC5JbXBsaWNpdHMuaW5maXhGcmFjdGlvbmFsT3BzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBhY3R1YWxQcmljZSA9IGlmIChiYXNlUHJpY2UgPj0gc3BlY2lhbFByaWNlLnRvSW50KSBzcGVjaWFsUHJpY2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>birth</last-search>
+      <last-search>now</last-search>
       <last-offset />
-      <last-pattern>birth</last-pattern>
+      <last-pattern>now</last-pattern>
       <last-replace>2018-04-10</last-replace>
       <last-substitute>${dt}</last-substitute>
       <last-dir>1</last-dir>
@@ -1021,7 +1020,6 @@
     </search>
     <history>
       <history-search>
-        <entry>post</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
         <entry encoding="base64">XDxiaWxsaW5nc1w+</entry>
         <entry>billing</entry>
@@ -1041,6 +1039,7 @@
         <entry>bid</entry>
         <entry>fleet</entry>
         <entry>birth</entry>
+        <entry>now</entry>
       </history-search>
       <history-cmd>
         <entry>26</entry>
