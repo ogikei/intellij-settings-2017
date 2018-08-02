@@ -110,13 +110,13 @@
         <mark key="^" line="12" column="37" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalculator.scala" timestamp="1533208793510">
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalculator.scala" timestamp="1533218642500">
         <mark key="a" line="26" column="4" />
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="31" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="35" column="5" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/ansible/.gitignore" timestamp="1522820512294">
         <mark key="[" line="0" column="23" />
@@ -670,11 +670,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalcMain.scala" timestamp="1533216921881">
-        <mark key="'" line="25" column="17" />
-        <mark key="[" line="64" column="63" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalcMain.scala" timestamp="1533218172952">
+        <mark key="'" line="37" column="21" />
+        <mark key="[" line="66" column="38" />
+        <mark key="]" line="66" column="58" />
+        <mark key="." line="66" column="58" />
+        <mark key="^" line="66" column="58" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/ansible-for-github/.gitignore" timestamp="1523858711388">
         <mark key="[" line="0" column="23" />
@@ -864,7 +865,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="36" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="160" column="48" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="177" column="44" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="191" column="30" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
@@ -964,55 +964,56 @@
       <jump line="20" column="19" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalculator.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalculator.scala" />
       <jump line="25" column="17" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalcMain.scala" />
+      <jump line="37" column="21" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalcMain.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1vdmllCg==</text>
+        <text encoding="base64">ICAgIHZhbCBhY3R1YWxQcmljZSA9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>moviedate</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>now</text>
+        <text>age</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50bG4oIueUt+aAp+OBr00s5aWz5oCn44GvRuOBp+aAp+WIpeOCkuWFpeWKm+OBl+OBpuOBj+OBoOOBleOBhDoiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vdmllCg==</text>
+        <text encoding="base64">ICAgIHZhbCBhY3R1YWxQcmljZSA9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNhc2UgID0+IEdlbmVyYWwKICAgIGNhc2UgVW5pdmVyc2l0eVN0dWRlbnQgPT4gVW5pdmVyc2l0eVN0dWRlbnQKICAgIGNhc2UgSGlnaFNjaG9vbFN0dWRlbnQgPT4gSGlnaFNjaG9vbFN0dWRlbnQKICAgIGNhc2UgRWxlbWVudGFyeVNjaG9vbFN0dWRlbnQgPT4gRWxlbWVudGFyeVNjaG9vbFN0dWRlbnQKICAgIGNhc2UgVW5kZXI1WWVhcnNPbGQgPT4gVW5kZXI1WWVhcnNPbGQK</text>
+        <text encoding="base64">ICAgIGFjdHVhbFByaWNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFsIHRvTGVuZ3RoOiBTdHJpbmcgPT4gSW50ID0gXy5sZW5ndGgK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCByZWcgPSAiIiJcZHs0fS1cZHsyfS1cZHsyfSIiIi5yCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSAxMDAwMAo=</text>
+        <text encoding="base64">ICAgIG1vdmllCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJpcnRoU3RyaW5nIG1hdGNoIHsKICAgICAgY2FzZSAiIgogICAgfQo=</text>
+        <text encoding="base64">ICAgIGNhc2UgID0+IEdlbmVyYWwKICAgIGNhc2UgVW5pdmVyc2l0eVN0dWRlbnQgPT4gVW5pdmVyc2l0eVN0dWRlbnQKICAgIGNhc2UgSGlnaFNjaG9vbFN0dWRlbnQgPT4gSGlnaFNjaG9vbFN0dWRlbnQKICAgIGNhc2UgRWxlbWVudGFyeVNjaG9vbFN0dWRlbnQgPT4gRWxlbWVudGFyeVNjaG9vbFN0dWRlbnQKICAgIGNhc2UgVW5kZXI1WWVhcnNPbGQgPT4gVW5kZXI1WWVhcnNPbGQK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFsIHRvTGVuZ3RoOiBTdHJpbmcgPT4gSW50ID0gXy5sZW5ndGgK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>now</last-search>
+      <last-search>age</last-search>
       <last-offset />
-      <last-pattern>now</last-pattern>
+      <last-pattern>age</last-pattern>
       <last-replace>2018-04-10</last-replace>
       <last-substitute>${dt}</last-substitute>
       <last-dir>1</last-dir>
@@ -1020,7 +1021,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
         <entry encoding="base64">XDxiaWxsaW5nc1w+</entry>
         <entry>billing</entry>
         <entry>attach</entry>
@@ -1040,6 +1040,7 @@
         <entry>fleet</entry>
         <entry>birth</entry>
         <entry>now</entry>
+        <entry>age</entry>
       </history-search>
       <history-cmd>
         <entry>26</entry>
