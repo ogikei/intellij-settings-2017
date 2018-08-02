@@ -670,11 +670,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalcMain.scala" timestamp="1533214770803">
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalcMain.scala" timestamp="1533215688783">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
+        <mark key="[" line="42" column="17" />
+        <mark key="]" line="42" column="42" />
+        <mark key="." line="42" column="42" />
+        <mark key="^" line="42" column="42" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/ansible-for-github/.gitignore" timestamp="1523858711388">
         <mark key="[" line="0" column="23" />
@@ -966,11 +967,11 @@
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalculator.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>\d{4}-\d{2}-\d{2}</text>
       </register>
       <register name="-" type="4">
-        <text>???</text>
+        <text>\d{4}-\d{2}-\d{2}</text>
       </register>
       <register name="/" type="4">
         <text>birth</text>
