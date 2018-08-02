@@ -110,13 +110,13 @@
         <mark key="^" line="12" column="37" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalculator.scala" timestamp="1533218642500">
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalculator.scala" timestamp="1533222958530">
         <mark key="a" line="26" column="4" />
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="35" column="5" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="28" column="74" />
+        <mark key="]" line="28" column="92" />
+        <mark key="^" line="28" column="92" />
+        <mark key="." line="28" column="92" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/ansible/.gitignore" timestamp="1522820512294">
         <mark key="[" line="0" column="23" />
@@ -398,6 +398,9 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/time/LocalDateTime.java" timestamp="1533222787680">
+        <mark key="'" line="816" column="21" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/tests/src/test/scala/org/apache/spark/sql/test/SharedSQLContext.scala" timestamp="1507097213579">
         <mark key="[" line="25" column="1" />
         <mark key="]" line="25" column="1" />
@@ -670,11 +673,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalcMain.scala" timestamp="1533220043008">
-        <mark key="'" line="37" column="21" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalcMain.scala" timestamp="1533222437131">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="66" column="47" />
+        <mark key="]" line="66" column="55" />
+        <mark key="." line="66" column="55" />
+        <mark key="^" line="66" column="55" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/ansible-for-github/.gitignore" timestamp="1523858711388">
         <mark key="[" line="0" column="23" />
@@ -790,10 +794,10 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/Customer.scala" timestamp="1533195853567">
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/Customer.scala" timestamp="1533222307311">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="7" />
+        <mark key="[" line="24" column="40" />
+        <mark key="]" line="24" column="54" />
         <mark key="." line="2" column="7" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/Main.scala" timestamp="1510294384364">
@@ -864,8 +868,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="48" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
-      <jump line="177" column="44" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="191" column="30" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="222" column="38" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="252" column="44" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
@@ -964,46 +966,48 @@
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalculator.scala" />
       <jump line="25" column="17" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalcMain.scala" />
       <jump line="37" column="21" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalcMain.scala" />
+      <jump line="71" column="0" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalcMain.scala" />
+      <jump line="816" column="21" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/time/LocalDateTime.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNhc2UgXyA9PiBHZW5lcmFsCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;THURSDAY&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>HighSchoolStudent</text>
+        <text>&quot;THURSDAY&quot;</text>
       </register>
       <register name="/" type="4">
         <text>age</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhc2UgYWdlIGlmIGFnZSA+PSA2ICYmIGFnZSA8PSAxNCA9PiBIaWdoU2Nob29sU3R1ZGVudAo=</text>
+      <register name="0" type="4">
+        <text>LocalDate.now()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhc2UgXyA9PiBHZW5lcmFsCg==</text>
+        <text encoding="base64">ICAgIGtrCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNhc2UgXyA9PiBwcmludGxuKGN1c3RvbWVyLmFnZSkK</text>
+        <text encoding="base64">ICBrawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhc2UgYQo=</text>
+        <text encoding="base64">ICAgIGtrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBhY3R1YWxQcmljZSA9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFjdHVhbFByaWNlCg==</text>
+        <text encoding="base64">ICB2YWwgY3VzdG9tZXIgPSBuZXcgQ3VzdG9tZXIoYmlydGhEYXRlLCBnZW5kZXIsIGN1c3RvbWVyVHlwZSwgaXMzRCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB2YWwgY3VzdG9tZXIgPSBuZXcgQ3VzdG9tZXIoYmlydGhEYXRlLCBnZW5kZXIsIGN1c3RvbWVyVHlwZSwgaXMzRCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNhc2UgXyA9PiBHZW5lcmFsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vdmllCg==</text>
+        <text encoding="base64">ICAgIGNhc2UgXyA9PiBwcmludGxuKGN1c3RvbWVyLmFnZSkK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
