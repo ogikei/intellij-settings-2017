@@ -523,12 +523,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" timestamp="1532672649209">
         <mark key="'" line="126" column="84" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/PracticeQuestions3.scala" timestamp="1533265333783">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="3" />
-        <mark key="]" line="14" column="1" />
-        <mark key="." line="14" column="1" />
-        <mark key="^" line="14" column="1" />
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/PracticeQuestions3.scala" timestamp="1533289667750">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/scala-test/src/main/scala/com.dmm.i3.recommend/DFItemToItemCross.scala" timestamp="1531817423413">
         <mark key="'" line="6" column="0" />
@@ -883,7 +882,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="56" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="303" column="44" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="325" column="35" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="340" column="18" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
@@ -983,13 +981,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/PracticeQuestions3.scala" />
       <jump line="18" column="2" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/PracticeQuestions6.scala" />
       <jump line="27" column="0" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/StringWrapper.scala" />
+      <jump line="10" column="0" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/PracticeQuestions3.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>97</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>97</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>age</text>
@@ -998,31 +997,31 @@
         <text encoding="base64">ICAgICAgdmFyIGRpdjIgPSAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZXhpc3RzKGMpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNhc2UgYzogU3RyaW5nID0+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">a2trCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Y2xhc3MgVmFsdWVGb2xkZXJbQV0ocHJpdmF0ZVt0aGlzXSB2YXIgdmFsdWU6IEEpIHsKICBkZWYgc2V0KHZhbHVlOiBBKTogVW5pdCA9IHRoaXMudmFsdWUgPSB2YWx1ZQp9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">bWFwIHsKICAgIGMgPT4KICAgICAgcChjKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dmFsIG1rU3RyaW5nRjEgPSBTdHJpbmdVdGlsLm1rU3RyaW5nIF8KCnZhbCBta1N0cmluZ0YyOiAoU3RyaW5nLCBTdHJpbmcpID0+IFN0cmluZyA9IFN0cmluZ1V0aWwubWtTdHJpbmcK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">b2JqZWN0IFByYWN0aWNlUXVlc3Rpb25zMyBleHRlbmRzIEFwcCB7CiAgCgp9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgZXhpc3RzKGMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
