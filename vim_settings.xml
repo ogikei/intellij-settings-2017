@@ -12,6 +12,12 @@
       <file name="$USER_HOME$/OfficeTools/git/infrastructure/dml/maria/20180625_mst_i3_report_role.sql" timestamp="1528186598340">
         <mark key="'" line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/StringWrapperMain.scala" timestamp="1533276071597">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre.sql.streaming/common/SparkApp.scala" timestamp="1507010053794">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="8" column="36" />
@@ -47,6 +53,13 @@
         <mark key="]" line="3" column="30" />
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/StringWrapper.scala" timestamp="1533278201766">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="12" />
+        <mark key="." line="29" column="12" />
+        <mark key="^" line="29" column="13" />
       </file>
       <file name="$USER_HOME$/MyWork/git/functional-programming-principles-in-scala/.gitignore" timestamp="1512541341908">
         <mark key="[" line="3" column="17" />
@@ -100,9 +113,6 @@
         <mark key="]" line="25" column="69" />
         <mark key="." line="25" column="69" />
         <mark key="^" line="25" column="57" />
-      </file>
-      <file name="/Dummy.scala" timestamp="1533192635742">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/functional-program-design-in-scala/webui.sbt" timestamp="1512538292054">
         <mark key="[" line="0" column="0" />
@@ -233,6 +243,12 @@
         <mark key="." line="12" column="68" />
         <mark key="^" line="12" column="68" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/PracticeQuestions9.scala" timestamp="1533275957776">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="27" />
+        <mark key="." line="15" column="27" />
+        <mark key="^" line="15" column="27" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/com/dmm/dre/convert/test.scala" timestamp="1510212887167">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="2" column="9" />
@@ -323,11 +339,11 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/PracticeQuestions8.scala" timestamp="1533273826108">
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-        <mark key="^" line="12" column="16" />
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/PracticeQuestions8.scala" timestamp="1533275447675">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+        <mark key="^" line="7" column="31" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/ansible/roles/hdp/ambari/tasks/main.yml" timestamp="1515734405524">
         <mark key="[" line="1" column="16" />
@@ -867,7 +883,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="44" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="290" column="56" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="303" column="44" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="325" column="35" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
@@ -967,13 +982,14 @@
       <jump line="816" column="21" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/time/LocalDateTime.java" />
       <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/PracticeQuestions3.scala" />
       <jump line="18" column="2" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/PracticeQuestions6.scala" />
+      <jump line="27" column="0" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/StringWrapper.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGRpdjEgPSB2YWx1ZSAvIDEwCiAgICAgIHZhbCByZW0xID0gdmFsdWUgJSAxMAogICAgICB2YXIgZGl2MiA9IDAKICAgICAgdmFyIHJlbTIgPSAwCiAgICAgIHZhciByZXN1bHQgPSAwCiAgICAgIGRvIHsKICAgICAgICBkaXYyID0gZGl2MSAvIDEwCiAgICAgICAgcmVtMiA9IGRpdjEgJSAxMAogICAgICAgIHJlc3VsdCA9IHJlbTEgKyByZW0yCiAgICAgIH0gd2hpbGUgKGRpdjIgIT0gMCkKICAgICAgcmVzdWx0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>age</text>
@@ -982,31 +998,31 @@
         <text encoding="base64">ICAgICAgdmFyIGRpdjIgPSAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGRpdjEgPSB2YWx1ZSAvIDEwCiAgICAgIHZhbCByZW0xID0gdmFsdWUgJSAxMAogICAgICB2YXIgZGl2MiA9IDAKICAgICAgdmFyIHJlbTIgPSAwCiAgICAgIHZhciByZXN1bHQgPSAwCiAgICAgIGRvIHsKICAgICAgICBkaXYyID0gZGl2MSAvIDEwCiAgICAgICAgcmVtMiA9IGRpdjEgJSAxMAogICAgICAgIHJlc3VsdCA9IHJlbTEgKyByZW0yCiAgICAgIH0gd2hpbGUgKGRpdjIgIT0gMCkKICAgICAgcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgZXhpc3RzKGMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaXYyID0gZGl2MSAvIDEwCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZW0gKz0gCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNhc2UgYzogU3RyaW5nID0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">a2trCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgd2hpbGUgKGRpdiAhPSAwKSB7CiAgICAgICAgCiAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZGl2ID0gCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">bWFwIHsKICAgIGMgPT4KICAgICAgcChjKQ==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
@@ -1019,7 +1035,7 @@
       <last-replace>2018-04-10</last-replace>
       <last-substitute>${dt}</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
