@@ -54,12 +54,12 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/StringWrapper.scala" timestamp="1533347415497">
-        <mark key="'" line="24" column="16" />
-        <mark key="[" line="25" column="61" />
-        <mark key="]" line="25" column="58" />
-        <mark key="." line="25" column="58" />
-        <mark key="^" line="25" column="58" />
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/StringWrapper.scala" timestamp="1533348749935">
+        <mark key="'" line="22" column="16" />
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="65" />
+        <mark key="." line="9" column="65" />
+        <mark key="^" line="9" column="65" />
       </file>
       <file name="$USER_HOME$/MyWork/git/functional-programming-principles-in-scala/.gitignore" timestamp="1512541341908">
         <mark key="[" line="3" column="17" />
@@ -986,10 +986,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>underlying map { if (p(c)) c }</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>underlying map { if (p(c)) c }</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>age</text>
