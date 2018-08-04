@@ -54,12 +54,12 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/StringWrapper.scala" timestamp="1533287724384">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="29" column="12" />
-        <mark key="]" line="29" column="12" />
-        <mark key="." line="29" column="12" />
-        <mark key="^" line="29" column="13" />
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/StringWrapper.scala" timestamp="1533347415497">
+        <mark key="'" line="24" column="16" />
+        <mark key="[" line="25" column="61" />
+        <mark key="]" line="25" column="58" />
+        <mark key="." line="25" column="58" />
+        <mark key="^" line="25" column="58" />
       </file>
       <file name="$USER_HOME$/MyWork/git/functional-programming-principles-in-scala/.gitignore" timestamp="1512541341908">
         <mark key="[" line="3" column="17" />
@@ -883,7 +883,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="303" column="44" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="325" column="35" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="340" column="18" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
       <jump line="371" column="15" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
@@ -983,13 +982,14 @@
       <jump line="18" column="2" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/PracticeQuestions6.scala" />
       <jump line="27" column="0" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/StringWrapper.scala" />
       <jump line="10" column="0" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/PracticeQuestions3.scala" />
+      <jump line="25" column="16" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/StringWrapper.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>underlying map { if (p(c)) c }</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>underlying map { if (p(c)) c }</text>
       </register>
       <register name="/" type="4">
         <text>age</text>
@@ -998,31 +998,31 @@
         <text encoding="base64">ICAgICAgdmFyIGRpdjIgPSAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGMgPT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgVmFsdWVGb2xkZXJbQV0ocHJpdmF0ZVt0aGlzXSB2YXIgdmFsdWU6IEEpIHsKICBkZWYgc2V0KHZhbHVlOiBBKTogVW5pdCA9IHRoaXMudmFsdWUgPSB2YWx1ZQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgVmFsdWVGb2xkZXJbQV0ocHJpdmF0ZVt0aGlzXSB2YXIgdmFsdWU6IEEpIHsKICBkZWYgc2V0KHZhbHVlOiBBKTogVW5pdCA9IHRoaXMudmFsdWUgPSB2YWx1ZQp9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFsIG1rU3RyaW5nRjEgPSBTdHJpbmdVdGlsLm1rU3RyaW5nIF8KCnZhbCBta1N0cmluZ0YyOiAoU3RyaW5nLCBTdHJpbmcpID0+IFN0cmluZyA9IFN0cmluZ1V0aWwubWtTdHJpbmcK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">dmFsIG1rU3RyaW5nRjEgPSBTdHJpbmdVdGlsLm1rU3RyaW5nIF8KCnZhbCBta1N0cmluZ0YyOiAoU3RyaW5nLCBTdHJpbmcpID0+IFN0cmluZyA9IFN0cmluZ1V0aWwubWtTdHJpbmcK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">b2JqZWN0IFByYWN0aWNlUXVlc3Rpb25zMyBleHRlbmRzIEFwcCB7CiAgCgp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">b2JqZWN0IFByYWN0aWNlUXVlc3Rpb25zMyBleHRlbmRzIEFwcCB7CiAgCgp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXhpc3RzKGMpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
