@@ -646,12 +646,11 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/NonEmptyList.scala" timestamp="1533738705248">
-        <mark key="'" line="36" column="28" />
-        <mark key="[" line="41" column="37" />
-        <mark key="]" line="41" column="43" />
-        <mark key="." line="41" column="43" />
-        <mark key="^" line="41" column="43" />
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/NonEmptyList.scala" timestamp="1533740462958">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/test/java/org/apache/spark/streaming/kinesis/JavaKinesisStreamSuite.java" timestamp="1507098435949">
         <mark key="[" line="33" column="0" />
@@ -940,8 +939,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/OfficeTools/git/scala-test/src/main/scala/com.dmm.i3.recommend/package.scala" />
-      <jump line="111" column="2" filename="$USER_HOME$/OfficeTools/git/scala-test/src/main/scala/com.dmm.i3.recommend/package.scala" />
       <jump line="518" column="0" filename="$USER_HOME$/OfficeTools/git/scala-test/src/main/scala/com.dmm.i3.recommend/package.scala" />
       <jump line="232" column="29" filename="$USER_HOME$/OfficeTools/git/scala-test/src/main/scala/com.dmm.i3.recommend/package.scala" />
       <jump line="16" column="0" filename="$USER_HOME$/OfficeTools/git/scala-test/src/main/scala/com.dmm.i3.recommend/package.scala" />
@@ -1040,47 +1037,48 @@
       <jump line="24" column="8" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/WordCountMain.scala" />
       <jump line="53" column="2" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/NonEmptyList.scala" />
       <jump line="36" column="28" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/NonEmptyList.scala" />
+      <jump line="40" column="34" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/NonEmptyList.scala" />
+      <jump line="5" column="0" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/NonEmptyList.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxpc3QuCg==</text>
+        <text encoding="base64">ICBjbGFzcyBXaXRoRmlsdGVyKHA6IEEgPT4gQm9vbGVhbikgeyBkZWYgbWFwW0JdKGY6IEEgPT4gQik6IE9wdGlvbltCXSA9IHRoaXMgZmlsdGVyIHAgbWFwIGYKICAgIGRlZiBmbGF0TWFwW0JdKGY6IEEgPT4gT3B0aW9uW0JdKTogT3B0aW9uW0JdID0gc2VsZiBmaWx0ZXIgcCBmbGF0TWFwIGYKICAgIGRlZiBmb3JlYWNoW1VdKGY6IEEgPT4gVSk6IFVuaXQgPSBzZWxmIGZpbHRlciBwIGZvcmVhY2ggZgogICAgZGVmIHdpdGhGaWx0ZXIocTogQSA9PiBCb29sZWFuKTogV2l0aEZpbHRlciA9IG5ldyBXaXRoRmlsdGVyKHggPT4gcCh4KSAmJiBxKHgpKQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>NonEmptyList(</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YWwgbnVtYmVyczE6IE5vbkVtcHR5TGlzdFtJbnRdID0gTm9uRW1wdHlMaXN0KDEpCg==</text>
+        <text encoding="base64">ICAgIE5vbkVtcHR5TGlzdChmKGhlYWQpLCB0YWlsLm1hcChmKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxpc3QuCg==</text>
+        <text encoding="base64">ICBjbGFzcyBXaXRoRmlsdGVyKHA6IEEgPT4gQm9vbGVhbikgeyBkZWYgbWFwW0JdKGY6IEEgPT4gQik6IE9wdGlvbltCXSA9IHRoaXMgZmlsdGVyIHAgbWFwIGYKICAgIGRlZiBmbGF0TWFwW0JdKGY6IEEgPT4gT3B0aW9uW0JdKTogT3B0aW9uW0JdID0gc2VsZiBmaWx0ZXIgcCBmbGF0TWFwIGYKICAgIGRlZiBmb3JlYWNoW1VdKGY6IEEgPT4gVSk6IFVuaXQgPSBzZWxmIGZpbHRlciBwIGZvcmVhY2ggZgogICAgZGVmIHdpdGhGaWx0ZXIocTogQSA9PiBCb29sZWFuKTogV2l0aEZpbHRlciA9IG5ldyBXaXRoRmlsdGVyKHggPT4gcCh4KSAmJiBxKHgpKQogIH0K</text>
       </register>
-      <register name="2" type="4">
-        <text>ptyList[B] = {
-    def loop(l: List[B]): List</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE5vbkVtcHR5TGlzdCh0aGlzLnRvTGlzdCkK</text>
+        <text encoding="base64">ICBkZWYgd2l0aEZpbHRlciA9ID8/Pwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsCg==</text>
+        <text encoding="base64">ICAvKiogV2UgbmVlZCBhIHdob2xlIFdpdGhGaWx0ZXIgY2xhc3MgdG8gaG9ub3IgdGhlICJkb2Vzbid0IGNyZWF0ZSBhIG5ldwogICAqICBjb2xsZWN0aW9uIiBjb250cmFjdCBldmVuIHRob3VnaCBpdCBzZWVtcyB1bmxpa2VseSB0byBtYXR0ZXIgbXVjaCBpbiBhCiAgICogIGNvbGxlY3Rpb24gd2l0aCBtYXggc2l6ZSAxLgogICAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGYoaGVhZCkgKysgdGFpbCBmbGF0TWFwKGYpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNhc2UgTm9uRW1wdHlMaXN0KGggOjogdCkgPT4gcHJpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMudGFpbC5mb2xkUmlnaHQodGhpcy5oZWFkKSgodjEsIHYyKSA9PiApCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvbGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
