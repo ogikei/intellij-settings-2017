@@ -646,12 +646,12 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/NonEmptyList.scala" timestamp="1533736846155">
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/NonEmptyList.scala" timestamp="1533738705248">
         <mark key="'" line="36" column="28" />
-        <mark key="[" line="41" column="26" />
-        <mark key="]" line="41" column="29" />
-        <mark key="." line="41" column="29" />
-        <mark key="^" line="41" column="29" />
+        <mark key="[" line="41" column="37" />
+        <mark key="]" line="41" column="43" />
+        <mark key="." line="41" column="43" />
+        <mark key="^" line="41" column="43" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/test/java/org/apache/spark/streaming/kinesis/JavaKinesisStreamSuite.java" timestamp="1507098435949">
         <mark key="[" line="33" column="0" />
@@ -1042,11 +1042,11 @@
       <jump line="36" column="28" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/NonEmptyList.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxpc3QuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>NonEmptyList(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxcPg==</text>
@@ -1055,31 +1055,32 @@
         <text encoding="base64">ICB2YWwgbnVtYmVyczE6IE5vbkVtcHR5TGlzdFtJbnRdID0gTm9uRW1wdHlMaXN0KDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZih0aGlzLmhlYWQpIDo6OiBsb29wKHRoaXMudGFpbCkK</text>
+        <text encoding="base64">ICAgIGxpc3QuCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>ptyList[B] = {
+    def loop(l: List[B]): List</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGYodGhpcy5oZWFkKSA6OiBtYXAodGhpcy50YWlsKQo=</text>
+        <text encoding="base64">ICAgIE5vbkVtcHR5TGlzdCh0aGlzLnRvTGlzdCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNhc2UgaCA9PiBmKGgpIDo6IG1hcCh0YWlsLmhlYWQpCg==</text>
+        <text encoding="base64">ICBsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNhc2UgXyA9PiBOaWwK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YWwgbnVtYmVyczU6IE5vbkVtcHR5TGlzdFtJbnRdID0gTm9uRW1wdHlMaXN0KCkK</text>
+        <text encoding="base64">ICAgIGNhc2UgTm9uRW1wdHlMaXN0KGggOjogdCkgPT4gcHJpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRoaXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRoaXMudGFpbC5mb2xkUmlnaHQodGhpcy5oZWFkKSgodjEsIHYyKSA9PiApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHYK</text>
+        <text encoding="base64">ICAgIGZvbGQK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
