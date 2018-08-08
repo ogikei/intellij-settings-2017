@@ -217,12 +217,12 @@
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/Money.scala" timestamp="1533709165817">
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/Money.scala" timestamp="1533710479297">
         <mark key="'" line="6" column="22" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-        <mark key="^" line="120" column="0" />
+        <mark key="[" line="143" column="35" />
+        <mark key="]" line="143" column="51" />
+        <mark key="." line="143" column="51" />
+        <mark key="^" line="143" column="51" />
       </file>
       <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala-capstone/src/main/scala/observatory/Interaction.scala" timestamp="1523693008161">
         <mark key="[" line="21" column="75" />
@@ -325,6 +325,12 @@
         <mark key="]" line="3" column="14" />
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoneyMain.scala" timestamp="1533710500922">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/test/scala/org/apache/spark/streaming/kinesis/KinesisStreamSuite.scala" timestamp="1507098616342">
         <mark key="[" line="178" column="0" />
@@ -675,9 +681,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalcMain.scala" timestamp="1533692883873">
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MoviePriceCalcMain.scala" timestamp="1533710837878">
         <mark key="'" line="39" column="26" />
-        <mark key="[" line="91" column="0" />
+        <mark key="[" line="118" column="30" />
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
@@ -802,6 +808,12 @@
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/Customer.scala" timestamp="1533710657190">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-utils/src/main/scala/Main.scala" timestamp="1510294384364">
         <mark key="[" line="9" column="4" />
@@ -980,10 +992,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgTW9uZXkgewoKfQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGUKCmltcG9ydCBNb3ZpZVByaWNlQ2FsY01haW4ue0N1c3RvbWVyVHlwZSwgR2VuZGVyfQoKLyoqCiAqIOmhp+WuouOCkuihqOOBmeOCr+ODqeOCueOAggogKgogKiBAcGFyYW0gYmlydGhEYXkgICAgIOiqleeUn+aXpQogKiBAcGFyYW0gZ2VuZGVyICAgICAgIOaAp+WIpQogKiBAcGFyYW0gY3VzdG9tZXJUeXBlIOmhp+WuouOCv+OCpOODlwogKiBAcGFyYW0gaXMzRCAgICAgICAgIDNE44GL44Gp44GG44GLCiAqLwpjbGFzcyBDdXN0b21lcih2YWwgYmlydGhEYXk6IExvY2FsRGF0ZSwKICAgIHZhbCBnZW5kZXI6IEdlbmRlciwKICAgIHZhbCBjdXN0b21lclR5cGU6IEN1c3RvbWVyVHlwZSwKICAgIHZhbCBpczNEOiBCb29sZWFuKSB7CgogIGltcG9ydCBqYXZhLnRpbWUudGVtcG9yYWwuXwoKICAvKioKICAgKiDnj77lnKjjga7poaflrqLjga7lubTpvaLjgpLov5TjgZnjgIIKICAgKgogICAqIEByZXR1cm4g6aGn5a6i44Gu5bm06b2iCiAgICovCiAgZGVmIGFnZTogSW50ID0gY2FsY3VsYXRlQWdlKGJpcnRoRGF5LCBMb2NhbERhdGUubm93KCkpCgogIHByaXZhdGUgZGVmIGNhbGN1bGF0ZUFnZShiaXJ0aERheTogTG9jYWxEYXRlLCB0b2RheTogTG9jYWxEYXRlKTogSW50ID0KICAgIENocm9ub1VuaXQuWUVBUlMuYmV0d2VlbihiaXJ0aERheSwgdG9kYXkpLnRvSW50Cgp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>???</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -992,31 +1004,31 @@
         <text>customer.customerType</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgTW9uZXkgewoKfQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGUKCmltcG9ydCBNb3ZpZVByaWNlQ2FsY01haW4ue0N1c3RvbWVyVHlwZSwgR2VuZGVyfQoKLyoqCiAqIOmhp+WuouOCkuihqOOBmeOCr+ODqeOCueOAggogKgogKiBAcGFyYW0gYmlydGhEYXkgICAgIOiqleeUn+aXpQogKiBAcGFyYW0gZ2VuZGVyICAgICAgIOaAp+WIpQogKiBAcGFyYW0gY3VzdG9tZXJUeXBlIOmhp+WuouOCv+OCpOODlwogKiBAcGFyYW0gaXMzRCAgICAgICAgIDNE44GL44Gp44GG44GLCiAqLwpjbGFzcyBDdXN0b21lcih2YWwgYmlydGhEYXk6IExvY2FsRGF0ZSwKICAgIHZhbCBnZW5kZXI6IEdlbmRlciwKICAgIHZhbCBjdXN0b21lclR5cGU6IEN1c3RvbWVyVHlwZSwKICAgIHZhbCBpczNEOiBCb29sZWFuKSB7CgogIGltcG9ydCBqYXZhLnRpbWUudGVtcG9yYWwuXwoKICAvKioKICAgKiDnj77lnKjjga7poaflrqLjga7lubTpvaLjgpLov5TjgZnjgIIKICAgKgogICAqIEByZXR1cm4g6aGn5a6i44Gu5bm06b2iCiAgICovCiAgZGVmIGFnZTogSW50ID0gY2FsY3VsYXRlQWdlKGJpcnRoRGF5LCBMb2NhbERhdGUubm93KCkpCgogIHByaXZhdGUgZGVmIGNhbGN1bGF0ZUFnZShiaXJ0aERheTogTG9jYWxEYXRlLCB0b2RheTogTG9jYWxEYXRlKTogSW50ID0KICAgIENocm9ub1VuaXQuWUVBUlMuYmV0d2VlbihiaXJ0aERheSwgdG9kYXkpLnRvSW50Cgp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgTXlPcHRpb25NYWluIHsKCn0K</text>
+        <text encoding="base64">Y2xhc3MgTW9uZXlNYWluIHsKCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZSBteW9wdGlvbgo=</text>
+        <text encoding="base64">Y2xhc3MgTW9uZXkgewoKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgTXlPcHRpb25NYWluIHsKCn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0VtcHR5KSBNeU5vbmUgZWxzZSBNeVNvbWUodGhpcy5nZXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">cGFja2FnZSBteW9wdGlvbgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChpc0VtcHR5KSBNeU5vbmUgZWxzZSBNeVNvbWUodGhpcy5nZXQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
