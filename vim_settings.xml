@@ -646,12 +646,12 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/NonEmptyList.scala" timestamp="1533720299077">
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/NonEmptyList.scala" timestamp="1533721917493">
         <mark key="'" line="54" column="2" />
-        <mark key="[" line="27" column="8" />
-        <mark key="]" line="27" column="36" />
-        <mark key="^" line="27" column="36" />
-        <mark key="." line="27" column="36" />
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="27" column="40" />
+        <mark key="." line="27" column="40" />
+        <mark key="^" line="27" column="40" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/test/java/org/apache/spark/streaming/kinesis/JavaKinesisStreamSuite.java" timestamp="1507098435949">
         <mark key="[" line="33" column="0" />
@@ -1043,10 +1043,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text encoding="base64">aGVhZCArOiA=</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text encoding="base64">aGVhZCArOiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxcPg==</text>
@@ -1055,31 +1055,31 @@
         <text encoding="base64">ICB2YWwgbnVtYmVyczE6IE5vbkVtcHR5TGlzdFtJbnRdID0gTm9uRW1wdHlMaXN0KDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhc3NlcnQoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAsdgo=</text>
+        <text encoding="base64">ICBhc3NlcnQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcmludChjb3VudEZydWl0cyhsaW5lcykpCg==</text>
+        <text encoding="base64">ICAsdgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJ1ZmZlcmVkU291cmNlLmdldExpbmVzLnRvTGlzdAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4obGluZXMpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICBwcmludChjb3VudEZydWl0cyhsaW5lcykpCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGJ1ZmZlcmVkU291cmNlLmdldExpbmVzLnRvTGlzdAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4obGluZXMpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YWwgcyA9IFNvdXJjZS5mcm9tRmlsZShzIiR7aG9tZX0vLi4uLi4iKS5nZXRMaW5lcygpCg==</text>
+        <text encoding="base64">ICBwcmludChjb3VudEZydWl0cyhsaW5lcykpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZsYXRMaXN0IGdyb3VwQnkgaWRlbnRpdHkgbWFwIHsKICAgICAgY2FzZSAoaywgdikgPT4gKGssIHYubGVuZ3RoKQogICAgfQo=</text>
+        <text encoding="base64">ICB2YWwgcyA9IFNvdXJjZS5mcm9tRmlsZShzIiR7aG9tZX0vLi4uLi4iKS5nZXRMaW5lcygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
