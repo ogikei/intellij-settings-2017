@@ -646,12 +646,12 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/NonEmptyList.scala" timestamp="1533788220569">
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/NonEmptyList.scala" timestamp="1533789049145">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="78" column="28" />
-        <mark key="]" line="78" column="41" />
-        <mark key="." line="78" column="41" />
-        <mark key="^" line="78" column="41" />
+        <mark key="[" line="78" column="47" />
+        <mark key="]" line="78" column="47" />
+        <mark key="." line="78" column="47" />
+        <mark key="^" line="78" column="47" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/test/java/org/apache/spark/streaming/kinesis/JavaKinesisStreamSuite.java" timestamp="1507098435949">
         <mark key="[" line="33" column="0" />
@@ -1043,43 +1043,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">aSA9PiBpLnRvRG91YmxlKQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">aSA9PiBpLnRvRG91YmxlKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YWwgbnVtYmVyczQ6IE5vbkVtcHR5TGlzdFtJbnRdID0gTm9uRW1wdHlMaXN0KDEsIDIsIDMpICs6IE5vbkVtcHR5TGlzdCg0LCA1LCA2KQo=</text>
+        <text encoding="base64">ICBwcmludGxuKG51bWJlcnM0IG1hcCAoaSA9PiBpLnRvRG91YmxlKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE5vbkVtcHR5TGlzdCgpCg==</text>
+        <text encoding="base64">ICBrCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGEK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjbGFzcyBXaXRoRmlsdGVyKHA6IEEgPT4gQm9vbGVhbikgeyBkZWYgbWFwW0JdKGY6IEEgPT4gQik6IE9wdGlvbltCXSA9IHRoaXMgZmlsdGVyIHAgbWFwIGYKICAgIGRlZiBmbGF0TWFwW0JdKGY6IEEgPT4gT3B0aW9uW0JdKTogT3B0aW9uW0JdID0gc2VsZiBmaWx0ZXIgcCBmbGF0TWFwIGYKICAgIGRlZiBmb3JlYWNoW1VdKGY6IEEgPT4gVSk6IFVuaXQgPSBzZWxmIGZpbHRlciBwIGZvcmVhY2ggZgogICAgZGVmIHdpdGhGaWx0ZXIocTogQSA9PiBCb29sZWFuKTogV2l0aEZpbHRlciA9IG5ldyBXaXRoRmlsdGVyKHggPT4gcCh4KSAmJiBxKHgpKQogIH0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB2YWwgYSA9IExpc3QoTGlzdCgxLCAyLCAzKSwgTGlzdCgzLCA0LCA1KSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICB2YWwgbnVtYmVyczU6IE5vbkVtcHR5TGlzdFtJbnRdID0gTm9uRW1wdHlMaXN0KE5vbkVtcHR5TGlzdCgxLCAyLCAzKSwgTm9uRW1wdHlMaXN0KDIsIDMpKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIE5vbkVtcHR5TGlzdCgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGEK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgd2l0aEZpbHRlciA9ID8/Pwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvKiogV2UgbmVlZCBhIHdob2xlIFdpdGhGaWx0ZXIgY2xhc3MgdG8gaG9ub3IgdGhlICJkb2Vzbid0IGNyZWF0ZSBhIG5ldwogICAqICBjb2xsZWN0aW9uIiBjb250cmFjdCBldmVuIHRob3VnaCBpdCBzZWVtcyB1bmxpa2VseSB0byBtYXR0ZXIgbXVjaCBpbiBhCiAgICogIGNvbGxlY3Rpb24gd2l0aCBtYXggc2l6ZSAxLgogICAqLwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
