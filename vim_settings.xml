@@ -565,8 +565,8 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MyOption.scala" timestamp="1533977663208">
-        <mark key="'" line="152" column="1" />
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MyOption.scala" timestamp="1534051087079">
+        <mark key="'" line="128" column="1" />
         <mark key="[" line="122" column="34" />
         <mark key="]" line="122" column="37" />
         <mark key="^" line="122" column="37" />
@@ -804,12 +804,11 @@
         <mark key="^" line="1" column="55" />
         <mark key="." line="1" column="55" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MyOptionMain.scala" timestamp="1534050787499">
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MyOptionMain.scala" timestamp="1534052365989">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="38" column="52" />
-        <mark key="]" line="38" column="52" />
-        <mark key="." line="38" column="52" />
-        <mark key="^" line="38" column="57" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisTestUtils.scala" timestamp="1507099381817">
         <mark key="[" line="192" column="23" />
@@ -943,11 +942,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="518" column="0" filename="$USER_HOME$/OfficeTools/git/scala-test/src/main/scala/com.dmm.i3.recommend/package.scala" />
-      <jump line="232" column="29" filename="$USER_HOME$/OfficeTools/git/scala-test/src/main/scala/com.dmm.i3.recommend/package.scala" />
-      <jump line="16" column="0" filename="$USER_HOME$/OfficeTools/git/scala-test/src/main/scala/com.dmm.i3.recommend/package.scala" />
-      <jump line="521" column="0" filename="$USER_HOME$/OfficeTools/git/scala-test/src/main/scala/com.dmm.i3.recommend/package.scala" />
-      <jump line="152" column="3" filename="$USER_HOME$/OfficeTools/git/scala-test/src/main/scala/com.dmm.i3.recommend/DFItemToItemCross.scala" />
       <jump line="32" column="4" filename="$USER_HOME$/OfficeTools/git/scala-test/src/main/scala/com.dmm.i3.recommend/DFItemToItemCross.scala" />
       <jump line="6" column="0" filename="$USER_HOME$/OfficeTools/git/scala-test/src/main/scala/com.dmm.i3.recommend/DFItemToItemCross.scala" />
       <jump line="227" column="6" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" />
@@ -1043,64 +1037,67 @@
       <jump line="36" column="28" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/NonEmptyList.scala" />
       <jump line="40" column="34" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/NonEmptyList.scala" />
       <jump line="5" column="0" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/NonEmptyList.scala" />
+      <jump line="89" column="4" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MyOption.scala" />
+      <jump line="96" column="6" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MyOption.scala" />
+      <jump line="97" column="37" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MyOption.scala" />
+      <jump line="120" column="69" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MyOption.scala" />
+      <jump line="128" column="1" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MyOption.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICogMg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcmludGxuKFNvbWUoU29tZSgxMDApKSBmbGF0TWFwICh4ID0+IHggKSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICogMg==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWxcPg==</text>
+        <text>flatmap</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhc3NlcnQoTXlTb21lKDEwMCkuZmxhdE1hcChmKSA9PSBmKDEwMCkpCg==</text>
+        <text encoding="base64">ICBwcmludGxuKFNvbWUoU29tZSgxMDApKS5nZXQgbWFwICh4ID0+IHggKiAyKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmludGxuKFNvbWUoU29tZSgxMDApKSBmbGF0TWFwICh4ID0+IHggKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcmludGxuKE15U29tZShNeVNvbWUoTXlTb21lKDEwMCkpKS5mbGF0TWFwKHggPT4geCAqIDIpKQo=</text>
+        <text encoding="base64">ICBhc3NlcnQoKE15Tm9uZTogTXlPcHRpb25bSW50XSkuZmxhdE1hcChmKS5mbGF0TWFwKGcpID09IChNeU5vbmU6IE15T3B0aW9uW0ludF0pLmZsYXRNYXAoeCA9PiBmKHgpLmZsYXRNYXAoZykpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBNeVNvbWUoTXlTb21lKDEwMCkpIGYuYQp9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBhc3NlcnQoTXlTb21lKDEwMCkuZmxhdE1hcChmKSA9PSBmKDEwMCkpCiAgYXNzZXJ0KE15U29tZSgxMDApLmZsYXRNYXAoTXlTb21lKF8pKSA9PSBNeVNvbWUoMTAwKSkKICBhc3NlcnQoKE15Tm9uZTogTXlPcHRpb25bSW50XSkuZmxhdE1hcChNeVNvbWUoXykpID09IE15Tm9uZSkKICBhc3NlcnQoTXlTb21lKDEwMCkuZmxhdE1hcChmKS5mbGF0TWFwKGcpID09IE15U29tZSgxMDApLmZsYXRNYXAoeCA9PiBmKHgpLmZsYXRNYXAoZykpKQogIGFzc2VydCgoTXlOb25lOiBNeU9wdGlvbltJbnRdKS5mbGF0TWFwKGYpLmZsYXRNYXAoZykgPT0gKE15Tm9uZTogTXlPcHRpb25bSW50XSkuZmxhdE1hcCh4ID0+IGYoeCkuZmxhdE1hcChnKSkpCiAgCiAgTXVTbwp9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcmludGxuKE15U29tZSgxMDApLmZsYXRNYXAoZikgPT0gZigxMDApKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGkgJSAyID09IDAgJiYgaiAlIDIgPT0gMAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBrCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwcmludGxuKFNvbWUoU29tZSgxMCkpIGZsYXR0ZW4gbWFwICh4ID0+IHggKiAyKSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBwcmludGxuKE15U29tZShNeVNvbWUoTXlTb21lKDEwMCkuZmxhdE1hcCh4ID0+IHggKiAyKSkpKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwcmludGxuKFNvbWUoMTAwKSBmbGF0TWFwICh4ID0+IHggKiAyKSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgYSA9IExpc3QoTGlzdCgxLCAyLCAzKSwgTGlzdCgzLCA0LCA1KSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWxcPg==</last-search>
+      <last-search>flatmap</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWxcPg==</last-pattern>
+      <last-pattern>flatmap</last-pattern>
       <last-replace>2018-04-10</last-replace>
       <last-substitute>${dt}</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>field</entry>
-        <entry>resource</entry>
         <entry>resour</entry>
         <entry>resou</entry>
         <entry>res</entry>
@@ -1119,6 +1116,8 @@
         <entry>boolean</entry>
         <entry>nonempty</entry>
         <entry encoding="base64">XDx2YWxcPg==</entry>
+        <entry>get</entry>
+        <entry>flatmap</entry>
       </history-search>
       <history-cmd>
         <entry>26</entry>
