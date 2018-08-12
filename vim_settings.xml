@@ -646,12 +646,12 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/NonEmptyList.scala" timestamp="1533922375285">
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/NonEmptyList.scala" timestamp="1534053268454">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="85" column="19" />
-        <mark key="]" line="87" column="112" />
-        <mark key="." line="87" column="112" />
-        <mark key="^" line="87" column="112" />
+        <mark key="[" line="87" column="15" />
+        <mark key="]" line="88" column="3" />
+        <mark key="." line="88" column="3" />
+        <mark key="^" line="88" column="3" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/test/java/org/apache/spark/streaming/kinesis/JavaKinesisStreamSuite.java" timestamp="1507098435949">
         <mark key="[" line="33" column="0" />
@@ -804,11 +804,11 @@
         <mark key="^" line="1" column="55" />
         <mark key="." line="1" column="55" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MyOptionMain.scala" timestamp="1534052365989">
+      <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MyOptionMain.scala" timestamp="1534053140799">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisTestUtils.scala" timestamp="1507099381817">
         <mark key="[" line="192" column="23" />
@@ -1044,44 +1044,44 @@
       <jump line="128" column="1" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MyOption.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcmludGxuKFNvbWUoU29tZSgxMDApKSBmbGF0TWFwICh4ID0+IHggKSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>flatmap</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcmludGxuKFNvbWUoU29tZSgxMDApKS5nZXQgbWFwICh4ID0+IHggKiAyKSkK</text>
+        <text encoding="base64">ICBwcmludGxuKFNvbWUoU29tZSgxMDApKSBmbGF0TWFwICh4ID0+IHggKiAyKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcmludGxuKFNvbWUoU29tZSgxMDApKSBmbGF0TWFwICh4ID0+IHggKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhc3NlcnQoKE15Tm9uZTogTXlPcHRpb25bSW50XSkuZmxhdE1hcChmKS5mbGF0TWFwKGcpID09IChNeU5vbmU6IE15T3B0aW9uW0ludF0pLmZsYXRNYXAoeCA9PiBmKHgpLmZsYXRNYXAoZykpKQo=</text>
+        <text encoding="base64">ICBwcmludGxuKFNvbWUoU29tZSgxMDApKSBmbGF0TWFwICh4ID0+IHggKiAyKSkKICBwcmludGxuKFNvbWUoMTAwKSBmbGF0TWFwICh4ID0+IHgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwcmludGxuKFNvbWUoU29tZSgxMDApKSBmbGF0TWFwICh4ID0+IHggKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBhc3NlcnQoKE15Tm9uZTogTXlPcHRpb25bSW50XSkuZmxhdE1hcChmKS5mbGF0TWFwKGcpID09IChNeU5vbmU6IE15T3B0aW9uW0ludF0pLmZsYXRNYXAoeCA9PiBmKHgpLmZsYXRNYXAoZykpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcmludGxuKFNvbWUoU29tZSgxMCkpIGZsYXR0ZW4gbWFwICh4ID0+IHggKiAyKSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcmludGxuKE15U29tZShNeVNvbWUoTXlTb21lKDEwMCkuZmxhdE1hcCh4ID0+IHggKiAyKSkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcmludGxuKFNvbWUoMTAwKSBmbGF0TWFwICh4ID0+IHggKiAyKSkK</text>
+        <text encoding="base64">ICBwcmludGxuKFNvbWUoU29tZSgxMCkpIGZsYXR0ZW4gbWFwICh4ID0+IHggKiAyKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmludGxuKE15U29tZShNeVNvbWUoTXlTb21lKDEwMCkuZmxhdE1hcCh4ID0+IHggKiAyKSkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
