@@ -429,11 +429,11 @@
         <mark key="." line="2" column="1" />
         <mark key="^" line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/play-sandbox/build.sbt" timestamp="1534433378565">
-        <mark key="[" line="11" column="67" />
-        <mark key="]" line="11" column="67" />
-        <mark key="^" line="11" column="67" />
-        <mark key="." line="11" column="67" />
+      <file name="$USER_HOME$/MyWork/git/play-sandbox/build.sbt" timestamp="1534920534535">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/spark-kinesis-sql-asl/external/kinesis-sql-asl/pom.xml" timestamp="1507113420605">
         <mark key="[" line="24" column="15" />
@@ -826,11 +826,12 @@
         <mark key="^" line="13" column="65" />
         <mark key="." line="13" column="65" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/play-sandbox/conf/application.conf" timestamp="1534431272221">
-        <mark key="[" line="2" column="51" />
-        <mark key="]" line="2" column="51" />
-        <mark key="^" line="2" column="51" />
-        <mark key="." line="2" column="51" />
+      <file name="$USER_HOME$/MyWork/git/play-sandbox/conf/application.conf" timestamp="1534920781521">
+        <mark key="'" line="23" column="42" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="23" column="42" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/aws-price/coffee.js" timestamp="1522404010508">
         <mark key="[" line="0" column="0" />
@@ -1012,7 +1013,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="4" filename="$USER_HOME$/OfficeTools/git/scala-test/src/main/scala/com.dmm.i3.recommend/DFItemToItemCross.scala" />
       <jump line="6" column="0" filename="$USER_HOME$/OfficeTools/git/scala-test/src/main/scala/com.dmm.i3.recommend/DFItemToItemCross.scala" />
       <jump line="227" column="6" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" />
       <jump line="259" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.160/a9cd2734682f4c5e95a6ee9cc2fffd8e74d6d36/aws-java-sdk-emr-1.11.160-sources.jar!/com/amazonaws/services/elasticmapreduce/model/InstanceTypeConfig.java" />
@@ -1112,10 +1112,11 @@
       <jump line="97" column="37" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MyOption.scala" />
       <jump line="120" column="69" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MyOption.scala" />
       <jump line="128" column="1" filename="$USER_HOME$/MyWork/git/techacademy/src/main/scala/MyOption.scala" />
+      <jump line="24" column="42" filename="$USER_HOME$/MyWork/git/play-sandbox/conf/application.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1127,31 +1128,31 @@
         <text encoding="base64">R0VUICAgICAvZWNobzQgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuRWNob0NvbnRyb2xsZXIyLmVjaG80Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBodHRwczovL3d3dy5wbGF5ZnJhbWV3b3JrLmNvbS9kb2N1bWVudGF0aW9uL2xhdGVzdC9Db25maWd1cmF0aW9uCgpwbGF5LmZpbHRlcnMuZGlzYWJsZWQrPXBsYXkuZmlsdGVycy5jc3JmLkNTUkZGaWx0ZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LmluamVjdC5fCgppbXBvcnQgcGxheS5hcGkubXZjLl8KCkBTaW5nbGV0b24K</text>
+        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArKz0gU2VxKAogICJvcmcuc2NhbGF0ZXN0IiAlJSAic2NhbGF0ZXN0IiAlICIzLjAuNSIgJSBUZXN0LAogICJvcmcuc2NhbGlrZWpkYmMiICUlICJzY2FsaWtlamRiYyIgJSAiMy4yLjMiLAogICJvcmcuc2NhbGlrZWpkYmMiICUlICJzY2FsaWtlamRiYy1jb25maWciICUgIjMuMi4zIiwKICAib3JnLnNjYWxpa2VqZGJjIiAlJSAic2NhbGlrZWpkYmMtdGVzdCIgJSAiMy4yLjMiICUgVGVzdCwKICAib3JnLnNjYWxpa2VqZGJjIiAlJSAic2NhbGlrZWpkYmMtc3ludGF4LXN1cHBvcnQtbWFjcm8iICUgIjMuMi4rIiwKICAiY2gucW9zLmxvZ2JhY2siICUgImxvZ2JhY2stY2xhc3NpYyIgJSAiMS4yLjMiLAogICJteXNxbCIgJSAibXlzcWwtY29ubmVjdG9yLWphdmEiICUgIjYuMC42IgopCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QCoKICogVGhpcyB0ZW1wbGF0ZSBpcyBjYWxsZWQgZnJvbSB0aGUgYGluZGV4YCB0ZW1wbGF0ZS4gVGhpcyB0ZW1wbGF0ZQogKiBoYW5kbGVzIHRoZSByZW5kZXJpbmcgb2YgdGhlIHBhZ2UgaGVhZGVyIGFuZCBib2R5IHRhZ3MuIEl0IHRha2VzCiAqIHR3byBhcmd1bWVudHMsIGEgYFN0cmluZ2AgZm9yIHRoZSB0aXRsZSBvZiB0aGUgcGFnZSBhbmQgYW4gYEh0bWxgCiAqIG9iamVjdCB0byBpbnNlcnQgaW50byB0aGUgYm9keSBvZiB0aGUgcGFnZS4KICpACkAodGl0bGU6IFN0cmluZykoY29udGVudDogSHRtbCkKCjwhRE9DVFlQRSBodG1sPgo8aHRtbCBsYW5nPSJlbiI+CiAgICA8aGVhZD4KICAgICAgICBAKiBIZXJlJ3Mgd2hlcmUgd2UgcmVuZGVyIHRoZSBwYWdlIHRpdGxlIGBTdHJpbmdgLiAqQAogICAgICAgIDx0aXRsZT5AdGl0bGU8L3RpdGxlPgogICAgICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgbWVkaWE9InNjcmVlbiIgaHJlZj0iQHJvdXRlcy5Bc3NldHMudmVyc2lvbmVkKCJzdHlsZXNoZWV0cy9tYWluLmNzcyIpIj4KICAgICAgICA8bGluayByZWw9InNob3J0Y3V0IGljb24iIHR5cGU9ImltYWdlL3BuZyIgaHJlZj0iQHJvdXRlcy5Bc3NldHMudmVyc2lvbmVkKCJpbWFnZXMvZmF2aWNvbi5wbmciKSI+CgogICAgPC9oZWFkPgogICAgPGJvZHk+CiAgICAgICAgQCogQW5kIGhlcmUncyB3aGVyZSB3ZSByZW5kZXIgdGhlIGBIdG1sYCBvYmplY3QgY29udGFpbmluZwogICAgICAgICAqIHRoZSBwYWdlIGNvbnRlbnQuICpACiAgICAgICAgQGNvbnRlbnQKCiAgICAgIDxzY3JpcHQgc3JjPSJAcm91dGVzLkFzc2V0cy52ZXJzaW9uZWQoImphdmFzY3JpcHRzL21haW4uanMiKSIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4KICAgIDwvYm9keT4KPC9odG1sPgo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Pgo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArKz0gU2VxKAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBndWljZSwKICAib3JnLnNjYWxhdGVzdHBsdXMucGxheSIgJSUgInNjYWxhdGVzdHBsdXMtcGxheSIgJSAiMy4xLjIiICUgVGVzdCwKICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMy4wLjUiICUgVGVzdAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGZvcm1zLkxvZ2luCmltcG9ydCBwbGF5LmFwaS5kYXRhLkZvcm1zLl8KaW1wb3J0IHBsYXkuYXBpLmRhdGEuXwppbXBvcnQgcGxheS5hcGkubXZjLl8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LmluamVjdC5fCgppbXBvcnQgcGxheS5hcGkubXZjLl8KCkBTaW5nbGV0b24K</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
