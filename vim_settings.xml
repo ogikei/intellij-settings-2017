@@ -643,6 +643,12 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/message-board/build.sbt" timestamp="1534947160625">
+        <mark key="[" line="10" column="88" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/PracticeQuestions3.scala" timestamp="1533290559814">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="22" column="1" />
@@ -809,6 +815,12 @@
         <mark key="]" line="68" column="53" />
         <mark key="^" line="126" column="2" />
         <mark key="." line="126" column="2" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/message-board/.gitignore" timestamp="1534946748737">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="8" />
+        <mark key="." line="5" column="8" />
+        <mark key="^" line="5" column="8" />
       </file>
       <file name="/sbtShell" timestamp="1530157117810">
         <mark key="[" line="0" column="0" />
@@ -1127,8 +1139,8 @@
       <jump line="11" column="37" filename="$USER_HOME$/MyWork/git/play-sandbox/test/controllers/LoginControllerSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KHJvdXRlcy5Mb2dpbkNvbnRyb2xsZXIubG9naW4sICdjbGFzcyAtPiAiZm9ybS1zaWduaW4iKSB7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LkRTCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">KHJvdXRlcy5Mb2dpbkNvbnRyb2xsZXIubG9naW4sICdjbGFzcyAtPiAiZm9ybS1zaWduaW4iKSB7</text>
@@ -1140,31 +1152,31 @@
         <text encoding="base64">ICAgICAgT2sodmlld3MuaHRtbC5lY2hvKG1lc3NhZ2UpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">LkRTCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLnRlc3QuQ1NSRlRva2VuSGVscGVyLl8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAKiDku6XkuIvjgavmm7jjgY3mj5vjgYjjgosgKkAK</text>
+        <text encoding="base64">bG9ncwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8c3Bhbj5AdXNlck9wdC50b1N0cmluZzwvc3Bhbj4KICBAaWYodXNlck9wdC5pc0VtcHR5KSB7CiAgICA8YSBocmVmPSJAcm91dGVzLkxvZ2luQ29udHJvbGxlci5pbmRleCI+TG9naW48L2E+CiAgfQo=</text>
+        <text encoding="base64">Ly5pZGVhCi8uaWRlYV9tb2R1bGVzCi8uY2xhc3NwYXRoCi8ucHJvamVjdAovLnNldHRpbmdzCi9SVU5OSU5HX1BJRAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAaGVscGVyLmZvcm0oYWN0aW9uID0gcm91dGVzLkxvZ2luQ29udHJvbGxlci5sb2dpbikgewogICAgQGhlbHBlci5pbnB1dFRleHQoZm9ybSgiZW1haWwiKSkKICAgIEBoZWxwZXIuaW5wdXRQYXNzd29yZChmb3JtKCJwYXNzd29yZCIpKQogICAgPGlucHV0IHR5cGU9InN1Ym1pdCIgdmFsdWU9IkxvZ2luIi8+CiAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBlcnJvci5tZXNzYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGltcG9ydCBmb3Jtcy5Mb2dpbgpAKGZvcm06IEZvcm1bTG9naW5dKShpbXBsaWNpdCBtZXNzYWdlc1Byb3ZpZGVyOiBNZXNzYWdlc1Byb3ZpZGVyKQo=</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLnRlc3QuQ1NSRlRva2VuSGVscGVyLl8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBAKiDku6XkuIvjgavmm7jjgY3mj5vjgYjjgosgKkAK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
@@ -1177,7 +1189,7 @@
       <last-replace>2018-04-10</last-replace>
       <last-substitute>${dt}</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
