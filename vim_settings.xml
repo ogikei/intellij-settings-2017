@@ -868,6 +868,13 @@
         <mark key="^" line="2" column="73" />
         <mark key="." line="2" column="73" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/UserServiceImpl.scala" timestamp="1535182427939">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/message-board/app/controllers/TaskControllerSupport.scala" timestamp="1535017327995">
         <mark key="[" line="14" column="30" />
         <mark key="]" line="14" column="30" />
@@ -1216,6 +1223,13 @@
         <mark key="^" line="126" column="2" />
         <mark key="." line="126" column="2" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/UserService.scala" timestamp="1535182381039">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/message-board/.gitignore" timestamp="1535000927577">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="7" column="3" />
@@ -1412,9 +1426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="7" filename="$USER_HOME$/MyWork/git/play-sandbox/app/controllers/LoginController.scala" />
-      <jump line="11" column="37" filename="$USER_HOME$/MyWork/git/play-sandbox/test/controllers/LoginControllerSpec.scala" />
-      <jump line="16" column="18" filename="$USER_HOME$/MyWork/git/message-board/build.sbt" />
       <jump line="7" column="0" filename="$USER_HOME$/MyWork/git/message-board/build.sbt" />
       <jump line="28" column="65" filename="$USER_HOME$/MyWork/git/message-board/app/models/Message.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/message-board/app/models/Message.scala" />
@@ -1512,10 +1523,13 @@
       <jump line="3" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/conf/application.conf" />
       <jump line="36" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/conf/application.conf" />
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/conf/application.conf" />
+      <jump line="10" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/services/UserService.scala" />
+      <jump line="6" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/services/UserServiceImpl.scala" />
+      <jump line="5" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/services/UserServiceImpl.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ハッシュ化されたパスワード</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ハッシュ化されたパスワード</text>
@@ -1530,28 +1544,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFzc3dvcmQuc2FsdD0ke3Bhc3N3b3JkU2FsdH0K</text>
+        <text encoding="base64">cGFja2FnZSBzZXJ2aWNlcwoKY2xhc3MgVXNlclNlcnZpY2VJbXBsIHsKCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGFzc3dvcmQK</text>
+        <text encoding="base64">cGFja2FnZSBzZXJ2aWNlcwoKY2xhc3MgVXNlclNlcnZpY2UgewoKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZSBjb250cm9sbGVycwoKY2xhc3MgSG9tZUNvbnRyb2xsZXJTcGVjIHsKCn0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cGFja2FnZSBjb250cm9sbGVycwoKaW1wb3J0IGphdmF4LmluamVjdC5fCmltcG9ydCBwbGF5LmFwaS5fCmltcG9ydCBwbGF5LmFwaS5tdmMuXwoKLyoqCiAqIFRoaXMgY29udHJvbGxlciBjcmVhdGVzIGFuIGBBY3Rpb25gIHRvIGhhbmRsZSBIVFRQIHJlcXVlc3RzIHRvIHRoZQogKiBhcHBsaWNhdGlvbidzIGhvbWUgcGFnZS4KICovCkBTaW5nbGV0b24KY2xhc3MgSG9tZUNvbnRyb2xsZXIgQEluamVjdCgpKGNjOiBDb250cm9sbGVyQ29tcG9uZW50cykgZXh0ZW5kcyBBYnN0cmFjdENvbnRyb2xsZXIoY2MpIHsKCiAgLyoqCiAgICogQ3JlYXRlIGFuIEFjdGlvbiB0byByZW5kZXIgYW4gSFRNTCBwYWdlLgogICAqCiAgICogVGhlIGNvbmZpZ3VyYXRpb24gaW4gdGhlIGByb3V0ZXNgIGZpbGUgbWVhbnMgdGhhdCB0aGlzIG1ldGhvZAogICAqIHdpbGwgYmUgY2FsbGVkIHdoZW4gdGhlIGFwcGxpY2F0aW9uIHJlY2VpdmVzIGEgYEdFVGAgcmVxdWVzdCB3aXRoCiAgICogYSBwYXRoIG9mIGAvYC4KICAgKi8KICBkZWYgaW5kZXgoKSA9IEFjdGlvbiB7IGltcGxpY2l0IHJlcXVlc3Q6IFJlcXVlc3RbQW55Q29udGVudF0gPT4KICAgIE9rKHZpZXdzLmh0bWwuaW5kZXgoKSkKICB9Cn0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">cGFzc3dvcmQuc2FsdD0ke3Bhc3N3b3JkU2FsdH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cGFzc3dvcmQK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">QCgpCgpAbWFpbigiV2VsY29tZSB0byBQbGF5IikgewogIDxoMT5XZWxjb21lIHRvIFBsYXkhPC9oMT4KfQo=</text>
+        <text encoding="base64">cGFja2FnZSBjb250cm9sbGVycwoKY2xhc3MgSG9tZUNvbnRyb2xsZXJTcGVjIHsKCn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QCoKICogVGhpcyB0ZW1wbGF0ZSBpcyBjYWxsZWQgZnJvbSB0aGUgYGluZGV4YCB0ZW1wbGF0ZS4gVGhpcyB0ZW1wbGF0ZQogKiBoYW5kbGVzIHRoZSByZW5kZXJpbmcgb2YgdGhlIHBhZ2UgaGVhZGVyIGFuZCBib2R5IHRhZ3MuIEl0IHRha2VzCiAqIHR3byBhcmd1bWVudHMsIGEgYFN0cmluZ2AgZm9yIHRoZSB0aXRsZSBvZiB0aGUgcGFnZSBhbmQgYW4gYEh0bWxgCiAqIG9iamVjdCB0byBpbnNlcnQgaW50byB0aGUgYm9keSBvZiB0aGUgcGFnZS4KICpACkAodGl0bGU6IFN0cmluZykoY29udGVudDogSHRtbCkKCjwhRE9DVFlQRSBodG1sPgo8aHRtbCBsYW5nPSJlbiI+CiAgICA8aGVhZD4KICAgICAgICBAKiBIZXJlJ3Mgd2hlcmUgd2UgcmVuZGVyIHRoZSBwYWdlIHRpdGxlIGBTdHJpbmdgLiAqQAogICAgICAgIDx0aXRsZT5AdGl0bGU8L3RpdGxlPgogICAgICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgbWVkaWE9InNjcmVlbiIgaHJlZj0iQHJvdXRlcy5Bc3NldHMudmVyc2lvbmVkKCJzdHlsZXNoZWV0cy9tYWluLmNzcyIpIj4KICAgICAgICA8bGluayByZWw9InNob3J0Y3V0IGljb24iIHR5cGU9ImltYWdlL3BuZyIgaHJlZj0iQHJvdXRlcy5Bc3NldHMudmVyc2lvbmVkKCJpbWFnZXMvZmF2aWNvbi5wbmciKSI+CgogICAgPC9oZWFkPgogICAgPGJvZHk+CiAgICAgICAgQCogQW5kIGhlcmUncyB3aGVyZSB3ZSByZW5kZXIgdGhlIGBIdG1sYCBvYmplY3QgY29udGFpbmluZwogICAgICAgICAqIHRoZSBwYWdlIGNvbnRlbnQuICpACiAgICAgICAgQGNvbnRlbnQKCiAgICAgIDxzY3JpcHQgc3JjPSJAcm91dGVzLkFzc2V0cy52ZXJzaW9uZWQoImphdmFzY3JpcHRzL21haW4uanMiKSIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4KICAgIDwvYm9keT4KPC9odG1sPgo=</text>
+        <text encoding="base64">cGFja2FnZSBjb250cm9sbGVycwoKaW1wb3J0IGphdmF4LmluamVjdC5fCmltcG9ydCBwbGF5LmFwaS5fCmltcG9ydCBwbGF5LmFwaS5tdmMuXwoKLyoqCiAqIFRoaXMgY29udHJvbGxlciBjcmVhdGVzIGFuIGBBY3Rpb25gIHRvIGhhbmRsZSBIVFRQIHJlcXVlc3RzIHRvIHRoZQogKiBhcHBsaWNhdGlvbidzIGhvbWUgcGFnZS4KICovCkBTaW5nbGV0b24KY2xhc3MgSG9tZUNvbnRyb2xsZXIgQEluamVjdCgpKGNjOiBDb250cm9sbGVyQ29tcG9uZW50cykgZXh0ZW5kcyBBYnN0cmFjdENvbnRyb2xsZXIoY2MpIHsKCiAgLyoqCiAgICogQ3JlYXRlIGFuIEFjdGlvbiB0byByZW5kZXIgYW4gSFRNTCBwYWdlLgogICAqCiAgICogVGhlIGNvbmZpZ3VyYXRpb24gaW4gdGhlIGByb3V0ZXNgIGZpbGUgbWVhbnMgdGhhdCB0aGlzIG1ldGhvZAogICAqIHdpbGwgYmUgY2FsbGVkIHdoZW4gdGhlIGFwcGxpY2F0aW9uIHJlY2VpdmVzIGEgYEdFVGAgcmVxdWVzdCB3aXRoCiAgICogYSBwYXRoIG9mIGAvYC4KICAgKi8KICBkZWYgaW5kZXgoKSA9IEFjdGlvbiB7IGltcGxpY2l0IHJlcXVlc3Q6IFJlcXVlc3RbQW55Q29udGVudF0gPT4KICAgIE9rKHZpZXdzLmh0bWwuaW5kZXgoKSkKICB9Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
