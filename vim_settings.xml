@@ -275,6 +275,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="15" column="31" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/forms/SignUp.scala" timestamp="1535198223492">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/ansible/roles/hdp/ambari/tasks/main.yml" timestamp="1515734405524">
         <mark key="[" line="1" column="16" />
         <mark key="]" line="2" column="12" />
@@ -348,11 +353,10 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="77" column="28" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteServiceImpl.scala" timestamp="1535438648793">
-        <mark key="[" line="53" column="23" />
-        <mark key="]" line="53" column="33" />
-        <mark key="." line="53" column="33" />
-        <mark key="^" line="53" column="33" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteServiceImpl.scala" timestamp="1535439552973">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/message-board/app/controllers/CreateTaskController.scala" timestamp="1535017461228">
         <mark key="'" line="16" column="30" />
@@ -457,12 +461,12 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteService.scala" timestamp="1535438321525">
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteService.scala" timestamp="1535439597664">
         <mark key="'" line="27" column="13" />
-        <mark key="[" line="21" column="52" />
-        <mark key="]" line="21" column="62" />
-        <mark key="^" line="21" column="62" />
-        <mark key="." line="21" column="62" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="22" column="1" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/common/pagination.scala.html" timestamp="1535352634026">
         <mark key="[" line="14" column="9" />
@@ -698,12 +702,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/AppModule.scala" timestamp="1535380329967">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="8" column="71" />
-        <mark key="]" line="8" column="71" />
-        <mark key="." line="8" column="71" />
-        <mark key="^" line="8" column="76" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/AppModule.scala" timestamp="1535439846092">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="9" column="46" />
+        <mark key="]" line="9" column="64" />
+        <mark key="." line="9" column="64" />
+        <mark key="^" line="9" column="64" />
       </file>
       <file name="$USER_HOME$/MyWork/git/message-board/test/controllers/DeleteMessageControllerSpec.scala" timestamp="1535020512010">
         <mark key="[" line="25" column="66" />
@@ -938,6 +942,11 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/play-sandbox/app/forms/Login.scala" timestamp="1534430378328">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/coursera-functional-program-design-in-scala/build.sbt" timestamp="1512539707965">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -981,12 +990,12 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/models/Favorite.scala" timestamp="1535434577061">
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/models/Favorite.scala" timestamp="1535439886821">
         <mark key="'" line="58" column="1" />
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="27" column="24" />
-        <mark key="." line="27" column="24" />
-        <mark key="^" line="27" column="24" />
+        <mark key="[" line="50" column="5" />
+        <mark key="]" line="50" column="15" />
+        <mark key="." line="50" column="15" />
+        <mark key="^" line="50" column="15" />
       </file>
       <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/PracticeQuestions2.scala" timestamp="1533264222358">
         <mark key="[" line="5" column="32" />
@@ -1479,52 +1488,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>userId</text>
+        <text>followId</text>
       </register>
       <register name="-" type="4">
-        <text>userId</text>
+        <text>followId</text>
       </register>
       <register name="/" type="4">
-        <text>user_follows</text>
+        <text>follo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LmluamVjdC5TaW5nbGV0b24KaW1wb3J0IHNjYWxhLnV0aWwuVHJ5CgppbXBvcnQgc2NhbGlrZWpkYmMuXwppbXBvcnQgc2tpbm55LlBhZ2luYXRpb24K</text>
+        <text encoding="base64">ICAgIGJpbmQoY2xhc3NPZltVc2VyRm9sbG93U2VydmljZV0pLnRvKGNsYXNzT2ZbVXNlckZvbGxvd1NlcnZpY2VJbXBsXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgRmF2b3JpdGVTZXJ2aWNlSW1wbC5zdXBlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgY291bnRCeVVzZXJJZCh1c2VySWQ6IExvbmcpKGltcGxpY2l0IGRiU2Vzc2lvbjogREJTZXNzaW9uID0gQXV0b1Nlc3Npb24pOiBUcnlbTG9uZ10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgY291bnRCeVVzZXJJZCh1c2VySWQ6IExvbmcpKGltcGxpY2l0IGRiU2Vzc2lvbjogREJTZXNzaW9uKQogIDogVHJ5W0xvbmddID0gPz8/Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBjb3VudCA9IGZpbmRCeUlkKHVzZXJJZCkuZ2V0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEZhdm9yaXRlLmFsbEFzc29jaWF0aW9ucwogICAgICAgIC5maW5kQWxsQnlXaXRoTGltaXRPZmZzZXQoCiAgICAgICAgICBzcWxzLmVxKEZhdm9yaXRlLmRlZmF1bHRBbGlhcy51c2VySWQsIHVzZXJJZCksCiAgICAgICAgICBwYWdpbmF0aW9uLmxpbWl0LAogICAgICAgICAgcGFnaW5hdGlvbi5vZmZzZXQsCiAgICAgICAgICBTZXEoRmF2b3JpdGUuZGVmYXVsdEFsaWFzLmlkLmRlc2MpCiAgICAgICAgKQogICAgICAgIC5tYXAoXy51c2VyLmdldCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLnV0aWwuVHJ5CgppbXBvcnQgc2NhbGlrZWpkYmMuREJTZXNzaW9uCmltcG9ydCBza2lubnkuUGFnaW5hdGlvbgo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLnV0aWwuVHJ5Cg==</text>
+        <text encoding="base64">ICAgIFBhZ2VkSXRlbXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG1vZGVscy57RmF2b3JpdGUsIE1pY3JvUG9zdCwgUGFnZWRJdGVtc30K</text>
+        <text encoding="base64">ICAgIGNvdW50Lm1hcCB7IGYgPT4gZi4gfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLnV0aWwuVHJ5Cg==</text>
+        <text encoding="base64">ICAgIEZhdm9yaXRlLmFsbEFzc29jaWF0aW9ucy5jb3VudEJ5KHNxbHMuZXEoRmF2b3JpdGUpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>user_follows</last-search>
+      <last-search>follo</last-search>
       <last-offset />
-      <last-pattern>user_follows</last-pattern>
+      <last-pattern>follo</last-pattern>
       <last-replace>favorites</last-replace>
       <last-substitute>user_follows</last-substitute>
       <last-dir>1</last-dir>
@@ -1532,7 +1541,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nonempty</entry>
         <entry encoding="base64">XDx2YWxcPg==</entry>
         <entry>get</entry>
         <entry>flatmap</entry>
@@ -1552,6 +1560,7 @@
         <entry>#</entry>
         <entry>follow_id</entry>
         <entry>user_follows</entry>
+        <entry>follo</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
