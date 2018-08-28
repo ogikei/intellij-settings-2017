@@ -88,11 +88,11 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/conf/routes" timestamp="1535381240274">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="110" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/conf/routes" timestamp="1535441361117">
+        <mark key="[" line="13" column="67" />
+        <mark key="]" line="13" column="74" />
+        <mark key="." line="13" column="74" />
+        <mark key="^" line="13" column="74" />
       </file>
       <file name="$USER_HOME$/MyWork/git/functional-program-design-in-scala/src/main/scala/quickcheck/QuickCheck.scala" timestamp="1512538114325">
         <mark key="[" line="2" column="0" />
@@ -136,10 +136,10 @@
         <mark key="." line="12" column="55" />
         <mark key="^" line="12" column="55" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/common/navbar.scala.html" timestamp="1535382685138">
-        <mark key="'" line="11" column="39" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/common/navbar.scala.html" timestamp="1535441797562">
+        <mark key="'" line="22" column="0" />
         <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+        <mark key="]" line="2" column="93" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/message-board/app/models/Message.scala" timestamp="1535015077080">
@@ -480,11 +480,11 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/UserFollowController.scala" timestamp="1535380379295">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="55" column="0" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/UserFollowController.scala" timestamp="1535440390150">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="24" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/message-board/app/controllers/GetTaskController.scala" timestamp="1535011295319">
         <mark key="[" line="15" column="23" />
@@ -726,6 +726,12 @@
         <mark key="]" line="12" column="37" />
         <mark key="^" line="12" column="37" />
         <mark key="." line="12" column="37" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/FavoriteController.scala" timestamp="1535441026209">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="49" column="48" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/common/posts.scala.html" timestamp="1535381629067">
         <mark key="[" line="13" column="64" />
@@ -990,12 +996,12 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/models/Favorite.scala" timestamp="1535439886821">
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/models/Favorite.scala" timestamp="1535441448814">
         <mark key="'" line="58" column="1" />
-        <mark key="[" line="50" column="5" />
-        <mark key="]" line="50" column="15" />
-        <mark key="." line="50" column="15" />
-        <mark key="^" line="50" column="15" />
+        <mark key="[" line="23" column="45" />
+        <mark key="]" line="23" column="45" />
+        <mark key="." line="23" column="45" />
+        <mark key="^" line="23" column="45" />
       </file>
       <file name="$USER_HOME$/MyWork/git/techacademy/src/main/scala/PracticeQuestions2.scala" timestamp="1533264222358">
         <mark key="[" line="5" column="32" />
@@ -1353,9 +1359,9 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/AuthController.scala" timestamp="1535346747497">
-        <mark key="[" line="49" column="25" />
-        <mark key="]" line="50" column="9" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/AuthController.scala" timestamp="1535440031703">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="14" column="49" />
         <mark key="." line="50" column="9" />
         <mark key="^" line="50" column="9" />
       </file>
@@ -1385,8 +1391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="6" filename="$USER_HOME$/MyWork/git/message-board/app/views/show.scala.html" />
-      <jump line="6" column="9" filename="$USER_HOME$/MyWork/git/message-board/app/views/show.scala.html" />
       <jump line="9" column="13" filename="$USER_HOME$/MyWork/git/message-board/app/views/show.scala.html" />
       <jump line="13" column="13" filename="$USER_HOME$/MyWork/git/message-board/app/views/show.scala.html" />
       <jump line="17" column="27" filename="$USER_HOME$/MyWork/git/message-board/app/views/show.scala.html" />
@@ -1485,46 +1489,48 @@
       <jump line="32" column="1" filename="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteService.scala" />
       <jump line="5" column="26" filename="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteService.scala" />
       <jump line="27" column="13" filename="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteService.scala" />
+      <jump line="21" column="4" filename="$USER_HOME$/MyWork/git/micro-posts/app/controllers/FavoriteController.scala" />
+      <jump line="22" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/common/navbar.scala.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>followId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QCh1c2VyT3B0OiBPcHRpb25bVXNlcl0pKGltcGxpY2l0IG1lc3NhZ2VzUHJvdmlkZXI6IE1lc3NhZ2VzUHJvdmlkZXIsIHJlcXVlc3Q6IFJlcXVlc3RIZWFkZXIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>followId</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>follo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJpbmQoY2xhc3NPZltVc2VyRm9sbG93U2VydmljZV0pLnRvKGNsYXNzT2ZbVXNlckZvbGxvd1NlcnZpY2VJbXBsXSkK</text>
+        <text encoding="base64">ICAgICAgICAgIDxsaT48YSBocmVmPSJAcm91dGVzLlVzZXJzQ29udHJvbGxlci5pbmRleCgpIj5ATWVzc2FnZXMoIlVzZXJzIik8L2E+PC9saT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QCh1c2VyT3B0OiBPcHRpb25bVXNlcl0pKGltcGxpY2l0IG1lc3NhZ2VzUHJvdmlkZXI6IE1lc3NhZ2VzUHJvdmlkZXIsIHJlcXVlc3Q6IFJlcXVlc3RIZWFkZXIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgY291bnRCeVVzZXJJZCh1c2VySWQ6IExvbmcpKGltcGxpY2l0IGRiU2Vzc2lvbjogREJTZXNzaW9uID0gQXV0b1Nlc3Npb24pOiBUcnlbTG9uZ10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb3VudCA9IGZpbmRCeUlkKHVzZXJJZCkuZ2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEZhdm9yaXRlLmFsbEFzc29jaWF0aW9ucwogICAgICAgIC5maW5kQWxsQnlXaXRoTGltaXRPZmZzZXQoCiAgICAgICAgICBzcWxzLmVxKEZhdm9yaXRlLmRlZmF1bHRBbGlhcy51c2VySWQsIHVzZXJJZCksCiAgICAgICAgICBwYWdpbmF0aW9uLmxpbWl0LAogICAgICAgICAgcGFnaW5hdGlvbi5vZmZzZXQsCiAgICAgICAgICBTZXEoRmF2b3JpdGUuZGVmYXVsdEFsaWFzLmlkLmRlc2MpCiAgICAgICAgKQogICAgICAgIC5tYXAoXy51c2VyLmdldCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgIDxsaT48YSBocmVmPSJAcm91dGVzLkZhdm9yaXRlQ29udHJvbGxlci5pbmRleCgpIj5ATWVzc2FnZXMoIlVzZXJzIik8L2E+PC9saT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFBhZ2VkSXRlbXMK</text>
+        <text encoding="base64">QGltcG9ydCBiMy52ZXJ0aWNhbC5maWVsZENvbnN0cnVjdG9yCgpAKHVzZXJPcHQ6IE9wdGlvbltVc2VyXSkoaW1wbGljaXQgbWVzc2FnZXNQcm92aWRlcjogTWVzc2FnZXNQcm92aWRlciwgcmVxdWVzdDogUmVxdWVzdEhlYWRlcikKCjxoZWFkZXI+CiAgPG5hdiBjbGFzcz0ibmF2YmFyIG5hdmJhci1pbnZlcnNlIG5hdmJhci1zdGF0aWMtdG9wIj4KICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciI+CiAgICAgIDxkaXYgY2xhc3M9Im5hdmJhci1oZWFkZXIiPgogICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0ibmF2YmFyLXRvZ2dsZSBjb2xsYXBzZWQiIGRhdGEtdG9nZ2xlPSJjb2xsYXBzZSIgZGF0YS10YXJnZXQ9IiNicy1leGFtcGxlLW5hdmJhci1jb2xsYXBzZS0xIiBhcmlhLWV4cGFuZGVkPSJmYWxzZSI+CiAgICAgICAgICA8c3BhbiBjbGFzcz0ic3Itb25seSI+VG9nZ2xlIG5hdmlnYXRpb248L3NwYW4+CiAgICAgICAgICA8c3BhbiBjbGFzcz0iaWNvbi1iYXIiPjwvc3Bhbj4KICAgICAgICAgIDxzcGFuIGNsYXNzPSJpY29uLWJhciI+PC9zcGFuPgogICAgICAgICAgPHNwYW4gY2xhc3M9Imljb24tYmFyIj48L3NwYW4+CiAgICAgICAgPC9idXR0b24+CiAgICAgICAgQGlmKHVzZXJPcHQuaXNFbXB0eSkgewogICAgICAgICAgPGEgY2xhc3M9Im5hdmJhci1icmFuZCIgaHJlZj0iQHJvdXRlcy5Ib21lQ29udHJvbGxlci5pbmRleCgpIj5ATWVzc2FnZXMoIkFwcGxpY2F0aW9uTmFtZSIpPC9hPgogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICA8YSBjbGFzcz0ibmF2YmFyLWJyYW5kIiBocmVmPSIjIj5ATWVzc2FnZXMoIkFwcGxpY2F0aW9uTmFtZSIpPC9hPgogICAgICAgIH0KICAgICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iY29sbGFwc2UgbmF2YmFyLWNvbGxhcHNlIiBpZD0iYnMtZXhhbXBsZS1uYXZiYXItY29sbGFwc2UtMSI+CiAgICAgICAgPHVsIGNsYXNzPSJuYXYgbmF2YmFyLW5hdiBuYXZiYXItcmlnaHQiPgogICAgICAgIEBpZih1c2VyT3B0LmlzRW1wdHkpIHsKICAgICAgICAgIDxsaT48YSBocmVmPSJAcm91dGVzLlNpZ25VcENvbnRyb2xsZXIuaW5kZXgoKSI+QE1lc3NhZ2VzKCJTaWduVXAiKTwvYT48L2xpPgogICAgICAgICAgPGxpPjxhIGhyZWY9IkByb3V0ZXMuQXV0aENvbnRyb2xsZXIuaW5kZXgoKSI+QE1lc3NhZ2VzKCJMb2dJbiIpPC9hPjwvbGk+CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIDxsaT48YSBocmVmPSJAcm91dGVzLlVzZXJzQ29udHJvbGxlci5pbmRleCgpIj5ATWVzc2FnZXMoIlVzZXJzIik8L2E+PC9saT4KICAgICAgICAgIDxsaSBjbGFzcz0iZHJvcGRvd24iPgogICAgICAgICAgICA8YSBocmVmPSIjIiBjbGFzcz0iZHJvcGRvd24tdG9nZ2xlIiBkYXRhLXRvZ2dsZT0iZHJvcGRvd24iIHJvbGU9ImJ1dHRvbiIgYXJpYS1oYXNwb3B1cD0idHJ1ZSIgYXJpYS1leHBhbmRlZD0iZmFsc2UiPgogICAgICAgICAgICAgIEB1c2VyT3B0LmdldC5uYW1lIDxzcGFuIGNsYXNzPSJjYXJldCI+PC9zcGFuPjwvYT4KICAgICAgICAgICAgPHVsIGNsYXNzPSJkcm9wZG93bi1tZW51Ij4KICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iQHJvdXRlcy5Vc2Vyc0NvbnRyb2xsZXIuc2hvdyh1c2VyT3B0LmdldC5pZC5nZXQsIDEpIj5ATWVzc2FnZXMoIlVzZXIiKTwvYT48L2xpPgogICAgICAgICAgICAgIDxsaSByb2xlPSJzZXBhcmF0b3IiIGNsYXNzPSJkaXZpZGVyIj48L2xpPgogICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgIEBiMy5mb3JtQ1NSRihyb3V0ZXMuQXV0aENvbnRyb2xsZXIubG9nb3V0KCksICduYW1lIC0+ICJsb2dvdXQiLCAnc3R5bGUgLT4gImRpc3BsYXk6IG5vbmUiKSB7CiAgICAgICAgICAgICAgICAgIEBiMy5zdWJtaXQoKSB7CiAgICAgICAgICAgICAgICAgICAgQE1lc3NhZ2VzKCJMb2dPdXQiKQogICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICA8YSBocmVmPSIjIiBvbmNsaWNrPSJkb2N1bWVudC5sb2dvdXQuc3VibWl0KCk7Ij5ATWVzc2FnZXMoIkxvZ091dCIpPC9hPgogICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICA8L2xpPgogICAgICAgIH0KICAgICAgICA8L3VsPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogIDwvbmF2Pgo8L2hlYWRlcj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvdW50Lm1hcCB7IGYgPT4gZi4gfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEZhdm9yaXRlLmFsbEFzc29jaWF0aW9ucy5jb3VudEJ5KHNxbHMuZXEoRmF2b3JpdGUpKQo=</text>
+        <text encoding="base64">QGltcG9ydCBiMy52ZXJ0aWNhbC5maWVsZENvbnN0cnVjdG9yCgpAKHVzZXJPcHQ6IE9wdGlvbltVc2VyXSkoaW1wbGljaXQgbWVzc2FnZXNQcm92aWRlcjogTWVzc2FnZXNQcm92aWRlciwgcmVxdWVzdDogUmVxdWVzdEhlYWRlcikKCjxoZWFkZXI+CiAgPG5hdiBjbGFzcz0ibmF2YmFyIG5hdmJhci1pbnZlcnNlIG5hdmJhci1zdGF0aWMtdG9wIj4KICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciI+CiAgICAgIDxkaXYgY2xhc3M9Im5hdmJhci1oZWFkZXIiPgogICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0ibmF2YmFyLXRvZ2dsZSBjb2xsYXBzZWQiIGRhdGEtdG9nZ2xlPSJjb2xsYXBzZSIgZGF0YS10YXJnZXQ9IiNicy1leGFtcGxlLW5hdmJhci1jb2xsYXBzZS0xIiBhcmlhLWV4cGFuZGVkPSJmYWxzZSI+CiAgICAgICAgICA8c3BhbiBjbGFzcz0ic3Itb25seSI+VG9nZ2xlIG5hdmlnYXRpb248L3NwYW4+CiAgICAgICAgICA8c3BhbiBjbGFzcz0iaWNvbi1iYXIiPjwvc3Bhbj4KICAgICAgICAgIDxzcGFuIGNsYXNzPSJpY29uLWJhciI+PC9zcGFuPgogICAgICAgICAgPHNwYW4gY2xhc3M9Imljb24tYmFyIj48L3NwYW4+CiAgICAgICAgPC9idXR0b24+CiAgICAgICAgQGlmKHVzZXJPcHQuaXNFbXB0eSkgewogICAgICAgICAgPGEgY2xhc3M9Im5hdmJhci1icmFuZCIgaHJlZj0iQHJvdXRlcy5Ib21lQ29udHJvbGxlci5pbmRleCgpIj5ATWVzc2FnZXMoIkFwcGxpY2F0aW9uTmFtZSIpPC9hPgogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICA8YSBjbGFzcz0ibmF2YmFyLWJyYW5kIiBocmVmPSIjIj5ATWVzc2FnZXMoIkFwcGxpY2F0aW9uTmFtZSIpPC9hPgogICAgICAgIH0KICAgICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iY29sbGFwc2UgbmF2YmFyLWNvbGxhcHNlIiBpZD0iYnMtZXhhbXBsZS1uYXZiYXItY29sbGFwc2UtMSI+CiAgICAgICAgPHVsIGNsYXNzPSJuYXYgbmF2YmFyLW5hdiBuYXZiYXItcmlnaHQiPgogICAgICAgIEBpZih1c2VyT3B0LmlzRW1wdHkpIHsKICAgICAgICAgIDxsaT48YSBocmVmPSJAcm91dGVzLlNpZ25VcENvbnRyb2xsZXIuaW5kZXgoKSI+QE1lc3NhZ2VzKCJTaWduVXAiKTwvYT48L2xpPgogICAgICAgICAgPGxpPjxhIGhyZWY9IkByb3V0ZXMuQXV0aENvbnRyb2xsZXIuaW5kZXgoKSI+QE1lc3NhZ2VzKCJMb2dJbiIpPC9hPjwvbGk+CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIDxsaT48YSBocmVmPSJAcm91dGVzLlVzZXJzQ29udHJvbGxlci5pbmRleCgpIj5ATWVzc2FnZXMoIlVzZXJzIik8L2E+PC9saT4KICAgICAgICAgIDxsaSBjbGFzcz0iZHJvcGRvd24iPgogICAgICAgICAgICA8YSBocmVmPSIjIiBjbGFzcz0iZHJvcGRvd24tdG9nZ2xlIiBkYXRhLXRvZ2dsZT0iZHJvcGRvd24iIHJvbGU9ImJ1dHRvbiIgYXJpYS1oYXNwb3B1cD0idHJ1ZSIgYXJpYS1leHBhbmRlZD0iZmFsc2UiPgogICAgICAgICAgICAgIEB1c2VyT3B0LmdldC5uYW1lIDxzcGFuIGNsYXNzPSJjYXJldCI+PC9zcGFuPjwvYT4KICAgICAgICAgICAgPHVsIGNsYXNzPSJkcm9wZG93bi1tZW51Ij4KICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iQHJvdXRlcy5Vc2Vyc0NvbnRyb2xsZXIuc2hvdyh1c2VyT3B0LmdldC5pZC5nZXQsIDEpIj5ATWVzc2FnZXMoIlVzZXIiKTwvYT48L2xpPgogICAgICAgICAgICAgIDxsaSByb2xlPSJzZXBhcmF0b3IiIGNsYXNzPSJkaXZpZGVyIj48L2xpPgogICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgIEBiMy5mb3JtQ1NSRihyb3V0ZXMuQXV0aENvbnRyb2xsZXIubG9nb3V0KCksICduYW1lIC0+ICJsb2dvdXQiLCAnc3R5bGUgLT4gImRpc3BsYXk6IG5vbmUiKSB7CiAgICAgICAgICAgICAgICAgIEBiMy5zdWJtaXQoKSB7CiAgICAgICAgICAgICAgICAgICAgQE1lc3NhZ2VzKCJMb2dPdXQiKQogICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICA8YSBocmVmPSIjIiBvbmNsaWNrPSJkb2N1bWVudC5sb2dvdXQuc3VibWl0KCk7Ij5ATWVzc2FnZXMoIkxvZ091dCIpPC9hPgogICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICA8L2xpPgogICAgICAgIH0KICAgICAgICA8L3VsPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogIDwvbmF2Pgo8L2hlYWRlcj4K</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
