@@ -1024,13 +1024,20 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/micro-posts/conf/db/migration/default/mysql/V7__Create_Favorites.sql" timestamp="1535432600898">
+        <mark key="'" line="10" column="15" />
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="33" />
+        <mark key="^" line="9" column="33" />
+        <mark key="." line="9" column="33" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/message-board/app/controllers/TaskControllerSupport.scala" timestamp="1535017327995">
         <mark key="[" line="14" column="30" />
         <mark key="]" line="14" column="30" />
         <mark key="." line="14" column="30" />
         <mark key="^" line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/models/MicroPost.scala" timestamp="1535354956024">
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/models/MicroPost.scala" timestamp="1535431941273">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="38" column="0" />
@@ -1123,7 +1130,7 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/conf/db/migration/default/mysql/V5__Create_UserFollow.sql" timestamp="1535385468470">
+      <file name="$USER_HOME$/MyWork/git/micro-posts/conf/db/migration/default/mysql/V5__Create_UserFollow.sql" timestamp="1535431241549">
         <mark key="[" line="10" column="16" />
         <mark key="]" line="10" column="16" />
         <mark key="^" line="10" column="16" />
@@ -1154,7 +1161,7 @@
         <mark key="." line="22" column="1" />
         <mark key="^" line="22" column="1" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/conf/db/migration/default/mysql/V3__Create_MicroPosts.sql" timestamp="1535354672300">
+      <file name="$USER_HOME$/MyWork/git/micro-posts/conf/db/migration/default/mysql/V3__Create_MicroPosts.sql" timestamp="1535431400379">
         <mark key="[" line="12" column="57" />
         <mark key="]" line="12" column="57" />
         <mark key="^" line="12" column="57" />
@@ -1189,6 +1196,12 @@
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/micro-posts/conf/db/migration/default/common/V8__Add_Favorites.sql" timestamp="1535433162024">
+        <mark key="'" line="0" column="12" />
+        <mark key="[" line="7" column="83" />
+        <mark key="]" line="7" column="84" />
+        <mark key="." line="7" column="84" />
       </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/.gitignore" timestamp="1535177587022">
         <mark key="'" line="8" column="0" />
@@ -1348,7 +1361,7 @@
         <mark key="." line="15" column="61" />
         <mark key="^" line="15" column="61" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/message-board/conf/db/migration/default/postgresql/V1__Create_Messages.sql" timestamp="1535385574064">
+      <file name="$USER_HOME$/MyWork/git/message-board/conf/db/migration/default/postgresql/V1__Create_Messages.sql" timestamp="1535431071985">
         <mark key="[" line="6" column="2" />
         <mark key="]" line="6" column="2" />
         <mark key="^" line="6" column="2" />
@@ -1435,9 +1448,9 @@
         <mark key="." line="18" column="25" />
         <mark key="^" line="18" column="25" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/conf/db/migration/default/common/V6__Add_UserFollow.sql" timestamp="1535370389717">
-        <mark key="[" line="4" column="96" />
-        <mark key="]" line="4" column="96" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/conf/db/migration/default/common/V6__Add_UserFollow.sql" timestamp="1535432348475">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="95" />
         <mark key="^" line="4" column="96" />
         <mark key="." line="4" column="96" />
       </file>
@@ -1625,9 +1638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="55" filename="$USER_HOME$/MyWork/git/message-board/app/views/create.scala.html" />
-      <jump line="4" column="6" filename="$USER_HOME$/MyWork/git/message-board/app/views/create.scala.html" />
-      <jump line="6" column="9" filename="$USER_HOME$/MyWork/git/message-board/app/views/create.scala.html" />
       <jump line="12" column="11" filename="$USER_HOME$/MyWork/git/message-board/app/views/create.scala.html" />
       <jump line="27" column="83" filename="$USER_HOME$/MyWork/git/message-board/app/views/main.scala.html" />
       <jump line="0" column="59" filename="$USER_HOME$/MyWork/git/message-board/app/views/main.scala.html" />
@@ -1725,64 +1735,69 @@
       <jump line="26" column="21" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/common/navbar.scala.html" />
       <jump line="37" column="25" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/common/navbar.scala.html" />
       <jump line="9" column="39" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/common/navbar.scala.html" />
+      <jump line="10" column="15" filename="$USER_HOME$/MyWork/git/micro-posts/conf/db/migration/default/mysql/V7__Create_Favorites.sql" />
+      <jump line="2" column="83" filename="$USER_HOME$/MyWork/git/micro-posts/conf/db/migration/default/common/V8__Add_Favorites.sql" />
+      <jump line="0" column="12" filename="$USER_HOME$/MyWork/git/micro-posts/conf/db/migration/default/common/V8__Add_Favorites.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cGFja2FnZSBzZXJ2aWNlcwoKaW1wb3J0IGphdmF4LmluamVjdC5TaW5nbGV0b24KCmltcG9ydCBtb2RlbHMue01pY3JvUG9zdCwgUGFnZWRJdGVtc30KaW1wb3J0IHNjYWxpa2VqZGJjLl8KaW1wb3J0IHNraW5ueS5QYWdpbmF0aW9uCgppbXBvcnQgc2NhbGEudXRpbC5UcnkKCkBTaW5nbGV0b24KY2xhc3MgTWljcm9Qb3N0U2VydmljZUltcGwgZXh0ZW5kcyBNaWNyb1Bvc3RTZXJ2aWNlIHsKCiAgb3ZlcnJpZGUgZGVmIGNyZWF0ZShtaWNyb1Bvc3Q6IE1pY3JvUG9zdCkoaW1wbGljaXQgZGJTZXNzaW9uOiBEQlNlc3Npb24pOiBUcnlbTG9uZ10gPSBUcnkgewogICAgTWljcm9Qb3N0LmNyZWF0ZShtaWNyb1Bvc3QpCiAgfQoKICBvdmVycmlkZSBkZWYgZGVsZXRlQnlJZChtaWNyb1Bvc3RJZDogTG9uZykoaW1wbGljaXQgZGJTZXNzaW9uOiBEQlNlc3Npb24pOiBUcnlbSW50XSA9IFRyeSB7CiAgICBNaWNyb1Bvc3QuZGVsZXRlQnlJZChtaWNyb1Bvc3RJZCkKICB9CgogIG92ZXJyaWRlIGRlZiBmaW5kQnlVc2VySWQocGFnaW5hdGlvbjogUGFnaW5hdGlvbiwgdXNlcklkOiBMb25nKSgKICAgICAgaW1wbGljaXQgZGJTZXNzaW9uOiBEQlNlc3Npb24KICApOiBUcnlbUGFnZWRJdGVtc1tNaWNyb1Bvc3RdXSA9CiAgICBjb3VudEJ5KHVzZXJJZCkubWFwIHsgc2l6ZSA9PgogICAgICBQYWdlZEl0ZW1zKHBhZ2luYXRpb24sIHNpemUsIGZpbmRBbGxCeVdpdGhMaW1pdE9mZnNldCh1c2VySWQpKHBhZ2luYXRpb24pKQogICAgfQoKICBvdmVycmlkZSBkZWYgY291bnRCeSh1c2VySWQ6IExvbmcpKGltcGxpY2l0IGRiU2Vzc2lvbjogREJTZXNzaW9uKTogVHJ5W0xvbmddID0gVHJ5IHsKICAgIE1pY3JvUG9zdC5jb3VudEJ5KHNxbHMuZXEoTWljcm9Qb3N0LmRlZmF1bHRBbGlhcy51c2VySWQsIHVzZXJJZCkpCiAgfQoKICBvdmVycmlkZSBkZWYgZmluZEFsbEJ5V2l0aExpbWl0T2Zmc2V0KHBhZ2luYXRpb246IFBhZ2luYXRpb24sIHVzZXJJZDogTG9uZykoCiAgICAgIGltcGxpY2l0IGRiU2Vzc2lvbjogREJTZXNzaW9uCiAgKTogVHJ5W1BhZ2VkSXRlbXNbTWljcm9Qb3N0XV0gPSBUcnkgewogICAgdmFsIHNpemUgPSBNaWNyb1Bvc3QuY291bnRCeShzcWxzLmVxKE1pY3JvUG9zdC5kZWZhdWx0QWxpYXMudXNlcklkLCB1c2VySWQpKQogICAgUGFnZWRJdGVtcyhwYWdpbmF0aW9uLCBzaXplLCBmaW5kQWxsQnlXaXRoTGltaXRPZmZzZXQodXNlcklkKShwYWdpbmF0aW9uKSkKICB9CgogIHByaXZhdGUgZGVmIGZpbmRBbGxCeVdpdGhMaW1pdE9mZnNldCh1c2VySWQ6IExvbmcpKHBhZ2luYXRpb246IFBhZ2luYXRpb24pKAogICAgICBpbXBsaWNpdCBkYlNlc3Npb246IERCU2Vzc2lvbgogICk6IFNlcVtNaWNyb1Bvc3RdID0gTWljcm9Qb3N0LmZpbmRBbGxCeVdpdGhMaW1pdE9mZnNldCgKICAgIHNxbHMuZXEoTWljcm9Qb3N0LmRlZmF1bHRBbGlhcy51c2VySWQsIHVzZXJJZCksCiAgICBwYWdpbmF0aW9uLmxpbWl0LAogICAgcGFnaW5hdGlvbi5vZmZzZXQsCiAgICBTZXEoTWljcm9Qb3N0LmRlZmF1bHRBbGlhcy5pZC5kZXNjKQogICkKCn0K</text>
+      <register name="&quot;" type="4">
+        <text>favorite_id</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>favorite_id</text>
       </register>
       <register name="/" type="4">
-        <text>#</text>
+        <text>user_follows</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaWJlKCJyb3V0ZSBvZiBHZXRNZXNzYWdlQ29udHJvbGxlciNpbmRleCIpIHsKICAgICAgaXQoInNob3VsZCBiZSB2YWxpZCIpIHsKICAgICAgICB2YWwgcmVzdWx0ID0gcm91dGUoYXBwLAogICAgICAgICAgRmFrZVJlcXVlc3QoR0VULCByb3V0ZXMuQ3JlYXRlTWVzc2FnZUNvbnRyb2xsZXIuaW5kZXgoKS50b1N0cmluZykpLmdldAogICAgICAgIHN0YXR1cyhyZXN1bHQpIG11c3RCZSBPSwogICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gdXNlcl9mb2xsb3dzICh1c2VyX2lkLCBtaWNyb19wb3N0X2lkLCBjcmVhdGVfYXQsIHVwZGF0ZV9hdCkgVkFMVUVTICgyLCAxLCBub3coKSwgbm93KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFja2FnZSBzZXJ2aWNlcwoKaW1wb3J0IGphdmF4LmluamVjdC5TaW5nbGV0b24KCmltcG9ydCBtb2RlbHMue01pY3JvUG9zdCwgUGFnZWRJdGVtc30KaW1wb3J0IHNjYWxpa2VqZGJjLl8KaW1wb3J0IHNraW5ueS5QYWdpbmF0aW9uCgppbXBvcnQgc2NhbGEudXRpbC5UcnkKCkBTaW5nbGV0b24KY2xhc3MgTWljcm9Qb3N0U2VydmljZUltcGwgZXh0ZW5kcyBNaWNyb1Bvc3RTZXJ2aWNlIHsKCiAgb3ZlcnJpZGUgZGVmIGNyZWF0ZShtaWNyb1Bvc3Q6IE1pY3JvUG9zdCkoaW1wbGljaXQgZGJTZXNzaW9uOiBEQlNlc3Npb24pOiBUcnlbTG9uZ10gPSBUcnkgewogICAgTWljcm9Qb3N0LmNyZWF0ZShtaWNyb1Bvc3QpCiAgfQoKICBvdmVycmlkZSBkZWYgZGVsZXRlQnlJZChtaWNyb1Bvc3RJZDogTG9uZykoaW1wbGljaXQgZGJTZXNzaW9uOiBEQlNlc3Npb24pOiBUcnlbSW50XSA9IFRyeSB7CiAgICBNaWNyb1Bvc3QuZGVsZXRlQnlJZChtaWNyb1Bvc3RJZCkKICB9CgogIG92ZXJyaWRlIGRlZiBmaW5kQnlVc2VySWQocGFnaW5hdGlvbjogUGFnaW5hdGlvbiwgdXNlcklkOiBMb25nKSgKICAgICAgaW1wbGljaXQgZGJTZXNzaW9uOiBEQlNlc3Npb24KICApOiBUcnlbUGFnZWRJdGVtc1tNaWNyb1Bvc3RdXSA9CiAgICBjb3VudEJ5KHVzZXJJZCkubWFwIHsgc2l6ZSA9PgogICAgICBQYWdlZEl0ZW1zKHBhZ2luYXRpb24sIHNpemUsIGZpbmRBbGxCeVdpdGhMaW1pdE9mZnNldCh1c2VySWQpKHBhZ2luYXRpb24pKQogICAgfQoKICBvdmVycmlkZSBkZWYgY291bnRCeSh1c2VySWQ6IExvbmcpKGltcGxpY2l0IGRiU2Vzc2lvbjogREJTZXNzaW9uKTogVHJ5W0xvbmddID0gVHJ5IHsKICAgIE1pY3JvUG9zdC5jb3VudEJ5KHNxbHMuZXEoTWljcm9Qb3N0LmRlZmF1bHRBbGlhcy51c2VySWQsIHVzZXJJZCkpCiAgfQoKICBvdmVycmlkZSBkZWYgZmluZEFsbEJ5V2l0aExpbWl0T2Zmc2V0KHBhZ2luYXRpb246IFBhZ2luYXRpb24sIHVzZXJJZDogTG9uZykoCiAgICAgIGltcGxpY2l0IGRiU2Vzc2lvbjogREJTZXNzaW9uCiAgKTogVHJ5W1BhZ2VkSXRlbXNbTWljcm9Qb3N0XV0gPSBUcnkgewogICAgdmFsIHNpemUgPSBNaWNyb1Bvc3QuY291bnRCeShzcWxzLmVxKE1pY3JvUG9zdC5kZWZhdWx0QWxpYXMudXNlcklkLCB1c2VySWQpKQogICAgUGFnZWRJdGVtcyhwYWdpbmF0aW9uLCBzaXplLCBmaW5kQWxsQnlXaXRoTGltaXRPZmZzZXQodXNlcklkKShwYWdpbmF0aW9uKSkKICB9CgogIHByaXZhdGUgZGVmIGZpbmRBbGxCeVdpdGhMaW1pdE9mZnNldCh1c2VySWQ6IExvbmcpKHBhZ2luYXRpb246IFBhZ2luYXRpb24pKAogICAgICBpbXBsaWNpdCBkYlNlc3Npb246IERCU2Vzc2lvbgogICk6IFNlcVtNaWNyb1Bvc3RdID0gTWljcm9Qb3N0LmZpbmRBbGxCeVdpdGhMaW1pdE9mZnNldCgKICAgIHNxbHMuZXEoTWljcm9Qb3N0LmRlZmF1bHRBbGlhcy51c2VySWQsIHVzZXJJZCksCiAgICBwYWdpbmF0aW9uLmxpbWl0LAogICAgcGFnaW5hdGlvbi5vZmZzZXQsCiAgICBTZXEoTWljcm9Qb3N0LmRlZmF1bHRBbGlhcy5pZC5kZXNjKQogICkKCn0K</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gdXNlcl9mb2xsb3dzICh1c2VyX2lkLCBtaWNyb19wb3N0X2lkLCBjcmVhdGVfYXQsIHVwZGF0ZV9hdCkgVkFMVUVTICgyLCAyLCBub3coKSwgbm93KCkpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIEAqIOODquODs+OCr+WFiOOCkuioreWumuOBmeOCiyAqQAo=</text>
+      <register name="2" type="8">
+        <text>1
+1
+1
+1
+1</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QCh1c2VyT3B0OiBPcHRpb25bVXNlcl0pKGltcGxpY2l0IG1lc3NhZ2VzUHJvdmlkZXI6IE1lc3NhZ2VzUHJvdmlkZXIsIHJlcXVlc3Q6IFJlcXVlc3RIZWFkZXIpCg==</text>
+        <text encoding="base64">cGFja2FnZSBzZXJ2aWNlcwoKaW1wb3J0IGphdmF4LmluamVjdC5TaW5nbGV0b24KCmltcG9ydCBtb2RlbHMue01pY3JvUG9zdCwgUGFnZWRJdGVtc30KaW1wb3J0IHNjYWxpa2VqZGJjLl8KaW1wb3J0IHNraW5ueS5QYWdpbmF0aW9uCgppbXBvcnQgc2NhbGEudXRpbC5UcnkKCkBTaW5nbGV0b24KY2xhc3MgTWljcm9Qb3N0U2VydmljZUltcGwgZXh0ZW5kcyBNaWNyb1Bvc3RTZXJ2aWNlIHsKCiAgb3ZlcnJpZGUgZGVmIGNyZWF0ZShtaWNyb1Bvc3Q6IE1pY3JvUG9zdCkoaW1wbGljaXQgZGJTZXNzaW9uOiBEQlNlc3Npb24pOiBUcnlbTG9uZ10gPSBUcnkgewogICAgTWljcm9Qb3N0LmNyZWF0ZShtaWNyb1Bvc3QpCiAgfQoKICBvdmVycmlkZSBkZWYgZGVsZXRlQnlJZChtaWNyb1Bvc3RJZDogTG9uZykoaW1wbGljaXQgZGJTZXNzaW9uOiBEQlNlc3Npb24pOiBUcnlbSW50XSA9IFRyeSB7CiAgICBNaWNyb1Bvc3QuZGVsZXRlQnlJZChtaWNyb1Bvc3RJZCkKICB9CgogIG92ZXJyaWRlIGRlZiBmaW5kQnlVc2VySWQocGFnaW5hdGlvbjogUGFnaW5hdGlvbiwgdXNlcklkOiBMb25nKSgKICAgICAgaW1wbGljaXQgZGJTZXNzaW9uOiBEQlNlc3Npb24KICApOiBUcnlbUGFnZWRJdGVtc1tNaWNyb1Bvc3RdXSA9CiAgICBjb3VudEJ5KHVzZXJJZCkubWFwIHsgc2l6ZSA9PgogICAgICBQYWdlZEl0ZW1zKHBhZ2luYXRpb24sIHNpemUsIGZpbmRBbGxCeVdpdGhMaW1pdE9mZnNldCh1c2VySWQpKHBhZ2luYXRpb24pKQogICAgfQoKICBvdmVycmlkZSBkZWYgY291bnRCeSh1c2VySWQ6IExvbmcpKGltcGxpY2l0IGRiU2Vzc2lvbjogREJTZXNzaW9uKTogVHJ5W0xvbmddID0gVHJ5IHsKICAgIE1pY3JvUG9zdC5jb3VudEJ5KHNxbHMuZXEoTWljcm9Qb3N0LmRlZmF1bHRBbGlhcy51c2VySWQsIHVzZXJJZCkpCiAgfQoKICBvdmVycmlkZSBkZWYgZmluZEFsbEJ5V2l0aExpbWl0T2Zmc2V0KHBhZ2luYXRpb246IFBhZ2luYXRpb24sIHVzZXJJZDogTG9uZykoCiAgICAgIGltcGxpY2l0IGRiU2Vzc2lvbjogREJTZXNzaW9uCiAgKTogVHJ5W1BhZ2VkSXRlbXNbTWljcm9Qb3N0XV0gPSBUcnkgewogICAgdmFsIHNpemUgPSBNaWNyb1Bvc3QuY291bnRCeShzcWxzLmVxKE1pY3JvUG9zdC5kZWZhdWx0QWxpYXMudXNlcklkLCB1c2VySWQpKQogICAgUGFnZWRJdGVtcyhwYWdpbmF0aW9uLCBzaXplLCBmaW5kQWxsQnlXaXRoTGltaXRPZmZzZXQodXNlcklkKShwYWdpbmF0aW9uKSkKICB9CgogIHByaXZhdGUgZGVmIGZpbmRBbGxCeVdpdGhMaW1pdE9mZnNldCh1c2VySWQ6IExvbmcpKHBhZ2luYXRpb246IFBhZ2luYXRpb24pKAogICAgICBpbXBsaWNpdCBkYlNlc3Npb246IERCU2Vzc2lvbgogICk6IFNlcVtNaWNyb1Bvc3RdID0gTWljcm9Qb3N0LmZpbmRBbGxCeVdpdGhMaW1pdE9mZnNldCgKICAgIHNxbHMuZXEoTWljcm9Qb3N0LmRlZmF1bHRBbGlhcy51c2VySWQsIHVzZXJJZCksCiAgICBwYWdpbmF0aW9uLmxpbWl0LAogICAgcGFnaW5hdGlvbi5vZmZzZXQsCiAgICBTZXEoTWljcm9Qb3N0LmRlZmF1bHRBbGlhcy5pZC5kZXNjKQogICkKCn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBiMy5mb3JtQ1NSRihyb3V0ZXMuQXV0aENvbnRyb2xsZXIubG9nb3V0KCksICduYW1lIC0+ICJsb2dvdXQiLCAnc3R5bGUgLT4gImRpc3BsYXk6IG5vbmUiKSB7CiAgICAgICAgICAgICAgICAgIEBiMy5zdWJtaXQoKSB7CiAgICAgICAgICAgICAgICAgICAgQE1lc3NhZ2VzKCJMb2dPdXQiKQogICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEAqIOODquODs+OCr+WFiOOCkuioreWumuOBmeOCiyAqQAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9IiMiPkBNZXNzYWdlcygiTG9nT3V0Iik8L2E+Cg==</text>
+        <text encoding="base64">QCh1c2VyT3B0OiBPcHRpb25bVXNlcl0pKGltcGxpY2l0IG1lc3NhZ2VzUHJvdmlkZXI6IE1lc3NhZ2VzUHJvdmlkZXIsIHJlcXVlc3Q6IFJlcXVlc3RIZWFkZXIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFNpbmdsZXRvbgpjbGFzcyBVc2Vyc0NvbnRyb2xsZXIgQEluamVjdCgpKHZhbCB1c2VyU2VydmljZTogVXNlclNlcnZpY2UsIGNvbXBvbmVudHM6IENvbnRyb2xsZXJDb21wb25lbnRzKQogICAgZXh0ZW5kcyBBYnN0cmFjdENvbnRyb2xsZXIoY29tcG9uZW50cykKICAgICAgICB3aXRoIEkxOG5TdXBwb3J0CiAgICAgICAgd2l0aCBBdXRoQ29uZmlnU3VwcG9ydAogICAgICAgIHdpdGggQXV0aGVudGljYXRpb25FbGVtZW50IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBiMy5mb3JtQ1NSRihyb3V0ZXMuQXV0aENvbnRyb2xsZXIubG9nb3V0KCksICduYW1lIC0+ICJsb2dvdXQiLCAnc3R5bGUgLT4gImRpc3BsYXk6IG5vbmUiKSB7CiAgICAgICAgICAgICAgICAgIEBiMy5zdWJtaXQoKSB7CiAgICAgICAgICAgICAgICAgICAgQE1lc3NhZ2VzKCJMb2dPdXQiKQogICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1vZGVscy5Vc2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9IiMiPkBNZXNzYWdlcygiTG9nT3V0Iik8L2E+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHNlcnZpY2VzLntNaWNyb1Bvc3RTZXJ2aWNlLCBVc2VyRm9sbG93U2VydmljZSwgVXNlclNlcnZpY2V9Cg==</text>
+        <text encoding="base64">QFNpbmdsZXRvbgpjbGFzcyBVc2Vyc0NvbnRyb2xsZXIgQEluamVjdCgpKHZhbCB1c2VyU2VydmljZTogVXNlclNlcnZpY2UsIGNvbXBvbmVudHM6IENvbnRyb2xsZXJDb21wb25lbnRzKQogICAgZXh0ZW5kcyBBYnN0cmFjdENvbnRyb2xsZXIoY29tcG9uZW50cykKICAgICAgICB3aXRoIEkxOG5TdXBwb3J0CiAgICAgICAgd2l0aCBBdXRoQ29uZmlnU3VwcG9ydAogICAgICAgIHdpdGggQXV0aGVudGljYXRpb25FbGVtZW50IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1vZGVscy5Vc2VyCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%d</text>
+        <text>%s/user_follows/favorites/g</text>
       </register>
     </registers>
     <search>
-      <last-search>#</last-search>
+      <last-search>user_follows</last-search>
       <last-offset />
-      <last-pattern>#</last-pattern>
-      <last-replace>content</last-replace>
-      <last-substitute>body</last-substitute>
+      <last-pattern>user_follows</last-pattern>
+      <last-replace>favorites</last-replace>
+      <last-substitute>user_follows</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
-        <entry>boolean</entry>
         <entry>nonempty</entry>
         <entry encoding="base64">XDx2YWxcPg==</entry>
         <entry>get</entry>
@@ -1801,10 +1816,10 @@
         <entry>users</entry>
         <entry>user</entry>
         <entry>#</entry>
+        <entry>follow_id</entry>
+        <entry>user_follows</entry>
       </history-search>
       <history-cmd>
-        <entry>W</entry>
-        <entry>s</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>15</entry>
         <entry>114</entry>
@@ -1823,6 +1838,8 @@
         <entry>d</entry>
         <entry>w</entry>
         <entry>%d</entry>
+        <entry>%s/follow_id/micro_post_id/g</entry>
+        <entry>%s/user_follows/favorites/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
