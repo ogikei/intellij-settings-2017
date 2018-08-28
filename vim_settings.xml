@@ -88,11 +88,11 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/conf/routes" timestamp="1535441361117">
-        <mark key="[" line="13" column="67" />
-        <mark key="]" line="13" column="74" />
-        <mark key="." line="13" column="74" />
-        <mark key="^" line="13" column="74" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/conf/routes" timestamp="1535444817844">
+        <mark key="[" line="12" column="97" />
+        <mark key="]" line="12" column="97" />
+        <mark key="." line="12" column="97" />
+        <mark key="^" line="12" column="95" />
       </file>
       <file name="$USER_HOME$/MyWork/git/functional-program-design-in-scala/src/main/scala/quickcheck/QuickCheck.scala" timestamp="1512538114325">
         <mark key="[" line="2" column="0" />
@@ -149,6 +149,12 @@
         <mark key="]" line="21" column="26" />
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="26" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/FavoritesController.scala" timestamp="1535444901102">
+        <mark key="[" line="21" column="6" />
+        <mark key="]" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+        <mark key="^" line="21" column="14" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/recommend-aggregation/src/main/scala/com/dmm/dre/aws/Credential.scala" timestamp="1506930551710">
         <mark key="[" line="4" column="0" />
@@ -738,7 +744,8 @@
         <mark key="^" line="12" column="37" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/FavoriteController.scala" timestamp="1535442638728">
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/FavoriteController.scala" timestamp="1535443840745">
+        <mark key="'" line="30" column="8" />
         <mark key="[" line="8" column="21" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
@@ -829,6 +836,12 @@
         <mark key="]" line="10" column="17" />
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/favorite/favorites.scala.html" timestamp="1535443783800">
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="20" column="50" />
+        <mark key="." line="20" column="50" />
+        <mark key="^" line="20" column="50" />
       </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/env/dev.conf" timestamp="1535180298766">
         <mark key="[" line="5" column="25" />
@@ -1153,8 +1166,8 @@
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/UsersController.scala" timestamp="1535434639278">
-        <mark key="'" line="5" column="0" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/UsersController.scala" timestamp="1535444020836">
+        <mark key="'" line="18" column="40" />
         <mark key="[" line="128" column="0" />
         <mark key="]" line="128" column="0" />
         <mark key="." line="128" column="0" />
@@ -1182,6 +1195,12 @@
         <mark key="]" line="19" column="66" />
         <mark key="." line="19" column="66" />
         <mark key="^" line="19" column="66" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/favorite/show.scala.html" timestamp="1535445021575">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="20" column="55" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/spark-kinesis-sql-asl/spark/spark-2.2/tests/src/test/scala/org/apache/spark/sql/test/TestSQLContext.scala" timestamp="1507093061302">
         <mark key="[" line="24" column="13" />
@@ -1402,12 +1421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="30" filename="$USER_HOME$/MyWork/git/message-board/app/controllers/CreateTaskController.scala" />
-      <jump line="32" column="30" filename="$USER_HOME$/MyWork/git/message-board/app/controllers/UpdateMessageController.scala" />
-      <jump line="16" column="35" filename="$USER_HOME$/MyWork/git/message-board/app/controllers/UpdateMessageController.scala" />
-      <jump line="25" column="7" filename="$USER_HOME$/MyWork/git/message-board/app/controllers/UpdateTaskController.scala" />
-      <jump line="1" column="0" filename="$USER_HOME$/MyWork/git/message-board/conf/db/migration/default/common/V2__Add_Tasks.sql" />
-      <jump line="26" column="49" filename="$USER_HOME$/MyWork/git/message-board/app/views/main.scala.html" />
       <jump line="9" column="0" filename="$USER_HOME$/MyWork/git/message-board/app/views/main.scala.html" />
       <jump line="19" column="0" filename="$USER_HOME$/MyWork/git/message-board/app/views/main.scala.html" />
       <jump line="20" column="0" filename="$USER_HOME$/MyWork/git/message-board/app/services/MessageService.scala" />
@@ -1502,46 +1515,52 @@
       <jump line="4" column="31" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/index.scala.html" />
       <jump line="6" column="13" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/index.scala.html" />
       <jump line="15" column="25" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/common/navbar.scala.html" />
+      <jump line="30" column="8" filename="$USER_HOME$/MyWork/git/micro-posts/app/controllers/FavoriteController.scala" />
+      <jump line="18" column="40" filename="$USER_HOME$/MyWork/git/micro-posts/app/controllers/UsersController.scala" />
+      <jump line="128" column="1" filename="$USER_HOME$/MyWork/git/micro-posts/app/controllers/FavoritesController.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/controllers/FavoritesController.scala" />
+      <jump line="124" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/controllers/FavoritesController.scala" />
+      <jump line="40" column="34" filename="$USER_HOME$/MyWork/git/micro-posts/app/controllers/FavoritesController.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iQHJvdXRlcy5Vc2Vyc0NvbnRyb2xsZXIuc2hvdyh1c2VyT3B0LmdldC5pZC5nZXQsIDEpIj5ATWVzc2FnZXMoIkZhdm9yaXRlIik8L2E+PC9saT4K</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0ibWVkaWEtbGVmdCI+CiAgICAgICAgPGltZyBjbGFzcz0ibWVkaWEtb2JqZWN0IGltZy1yb3VuZGVkIiBzcmM9IkBjb21tb24uZ3JhdmF0YXJVcmwob3RoZXJVc2VyLmVtYWlsKT9zPTUwJmFtcDtyPWcmYW1wO2Q9aWRlbnRpY29uIiBhbHQ9IiI+CiAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>Favirites</text>
+        <text>show</text>
       </register>
       <register name="/" type="4">
         <text>users</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsaT48YSBocmVmPSJAcm91dGVzLlVzZXJzQ29udHJvbGxlci5pbmRleCgpIj5ATWVzc2FnZXMoIlVzZXJzIik8L2E+PC9saT4K</text>
+        <text encoding="base64">UE9TVCAgICAgICAgL3VzZXJzLzptaWNyb1Bvc3RJZC9mYXZvcml0ZSAgICAgICAgICAgICAgIGNvbnRyb2xsZXJzLkZhdm9yaXRlQ29udHJvbGxlci5mYXZvcml0ZShtaWNyb1Bvc3RJZDogTG9uZykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iQHJvdXRlcy5Vc2Vyc0NvbnRyb2xsZXIuc2hvdyh1c2VyT3B0LmdldC5pZC5nZXQsIDEpIj5ATWVzc2FnZXMoIkZhdm9yaXRlIik8L2E+PC9saT4K</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0ibWVkaWEtbGVmdCI+CiAgICAgICAgPGltZyBjbGFzcz0ibWVkaWEtb2JqZWN0IGltZy1yb3VuZGVkIiBzcmM9IkBjb21tb24uZ3JhdmF0YXJVcmwob3RoZXJVc2VyLmVtYWlsKT9zPTUwJmFtcDtyPWcmYW1wO2Q9aWRlbnRpY29uIiBhbHQ9IiI+CiAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG1vZGVscy5GYXZvcml0ZQo=</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0ibWVkaWEtbGVmdCI+CiAgICAgICAgPGltZyBjbGFzcz0ibWVkaWEtb2JqZWN0IGltZy1yb3VuZGVkIiBzcmM9IkBjb21tb24uZ3JhdmF0YXJVcmwob3RoZXJVc2VyLmVtYWlsKT9zPTUwJmFtcDtyPWcmYW1wO2Q9aWRlbnRpY29uIiBhbHQ9IiI+CiAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">QCgpCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgZm9sbG93ZXJzU2l6ZSA8LSB0cmllZEZvbGxvd2Vyc1NpemUK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">QCh1c2VyT3B0OiBPcHRpb25bVXNlcl0pKGltcGxpY2l0IG1lc3NhZ2VzUHJvdmlkZXI6IE1lc3NhZ2VzUHJvdmlkZXIsIHJlcXVlc3Q6IFJlcXVlc3RIZWFkZXIpCg==</text>
+        <text encoding="base64">ICAgIHZhbCB0cmllZEZvbGxvd2Vyc1NpemUgPSB1c2VyRm9sbG93U2VydmljZS5jb3VudEJ5Rm9sbG93SWQodXNlcklkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZm9sbG93ZXJzU2l6ZSA8LSB0cmllZEZvbGxvd2Vyc1NpemUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB0cmllZEZvbGxvd2Vyc1NpemUgPSB1c2VyRm9sbG93U2VydmljZS5jb3VudEJ5Rm9sbG93SWQodXNlcklkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgaW5kZXgocGFnZTogSW50KTogQWN0aW9uW0FueUNvbnRlbnRdID0gU3RhY2tBY3Rpb24geyBpbXBsaWNpdCByZXF1ZXN0ID0+CiAgICB1c2VyU2VydmljZS5maW5kQWxsKFBhZ2luYXRpb24ocGFnZVNpemUgPSAxMCwgcGFnZU5vID0gcGFnZSkpCiAgICAgICAgLm1hcCB7IHVzZXJzID0+CiAgICAgICAgICBPayh2aWV3cy5odG1sLnVzZXJzLmluZGV4KGxvZ2dlZEluLCB1c2VycykpCiAgICAgICAgfQogICAgICAgIC5yZWNvdmVyIHsKICAgICAgICAgIGNhc2UgZTogRXhjZXB0aW9uID0+CiAgICAgICAgICAgIExvZ2dlci5lcnJvcihzIm9jY3VycmVkIGVycm9yIiwgZSkKICAgICAgICAgICAgUmVkaXJlY3Qocm91dGVzLlVzZXJzQ29udHJvbGxlci5pbmRleCgpKQogICAgICAgICAgICAgICAgLmZsYXNoaW5nKCJmYWlsdXJlIiAtPiBNZXNzYWdlcygiSW50ZXJuYUVycm9yIikpCiAgICAgICAgfQogICAgICAgIC5nZXRPckVsc2UoSW50ZXJuYWxTZXJ2ZXJFcnJvcihNZXNzYWdlcygiSW50ZXJuYUVycm9yIikpKQogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsaT48YSBocmVmPSJAcm91dGVzLkZhdm9yaXRlQ29udHJvbGxlci5pbmRleCgpIj5ATWVzc2FnZXMoIlVzZXJzIik8L2E+PC9saT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
