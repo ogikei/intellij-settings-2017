@@ -95,12 +95,12 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/mono-list/app/services/ItemUserServiceImpl.scala" timestamp="1536044953557">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="53" column="0" />
+      <file name="$USER_HOME$/MyWork/git/mono-list/app/services/ItemUserServiceImpl.scala" timestamp="1536130732372">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="70" column="8" />
+        <mark key="]" line="70" column="20" />
+        <mark key="." line="70" column="20" />
+        <mark key="^" line="70" column="20" />
       </file>
       <file name="$USER_HOME$/MyWork/git/mono-list/app/models/WantHaveType.scala" timestamp="1536044828314">
         <mark key="[" line="0" column="0" />
@@ -425,12 +425,12 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="77" column="28" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/mono-list/app/services/ItemUserService.scala" timestamp="1536044914745">
+      <file name="$USER_HOME$/MyWork/git/mono-list/app/services/ItemUserService.scala" timestamp="1536130588099">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="8" column="0" />
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="14" />
+        <mark key="." line="10" column="14" />
+        <mark key="^" line="10" column="14" />
       </file>
       <file name="$USER_HOME$/MyWork/git/mono-list/conf/application.conf" timestamp="1536048344108">
         <mark key="'" line="19" column="0" />
@@ -713,12 +713,12 @@
         <mark key="." line="193" column="11" />
         <mark key="^" line="193" column="11" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/mono-list/app/models/User.scala" timestamp="1536128372091">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="53" column="32" />
-        <mark key="]" line="53" column="43" />
-        <mark key="." line="53" column="43" />
-        <mark key="^" line="53" column="43" />
+      <file name="$USER_HOME$/MyWork/git/mono-list/app/models/User.scala" timestamp="1536130530846">
+        <mark key="'" line="18" column="4" />
+        <mark key="[" line="63" column="45" />
+        <mark key="]" line="63" column="56" />
+        <mark key="." line="63" column="56" />
+        <mark key="^" line="63" column="56" />
       </file>
       <file name="$USER_HOME$/MyWork/git/mono-list/public/stylesheets/main.css" timestamp="1535448612561">
         <mark key="'" line="4" column="0" />
@@ -892,12 +892,12 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/mono-list/app/models/Item.scala" timestamp="1536043589222">
-        <mark key="'" line="29" column="2" />
-        <mark key="[" line="32" column="22" />
-        <mark key="]" line="32" column="22" />
-        <mark key="." line="32" column="22" />
-        <mark key="^" line="19" column="35" />
+      <file name="$USER_HOME$/MyWork/git/mono-list/app/models/Item.scala" timestamp="1536130412390">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="56" column="45" />
+        <mark key="]" line="56" column="56" />
+        <mark key="^" line="56" column="56" />
+        <mark key="." line="56" column="56" />
       </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/common/posts.scala.html" timestamp="1535381629067">
         <mark key="[" line="13" column="64" />
@@ -1196,7 +1196,7 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/models/Favorite.scala" timestamp="1536041706104">
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/models/Favorite.scala" timestamp="1536130758047">
         <mark key="'" line="58" column="1" />
         <mark key="[" line="32" column="44" />
         <mark key="]" line="32" column="45" />
@@ -1692,34 +1692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="2" filename="$USER_HOME$/MyWork/git/micro-posts/app/controllers/HomeController.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/controllers/HomeController.scala" />
-      <jump line="49" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/controllers/HomeController.scala" />
-      <jump line="31" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/index.scala.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/index.scala.html" />
-      <jump line="16" column="1" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/user_follow/follow_button.scala.html" />
-      <jump line="20" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/controllers/UsersController.scala" />
-      <jump line="25" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/controllers/UsersController.scala" />
-      <jump line="41" column="8" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/common/navbar.scala.html" />
-      <jump line="29" column="18" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/common/navbar.scala.html" />
-      <jump line="27" column="15" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/common/navbar.scala.html" />
-      <jump line="24" column="52" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/common/navbar.scala.html" />
-      <jump line="26" column="21" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/common/navbar.scala.html" />
-      <jump line="37" column="25" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/common/navbar.scala.html" />
-      <jump line="9" column="39" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/common/navbar.scala.html" />
-      <jump line="10" column="15" filename="$USER_HOME$/MyWork/git/micro-posts/conf/db/migration/default/mysql/V7__Create_Favorites.sql" />
-      <jump line="2" column="83" filename="$USER_HOME$/MyWork/git/micro-posts/conf/db/migration/default/common/V8__Add_Favorites.sql" />
-      <jump line="0" column="12" filename="$USER_HOME$/MyWork/git/micro-posts/conf/db/migration/default/common/V8__Add_Favorites.sql" />
-      <jump line="59" column="1" filename="$USER_HOME$/MyWork/git/micro-posts/app/models/Favorite.scala" />
-      <jump line="124" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/controllers/UsersController.scala" />
-      <jump line="5" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/controllers/UsersController.scala" />
-      <jump line="32" column="1" filename="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteService.scala" />
-      <jump line="5" column="26" filename="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteService.scala" />
-      <jump line="27" column="13" filename="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteService.scala" />
-      <jump line="21" column="4" filename="$USER_HOME$/MyWork/git/micro-posts/app/controllers/FavoriteController.scala" />
-      <jump line="22" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/common/navbar.scala.html" />
-      <jump line="15" column="1" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/favorite/favorite_button.scala.html" />
-      <jump line="20" column="9" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/index.scala.html" />
       <jump line="26" column="29" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/index.scala.html" />
       <jump line="4" column="31" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/index.scala.html" />
       <jump line="6" column="13" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/index.scala.html" />
@@ -1792,65 +1764,90 @@
       <jump line="7" column="7" filename="$USER_HOME$/MyWork/git/mono-list/app/controllers/ItemsController.scala" />
       <jump line="42" column="0" filename="$USER_HOME$/MyWork/git/mono-list/app/views/items/show.scala.html" />
       <jump line="26" column="0" filename="$USER_HOME$/MyWork/git/mono-list/app/controllers/HomeController.scala" />
+      <jump line="41" column="0" filename="$USER_HOME$/MyWork/git/mono-list/app/models/Item.scala" />
+      <jump line="57" column="0" filename="$USER_HOME$/MyWork/git/mono-list/app/models/Item.scala" />
+      <jump line="20" column="4" filename="$USER_HOME$/MyWork/git/mono-list/app/models/Item.scala" />
+      <jump line="42" column="6" filename="$USER_HOME$/MyWork/git/mono-list/app/models/Item.scala" />
+      <jump line="48" column="55" filename="$USER_HOME$/MyWork/git/mono-list/app/models/Item.scala" />
+      <jump line="25" column="23" filename="$USER_HOME$/MyWork/git/mono-list/app/models/Item.scala" />
+      <jump line="33" column="6" filename="$USER_HOME$/MyWork/git/mono-list/app/models/Item.scala" />
+      <jump line="36" column="44" filename="$USER_HOME$/MyWork/git/mono-list/app/models/Item.scala" />
+      <jump line="38" column="77" filename="$USER_HOME$/MyWork/git/mono-list/app/models/Item.scala" />
+      <jump line="39" column="55" filename="$USER_HOME$/MyWork/git/mono-list/app/models/Item.scala" />
+      <jump line="47" column="64" filename="$USER_HOME$/MyWork/git/mono-list/app/models/Item.scala" />
+      <jump line="56" column="35" filename="$USER_HOME$/MyWork/git/mono-list/app/models/Item.scala" />
+      <jump line="19" column="4" filename="$USER_HOME$/MyWork/git/mono-list/app/models/Item.scala" />
+      <jump line="67" column="0" filename="$USER_HOME$/MyWork/git/mono-list/app/models/Item.scala" />
+      <jump line="17" column="9" filename="$USER_HOME$/MyWork/git/mono-list/app/models/User.scala" />
+      <jump line="32" column="44" filename="$USER_HOME$/MyWork/git/mono-list/app/models/User.scala" />
+      <jump line="29" column="11" filename="$USER_HOME$/MyWork/git/mono-list/app/models/User.scala" />
+      <jump line="21" column="78" filename="$USER_HOME$/MyWork/git/mono-list/app/models/User.scala" />
+      <jump line="19" column="0" filename="$USER_HOME$/MyWork/git/mono-list/app/models/User.scala" />
+      <jump line="22" column="78" filename="$USER_HOME$/MyWork/git/mono-list/app/models/User.scala" />
+      <jump line="40" column="0" filename="$USER_HOME$/MyWork/git/mono-list/app/models/User.scala" />
+      <jump line="47" column="0" filename="$USER_HOME$/MyWork/git/mono-list/app/models/User.scala" />
+      <jump line="44" column="64" filename="$USER_HOME$/MyWork/git/mono-list/app/models/User.scala" />
+      <jump line="45" column="55" filename="$USER_HOME$/MyWork/git/mono-list/app/models/User.scala" />
+      <jump line="63" column="48" filename="$USER_HOME$/MyWork/git/mono-list/app/models/User.scala" />
+      <jump line="18" column="4" filename="$USER_HOME$/MyWork/git/mono-list/app/models/User.scala" />
+      <jump line="51" column="2" filename="$USER_HOME$/MyWork/git/mono-list/app/services/ItemUserServiceImpl.scala" />
+      <jump line="44" column="0" filename="$USER_HOME$/MyWork/git/mono-list/app/services/ItemUserServiceImpl.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEB2aWV3cy5odG1sLml0ZW1zLml0ZW1zKGl0ZW1zKQo=</text>
+      <register name="&quot;" type="4">
+        <text>isWantingById</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>isWantingById</text>
       </register>
       <register name="/" type="4">
-        <text>text</text>
+        <text encoding="base64">XDxoYXZlSXRlbXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgICAgQG1pY3JvUG9zdC5jb250ZW50CiAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGRlZiBpc1dhbnRpbmdCeUlkKHVzZXJJZDogTG9uZywgaXRlbUlkOiBMb25nKShpbXBsaWNpdCBkYlNlc3Npb246IERCU2Vzc2lvbik6IEJvb2xlYW4gPSB7CiAgICB2YWwgY29sdW1uID0gSXRlbVVzZXIuY29sdW1uCiAgICBJdGVtVXNlci5jb3VudEJ5KAogICAgICBzcWxzCiAgICAgICAgICAuZXEoY29sdW1uLml0ZW1JZCwgaXRlbUlkKQogICAgICAgICAgLmFuZAogICAgICAgICAgLmVxKGNvbHVtbi51c2VySWQsIHVzZXJJZCkKICAgICAgICAgIC5hbmQKICAgICAgICAgIC5lcShjb2x1bW4uYHR5cGVgLCBXYW50SGF2ZVR5cGUuV2FudC50b1N0cmluZykKICAgICkgPT0gMUwKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEB2aWV3cy5odG1sLml0ZW1zLml0ZW1zKGl0ZW1zKQo=</text>
+        <text encoding="base64">ICBrYWRhaS1tb25vLWxpc3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8cCBjbGFzcz0iaXRlbS10aXRsZSI+PGEgaHJlZj0iQGl0ZW0udXJsIj5AaXRlbS5uYW1lPC9hPjwvcD4K</text>
+        <text encoding="base64">ICBrYWRhaS1tb25vLWxpc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBAKiDov73liqDjgZnjgosgKkAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyDlpInmm7QK</text>
+        <text encoding="base64">ICB2YWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFja2FnZSBjb250cm9sbGVycwoKaW1wb3J0IGphdmF4LmluamVjdC5fCgppbXBvcnQganAudDJ2LmxhYi5wbGF5Mi5hdXRoLk9wdGlvbmFsQXV0aEVsZW1lbnQKaW1wb3J0IHBsYXkuYXBpLmkxOG4uSTE4blN1cHBvcnQKaW1wb3J0IHBsYXkuYXBpLm12Yy5fCmltcG9ydCBzZXJ2aWNlcy5Vc2VyU2VydmljZQoKQFNpbmdsZXRvbgpjbGFzcyBIb21lQ29udHJvbGxlciBASW5qZWN0KCkodmFsIHVzZXJTZXJ2aWNlOiBVc2VyU2VydmljZSwgY29tcG9uZW50czogQ29udHJvbGxlckNvbXBvbmVudHMpCiAgICBleHRlbmRzIEFic3RyYWN0Q29udHJvbGxlcihjb21wb25lbnRzKQogICAgICAgIHdpdGggSTE4blN1cHBvcnQKICAgICAgICB3aXRoIEF1dGhDb25maWdTdXBwb3J0CiAgICAgICAgd2l0aCBPcHRpb25hbEF1dGhFbGVtZW50IHsgLy8gYEF1dGhDb25maWdTdXBwb3J0YCxgT3B0aW9uYWxBdXRoRWxlbWVudGDjgpLjg5/jg4Pjgq/jgrnjgqTjg7MKCiAgZGVmIGluZGV4OiBBY3Rpb25bQW55Q29udGVudF0gPSBTdGFja0FjdGlvbiB7IGltcGxpY2l0IHJlcXVlc3QgPT4gLy8gYGluZGV4YOOCouOCr+OCt+ODp+ODs+OCkmBBY3Rpb25g44GL44KJYFN0YWNrQWN0aW9uYOOBq+WkieabtAogICAgT2sodmlld3MuaHRtbC5pbmRleChsb2dnZWRJbikpIC8vIGB2aWV3cy5odG1sLmluZGV4KClg44GL44KJYHZpZXdzLmh0bWwuaW5kZXgobG9nZ2VkSW4pYOOBq+WkieabtAogIH0KCn0K</text>
+        <text encoding="base64">ICAgIEB2aWV3cy5odG1sLml0ZW1zLml0ZW1zKGl0ZW1zKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8cCBjbGFzcz0iaXRlbS10aXRsZSI+PGEgaHJlZj0iQGl0ZW0udXJsIj5AaXRlbS5uYW1lPC9hPjwvcD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBAKiDov73liqDjgZnjgosgKkAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAvLyDlpInmm7QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QCgpCg==</text>
+        <text encoding="base64">cGFja2FnZSBjb250cm9sbGVycwoKaW1wb3J0IGphdmF4LmluamVjdC5fCgppbXBvcnQganAudDJ2LmxhYi5wbGF5Mi5hdXRoLk9wdGlvbmFsQXV0aEVsZW1lbnQKaW1wb3J0IHBsYXkuYXBpLmkxOG4uSTE4blN1cHBvcnQKaW1wb3J0IHBsYXkuYXBpLm12Yy5fCmltcG9ydCBzZXJ2aWNlcy5Vc2VyU2VydmljZQoKQFNpbmdsZXRvbgpjbGFzcyBIb21lQ29udHJvbGxlciBASW5qZWN0KCkodmFsIHVzZXJTZXJ2aWNlOiBVc2VyU2VydmljZSwgY29tcG9uZW50czogQ29udHJvbGxlckNvbXBvbmVudHMpCiAgICBleHRlbmRzIEFic3RyYWN0Q29udHJvbGxlcihjb21wb25lbnRzKQogICAgICAgIHdpdGggSTE4blN1cHBvcnQKICAgICAgICB3aXRoIEF1dGhDb25maWdTdXBwb3J0CiAgICAgICAgd2l0aCBPcHRpb25hbEF1dGhFbGVtZW50IHsgLy8gYEF1dGhDb25maWdTdXBwb3J0YCxgT3B0aW9uYWxBdXRoRWxlbWVudGDjgpLjg5/jg4Pjgq/jgrnjgqTjg7MKCiAgZGVmIGluZGV4OiBBY3Rpb25bQW55Q29udGVudF0gPSBTdGFja0FjdGlvbiB7IGltcGxpY2l0IHJlcXVlc3QgPT4gLy8gYGluZGV4YOOCouOCr+OCt+ODp+ODs+OCkmBBY3Rpb25g44GL44KJYFN0YWNrQWN0aW9uYOOBq+WkieabtAogICAgT2sodmlld3MuaHRtbC5pbmRleChsb2dnZWRJbikpIC8vIGB2aWV3cy5odG1sLmluZGV4KClg44GL44KJYHZpZXdzLmh0bWwuaW5kZXgobG9nZ2VkSW4pYOOBq+WkieabtAogIH0KCn0K</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>text</last-search>
+      <last-search encoding="base64">XDxoYXZlSXRlbXNcPg==</last-search>
       <last-offset />
-      <last-pattern>text</last-pattern>
+      <last-pattern encoding="base64">XDxoYXZlSXRlbXNcPg==</last-pattern>
       <last-replace>favorites</last-replace>
       <last-substitute>user_follows</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>route</entry>
-        <entry>play.filters.disabled</entry>
-        <entry>messa</entry>
         <entry>message</entry>
         <entry>Message</entry>
         <entry>%s</entry>
@@ -1868,6 +1865,9 @@
         <entry>favo</entry>
         <entry>current</entry>
         <entry>text</entry>
+        <entry>haveusers</entry>
+        <entry>want</entry>
+        <entry encoding="base64">XDxoYXZlSXRlbXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>15</entry>
