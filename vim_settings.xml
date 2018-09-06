@@ -16,14 +16,24 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.16-sources.jar!/play/api/mvc/Action.scala" timestamp="1536144141729">
-        <mark key="'" line="159" column="4" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/favorite/index.scala.html" timestamp="1536225085925">
+        <mark key="'" line="0" column="1" />
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+        <mark key="^" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/users/show.scala.html" timestamp="1536214481064">
-        <mark key="[" line="0" column="46" />
-        <mark key="]" line="0" column="54" />
-        <mark key="^" line="0" column="54" />
-        <mark key="." line="0" column="54" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/HomeController.scala" timestamp="1536222845956">
+        <mark key="[" line="47" column="99" />
+        <mark key="]" line="47" column="102" />
+        <mark key="^" line="47" column="102" />
+        <mark key="." line="47" column="102" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/users/show.scala.html" timestamp="1536223128684">
+        <mark key="[" line="18" column="45" />
+        <mark key="]" line="18" column="55" />
+        <mark key="^" line="18" column="55" />
+        <mark key="." line="18" column="55" />
       </file>
       <file name="$USER_HOME$/MyWork/git/mono-list/app/controllers/ItemUserController.scala" timestamp="1536131748929">
         <mark key="'" line="93" column="37" />
@@ -46,9 +56,9 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/AppModule.scala" timestamp="1535439846092">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="9" column="46" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/AppModule.scala" timestamp="1536221246957">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="9" column="61" />
         <mark key="]" line="9" column="64" />
         <mark key="." line="9" column="64" />
         <mark key="^" line="9" column="64" />
@@ -60,12 +70,12 @@
         <mark key="^" line="29" column="63" />
         <mark key="." line="29" column="63" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteService.scala" timestamp="1536219538159">
-        <mark key="'" line="15" column="12" />
-        <mark key="[" line="26" column="25" />
-        <mark key="]" line="26" column="35" />
-        <mark key="." line="26" column="35" />
-        <mark key="^" line="26" column="35" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteService.scala" timestamp="1536224176110">
+        <mark key="'" line="13" column="12" />
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="28" />
+        <mark key="." line="21" column="28" />
+        <mark key="^" line="21" column="28" />
       </file>
       <file name="$USER_HOME$/MyWork/git/mono-list/app/views/items/show.scala.html" timestamp="1536131230682">
         <mark key="'" line="8" column="0" />
@@ -73,9 +83,6 @@
         <mark key="]" line="37" column="38" />
         <mark key="." line="37" column="38" />
         <mark key="^" line="37" column="38" />
-      </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.18-sources.jar!/play/api/mvc/Action.scala" timestamp="1536212746325">
-        <mark key="'" line="295" column="46" />
       </file>
       <file name="$USER_HOME$/MyWork/git/mono-list/app/views/auth/login.scala.html" timestamp="1535449652029">
         <mark key="'" line="25" column="0" />
@@ -91,12 +98,17 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/FavoriteController.scala" timestamp="1535443840745">
-        <mark key="'" line="30" column="8" />
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/user_follow/follow_button.scala.html" timestamp="1536222466651">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/FavoriteController.scala" timestamp="1536221502526">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="40" column="6" />
+        <mark key="]" line="40" column="15" />
+        <mark key="^" line="40" column="15" />
+        <mark key="." line="40" column="15" />
       </file>
       <file name="$USER_HOME$/MyWork/git/mono-list/app/models/Item.scala" timestamp="1536130412390">
         <mark key="'" line="67" column="0" />
@@ -104,6 +116,13 @@
         <mark key="]" line="56" column="56" />
         <mark key="^" line="56" column="56" />
         <mark key="." line="56" column="56" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/common/posts.scala.html" timestamp="1536223711387">
+        <mark key="'" line="4" column="22" />
+        <mark key="[" line="24" column="34" />
+        <mark key="]" line="24" column="42" />
+        <mark key="^" line="24" column="42" />
+        <mark key="." line="24" column="42" />
       </file>
       <file name="$USER_HOME$/MyWork/git/mono-list/app/controllers/UsersController.scala" timestamp="1536047228387">
         <mark key="'" line="28" column="0" />
@@ -119,6 +138,12 @@
         <mark key="." line="91" column="45" />
         <mark key="^" line="91" column="45" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/micro-posts/conf/routes" timestamp="1536224602960">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="2" />
+        <mark key="." line="14" column="2" />
+        <mark key="^" line="14" column="2" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/message-board/app/views/show.scala.html" timestamp="1535017233033">
         <mark key="'" line="2" column="30" />
         <mark key="[" line="14" column="18" />
@@ -126,12 +151,18 @@
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/common/navbar.scala.html" timestamp="1536041930037">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="14" column="101" />
-        <mark key="." line="14" column="101" />
-        <mark key="^" line="14" column="101" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/UsersController.scala" timestamp="1536225525806">
+        <mark key="[" line="53" column="91" />
+        <mark key="]" line="53" column="94" />
+        <mark key="." line="53" column="94" />
+        <mark key="^" line="53" column="94" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/common/navbar.scala.html" timestamp="1536223905714">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="49" />
+        <mark key="." line="27" column="49" />
+        <mark key="^" line="27" column="49" />
       </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/users/followers.scala.html" timestamp="1536132850189">
         <mark key="'" line="4" column="0" />
@@ -160,24 +191,18 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="26" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/FavoritesController.scala" timestamp="1536135064738">
-        <mark key="'" line="36" column="61" />
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/FavoritesController.scala" timestamp="1536225460231">
+        <mark key="'" line="2" column="9" />
+        <mark key="[" line="24" column="47" />
+        <mark key="]" line="24" column="46" />
+        <mark key="." line="24" column="46" />
+        <mark key="^" line="24" column="46" />
       </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/favorite/show.scala.html" timestamp="1536134126369">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="58" />
-      </file>
-      <file name="$USER_HOME$/MyWork/git/mono-list/app/controllers/SignUpController.scala" timestamp="1536142122294">
-        <mark key="'" line="36" column="2" />
-        <mark key="]" line="33" column="1" />
-        <mark key="." line="33" column="1" />
-        <mark key="^" line="33" column="1" />
       </file>
       <file name="$USER_HOME$/MyWork/git/mono-list/app/views/main.scala.html" timestamp="1536216951751">
         <mark key="'" line="5" column="44" />
@@ -192,6 +217,12 @@
         <mark key="]" line="26" column="31" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/favorite/favorites.scala.html" timestamp="1536225353555">
+        <mark key="[" line="11" column="49" />
+        <mark key="]" line="11" column="58" />
+        <mark key="." line="11" column="58" />
+        <mark key="^" line="11" column="58" />
       </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/test/controllers/HomeControllerSpec.scala" timestamp="1535349196822">
         <mark key="'" line="1" column="0" />
@@ -228,12 +259,20 @@
         <mark key="." line="2" column="26" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/favorite/favorite_button.scala.html" timestamp="1536133576013">
-        <mark key="'" line="34" column="1" />
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="5" column="31" />
-        <mark key="." line="5" column="31" />
-        <mark key="^" line="5" column="31" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/favorite/favorite_button.scala.html" timestamp="1536223667604">
+        <mark key="'" line="51" column="1" />
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="12" column="34" />
+        <mark key="^" line="12" column="34" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/UserFollowServiceImpl.scala" timestamp="1536220075405">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="89" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/UserServiceImpl.scala" timestamp="1536224049491">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="31" column="2" />
       </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/conf/db/migration/default/mysql/V7__Create_Favorites.sql" timestamp="1535432600898">
         <mark key="'" line="10" column="15" />
@@ -242,11 +281,11 @@
         <mark key="^" line="9" column="33" />
         <mark key="." line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/PostController.scala" timestamp="1536214330756">
-        <mark key="[" line="68" column="76" />
-        <mark key="]" line="68" column="80" />
-        <mark key="^" line="68" column="80" />
-        <mark key="." line="68" column="80" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/PostController.scala" timestamp="1536223051666">
+        <mark key="[" line="70" column="87" />
+        <mark key="]" line="70" column="90" />
+        <mark key="^" line="70" column="90" />
+        <mark key="." line="70" column="90" />
       </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/ItemsController.scala" timestamp="1535452974925">
         <mark key="'" line="68" column="0" />
@@ -283,22 +322,12 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/conf/application.conf" timestamp="1536216824522">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/MyWork/git/mono-list/app/views/items/buttons.scala.html" timestamp="1536131168279">
-        <mark key="'" line="4" column="17" />
+      <file name="$USER_HOME$/MyWork/git/mono-list/app/views/items/buttons.scala.html" timestamp="1536223838542">
+        <mark key="'" line="3" column="15" />
         <mark key="[" line="26" column="53" />
         <mark key="]" line="26" column="56" />
         <mark key="." line="26" column="56" />
         <mark key="^" line="26" column="56" />
-      </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/main.scala.html" timestamp="1536216969580">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/mono-list/app/views/index.scala.html" timestamp="1536046961506">
         <mark key="'" line="2" column="0" />
@@ -321,6 +350,12 @@
         <mark key="^" line="57" column="12" />
         <mark key="." line="57" column="12" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/mono-list/app/controllers/FavoriteController.scala" timestamp="1536221027525">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/mono-list/app/models/User.scala" timestamp="1536132052443">
         <mark key="'" line="37" column="55" />
         <mark key="[" line="29" column="3" />
@@ -341,11 +376,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/index.scala.html" timestamp="1536134338351">
-        <mark key="[" line="2" column="54" />
-        <mark key="]" line="2" column="64" />
-        <mark key="^" line="2" column="64" />
-        <mark key="." line="2" column="64" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/index.scala.html" timestamp="1536223481699">
+        <mark key="'" line="6" column="30" />
+        <mark key="[" line="26" column="52" />
+        <mark key="]" line="26" column="62" />
+        <mark key="^" line="26" column="62" />
+        <mark key="." line="26" column="62" />
       </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/SignUpController.scala" timestamp="1535518904493">
         <mark key="'" line="41" column="2" />
@@ -417,27 +453,14 @@
         <mark key="." line="57" column="68" />
         <mark key="^" line="57" column="68" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteServiceImpl.scala" timestamp="1536219574701">
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="7" column="48" />
-        <mark key="^" line="7" column="48" />
-        <mark key="." line="7" column="48" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteServiceImpl.scala" timestamp="1536224163087">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="91" />
+        <mark key="." line="32" column="10" />
+        <mark key="^" line="32" column="10" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="14" filename="$USER_HOME$/MyWork/git/mono-list/app/views/main.scala.html" />
-      <jump line="4" column="39" filename="$USER_HOME$/MyWork/git/mono-list/app/views/main.scala.html" />
-      <jump line="5" column="44" filename="$USER_HOME$/MyWork/git/mono-list/app/views/main.scala.html" />
-      <jump line="10" column="7" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
-      <jump line="18" column="33" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
-      <jump line="75" column="25" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
-      <jump line="57" column="26" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
-      <jump line="37" column="8" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
-      <jump line="0" column="9" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
-      <jump line="1" column="54" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
-      <jump line="11" column="22" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
-      <jump line="14" column="13" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
       <jump line="23" column="14" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
       <jump line="34" column="22" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
       <jump line="54" column="20" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
@@ -525,64 +548,75 @@
       <jump line="17" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/models/Favorite.scala" />
       <jump line="29" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteService.scala" />
       <jump line="15" column="12" filename="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteService.scala" />
+      <jump line="9" column="1" filename="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteServiceImpl.scala" />
+      <jump line="6" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteServiceImpl.scala" />
+      <jump line="11" column="9" filename="$USER_HOME$/MyWork/git/micro-posts/conf/messages.en" />
+      <jump line="39" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/controllers/FavoriteController.scala" />
+      <jump line="4" column="22" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/common/posts.scala.html" />
+      <jump line="6" column="30" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/index.scala.html" />
+      <jump line="15" column="10" filename="$USER_HOME$/MyWork/git/mono-list/app/views/items/buttons.scala.html" />
+      <jump line="18" column="15" filename="$USER_HOME$/MyWork/git/mono-list/app/views/items/buttons.scala.html" />
+      <jump line="3" column="15" filename="$USER_HOME$/MyWork/git/mono-list/app/views/items/buttons.scala.html" />
+      <jump line="7" column="9" filename="$USER_HOME$/MyWork/git/micro-posts/app/controllers/FavoritesController.scala" />
+      <jump line="0" column="1" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/favorite/index.scala.html" />
+      <jump line="18" column="4" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/favorite/favorites.scala.html" />
+      <jump line="35" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/favorite/favorites.scala.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FavoriteServiceImpl</text>
+        <text>user</text>
       </register>
       <register name="-" type="4">
-        <text>FavoriteServiceImpl</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
-        <text>cont</text>
+        <text>users</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic2hvcnRjdXQgaWNvbiIgdHlwZT0iaW1hZ2UvcG5nIiBocmVmPSJAcm91dGVzLkFzc2V0cy52ZXJzaW9uZWQoImZhdmljb24uaWNvIikiPgogICAgPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJodHRwczovL21heGNkbi5ib290c3RyYXBjZG4uY29tL2Jvb3RzdHJhcC8zLjMuNy9jc3MvYm9vdHN0cmFwLm1pbi5jc3MiPgogICAgPHNjcmlwdCBzcmM9Imh0dHBzOi8vYWpheC5nb29nbGVhcGlzLmNvbS9hamF4L2xpYnMvanF1ZXJ5LzEuMTIuNC9qcXVlcnkubWluLmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgc3JjPSJodHRwczovL21heGNkbi5ib290c3RyYXBjZG4uY29tL2Jvb3RzdHJhcC8zLjMuNy9qcy9ib290c3RyYXAubWluLmpzIj48L3NjcmlwdD4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgbWVkaWE9InNjcmVlbiIgaHJlZj0iQHJvdXRlcy5Bc3NldHMudmVyc2lvbmVkKCJzdHlsZXNoZWV0cy9tYWluLmNzcyIpIj4K</text>
+        <text encoding="base64">UE9TVCAgICAgICAgL3VzZXJzLzptaWNyb1Bvc3RJZC91bkZhdm9yaXRlICAgICAgICBjb250cm9sbGVycy5GYXZvcml0ZUNvbnRyb2xsZXIudW5GYXZvcml0ZShtaWNyb1Bvc3RJZDogTG9uZykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgY291bnRCeU1pY3JvUG9zdElkKHVzZXJJZDogTG9uZykoaW1wbGljaXQgZGJTZXNzaW9uOiBEQlNlc3Npb24gPSBBdXRvU2Vzc2lvbik6IFRyeVtMb25nXQo=</text>
+        <text encoding="base64">QGltcG9ydCBiMy52ZXJ0aWNhbC5maWVsZENvbnN0cnVjdG9yCgpAKGN1cnJlbnRVc2VyOiBVc2VyLCBtaWNyb1Bvc3RzOiBQYWdlZEl0ZW1zW01pY3JvUG9zdF0sIGZhdm9yaXRlczogTGlzdFtGYXZvcml0ZV0pKGltcGxpY2l0IG1lc3NhZ2VzUHJvdmlkZXI6IE1lc3NhZ2VzUHJvdmlkZXIsIHJlcXVlc3Q6IFJlcXVlc3RIZWFkZXIpCgo8dWwgY2xhc3M9Im1lZGlhLWxpc3QiPgoKICBAZm9yKG1pY3JvcG9zdCA8LSBtaWNyb1Bvc3RzLml0ZW1zKSB7CiAgICBAaWYobWljcm9wb3N0LnVzZXIpCiAgICA8bGkgY2xhc3M9Im1lZGlhIj4KICAgICAgPGRpdiBjbGFzcz0ibWVkaWEtbGVmdCI+CiAgICAgICAgPGltZyBjbGFzcz0ibWVkaWEtb2JqZWN0IGltZy1yb3VuZGVkIiBzcmM9IkBjb21tb24uZ3JhdmF0YXJVcmwobWljcm9wb3N0LnVzZXIuZ2V0LmVtYWlsKT9zPTUwJmFtcDtyPWcmYW1wO2Q9aWRlbnRpY29uIiBhbHQ9IiI+CiAgICAgIDwvZGl2PgogICAgICA8ZGl2IGNsYXNzPSJtZWRpYS1ib2R5Ij4KICAgICAgICA8ZGl2PgogICAgICAgICAgPGEgaHJlZj0iQHJvdXRlcy5Vc2Vyc0NvbnRyb2xsZXIuc2hvdyhtaWNyb3Bvc3QudXNlcklkLCAxKSI+CiAgICAgICAgICBAbWljcm9wb3N0LnVzZXIubWFwKF8ubmFtZSkuZ2V0PC9hPgogICAgICAgICAgPHNwYW4gY2xhc3M9InRleHQtbXV0ZWQiPnBvc3RlZCBhdCBAbWljcm9wb3N0LmNyZWF0ZUF0PC9zcGFuPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXY+CiAgICAgICAgICA8cD5AbWljcm9wb3N0LmNvbnRlbnQ8L3A+CiAgICAgICAgPC9kaXY+CiAgICAgICAgQCog5YmK6Zmk55So44OV44Kp44O844OgICpACiAgICAgICAgQGlmKGN1cnJlbnRVc2VyLmlkLmdldCA9PSBtaWNyb3Bvc3QudXNlcklkKSB7CiAgICAgICAgICA8ZGl2PgogICAgICAgICAgQGIzLmZvcm1DU1JGKHJvdXRlcy5Qb3N0Q29udHJvbGxlci5kZWxldGUobWljcm9wb3N0LmlkLmdldCkpIHsKICAgICAgICAgICAgQGIzLnN1Ym1pdCgnY2xhc3MgLT4gImQtaW5saW5lIGJ0biBidG4tZGFuZ2VyIGJ0bi14cyIpIHsKICAgICAgICAgICAgICBATWVzc2FnZXMoIkRlbGV0ZSIpCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICAgIDwvZGl2PgogICAgICAgIH0KICAgICAgICBAZmF2b3JpdGUuZmF2b3JpdGVfYnV0dG9uKGN1cnJlbnRVc2VyLCBtaWNyb3Bvc3QsIGZhdm9yaXRlcykKICAgICAgPC9kaXY+CiAgICA8L2xpPgogIH0KPC91bD4KCkBjb21tb24ucGFnaW5hdGlvbihtaWNyb1Bvc3RzLCByb3V0ZXMuSG9tZUNvbnRyb2xsZXIuaW5kZXgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG1vZGVscy57RmF2b3JpdGUsIFBhZ2VkSXRlbXMsIFVzZXIsIFVzZXJGb2xsb3d9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QChjdXJyZW50VXNlcjogVXNlciwgdXNlcnM6IFBhZ2VkSXRlbXNbRmF2b3JpdGVdKShpbXBsaWNpdCBtZXNzYWdlc1Byb3ZpZGVyOiBNZXNzYWdlc1Byb3ZpZGVyLCBmbGFzaDogRmxhc2gsIHJlcXVlc3Q6IFJlcXVlc3RIZWFkZXIpCgo8dWwgY2xhc3M9Im1lZGlhLWxpc3QiPgogIEBmb3Iob3RoZXJVc2VyIDwtIHVzZXJzLml0ZW1zKSB7CiAgICA8bGkgY2xhc3M9Im1lZGlhIj4KICAgICAgPGRpdiBjbGFzcz0ibWVkaWEtbGVmdCI+CiAgICAgICAgPGltZyBjbGFzcz0ibWVkaWEtb2JqZWN0IGltZy1yb3VuZGVkIiBzcmM9IkBjb21tb24uZ3JhdmF0YXJVcmwob3RoZXJVc2VyLmVtYWlsKT9zPTUwJmFtcDtyPWcmYW1wO2Q9aWRlbnRpY29uIiBhbHQ9IiI+CiAgICAgIDwvZGl2PgogICAgICA8ZGl2IGNsYXNzPSJtZWRpYS1ib2R5Ij4KICAgICAgICA8ZGl2PgogICAgICAgIEBvdGhlclVzZXIubmFtZQogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXY+CiAgICAgICAgICA8cD48YSBocmVmPSJAcm91dGVzLlVzZXJzQ29udHJvbGxlci5zaG93KG90aGVyVXNlci5pZC5nZXQsIDEpIj5ATWVzc2FnZXMoIlZpZXdQcm9maWxlIik8L2E+PC9wPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvbGk+CiAgfQo8L3VsPgoKQGNvbW1vbi5wYWdpbmF0aW9uKHVzZXJzLCByb3V0ZXMuVXNlcnNDb250cm9sbGVyLmluZGV4KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLnV0aWwuVHJ5Cg==</text>
+        <text encoding="base64">ICBAZm9yKG90aGVyVXNlciA8LSB1c2Vycy5pdGVtcykgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFja2FnZSBzZXJ2aWNlcwoKdHJhaXQgRmF2b3JpdGVTZXJ2aWNlIHsKCg==</text>
+        <text encoding="base64">ICBAdmlld3MuaHRtbC5mYXZvcml0ZS51c2VycyhjdXJyZW50VXNlciwgdXNlcnMpCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">QCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1pY3JvUG9zdDogT3B0aW9uW1VzZXJdID0gTm9uZSkK</text>
+        <text encoding="base64">ICAgICAgZmF2b3JpdGVTZXJ2aWNlLmZpbmRhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFja2FnZSBjb250cm9sbGVycwoKY2xhc3MgRmF2b3JpdGVzQ29udHJvbGxlciB7Cgp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>cont</last-search>
+      <last-search>users</last-search>
       <last-offset />
-      <last-pattern>cont</last-pattern>
+      <last-pattern>users</last-pattern>
       <last-replace>favorites</last-replace>
       <last-substitute>user_follows</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
-        <entry>users</entry>
         <entry>favo</entry>
         <entry>current</entry>
         <entry>text</entry>
@@ -601,6 +635,8 @@
         <entry>actionbuilder</entry>
         <entry>container</entry>
         <entry>cont</entry>
+        <entry>follow</entry>
+        <entry>users</entry>
       </history-search>
       <history-cmd>
         <entry>15</entry>
