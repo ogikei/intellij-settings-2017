@@ -60,12 +60,12 @@
         <mark key="^" line="29" column="63" />
         <mark key="." line="29" column="63" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteService.scala" timestamp="1535439597664">
-        <mark key="'" line="27" column="13" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="22" column="1" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteService.scala" timestamp="1536219538159">
+        <mark key="'" line="15" column="12" />
+        <mark key="[" line="26" column="25" />
+        <mark key="]" line="26" column="35" />
+        <mark key="." line="26" column="35" />
+        <mark key="^" line="26" column="35" />
       </file>
       <file name="$USER_HOME$/MyWork/git/mono-list/app/views/items/show.scala.html" timestamp="1536131230682">
         <mark key="'" line="8" column="0" />
@@ -104,9 +104,6 @@
         <mark key="]" line="56" column="56" />
         <mark key="^" line="56" column="56" />
         <mark key="." line="56" column="56" />
-      </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/common/posts.scala.html" timestamp="1536134348317">
-        <mark key="^" line="2" column="55" />
       </file>
       <file name="$USER_HOME$/MyWork/git/mono-list/app/controllers/UsersController.scala" timestamp="1536047228387">
         <mark key="'" line="28" column="0" />
@@ -413,20 +410,21 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="1" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/models/Favorite.scala" timestamp="1536130758047">
-        <mark key="'" line="58" column="1" />
-        <mark key="[" line="32" column="44" />
-        <mark key="]" line="32" column="45" />
-        <mark key="." line="32" column="45" />
-        <mark key="^" line="27" column="42" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/models/Favorite.scala" timestamp="1536218652508">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="57" column="61" />
+        <mark key="]" line="57" column="68" />
+        <mark key="." line="57" column="68" />
+        <mark key="^" line="57" column="68" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteServiceImpl.scala" timestamp="1536219574701">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="48" />
+        <mark key="^" line="7" column="48" />
+        <mark key="." line="7" column="48" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="11" filename="$USER_HOME$/MyWork/git/mono-list/app/views/items/buttons.scala.html" />
-      <jump line="4" column="17" filename="$USER_HOME$/MyWork/git/mono-list/app/views/items/buttons.scala.html" />
-      <jump line="45" column="1" filename="$USER_HOME$/MyWork/git/mono-list/app/views/items/show.scala.html" />
-      <jump line="8" column="0" filename="$USER_HOME$/MyWork/git/mono-list/app/views/items/show.scala.html" />
-      <jump line="17" column="19" filename="$USER_HOME$/MyWork/git/mono-list/app/views/main.scala.html" />
       <jump line="10" column="14" filename="$USER_HOME$/MyWork/git/mono-list/app/views/main.scala.html" />
       <jump line="4" column="39" filename="$USER_HOME$/MyWork/git/mono-list/app/views/main.scala.html" />
       <jump line="5" column="44" filename="$USER_HOME$/MyWork/git/mono-list/app/views/main.scala.html" />
@@ -522,13 +520,18 @@
       <jump line="44" column="27" filename="$USER_HOME$/MyWork/git/mono-list/public/stylesheets/main.css" />
       <jump line="28" column="0" filename="$USER_HOME$/MyWork/git/mono-list/public/stylesheets/main.css" />
       <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/mono-list/public/stylesheets/main.css" />
+      <jump line="59" column="1" filename="$USER_HOME$/MyWork/git/micro-posts/app/models/Favorite.scala" />
+      <jump line="19" column="36" filename="$USER_HOME$/MyWork/git/micro-posts/app/models/Favorite.scala" />
+      <jump line="17" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/models/Favorite.scala" />
+      <jump line="29" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteService.scala" />
+      <jump line="15" column="12" filename="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteService.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgbWVkaWE9InNjcmVlbiIgaHJlZj0iQHJvdXRlcy5Bc3NldHMudmVyc2lvbmVkKCJzdHlsZXNoZWV0cy9tYWluLmNzcyIpIj4KICAgIDxsaW5rIHJlbD0ic2hvcnRjdXQgaWNvbiIgdHlwZT0iaW1hZ2UvcG5nIiBocmVmPSJAcm91dGVzLkFzc2V0cy52ZXJzaW9uZWQoImltYWdlcy9mYXZpY29uLnBuZyIpIj4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9tYXhjZG4uYm9vdHN0cmFwY2RuLmNvbS9ib290c3RyYXAvMy4zLjcvY3NzL2Jvb3RzdHJhcC5taW4uY3NzIj4KICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2FqYXguZ29vZ2xlYXBpcy5jb20vYWpheC9saWJzL2pxdWVyeS8xLjEyLjQvanF1ZXJ5Lm1pbi5qcyI+PC9zY3JpcHQ+CiAgICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9tYXhjZG4uYm9vdHN0cmFwY2RuLmNvbS9ib290c3RyYXAvMy4zLjcvanMvYm9vdHN0cmFwLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>FavoriteServiceImpl</text>
       </register>
       <register name="-" type="4">
-        <text>0px</text>
+        <text>FavoriteServiceImpl</text>
       </register>
       <register name="/" type="4">
         <text>cont</text>
@@ -537,31 +540,31 @@
         <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic2hvcnRjdXQgaWNvbiIgdHlwZT0iaW1hZ2UvcG5nIiBocmVmPSJAcm91dGVzLkFzc2V0cy52ZXJzaW9uZWQoImZhdmljb24uaWNvIikiPgogICAgPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJodHRwczovL21heGNkbi5ib290c3RyYXBjZG4uY29tL2Jvb3RzdHJhcC8zLjMuNy9jc3MvYm9vdHN0cmFwLm1pbi5jc3MiPgogICAgPHNjcmlwdCBzcmM9Imh0dHBzOi8vYWpheC5nb29nbGVhcGlzLmNvbS9hamF4L2xpYnMvanF1ZXJ5LzEuMTIuNC9qcXVlcnkubWluLmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgc3JjPSJodHRwczovL21heGNkbi5ib290c3RyYXBjZG4uY29tL2Jvb3RzdHJhcC8zLjMuNy9qcy9ib290c3RyYXAubWluLmpzIj48L3NjcmlwdD4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgbWVkaWE9InNjcmVlbiIgaHJlZj0iQHJvdXRlcy5Bc3NldHMudmVyc2lvbmVkKCJzdHlsZXNoZWV0cy9tYWluLmNzcyIpIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgbWVkaWE9InNjcmVlbiIgaHJlZj0iQHJvdXRlcy5Bc3NldHMudmVyc2lvbmVkKCJzdHlsZXNoZWV0cy9tYWluLmNzcyIpIj4KICAgIDxsaW5rIHJlbD0ic2hvcnRjdXQgaWNvbiIgdHlwZT0iaW1hZ2UvcG5nIiBocmVmPSJAcm91dGVzLkFzc2V0cy52ZXJzaW9uZWQoImltYWdlcy9mYXZpY29uLnBuZyIpIj4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9tYXhjZG4uYm9vdHN0cmFwY2RuLmNvbS9ib290c3RyYXAvMy4zLjcvY3NzL2Jvb3RzdHJhcC5taW4uY3NzIj4KICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2FqYXguZ29vZ2xlYXBpcy5jb20vYWpheC9saWJzL2pxdWVyeS8xLjEyLjQvanF1ZXJ5Lm1pbi5qcyI+PC9zY3JpcHQ+CiAgICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9tYXhjZG4uYm9vdHN0cmFwY2RuLmNvbS9ib290c3RyYXAvMy4zLjcvanMvYm9vdHN0cmFwLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICBkZWYgY291bnRCeU1pY3JvUG9zdElkKHVzZXJJZDogTG9uZykoaW1wbGljaXQgZGJTZXNzaW9uOiBEQlNlc3Npb24gPSBBdXRvU2Vzc2lvbik6IFRyeVtMb25nXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CnBsYXkuZmlsdGVycy5jc3JmLmhlYWRlci5ieXBhc3NIZWFkZXJzIHsKICBYLVJlcXVlc3RlZC1XaXRoID0gIlhNTEh0dHBSZXF1ZXN0IgogIENzcmYtVG9rZW4gPSAibm9jaGVjayIKfQo=</text>
+        <text encoding="base64">aW1wb3J0IG1vZGVscy57RmF2b3JpdGUsIFBhZ2VkSXRlbXMsIFVzZXIsIFVzZXJGb2xsb3d9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LmNvbnRhaW5lcgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgbWVkaWE9InNjcmVlbiIgaHJlZj0iQHJvdXRlcy5Bc3NldHMudmVyc2lvbmVkKCJzdHlsZXNoZWV0cy9tYWluLmNzcyIpIj4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG1vZGVscy57TWljcm9Qb3N0LCBQYWdlZEl0ZW1zfQppbXBvcnQgc2VydmljZXMue0Zhdm9yaXRlU2VydmljZSwgTWljcm9Qb3N0U2VydmljZSwgVXNlclNlcnZpY2V9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG1vZGVscy57TWljcm9Qb3N0LCBQYWdlZEl0ZW1zfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQHZpZXdzLmh0bWwudXNlcnMudXNlcnMoY3VycmVudFVzZXIsIGZvbGxvd2luZ3MpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnV0aWwuVHJ5Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cGFja2FnZSBzZXJ2aWNlcwoKdHJhaXQgRmF2b3JpdGVTZXJ2aWNlIHsKCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG1pY3JvUG9zdDogT3B0aW9uW1VzZXJdID0gTm9uZSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">QChjdXJyZW50VXNlcjogVXNlciwgdXNlcjogVXNlciwgZmF2b3JpdGVzOiBMaXN0W0Zhdm9yaXRlXSwgbWljcm9Qb3N0czogUGFnZWRJdGVtc1tNaWNyb1Bvc3RdLCBmb2xsb3dpbmdzQ291bnQ6IExvbmcpKGltcGxpY2l0IG1lc3NhZ2VzUHJvdmlkZXI6IE1lc3NhZ2VzUHJvdmlkZXIsIGZsYXNoOiBGbGFzaCwgcmVxdWVzdDogUmVxdWVzdEhlYWRlcikKCjx1bCBjbGFzcz0ibWVkaWEtbGlzdCI+CiAgQGZvcihtaWNyb1Bvc3QgPC0gbWljcm9Qb3N0cy5pdGVtcykgewogICAgPGxpIGNsYXNzPSJtZWRpYSI+CiAgICAgIDxkaXYgY2xhc3M9Im1lZGlhLWxlZnQiPgogICAgICAgIDxpbWcgY2xhc3M9Im1lZGlhLW9iamVjdCBpbWctcm91bmRlZCIgc3JjPSJAY29tbW9uLmdyYXZhdGFyVXJsKG1pY3JvUG9zdC51c2VyLmdldC5lbWFpbCk/cz01MCZhbXA7cj1nJmFtcDtkPWlkZW50aWNvbiIgYWx0PSIiPgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0ibWVkaWEtYm9keSI+CiAgICAgICAgPGRpdj4KICAgICAgICBAbWljcm9Qb3N0LmNvbnRlbnQKICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L2xpPgogIH0KPC91bD4KCkBjb21tb24ucGFnaW5hdGlvbihtaWNyb1Bvc3RzLCByb3V0ZXMuVXNlcnNDb250cm9sbGVyLmluZGV4KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
