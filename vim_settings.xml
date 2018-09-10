@@ -21,11 +21,11 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/HomeController.scala" timestamp="1536242413808">
-        <mark key="[" line="30" column="27" />
-        <mark key="]" line="30" column="27" />
-        <mark key="." line="30" column="27" />
-        <mark key="^" line="30" column="26" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/HomeController.scala" timestamp="1536588932387">
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="36" column="15" />
+        <mark key="." line="36" column="15" />
+        <mark key="^" line="36" column="15" />
       </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/users/show.scala.html" timestamp="1536242017540">
         <mark key="[" line="18" column="47" />
@@ -74,12 +74,17 @@
         <mark key="^" line="29" column="63" />
         <mark key="." line="29" column="63" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteService.scala" timestamp="1536224176110">
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/MicroPostService.scala" timestamp="1536589050000">
+        <mark key="[" line="25" column="6" />
+        <mark key="]" line="25" column="6" />
+        <mark key="^" line="25" column="48" />
+        <mark key="." line="25" column="6" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteService.scala" timestamp="1536587944409">
         <mark key="'" line="13" column="12" />
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="21" column="28" />
-        <mark key="." line="21" column="28" />
-        <mark key="^" line="21" column="28" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/mono-list/app/views/items/show.scala.html" timestamp="1536131230682">
         <mark key="'" line="8" column="0" />
@@ -187,6 +192,13 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/MicroPostServiceImpl.scala" timestamp="1536589892051">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="53" column="89" />
+        <mark key="]" line="53" column="89" />
+        <mark key="." line="53" column="89" />
+        <mark key="^" line="53" column="88" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/mono-list/conf/routes" timestamp="1536305396538">
         <mark key="[" line="14" column="65" />
         <mark key="]" line="14" column="68" />
@@ -200,12 +212,12 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="26" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/FavoritesController.scala" timestamp="1536586187377">
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/FavoritesController.scala" timestamp="1536588873364">
         <mark key="'" line="2" column="9" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="24" column="13" />
-        <mark key="." line="28" column="71" />
-        <mark key="^" line="28" column="71" />
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="25" column="53" />
+        <mark key="." line="25" column="53" />
+        <mark key="^" line="25" column="53" />
       </file>
       <file name="$USER_HOME$/MyWork/git/mono-list/app/views/ranking/have.scala.html" timestamp="1536305439614">
         <mark key="[" line="4" column="8" />
@@ -296,11 +308,11 @@
         <mark key="^" line="9" column="33" />
         <mark key="." line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/PostController.scala" timestamp="1536241726014">
-        <mark key="[" line="73" column="78" />
-        <mark key="]" line="73" column="88" />
-        <mark key="." line="73" column="88" />
-        <mark key="^" line="73" column="88" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/PostController.scala" timestamp="1536588956005">
+        <mark key="[" line="71" column="9" />
+        <mark key="]" line="71" column="39" />
+        <mark key="." line="71" column="39" />
+        <mark key="^" line="71" column="39" />
       </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/ItemsController.scala" timestamp="1535452974925">
         <mark key="'" line="68" column="0" />
@@ -466,16 +478,13 @@
         <mark key="." line="57" column="68" />
         <mark key="^" line="57" column="68" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteServiceImpl.scala" timestamp="1536224163087">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="91" />
-        <mark key="." line="32" column="10" />
-        <mark key="^" line="32" column="10" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteServiceImpl.scala" timestamp="1536587937801">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="4" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.16-sources.jar!/play/api/mvc/Action.scala" />
-      <jump line="365" column="7" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.18-sources.jar!/play/api/mvc/Action.scala" />
       <jump line="453" column="7" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.18-sources.jar!/play/api/mvc/Action.scala" />
       <jump line="455" column="12" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.18-sources.jar!/play/api/mvc/Action.scala" />
       <jump line="458" column="8" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.18-sources.jar!/play/api/mvc/Action.scala" />
@@ -574,33 +583,53 @@
       <jump line="53" column="22" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
       <jump line="59" column="18" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
       <jump line="34" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/favorite/favorites.scala.html" />
+      <jump line="40" column="14" filename="$USER_HOME$/MyWork/git/micro-posts/app/services/MicroPostServiceImpl.scala" />
+      <jump line="49" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/services/MicroPostServiceImpl.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>HomeController</text>
+        <text>.get</text>
       </register>
       <register name="-" type="4">
-        <text>HomeController</text>
+        <text>.get</text>
       </register>
       <register name="/" type="4">
-        <text>itemcode</text>
+        <text encoding="base64">XDxmaW5kQWxsQnlXaXRoRm9sbG93TGltaXRPZmZzZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmVsb2FkRmxn5pmC44Gr44Oa44O844K444KS44Oq44Ot44O844OJ44GZ44KL44KI44GG44Gr44GZ44KLCiAgICAgIGlmIChyZWxvYWRGbGcpIHsKICAgICAgICBsb2NhdGlvbi5yZWxvYWQoKTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGRlZiBmaW5kQWxsQnlGb2xsb3dXaXRoTGltaXRPZmZzZXQodXNlcklkczogU2VxW0xvbmddKShwYWdpbmF0aW9uOiBQYWdpbmF0aW9uKSgKICAgICAgaW1wbGljaXQgZGJTZXNzaW9uOiBEQlNlc3Npb24KICApOiBTZXFbTWljcm9Qb3N0XSA9IE1pY3JvUG9zdC5maW5kQWxsQnlXaXRoTGltaXRPZmZzZXQoCiAgICBzcWxzLmluKE1pY3JvUG9zdC5kZWZhdWx0QWxpYXMudXNlcklkLCB1c2VySWRzKSwKICAgIHBhZ2luYXRpb24ubGltaXQsCiAgICBwYWdpbmF0aW9uLm9mZnNldCwKICAgIFNlcShNaWNyb1Bvc3QuZGVmYXVsdEFsaWFzLmlkLmRlc2MpCiAgKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHJlbG9hZEZsZykgewogICAgICAgIGxvY2F0aW9uLnJlbG9hZCgpOwogICAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text>override def findAllByFavoriteWithLimitOffset(pagination: Pagination, userId: Long)(
+      implicit dbSession: DBSession
+  ): Try[PagedItems[MicroPost]] = Try {
+    val favoriteMicroPostIds: Seq[Long] =
+      MicroPost.findAllBy(sqls.eq(MicroPost.defaultAlias.userId, userId)).map(_.id.get)
+    val size = MicroPost.countBy(
+      sqls.in(MicroPost.defaultAlias.userId, userId +: favoriteMicroPostIds))
+    PagedItems(
+      pagination, size, findAllByFavoriteWithLimitOffset(userId +: favoriteMicroPostIds)(pagination))
+  }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJChzZW5kZXIpLm9uKCdjbGljaycsIGZ1bmN0aW9uIChlKSB7CiAgICAgICAgaGF2ZSgkKHNlbmRlciksIGl0ZW1Db2RlKTsKICAgICAgfSk7Cg==</text>
+        <text encoding="base64">CiAgZGVmIGZpbmRBbGxGYXZvcml0ZUJ5V2l0aExpbWl0T2Zmc2V0KHBhZ2luYXRpb246IFBhZ2luYXRpb24sIHVzZXJJZDogTG9uZykoaW1wbGljaXQgZGJTZXNzaW9uOiBEQlNlc3Npb24pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgb3ZlcnJpZGUgZGVmIGZpbmRBbGxGYXZvcml0ZUJ5V2l0aExpbWl0T2Zmc2V0KHBhZ2luYXRpb246IFBhZ2luYXRpb24sIHVzZXJJZDogTG9uZykoCiAgICAgIGltcGxpY2l0IGRiU2Vzc2lvbjogREJTZXNzaW9uCiAgKTogVHJ5W1BhZ2VkSXRlbXNbTWljcm9Qb3N0XV0gPSBUcnkgewogICAgdmFsIGZvbGxvd2luZ0lkczogU2VxW0xvbmddID0KICAgICAgTWljcm9Qb3N0LmZpbmRBbGxCeShzcWxzLmVxKE1pY3JvUG9zdC5kZWZhdWx0QWxpYXMudXNlcklkLCB1c2VySWQpKS5tYXAoXy5pZCkuZwogICAgdmFsIHNpemUgPSBNaWNyb1Bvc3QuY291bnRCeShzcWxzLmluKE1pY3JvUG9zdC5kZWZhdWx0QWxpYXMudXNlcklkLCB1c2VySWQgKzogZm9sbG93aW5nSWRzKSkKICAgIFBhZ2VkSXRlbXMocGFnaW5hdGlvbiwgc2l6ZSwgZmluZEFsbEJ5V2l0aExpbWl0T2Zmc2V0KHVzZXJJZCArOiBmb2xsb3dpbmdJZHMpKHBhZ2luYXRpb24pKQogIH0K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgaWYgKHJlbG9hZEZsZykgewogICAgICAgIGxvY2F0aW9uLnJlbG9hZCgpOwogICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgJChzZW5kZXIpLm9uKCdjbGljaycsIGZ1bmN0aW9uIChlKSB7CiAgICAgICAgaGF2ZSgkKHNlbmRlciksIGl0ZW1Db2RlKTsKICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">bwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>function have(sender, itemCode) {
   var route = jsRoutes.controllers.ItemUserController.have();
   $.ajax({
@@ -624,34 +653,24 @@
   });
 }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJChzZW5kZXIpLm9uKCdjbGljaycsIGZ1bmN0aW9uIChlKSB7CiAgICAgICAgZG9Ob3RIYXZlKCQoc2VuZGVyKSwgaXRlbUNvZGUpOwogICAgICB9KTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJChzZW5kZXIpLm9mZignY2xpY2snKTsKICAgICAgJChzZW5kZXIpLm9uKCdjbGljaycsIGZ1bmN0aW9uIChlKSB7CiAgICAgICAgaGF2ZSgkKHNlbmRlciksIGl0ZW1Db2RlKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJChzZW5kZXIpLm9uKCdjbGljaycsIGZ1bmN0aW9uIChlKSB7CiAgICAgICAgZG9Ob3RIYXZlKCQoc2VuZGVyKSwgaXRlbUNvZGUpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">QCgpCg==</text>
+        <text encoding="base64">ICAgICAgJChzZW5kZXIpLm9uKCdjbGljaycsIGZ1bmN0aW9uIChlKSB7CiAgICAgICAgZG9Ob3RIYXZlKCQoc2VuZGVyKSwgaXRlbUNvZGUpOwogICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>itemcode</last-search>
+      <last-search encoding="base64">XDxmaW5kQWxsQnlXaXRoRm9sbG93TGltaXRPZmZzZXRcPg==</last-search>
       <last-offset />
-      <last-pattern>itemcode</last-pattern>
+      <last-pattern encoding="base64">XDxmaW5kQWxsQnlXaXRoRm9sbG93TGltaXRPZmZzZXRcPg==</last-pattern>
       <last-replace>favorites</last-replace>
       <last-substitute>user_follows</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>haveusers</entry>
         <entry encoding="base64">XDxoYXZlSXRlbXNcPg==</entry>
         <entry>donot</entry>
         <entry>dont</entry>
@@ -671,6 +690,7 @@
         <entry>reload</entry>
         <entry>want</entry>
         <entry>itemcode</entry>
+        <entry encoding="base64">XDxmaW5kQWxsQnlXaXRoRm9sbG93TGltaXRPZmZzZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>15</entry>
