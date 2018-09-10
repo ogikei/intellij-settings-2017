@@ -233,11 +233,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/favorite/favorites.scala.html" timestamp="1536241975590">
-        <mark key="[" line="7" column="46" />
-        <mark key="]" line="7" column="46" />
-        <mark key="." line="7" column="46" />
-        <mark key="^" line="7" column="45" />
+      <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/favorite/favorites.scala.html" timestamp="1536587398954">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="38" column="38" />
+        <mark key="]" line="38" column="56" />
+        <mark key="." line="38" column="56" />
+        <mark key="^" line="38" column="56" />
       </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/test/controllers/HomeControllerSpec.scala" timestamp="1535349196822">
         <mark key="'" line="1" column="0" />
@@ -473,7 +474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="33" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.16-sources.jar!/play/api/mvc/Action.scala" />
       <jump line="159" column="4" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.16-sources.jar!/play/api/mvc/Action.scala" />
       <jump line="365" column="7" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.18-sources.jar!/play/api/mvc/Action.scala" />
       <jump line="453" column="7" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.18-sources.jar!/play/api/mvc/Action.scala" />
@@ -573,13 +573,14 @@
       <jump line="40" column="24" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
       <jump line="53" column="22" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
       <jump line="59" column="18" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/favorite/favorites.scala.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>reloadflg</text>
+        <text>HomeController</text>
       </register>
       <register name="-" type="4">
-        <text>reloadflg</text>
+        <text>HomeController</text>
       </register>
       <register name="/" type="4">
         <text>itemcode</text>
