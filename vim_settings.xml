@@ -356,12 +356,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="67" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" timestamp="1536321147990">
-        <mark key="'" line="16" column="6" />
-        <mark key="[" line="80" column="35" />
-        <mark key="]" line="80" column="45" />
-        <mark key="." line="80" column="45" />
-        <mark key="^" line="80" column="45" />
+      <file name="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" timestamp="1536389489734">
+        <mark key="'" line="59" column="18" />
+        <mark key="[" line="94" column="34" />
+        <mark key="]" line="94" column="42" />
+        <mark key="." line="94" column="42" />
+        <mark key="^" line="94" column="42" />
       </file>
       <file name="$USER_HOME$/MyWork/git/mono-list/app/controllers/FavoriteController.scala" timestamp="1536221027525">
         <mark key="[" line="10" column="0" />
@@ -473,13 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="475" column="44" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.16-sources.jar!/play/api/mvc/Action.scala" />
-      <jump line="479" column="54" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.16-sources.jar!/play/api/mvc/Action.scala" />
-      <jump line="484" column="63" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.16-sources.jar!/play/api/mvc/Action.scala" />
-      <jump line="487" column="40" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.16-sources.jar!/play/api/mvc/Action.scala" />
-      <jump line="33" column="33" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.16-sources.jar!/play/api/mvc/Action.scala" />
-      <jump line="137" column="24" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.16-sources.jar!/play/api/mvc/Action.scala" />
-      <jump line="139" column="4" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.16-sources.jar!/play/api/mvc/Action.scala" />
       <jump line="157" column="33" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.16-sources.jar!/play/api/mvc/Action.scala" />
       <jump line="159" column="4" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.16-sources.jar!/play/api/mvc/Action.scala" />
       <jump line="365" column="7" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.18-sources.jar!/play/api/mvc/Action.scala" />
@@ -573,16 +566,23 @@
       <jump line="34" column="63" filename="$USER_HOME$/MyWork/git/mono-list/app/views/common/navbar.scala.html" />
       <jump line="85" column="6" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
       <jump line="16" column="6" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
+      <jump line="7" column="5" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
+      <jump line="14" column="29" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
+      <jump line="26" column="27" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
+      <jump line="32" column="18" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
+      <jump line="40" column="24" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
+      <jump line="53" column="22" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
+      <jump line="59" column="18" filename="$USER_HOME$/MyWork/git/mono-list/public/javascripts/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>donothave</text>
+        <text>reloadflg</text>
       </register>
       <register name="-" type="4">
-        <text>donothave</text>
+        <text>reloadflg</text>
       </register>
       <register name="/" type="4">
-        <text>want</text>
+        <text>itemcode</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLy8gcmVsb2FkRmxn5pmC44Gr44Oa44O844K444KS44Oq44Ot44O844OJ44GZ44KL44KI44GG44Gr44GZ44KLCiAgICAgIGlmIChyZWxvYWRGbGcpIHsKICAgICAgICBsb2NhdGlvbi5yZWxvYWQoKTsKICAgICAgfQo=</text>
@@ -640,9 +640,9 @@
       </register>
     </registers>
     <search>
-      <last-search>want</last-search>
+      <last-search>itemcode</last-search>
       <last-offset />
-      <last-pattern>want</last-pattern>
+      <last-pattern>itemcode</last-pattern>
       <last-replace>favorites</last-replace>
       <last-substitute>user_follows</last-substitute>
       <last-dir>1</last-dir>
@@ -650,7 +650,6 @@
     </search>
     <history>
       <history-search>
-        <entry>text</entry>
         <entry>haveusers</entry>
         <entry encoding="base64">XDxoYXZlSXRlbXNcPg==</entry>
         <entry>donot</entry>
@@ -670,6 +669,7 @@
         <entry>h1</entry>
         <entry>reload</entry>
         <entry>want</entry>
+        <entry>itemcode</entry>
       </history-search>
       <history-cmd>
         <entry>15</entry>
