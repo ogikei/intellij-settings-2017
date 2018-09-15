@@ -226,6 +226,12 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala/.gitignore" timestamp="1537016268781">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="4" column="6" />
+        <mark key="." line="4" column="6" />
+        <mark key="^" line="4" column="6" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/favorite/show.scala.html" timestamp="1536134126369">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -288,6 +294,11 @@
         <mark key="." line="2" column="26" />
         <mark key="^" line="0" column="25" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala/src/main/scala/sestion01/MyModule.scala" timestamp="1537016202658">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/mono-list/app/controllers/RankingController.scala" timestamp="1536305379407">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="35" column="32" />
@@ -304,6 +315,12 @@
       </file>
       <file name="/sbtShell" timestamp="1536990764050">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala/src/test/scala/section01/MyModule.scala" timestamp="1537016154997">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
       </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/conf/db/migration/default/mysql/V7__Create_Favorites.sql" timestamp="1535432600898">
         <mark key="'" line="10" column="15" />
@@ -346,11 +363,11 @@
         <mark key="." line="14" column="30" />
         <mark key="^" line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala/build.sbt" timestamp="1536989089403">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="6" column="21" />
-        <mark key="." line="6" column="21" />
+      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala/build.sbt" timestamp="1537016175987">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="7" column="1" />
       </file>
       <file name="$USER_HOME$/MyWork/git/mono-list/app/views/items/index.scala.html" timestamp="1536304138571">
         <mark key="'" line="27" column="0" />
@@ -613,8 +630,8 @@
       <jump line="78" column="0" filename="$USER_HOME$/MyWork/git/functional-programming-in-scala/src/main/scala/section01/MyModule.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>v1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>v1</text>
@@ -626,31 +643,31 @@
         <text encoding="base64">ICB0ZXN0KCJpc1NvcnRlZCBmYWlsdXJlIHZlcnNpb24iKSB7CiAgICB2YWwgYWN0dWFsID0gTXlNb2R1bGUuaXNTb3J0ZWQoQXJyYXkoMSwgMiwgMyksICh4OiBJbnQsIHk6IEludCkgPT4geCA+IHkpCiAgICBhc3NlcnQoYWN0dWFsKQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBFCg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IAoKICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGEgPT4gYiA9PiBjCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICBFCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IAoKICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGEgPT4gYiA9PiBjCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
