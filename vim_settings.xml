@@ -16,11 +16,6 @@
         <mark key="." line="9" column="10" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/favorite/index.scala.html" timestamp="1536304792072">
-        <mark key="'" line="0" column="1" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="22" />
-      </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/HomeController.scala" timestamp="1536588932387">
         <mark key="[" line="36" column="15" />
         <mark key="]" line="36" column="15" />
@@ -106,6 +101,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala/src/test/scala/MyModuleSpec.scala" timestamp="1536989405882">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/FavoriteController.scala" timestamp="1536243771774">
         <mark key="'" line="39" column="0" />
@@ -328,11 +329,11 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala/src/main/scala/section01/MyModule.scala" timestamp="1536988274332">
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="24" />
-        <mark key="^" line="14" column="24" />
-        <mark key="." line="14" column="24" />
+      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala/src/main/scala/section01/MyModule.scala" timestamp="1536988959784">
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="29" column="10" />
+        <mark key="." line="29" column="10" />
+        <mark key="^" line="29" column="10" />
       </file>
       <file name="$USER_HOME$/MyWork/git/message-board/app/controllers/GetMessagesController.scala" timestamp="1535030223711">
         <mark key="'" line="19" column="0" />
@@ -340,6 +341,12 @@
         <mark key="]" line="14" column="30" />
         <mark key="." line="14" column="30" />
         <mark key="^" line="14" column="30" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala/build.sbt" timestamp="1536989089403">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="21" />
       </file>
       <file name="$USER_HOME$/MyWork/git/mono-list/app/views/items/index.scala.html" timestamp="1536304138571">
         <mark key="'" line="27" column="0" />
@@ -407,6 +414,11 @@
         <mark key="]" line="5" column="49" />
         <mark key="." line="5" column="49" />
         <mark key="^" line="5" column="49" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala/src/test/scala/section01/MyModuleSpec.scala" timestamp="1536989451568">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/index.scala.html" timestamp="1536241578133">
         <mark key="'" line="6" column="30" />
@@ -488,6 +500,9 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1536989421442">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -593,19 +608,37 @@
       <jump line="49" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/services/MicroPostServiceImpl.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>print()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBhc3NlcnQK</text>
       </register>
       <register name="-" type="4">
-        <text>print()</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaW5kQWxsQnlXaXRoRm9sbG93TGltaXRPZmZzZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiBmaW5kQWxsQnlGb2xsb3dXaXRoTGltaXRPZmZzZXQodXNlcklkczogU2VxW0xvbmddKShwYWdpbmF0aW9uOiBQYWdpbmF0aW9uKSgKICAgICAgaW1wbGljaXQgZGJTZXNzaW9uOiBEQlNlc3Npb24KICApOiBTZXFbTWljcm9Qb3N0XSA9IE1pY3JvUG9zdC5maW5kQWxsQnlXaXRoTGltaXRPZmZzZXQoCiAgICBzcWxzLmluKE1pY3JvUG9zdC5kZWZhdWx0QWxpYXMudXNlcklkLCB1c2VySWRzKSwKICAgIHBhZ2luYXRpb24ubGltaXQsCiAgICBwYWdpbmF0aW9uLm9mZnNldCwKICAgIFNlcShNaWNyb1Bvc3QuZGVmYXVsdEFsaWFzLmlkLmRlc2MpCiAgKQo=</text>
+        <text encoding="base64">ICAgIEBhbm5vdGF0aW9uLnRhaWxyZWMK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICBhc3NlcnQK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGVsc2UK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBAYW5ub3RhdGlvbi50YWlscmVjCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEB0YWlscmVjCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="4">
         <text>override def findAllByFavoriteWithLimitOffset(pagination: Pagination, userId: Long)(
       implicit dbSession: DBSession
   ): Try[PagedItems[MicroPost]] = Try {
@@ -617,50 +650,11 @@
       pagination, size, findAllByFavoriteWithLimitOffset(userId +: favoriteMicroPostIds)(pagination))
   }</text>
       </register>
-      <register name="2" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CiAgZGVmIGZpbmRBbGxGYXZvcml0ZUJ5V2l0aExpbWl0T2Zmc2V0KHBhZ2luYXRpb246IFBhZ2luYXRpb24sIHVzZXJJZDogTG9uZykoaW1wbGljaXQgZGJTZXNzaW9uOiBEQlNlc3Npb24pCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgb3ZlcnJpZGUgZGVmIGZpbmRBbGxGYXZvcml0ZUJ5V2l0aExpbWl0T2Zmc2V0KHBhZ2luYXRpb246IFBhZ2luYXRpb24sIHVzZXJJZDogTG9uZykoCiAgICAgIGltcGxpY2l0IGRiU2Vzc2lvbjogREJTZXNzaW9uCiAgKTogVHJ5W1BhZ2VkSXRlbXNbTWljcm9Qb3N0XV0gPSBUcnkgewogICAgdmFsIGZvbGxvd2luZ0lkczogU2VxW0xvbmddID0KICAgICAgTWljcm9Qb3N0LmZpbmRBbGxCeShzcWxzLmVxKE1pY3JvUG9zdC5kZWZhdWx0QWxpYXMudXNlcklkLCB1c2VySWQpKS5tYXAoXy5pZCkuZwogICAgdmFsIHNpemUgPSBNaWNyb1Bvc3QuY291bnRCeShzcWxzLmluKE1pY3JvUG9zdC5kZWZhdWx0QWxpYXMudXNlcklkLCB1c2VySWQgKzogZm9sbG93aW5nSWRzKSkKICAgIFBhZ2VkSXRlbXMocGFnaW5hdGlvbiwgc2l6ZSwgZmluZEFsbEJ5V2l0aExpbWl0T2Zmc2V0KHVzZXJJZCArOiBmb2xsb3dpbmdJZHMpKHBhZ2luYXRpb24pKQogIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHJlbG9hZEZsZykgewogICAgICAgIGxvY2F0aW9uLnJlbG9hZCgpOwogICAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJChzZW5kZXIpLm9uKCdjbGljaycsIGZ1bmN0aW9uIChlKSB7CiAgICAgICAgaGF2ZSgkKHNlbmRlciksIGl0ZW1Db2RlKTsKICAgICAgfSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">bwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>function have(sender, itemCode) {
-  var route = jsRoutes.controllers.ItemUserController.have();
-  $.ajax({
-    url: route.url,
-    type: route.type,
-    data: {
-      &quot;itemCode&quot;: itemCode
-    },
-    success: function (data) {
-      $(sender).removeClass(&quot;btn-primary&quot;);
-      $(sender).addClass(&quot;btn-success&quot;);
-      $(sender).text(&quot;Have&quot;);
-      $(sender).off('click');
-      $(sender).on('click', function (e) {
-        doNotWant($(sender), itemCode, reloadFlg);
-      });
-    },
-    error: function (xhr) {
-      alert(&quot;Error!: &quot; + xhr.responseText)
-    }
-  });
-}</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJChzZW5kZXIpLm9uKCdjbGljaycsIGZ1bmN0aW9uIChlKSB7CiAgICAgICAgZG9Ob3RIYXZlKCQoc2VuZGVyKSwgaXRlbUNvZGUpOwogICAgICB9KTsK</text>
+        <text encoding="base64">CiAgb3ZlcnJpZGUgZGVmIGZpbmRBbGxGYXZvcml0ZUJ5V2l0aExpbWl0T2Zmc2V0KHBhZ2luYXRpb246IFBhZ2luYXRpb24sIHVzZXJJZDogTG9uZykoCiAgICAgIGltcGxpY2l0IGRiU2Vzc2lvbjogREJTZXNzaW9uCiAgKTogVHJ5W1BhZ2VkSXRlbXNbTWljcm9Qb3N0XV0gPSBUcnkgewogICAgdmFsIGZvbGxvd2luZ0lkczogU2VxW0xvbmddID0KICAgICAgTWljcm9Qb3N0LmZpbmRBbGxCeShzcWxzLmVxKE1pY3JvUG9zdC5kZWZhdWx0QWxpYXMudXNlcklkLCB1c2VySWQpKS5tYXAoXy5pZCkuZwogICAgdmFsIHNpemUgPSBNaWNyb1Bvc3QuY291bnRCeShzcWxzLmluKE1pY3JvUG9zdC5kZWZhdWx0QWxpYXMudXNlcklkLCB1c2VySWQgKzogZm9sbG93aW5nSWRzKSkKICAgIFBhZ2VkSXRlbXMocGFnaW5hdGlvbiwgc2l6ZSwgZmluZEFsbEJ5V2l0aExpbWl0T2Zmc2V0KHVzZXJJZCArOiBmb2xsb3dpbmdJZHMpKHBhZ2luYXRpb24pKQogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
