@@ -328,6 +328,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala/src/main/scala/section01/MyModule.scala" timestamp="1536988274332">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="24" />
+        <mark key="^" line="14" column="24" />
+        <mark key="." line="14" column="24" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/message-board/app/controllers/GetMessagesController.scala" timestamp="1535030223711">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="14" column="17" />
@@ -588,10 +594,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.get</text>
+        <text>print()</text>
       </register>
       <register name="-" type="4">
-        <text>.get</text>
+        <text>print()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaW5kQWxsQnlXaXRoRm9sbG93TGltaXRPZmZzZXRcPg==</text>
@@ -667,7 +673,7 @@
       <last-replace>favorites</last-replace>
       <last-substitute>user_follows</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
