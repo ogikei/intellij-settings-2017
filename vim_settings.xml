@@ -302,6 +302,9 @@
         <mark key="." line="12" column="51" />
         <mark key="^" line="12" column="51" />
       </file>
+      <file name="/sbtShell" timestamp="1536990764050">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/conf/db/migration/default/mysql/V7__Create_Favorites.sql" timestamp="1535432600898">
         <mark key="'" line="10" column="15" />
         <mark key="[" line="9" column="21" />
@@ -329,11 +332,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala/src/main/scala/section01/MyModule.scala" timestamp="1536988959784">
-        <mark key="[" line="28" column="19" />
-        <mark key="]" line="29" column="10" />
-        <mark key="." line="29" column="10" />
-        <mark key="^" line="29" column="10" />
+      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala/src/main/scala/section01/MyModule.scala" timestamp="1536992438555">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="66" column="30" />
+        <mark key="]" line="66" column="33" />
+        <mark key="." line="66" column="33" />
+        <mark key="^" line="66" column="33" />
       </file>
       <file name="$USER_HOME$/MyWork/git/message-board/app/controllers/GetMessagesController.scala" timestamp="1535030223711">
         <mark key="'" line="19" column="0" />
@@ -415,10 +419,10 @@
         <mark key="." line="5" column="49" />
         <mark key="^" line="5" column="49" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala/src/test/scala/section01/MyModuleSpec.scala" timestamp="1536989451568">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala/src/test/scala/section01/MyModuleSpec.scala" timestamp="1536990743439">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/index.scala.html" timestamp="1536241578133">
         <mark key="'" line="6" column="30" />
@@ -506,8 +510,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="453" column="7" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.18-sources.jar!/play/api/mvc/Action.scala" />
-      <jump line="455" column="12" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.18-sources.jar!/play/api/mvc/Action.scala" />
       <jump line="458" column="8" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.18-sources.jar!/play/api/mvc/Action.scala" />
       <jump line="462" column="39" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.18-sources.jar!/play/api/mvc/Action.scala" />
       <jump line="472" column="35" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.18-sources.jar!/play/api/mvc/Action.scala" />
@@ -606,55 +608,48 @@
       <jump line="34" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/favorite/favorites.scala.html" />
       <jump line="40" column="14" filename="$USER_HOME$/MyWork/git/micro-posts/app/services/MicroPostServiceImpl.scala" />
       <jump line="49" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/services/MicroPostServiceImpl.scala" />
+      <jump line="36" column="5" filename="$USER_HOME$/MyWork/git/functional-programming-in-scala/src/main/scala/section01/MyModule.scala" />
+      <jump line="50" column="0" filename="$USER_HOME$/MyWork/git/functional-programming-in-scala/src/main/scala/section01/MyModule.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBhc3NlcnQK</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaW5kQWxsQnlXaXRoRm9sbG93TGltaXRPZmZzZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBhbm5vdGF0aW9uLnRhaWxyZWMK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oZm9ybWF0UmVzdWx0KCJhYnNvbHV0ZSB2YWx1ZSIsIC00MiwgYWJzKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhc3NlcnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgICAgZWxzZSBpZiAoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKG9yZGVyZWQoYXMobiksIGFzKG4gKyAxKSkpIGxvb3AobiArIDEpCiAgICAgIGVsc2UgaWYgKG4gPCAwKSB0cnVlCiAgICAgIGVsc2UgZmFsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAYW5ub3RhdGlvbi50YWlscmVjCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKG4gPCAwKSB0cnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEB0YWlscmVjCg==</text>
+        <text encoding="base64">ICAgICAgZWxzZSBpZiAoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>override def findAllByFavoriteWithLimitOffset(pagination: Pagination, userId: Long)(
-      implicit dbSession: DBSession
-  ): Try[PagedItems[MicroPost]] = Try {
-    val favoriteMicroPostIds: Seq[Long] =
-      MicroPost.findAllBy(sqls.eq(MicroPost.defaultAlias.userId, userId)).map(_.id.get)
-    val size = MicroPost.countBy(
-      sqls.in(MicroPost.defaultAlias.userId, userId +: favoriteMicroPostIds))
-    PagedItems(
-      pagination, size, findAllByFavoriteWithLimitOffset(userId +: favoriteMicroPostIds)(pagination))
-  }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgZWxzZSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgZGVmIGZpbmRBbGxGYXZvcml0ZUJ5V2l0aExpbWl0T2Zmc2V0KHBhZ2luYXRpb246IFBhZ2luYXRpb24sIHVzZXJJZDogTG9uZykoaW1wbGljaXQgZGJTZXNzaW9uOiBEQlNlc3Npb24pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgb3ZlcnJpZGUgZGVmIGZpbmRBbGxGYXZvcml0ZUJ5V2l0aExpbWl0T2Zmc2V0KHBhZ2luYXRpb246IFBhZ2luYXRpb24sIHVzZXJJZDogTG9uZykoCiAgICAgIGltcGxpY2l0IGRiU2Vzc2lvbjogREJTZXNzaW9uCiAgKTogVHJ5W1BhZ2VkSXRlbXNbTWljcm9Qb3N0XV0gPSBUcnkgewogICAgdmFsIGZvbGxvd2luZ0lkczogU2VxW0xvbmddID0KICAgICAgTWljcm9Qb3N0LmZpbmRBbGxCeShzcWxzLmVxKE1pY3JvUG9zdC5kZWZhdWx0QWxpYXMudXNlcklkLCB1c2VySWQpKS5tYXAoXy5pZCkuZwogICAgdmFsIHNpemUgPSBNaWNyb1Bvc3QuY291bnRCeShzcWxzLmluKE1pY3JvUG9zdC5kZWZhdWx0QWxpYXMudXNlcklkLCB1c2VySWQgKzogZm9sbG93aW5nSWRzKSkKICAgIFBhZ2VkSXRlbXMocGFnaW5hdGlvbiwgc2l6ZSwgZmluZEFsbEJ5V2l0aExpbWl0T2Zmc2V0KHVzZXJJZCArOiBmb2xsb3dpbmdJZHMpKHBhZ2luYXRpb24pKQogIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
@@ -667,7 +662,7 @@
       <last-replace>favorites</last-replace>
       <last-substitute>user_follows</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
