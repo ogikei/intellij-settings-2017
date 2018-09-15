@@ -332,12 +332,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala/src/main/scala/section01/MyModule.scala" timestamp="1536992438555">
+      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala/src/main/scala/section01/MyModule.scala" timestamp="1536993326606">
         <mark key="'" line="50" column="0" />
-        <mark key="[" line="66" column="30" />
-        <mark key="]" line="66" column="33" />
-        <mark key="." line="66" column="33" />
-        <mark key="^" line="66" column="33" />
+        <mark key="[" line="53" column="2" />
+        <mark key="]" line="53" column="3" />
+        <mark key="." line="53" column="3" />
+        <mark key="^" line="53" column="3" />
       </file>
       <file name="$USER_HOME$/MyWork/git/message-board/app/controllers/GetMessagesController.scala" timestamp="1535030223711">
         <mark key="'" line="19" column="0" />
@@ -419,10 +419,11 @@
         <mark key="." line="5" column="49" />
         <mark key="^" line="5" column="49" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala/src/test/scala/section01/MyModuleSpec.scala" timestamp="1536990743439">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala/src/test/scala/section01/MyModuleSpec.scala" timestamp="1536992929775">
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+        <mark key="^" line="17" column="25" />
       </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/app/views/index.scala.html" timestamp="1536241578133">
         <mark key="'" line="6" column="30" />
@@ -612,44 +613,44 @@
       <jump line="50" column="0" filename="$USER_HOME$/MyWork/git/functional-programming-in-scala/src/main/scala/section01/MyModule.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaW5kQWxsQnlXaXRoRm9sbG93TGltaXRPZmZzZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oZm9ybWF0UmVzdWx0KCJhYnNvbHV0ZSB2YWx1ZSIsIC00MiwgYWJzKSkK</text>
+        <text encoding="base64">ICB0ZXN0KCJpc1NvcnRlZCBmYWlsdXJlIHZlcnNpb24iKSB7CiAgICB2YWwgYWN0dWFsID0gTXlNb2R1bGUuaXNTb3J0ZWQoQXJyYXkoMSwgMiwgMyksICh4OiBJbnQsIHk6IEludCkgPT4geCA+IHkpCiAgICBhc3NlcnQoYWN0dWFsKQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSBpZiAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG9yZGVyZWQoYXMobiksIGFzKG4gKyAxKSkpIGxvb3AobiArIDEpCiAgICAgIGVsc2UgaWYgKG4gPCAwKSB0cnVlCiAgICAgIGVsc2UgZmFsc2UK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oYWN0dWFsKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG4gPCAwKSB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSBpZiAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZWxzZSBpZiAoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSAK</text>
+        <text encoding="base64">ICAgICAgaWYgKG9yZGVyZWQoYXMobiksIGFzKG4gKyAxKSkpIGxvb3AobiArIDEpCiAgICAgIGVsc2UgaWYgKG4gPCAwKSB0cnVlCiAgICAgIGVsc2UgZmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKG4gPCAwKSB0cnVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZWxzZSBpZiAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
