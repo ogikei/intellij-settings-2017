@@ -1,14 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <removed_mapping ext="json5" approved="true" type="JSON5" />
       <mapping pattern="resources" type="PLAIN_TEXT" />
       <mapping ext="mat" type="PLAIN_TEXT" />
       <mapping ext="json5" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="dig" type="PLAIN_TEXT" />
-      <removed_mapping ext="json5" approved="true" type="JSON5" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
