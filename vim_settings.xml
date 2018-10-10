@@ -129,12 +129,11 @@
         <mark key="." line="2" column="26" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/scala-sample/src/main/scala/MyOption.scala" timestamp="1538466555456">
+      <file name="$USER_HOME$/MyWork/git/scala-sample/src/main/scala/MyOption.scala" timestamp="1539149538298">
         <mark key="'" line="99" column="6" />
-        <mark key="[" line="83" column="41" />
-        <mark key="]" line="83" column="44" />
-        <mark key="." line="83" column="44" />
-        <mark key="^" line="83" column="44" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/scala-sample/src/main/scala/PracticeQuestions8.scala" timestamp="1538550531876">
         <mark key="[" line="27" column="0" />
@@ -654,10 +653,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB0b0ludFBGKCIyMjIyIikK</text>
+        <text encoding="base64">ICAgIHRoaXMuZmxhdE1hcCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaW5kQWxsQnlXaXRoRm9sbG93TGltaXRPZmZzZXRcPg==</text>
@@ -666,31 +665,31 @@
         <text encoding="base64">ICB0ZXN0KCJpc1NvcnRlZCBmYWlsdXJlIHZlcnNpb24iKSB7CiAgICB2YWwgYWN0dWFsID0gTXlNb2R1bGUuaXNTb3J0ZWQoQXJyYXkoMSwgMiwgMyksICh4OiBJbnQsIHk6IEludCkgPT4geCA+IHkpCiAgICBhc3NlcnQoYWN0dWFsKQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0b0ludFBGKCIyMjIyIikK</text>
+        <text encoding="base64">ICAgIHRoaXMuZmxhdE1hcCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0b0ludFBGKCIyMjIyIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSgiIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBkZXNjcmliZSgiIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZXNjcmliZQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+        <text encoding="base64">ICBkZXNjcmliZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlCg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
