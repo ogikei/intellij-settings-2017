@@ -6,11 +6,11 @@
       <file name="/start_script.py" timestamp="1540113370495">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/robot-python/roboter/controller/conversation.py" timestamp="1539678141809">
-        <mark key="[" line="1" column="32" />
-        <mark key="]" line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-        <mark key="." line="1" column="9" />
+      <file name="$USER_HOME$/MyWork/git/robot-python/roboter/controller/conversation.py" timestamp="1540117559294">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1540100787524">
         <mark key="[" line="0" column="0" />
@@ -192,11 +192,10 @@
         <mark key="^" line="3" column="84" />
         <mark key="." line="3" column="84" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/robot-python/roboter/models/ranking.py" timestamp="1539766995430">
-        <mark key="[" line="33" column="5" />
-        <mark key="]" line="33" column="16" />
-        <mark key="^" line="33" column="16" />
-        <mark key="." line="33" column="16" />
+      <file name="$USER_HOME$/MyWork/git/robot-python/roboter/models/ranking.py" timestamp="1540117577934">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/19_queueing_system/01_zeromq_push_pull/client.py" timestamp="1540102111242">
         <mark key="[" line="0" column="0" />
@@ -328,7 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/mono-list/public/stylesheets/main.css" />
       <jump line="59" column="1" filename="$USER_HOME$/MyWork/git/micro-posts/app/models/Favorite.scala" />
       <jump line="19" column="36" filename="$USER_HOME$/MyWork/git/micro-posts/app/models/Favorite.scala" />
       <jump line="17" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/models/Favorite.scala" />
@@ -428,13 +426,14 @@
       <jump line="6" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/asynchronous_process/asyncio_semaphore/lesson.py" />
       <jump line="15" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/asynchronous_process/asyncio_semaphore/lesson.py" />
       <jump line="10" column="3" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/asynchronous_process/asyncio_condition/lesson.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/MyWork/git/robot-python/roboter/controller/conversation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBxdWV1ZWluZ19zeXN0ZW0ucmFiYml0bXEgaW1wb3J0IHRhc2tzCg==</text>
+        <text encoding="base64">aW1wb3J0IHJvYm90ZXIubQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>robot</text>
       </register>
       <register name="/" type="4">
         <text>condition</text>
@@ -443,31 +442,31 @@
         <text encoding="base64">ICAgICAgICBhd2FpdCBhc3luY2lvLnNsZWVwKDMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBxdWV1ZWluZ19zeXN0ZW0ucmFiYml0bXEgaW1wb3J0IHRhc2tzCg==</text>
+        <text encoding="base64">aW1wb3J0IHJvYm90ZXIubQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHF1ZXVlaW5nX3N5c3RlbS5yYWJiaXRtcS50YXNrcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ZnJvbSByb2JvdGVyLm1vZGVscyBpbXBvcnQgcm9ib3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHF1ZXVlaW5nX3N5c3RlbS5yYWJiaXRtcS50YXNrcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBxdWV1ZWluZ19zeXN0ZW0ucmFiYml0bXEgaW1wb3J0IHRhc2tzCg==</text>
+        <text encoding="base64">ZnJvbSByb2JvdGVyLmNvbnRyb2xsZXIgaW1wb3J0IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBhc3luY2lvLnNsZWVwKDEpCg==</text>
+        <text encoding="base64">ZnJvbSBxdWV1ZWluZ19zeXN0ZW0ucmFiYml0bXEgaW1wb3J0IHRhc2tzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGFza3MuYnVpbGRfc2VydmVyCg==</text>
+        <text encoding="base64">aW1wb3J0IHF1ZXVlaW5nX3N5c3RlbS5yYWJiaXRtcS50YXNrcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnd29ya2VyMiBnb3Qgc2VtYXBob3JlJykK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZW1hcGhvcmUud2FpdCgpCg==</text>
+        <text encoding="base64">aW1wb3J0IHF1ZXVlaW5nX3N5c3RlbS5yYWJiaXRtcS50YXNrcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
