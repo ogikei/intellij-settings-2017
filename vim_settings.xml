@@ -305,17 +305,19 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/queueing_system/rabbitmq/tasks.py" timestamp="1540103306099">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="6" column="13" />
-        <mark key="." line="6" column="13" />
-        <mark key="^" line="6" column="13" />
+      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/queueing_system/rabbitmq/tasks.py" timestamp="1540105287636">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="52" column="44" />
+        <mark key="]" line="53" column="15" />
+        <mark key="." line="53" column="15" />
+        <mark key="^" line="53" column="15" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/tasks.py" timestamp="1540100807426">
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="8" column="28" />
-        <mark key="." line="8" column="28" />
-        <mark key="^" line="8" column="28" />
+      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/tasks.py" timestamp="1540104380892">
+        <mark key="a" line="8" column="30" />
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="38" />
+        <mark key="." line="8" column="38" />
+        <mark key="^" line="8" column="38" />
       </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteServiceImpl.scala" timestamp="1536587937801">
         <mark key="[" line="40" column="0" />
@@ -339,9 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="330" column="112" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.18-sources.jar!/play/api/mvc/Action.scala" />
-      <jump line="479" column="6" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.18-sources.jar!/play/api/mvc/Action.scala" />
-      <jump line="481" column="6" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.18-sources.jar!/play/api/mvc/Action.scala" />
       <jump line="498" column="15" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.18-sources.jar!/play/api/mvc/Action.scala" />
       <jump line="520" column="12" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.18-sources.jar!/play/api/mvc/Action.scala" />
       <jump line="81" column="5" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.18-sources.jar!/play/api/mvc/Action.scala" />
@@ -439,13 +438,16 @@
       <jump line="310" column="41" filename="$USER_HOME$/.pyenv/versions/3.7.0/lib/python3.7/site-packages/sqlalchemy/ext/declarative/api.py" />
       <jump line="384" column="18" filename="$USER_HOME$/.pyenv/versions/3.7.0/lib/python3.7/site-packages/sqlalchemy/ext/declarative/api.py" />
       <jump line="11" column="11" filename="$USER_HOME$/MyOffice/git/cipher-python/main.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/queueing_system/rabbitmq/tasks.py" />
+      <jump line="31" column="8" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/queueing_system/rabbitmq/tasks.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/queueing_system/rabbitmq/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aXF1ZXVlaW5nX3N5c3RlbS5yYWJiaXRtcS50YXNrc21wb3J0IHJhbmRvbSBpbXBvcnQgdGltZSAgaW1wb3J0IGNlbGVyeSAgYXBwID0gY2VsZXJ5LkNlbGVyeSggICAgICAgICAndGFza3MnLCAgICAgICAgIGJyb2tlcj0nYW1xcDovL3F1ZXN0QGxvY2FsaG9zdCcsICAgICAgICAgYmFja2VuZD0nYW1xcDovL3F1ZXN0QGxvY2FsaG9zdCcgKSAgIEBhcHAudGFzayBkZWYgYnVpbGRfc2VydmVyKCk6ICAgICBwcmludCgnd2FpdCAxMCBzZWMnKSAgICAgdGltZS5zbGVlcCgxMCkgICAgIHNlcnZlcl9pZCA9IHJhbmRvbS5yYW5kaW50KDEsIDEwMCkgICAgIHJldHVybiBzZXJ2ZXJfaWQgCg==</text>
+      <register name="&quot;" type="4">
+        <text>P</text>
       </register>
       <register name="-" type="4">
-        <text>queueing_system.rabbitmq.tasks</text>
+        <text>P</text>
       </register>
       <register name="/" type="4">
         <text>table</text>
@@ -454,31 +456,31 @@
         <text encoding="base64">cmVzdWx0ID0gdGFza3MuYnVpbGRfc2VydmVyLmRlbGF5KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aXF1ZXVlaW5nX3N5c3RlbS5yYWJiaXRtcS50YXNrc21wb3J0IHJhbmRvbSBpbXBvcnQgdGltZSAgaW1wb3J0IGNlbGVyeSAgYXBwID0gY2VsZXJ5LkNlbGVyeSggICAgICAgICAndGFza3MnLCAgICAgICAgIGJyb2tlcj0nYW1xcDovL3F1ZXN0QGxvY2FsaG9zdCcsICAgICAgICAgYmFja2VuZD0nYW1xcDovL3F1ZXN0QGxvY2FsaG9zdCcgKSAgIEBhcHAudGFzayBkZWYgYnVpbGRfc2VydmVyKCk6ICAgICBwcmludCgnd2FpdCAxMCBzZWMnKSAgICAgdGltZS5zbGVlcCgxMCkgICAgIHNlcnZlcl9pZCA9IHJhbmRvbS5yYW5kaW50KDEsIDEwMCkgICAgIHJldHVybiBzZXJ2ZXJfaWQgCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YmsK</text>
+        <text encoding="base64">a2sK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHF1ZXVlaW5nX3N5c3RlbS5yYWJiaXRtcS50YXNrcwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHF1ZQo=</text>
+        <text encoding="base64">aXF1ZXVlaW5nX3N5c3RlbS5yYWJiaXRtcS50YXNrc21wb3J0IHJhbmRvbSBpbXBvcnQgdGltZSAgaW1wb3J0IGNlbGVyeSAgYXBwID0gY2VsZXJ5LkNlbGVyeSggICAgICAgICAndGFza3MnLCAgICAgICAgIGJyb2tlcj0nYW1xcDovL3F1ZXN0QGxvY2FsaG9zdCcsICAgICAgICAgYmFja2VuZD0nYW1xcDovL3F1ZXN0QGxvY2FsaG9zdCcgKSAgIEBhcHAudGFzayBkZWYgYnVpbGRfc2VydmVyKCk6ICAgICBwcmludCgnd2FpdCAxMCBzZWMnKSAgICAgdGltZS5zbGVlcCgxMCkgICAgIHNlcnZlcl9pZCA9IHJhbmRvbS5yYW5kaW50KDEsIDEwMCkgICAgIHJldHVybiBzZXJ2ZXJfaWQgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnbScK</text>
+        <text encoding="base64">YmsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHRlc3QK</text>
+        <text encoding="base64">aW1wb3J0IHF1ZXVlaW5nX3N5c3RlbS5yYWJiaXRtcS50YXNrcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IDE5Xwo=</text>
+        <text encoding="base64">aW1wb3J0IHF1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -491,7 +493,7 @@
       <last-replace>favorites</last-replace>
       <last-substitute>user_follows</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
