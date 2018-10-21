@@ -110,11 +110,10 @@
       <file name="$USER_HOME$/MyOffice/git/datainfra_infra/mf_datainfra_decrypter/lib/mf_datainfra_decrypter/decrypted_data_writer.rb" timestamp="1539161830858">
         <mark key="'" line="13" column="19" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/19_queueing_system/01_zeromq/client.py" timestamp="1540097854926">
-        <mark key="[" line="4" column="37" />
-        <mark key="]" line="4" column="37" />
-        <mark key="." line="4" column="37" />
-        <mark key="^" line="4" column="37" />
+      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/19_queueing_system/01_zeromq/client.py" timestamp="1540100263893">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/MyOffice/git/cipher-python/main.py" timestamp="1539677602829">
         <mark key="'" line="11" column="11" />
@@ -263,11 +262,11 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/19_queueing_system/03_celery/tasks.py" timestamp="1540098671651">
-        <mark key="[" line="16" column="38" />
-        <mark key="]" line="17" column="19" />
-        <mark key="^" line="17" column="19" />
-        <mark key="." line="17" column="19" />
+      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/19_queueing_system/03_celery/tasks.py" timestamp="1540100047658">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="38" />
+        <mark key="^" line="8" column="38" />
+        <mark key="." line="8" column="38" />
       </file>
       <file name="$USER_HOME$/MyWork/git/mono-list/app/views/index.scala.html" timestamp="1536304282708">
         <mark key="'" line="2" column="0" />
@@ -309,6 +308,12 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/19_queueing_system/03_celery/lesson.py" timestamp="1540100176189">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteServiceImpl.scala" timestamp="1536587937801">
         <mark key="[" line="40" column="0" />
@@ -428,11 +433,11 @@
       <jump line="11" column="11" filename="$USER_HOME$/MyOffice/git/cipher-python/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHRlc3QK</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>table</text>
@@ -441,31 +446,31 @@
         <text encoding="base64">ZW5naW5lID0gc3FsYWxjaGVteS5jcmVhdGVfZW5naW5lKAogICAgJ215c3FsK3B5bXlzcWw6Ly9yb290OkBsb2NhbGhvc3QvdGVzdF9kYj9jaGFyc2V0PXV0ZjgnKQoKQmFzZSA9IHNxbGFsY2hlbXkuZXh0LmRlY2xhcmF0aXZlLmRlY2xhcmF0aXZlX2Jhc2UoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRlc3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">aW1wb3J0IDE5Xwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">aW1wb3J0IHRhc2tzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGppbmphc3FsLgo=</text>
+        <text encoding="base64">dGFza3MuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">c2VydmVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGFza3Muc2VydmVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZW5naW5lLnRhYmxlX25hbWVzKCkK</text>
+        <text encoding="base64">aW1wb3J0IC4uL3Rhc2tzCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZW5naW5lLmV4ZWN1dGUoKQo=</text>
+        <text encoding="base64">YSA9IHRhc2tzLmJ1aWxkX3NlcnZlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
