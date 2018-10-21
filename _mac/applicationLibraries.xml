@@ -25,18 +25,6 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="bootstrap" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_3.3.7_js_bootstrap.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_3.3.7_js_bootstrap.js" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
-    </library>
     <library name="bundler (v1.16.6, rbenv: 2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -179,22 +167,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.5.1/ext" />
       </excluded>
-    </library>
-    <library name="jquery" type="javaScript">
-      <properties>
-        <option name="frameworkName" value="jQuery" />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.12.4_jquery.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.12.4_jquery.js" />
-      </CLASSES>
-      <DOCUMENTATION>
-        <root url="http://api.jquery.com" />
-      </DOCUMENTATION>
-      <JAVADOC />
-      <SOURCES />
     </library>
     <library name="json (v2.1.0, rbenv: 2.5.1) [gem]" type="rubylib">
       <properties>
@@ -346,101 +318,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/psych/visitors" />
       </excluded>
     </library>
-    <library name="Python 2.7.13 (~/.pyenv/versions/2.7.13/bin/python2.7) interpreter library">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.13/lib/python2.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.13/lib/python2.7/plat-darwin" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.13/lib/python2.7/plat-mac" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.13/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.13/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.13/lib/python2.7/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.13/lib/python2.7/site-packages" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.6 (ogiwara-keisuke) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.1/lib/python3.6" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.1/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/venv/lib/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/venv/lib/python3.6/site-packages/setuptools-39.1.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/599122687" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.1/lib/python3.6" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.1/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/venv/lib/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/venv/lib/python3.6/site-packages/setuptools-39.1.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/599122687" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.6 (python_programming_demo_app-0.0.1) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/lib/python3.6" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/-1244618810" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/lib/python3.6" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/-1244618810" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.6 interpreter library">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="Python 3.6.1 (~/.pyenv/versions/3.6.1/bin/python3.6) interpreter library">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.1/lib/python3.6" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.1/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.1/lib/python3.6/site-packages" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
     <library name="R Skeletons">
       <CLASSES />
       <JAVADOC />
@@ -485,6 +362,21 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/doc" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/exe" />
       </excluded>
+    </library>
+    <library name="rbenv: jruby-9.1.17.0 facet library">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/rbenv/1.1.1/rbenv.d/exec/gem-rehash" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.17.0/lib/ruby/stdlib" />
+        <root url="jar://$USER_HOME$/.rbenv/versions/jruby-9.1.17.0/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/rbenv/1.1.1/rbenv.d/exec/gem-rehash" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.17.0/lib/ruby/stdlib" />
+        <root url="jar://$USER_HOME$/.rbenv/versions/jruby-9.1.17.0/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
+      </SOURCES>
     </library>
     <library name="rdoc (v6.0.1, rbenv: 2.5.1) [gem]" type="rubylib">
       <properties>
@@ -562,34 +454,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/ruby-progressbar-1.10.0/lib" />
       </SOURCES>
-    </library>
-    <library name="scala-sdk-2.11.11">
-      <CLASSES>
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar!/" />
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.11.jar!/" />
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.11-sources.jar!/" />
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.11.11-sources.jar!/" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="scala-sdk-2.11.12" type="Scala">
-      <properties>
-        <language-level>Scala_2_11</language-level>
-        <compiler-classpath>
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.12.jar" />
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.12.jar" />
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar" />
-        </compiler-classpath>
-      </properties>
-      <CLASSES>
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.12.jar!/" />
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar!/" />
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.11.12-sources.jar!/" />
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.12-sources.jar!/" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
     </library>
     <library name="scanf (v1.0.0, rbenv: 2.5.1) [gem]" type="rubylib">
       <properties>
