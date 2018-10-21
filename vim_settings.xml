@@ -52,11 +52,12 @@
         <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python-a/queueing_system/rabbitmq/tasks.py" timestamp="1540130997106" />
-      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/asynchronous_process/asyncio_event/lesson.py" timestamp="1540131660337">
-        <mark key="'" line="27" column="19" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/asynchronous_process/asyncio_event/lesson.py" timestamp="1540136678093">
+        <mark key="'" line="29" column="19" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+        <mark key="^" line="5" column="10" />
       </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/19_queueing_system/zeromq/server.py" timestamp="1540096382771">
         <mark key="[" line="0" column="0" />
@@ -293,10 +294,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python-a/asynchronous_process/asyncio_event/lesson.py" timestamp="1540132300819">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python-a/asynchronous_process/asyncio_event/lesson.py" timestamp="1540136403417">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="1" column="51" />
       </file>
       <file name="$USER_HOME$/MyWork/git/mono-list/app/views/items/items.scala.html" timestamp="1536304048258">
         <mark key="[" line="5" column="39" />
@@ -456,10 +458,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBhc3luY2hyb25vdXNfcHJvY2Vzcy5hc3luY2lvX2NvbmRpdGlvbiBpbXBvcnQgbGVzc29uCg==</text>
+        <text encoding="base64">dGFza3MuYnVpbGRfc2VydmVyKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>tasks</text>
       </register>
       <register name="/" type="4">
         <text>condition</text>
@@ -468,31 +470,31 @@
         <text encoding="base64">ZnJvbSBhc3luY2hyb25vdXNfcHJvY2Vzcy5hc3luY2lvX2NvbmRpdGlvbiBpbXBvcnQgbGVzc29uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBhc3luY2hyb25vdXNfcHJvY2Vzcy5hc3luY2lvX2NvbmRpdGlvbiBpbXBvcnQgbGVzc29uCg==</text>
+        <text encoding="base64">dGFza3MuYnVpbGRfc2VydmVyKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBhc3luY2lvX2V2ZW50IGltcG9ydCBsZXNzb24K</text>
+        <text encoding="base64">ZnJvbSBhc3luY2hyb25vdXNfcHJvY2Vzcy5hc3luY2lvX2NvbmRpdGlvbiBpbXBvcnQgbGVzc29uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGVzc29uLmV2ZW50Cg==</text>
+        <text encoding="base64">ZnJvbSBhc3luY2lvX2V2ZW50IGltcG9ydCBsZXNzb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB0ZXN0IGltcG9ydCB0ZXN0Cg==</text>
+        <text encoding="base64">bGVzc29uLmV2ZW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRlc3QK</text>
+        <text encoding="base64">ZnJvbSB0ZXN0IGltcG9ydCB0ZXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGVzdC50ZXN0Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRlc3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBhc3luY2hyb25vdXNfcHJvY2Vzcy5hc3luY2lvX2V2ZW50IGltcG9ydCB0ZXN0Cg==</text>
+        <text encoding="base64">dGVzdC50ZXN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbQo=</text>
+        <text encoding="base64">ZnJvbSBhc3luY2hyb25vdXNfcHJvY2Vzcy5hc3luY2lvX2V2ZW50IGltcG9ydCB0ZXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBhc3luY2hyb25vdXNfcHJvY2Vzcy5hc3luY2lvX2NvbmRpdGlvbiBpbXBvcnQgbGVzc29uCg==</text>
+        <text encoding="base64">ZnJvbQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
