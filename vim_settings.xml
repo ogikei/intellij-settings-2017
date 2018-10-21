@@ -12,7 +12,7 @@
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="9" />
       </file>
-      <file name="/a.dummy" timestamp="1540096311344">
+      <file name="/a.dummy" timestamp="1540100787524">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/public/stylesheets/main.css" timestamp="1536304905685">
@@ -262,11 +262,11 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/19_queueing_system/03_celery/tasks.py" timestamp="1540100047658">
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="38" />
-        <mark key="^" line="8" column="38" />
-        <mark key="." line="8" column="38" />
+      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/19_queueing_system/03_celery/tasks.py" timestamp="1540100715263">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+        <mark key="." line="8" column="29" />
       </file>
       <file name="$USER_HOME$/MyWork/git/mono-list/app/views/index.scala.html" timestamp="1536304282708">
         <mark key="'" line="2" column="0" />
@@ -309,11 +309,17 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/19_queueing_system/03_celery/lesson.py" timestamp="1540100176189">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="0" column="11" />
+      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/19_queueing_system/03_celery/lesson.py" timestamp="1540100382469">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/tasks.py" timestamp="1540100807426">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="28" />
       </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/app/services/FavoriteServiceImpl.scala" timestamp="1536587937801">
         <mark key="[" line="40" column="0" />
@@ -328,6 +334,12 @@
       </file>
       <file name="/fragment.java" timestamp="1536989421442">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/test.py" timestamp="1540100758706">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="17" column="20" />
+        <mark key="^" line="17" column="20" />
+        <mark key="." line="17" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -433,11 +445,11 @@
       <jump line="11" column="11" filename="$USER_HOME$/MyOffice/git/cipher-python/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRlc3QK</text>
+      <register name="&quot;" type="4">
+        <text>rabbit</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>rabbit</text>
       </register>
       <register name="/" type="4">
         <text>table</text>
@@ -473,7 +485,7 @@
         <text encoding="base64">YSA9IHRhc2tzLmJ1aWxkX3NlcnZlcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>%d</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -525,10 +537,10 @@
         <entry>%s/follow_id/micro_post_id/g</entry>
         <entry>%s/user_follows/favorites/g</entry>
         <entry>%</entry>
-        <entry>w</entry>
         <entry>40</entry>
         <entry>$d</entry>
         <entry>%d</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
