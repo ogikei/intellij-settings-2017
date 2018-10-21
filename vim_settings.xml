@@ -285,12 +285,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/queueing_system/rabbitmq/lesson.py" timestamp="1540112265689">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/MyOffice/git/scripts/main.py" timestamp="1539669690777">
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="24" />
@@ -303,12 +297,8 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/queueing_system/rabbitmq/tasks.py" timestamp="1540105287636">
+      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/queueing_system/rabbitmq/tasks.py" timestamp="1540114370475">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="52" column="44" />
-        <mark key="]" line="53" column="15" />
-        <mark key="." line="53" column="15" />
-        <mark key="^" line="53" column="15" />
       </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/tasks.py" timestamp="1540106209941">
         <mark key="a" line="8" column="30" />
@@ -437,10 +427,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBxdWV1ZWluZ19zeXN0ZW0ucmFiYml0bXEgaW1wb3J0IHRhc2tzCg==</text>
+        <text encoding="base64">aW1wb3J0IGFzeW5jaHJvbm91c19wcm9jZXNzLmFzeW5jaW9fY29uZGl0aW9uLmxlc3Nvbgo=</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>condition</text>
@@ -449,31 +439,31 @@
         <text encoding="base64">ICAgICAgICBhd2FpdCBhc3luY2lvLnNsZWVwKDMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBxdWV1ZWluZ19zeXN0ZW0ucmFiYml0bXEgaW1wb3J0IHRhc2tzCg==</text>
+        <text encoding="base64">aW1wb3J0IGFzeW5jaHJvbm91c19wcm9jZXNzLmFzeW5jaW9fY29uZGl0aW9uLmxlc3Nvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBhc3luY2lvLnNsZWVwKDEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGFza3MuYnVpbGRfc2VydmVyCg==</text>
+        <text encoding="base64">aW1wb3J0IC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnd29ya2VyMiBnb3Qgc2VtYXBob3JlJykK</text>
+        <text encoding="base64">aW1wb3J0IHF1ZXVlaW5nX3N5c3RlbS5yYWJiaXRtcS5sZXNzb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZW1hcGhvcmUud2FpdCgpCg==</text>
+        <text encoding="base64">cXVlZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnd29ya2VyMSBnb3Qgc2VtYXBob3JlJykK</text>
+        <text encoding="base64">aW1wb3J0IHJhYmJpdG1xLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZW1hcGhvcmUud2FpdCgpCg==</text>
+        <text encoding="base64">ZnJvbSBxdWV1ZWluZ19zeXN0ZW0ucmFiYml0bXEgaW1wb3J0IHRhc2tzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXN5bmMgZGVmIHdvcmtlcjMoc2VtYXBob3JlKToKICAgIHdpdGggYXdhaXQgc2VtYXBob3JlOgogICAgICAgIHByaW50KCd3b3JrZXIzIHN0YXJ0JykKICAgICAgICBhd2FpdCBhc3luY2lvLnNsZWVwKDMpCiAgICAgICAgcHJpbnQoJ3dvcmtlcjMgZW5kJykKICAgICAgICBzZW1hcGhvcmUubm90aWZ5X2FsbCgpCg==</text>
+        <text encoding="base64">ZnJvbSBxdWV1ZWluZ19zeXN0ZW0ucmFiYml0bXEgaW1wb3J0IHRhc2tzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25kaXRpb24ud2FpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBhc3luY2lvLnNsZWVwKDEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/condition/semaphore/g</text>
@@ -486,7 +476,7 @@
       <last-replace>semaphore</last-replace>
       <last-substitute>condition</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
