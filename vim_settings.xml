@@ -27,9 +27,6 @@
         <mark key="." line="9" column="10" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/asynchronous_process/lesson.py" timestamp="1540106917374">
-        <mark key="'" line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/MyWork/git/micro-posts/app/controllers/HomeController.scala" timestamp="1536588932387">
         <mark key="[" line="36" column="15" />
         <mark key="]" line="36" column="15" />
@@ -335,9 +332,6 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python-a/queueing_system/rabbitmq/lesson.py" timestamp="1540198819344">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/queueing_system/rabbitmq/tasks.py" timestamp="1540130912082">
         <mark key="'" line="51" column="16" />
         <mark key="[" line="0" column="0" />
@@ -362,8 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/MyWork/git/micro-posts/app/controllers/FavoriteController.scala" />
-      <jump line="4" column="22" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/common/posts.scala.html" />
       <jump line="6" column="30" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/index.scala.html" />
       <jump line="15" column="10" filename="$USER_HOME$/MyWork/git/mono-list/app/views/items/buttons.scala.html" />
       <jump line="18" column="15" filename="$USER_HOME$/MyWork/git/mono-list/app/views/items/buttons.scala.html" />
@@ -462,13 +454,15 @@
       <jump line="30" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/asynchronous_process/asyncio_condition/lesson.py" />
       <jump line="15" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python-a/asynchronous_process/asyncio_condition/lesson.py" />
       <jump line="6" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python-a/queueing_system/rabbitmq/lesson.py" />
+      <jump line="4" column="5" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python-a/queueing_system/rabbitmq/lesson.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python-a/queueing_system/rabbitmq/lesson.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm9ib3QuY29uc29sZS5nZXRfdGVtcGxhdGUoJycpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>condition</text>
@@ -477,31 +471,31 @@
         <text encoding="base64">IyByZXN1bHQgPSB0YXNrcy5idWlsZF9zZXJ2ZXIuZGVsYXkoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm9ib3QuY29uc29sZS5nZXRfdGVtcGxhdGUoJycpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGVzc29uCg==</text>
+        <text encoding="base64">ZnJvbSByb2JvdGVyLm1vZGVscyBpbXBvcnQgcm9ib3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGFza3MuCg==</text>
+        <text encoding="base64">aW1wb3J0IHRhc2tzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoc3lzLnBhdGgpCg==</text>
+        <text encoding="base64">aW1wb3J0IHJvYm90ZXIK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">bGVzc29uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBxdWV1ZWluZ19zeXN0ZW0ucmFiYml0bXEgaW1wb3J0IHRhc2tzCg==</text>
+        <text encoding="base64">dGFza3MuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9zLCBzeXMKCnByaW50KG9zLmdldGN3ZCgpKQpzeXMucGF0aC5hcHBlbmQob3MuZ2V0Y3dkKCkpCgo=</text>
+        <text encoding="base64">cHJpbnQoc3lzLnBhdGgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBxdWV1ZWluZ19zeXN0ZW0ucmFiYml0bXEgaW1wb3J0IHRhc2tzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
