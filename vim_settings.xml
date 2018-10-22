@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1540113370495">
+      <file name="/start_script.py" timestamp="1540201798917">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/robot-python/roboter/controller/conversation.py" timestamp="1540117559294">
@@ -91,6 +91,18 @@
         <mark key="]" line="25" column="6" />
         <mark key="^" line="25" column="48" />
         <mark key="." line="25" column="6" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/asynchronous_process/yield_from/lesson.py" timestamp="1540107168429">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="14" />
+        <mark key="^" line="14" column="11" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/.gitignore" timestamp="1540202080956">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/functional-programming-in-scala/src/test/scala/MyModuleSpec.scala" timestamp="1536989405882">
         <mark key="[" line="0" column="18" />
@@ -185,6 +197,13 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/asynchronous_process/asyncio_semaphore/lesson.py" timestamp="1540111089192">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="30" />
+        <mark key="^" line="19" column="30" />
+        <mark key="." line="19" column="30" />
       </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python-a/asynchronous_process/asyncio_condition/lesson.py" timestamp="1540192138240">
         <mark key="'" line="15" column="0" />
@@ -314,7 +333,8 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/queueing_system/rabbitmq/lesson.py" timestamp="1540131842206">
+      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/queueing_system/rabbitmq/lesson.py" timestamp="1540201966400">
+        <mark key="'" line="6" column="0" />
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
@@ -356,7 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="30" filename="$USER_HOME$/MyWork/git/micro-posts/app/views/index.scala.html" />
       <jump line="15" column="10" filename="$USER_HOME$/MyWork/git/mono-list/app/views/items/buttons.scala.html" />
       <jump line="18" column="15" filename="$USER_HOME$/MyWork/git/mono-list/app/views/items/buttons.scala.html" />
       <jump line="3" column="15" filename="$USER_HOME$/MyWork/git/mono-list/app/views/items/buttons.scala.html" />
@@ -456,13 +475,14 @@
       <jump line="6" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python-a/queueing_system/rabbitmq/lesson.py" />
       <jump line="4" column="5" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python-a/queueing_system/rabbitmq/lesson.py" />
       <jump line="5" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python-a/queueing_system/rabbitmq/lesson.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/queueing_system/rabbitmq/lesson.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cm9ib3QuY29uc29sZS5nZXRfdGVtcGxhdGUoJycpCg==</text>
+        <text encoding="base64">c2lsaWNvbi12YWxsZXktd2l0aC1weXRob24uaW1sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>condition</text>
@@ -471,31 +491,31 @@
         <text encoding="base64">IyByZXN1bHQgPSB0YXNrcy5idWlsZF9zZXJ2ZXIuZGVsYXkoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cm9ib3QuY29uc29sZS5nZXRfdGVtcGxhdGUoJycpCg==</text>
+        <text encoding="base64">c2lsaWNvbi12YWxsZXktd2l0aC1weXRob24uaW1sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSByb2JvdGVyLm1vZGVscyBpbXBvcnQgcm9ib3QK</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHRhc2tzCg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHJvYm90ZXIK</text>
+        <text encoding="base64">cm9ib3QuY29uc29sZS5nZXRfdGVtcGxhdGUoJycpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSByb2JvdGVyLm1vZGVscyBpbXBvcnQgcm9ib3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGVzc29uCg==</text>
+        <text encoding="base64">aW1wb3J0IHRhc2tzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGFza3MuCg==</text>
+        <text encoding="base64">aW1wb3J0IHJvYm90ZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoc3lzLnBhdGgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGVzc29uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
