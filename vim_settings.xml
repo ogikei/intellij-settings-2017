@@ -51,6 +51,12 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python-a/lesson.py" timestamp="1540196728992">
+        <mark key="[" line="0" column="43" />
+        <mark key="]" line="0" column="42" />
+        <mark key="." line="0" column="42" />
+        <mark key="^" line="0" column="42" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python-a/queueing_system/rabbitmq/tasks.py" timestamp="1540130997106" />
       <file name="$USER_HOME$/.pyenv/versions/3.6.6/lib/python3.6/asyncio/base_events.py" timestamp="1540191963554">
         <mark key="[" line="1397" column="1" />
@@ -469,10 +475,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBpbXBvcnQgdGFza3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>tasks</text>
       </register>
       <register name="/" type="4">
         <text>condition</text>
@@ -481,31 +487,31 @@
         <text encoding="base64">ZnJvbSBhc3luY2hyb25vdXNfcHJvY2Vzcy5hc3luY2lvX2NvbmRpdGlvbiBpbXBvcnQgbGVzc29uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBpbXBvcnQgdGFza3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBhc3luY2hyb25vdXNfcHJvY2Vzcy5hc3luY2lvX2V2ZW50IGltcG9ydCBsZXNzb24K</text>
+        <text encoding="base64">bGVzc29uLmJ1aWxkampkZGoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZHJvbQo=</text>
+        <text encoding="base64">ZnJvbSBxdWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBhc3luY2hyb25vdXNfcHJvY2Vzcy5hc3luY2lvX2V2ZW50IGltcG9ydCBsZXNzb24K</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBhc3luY2hyb25vdXNfcHJvY2Vzcy5hc3luY2lvX2NvbmRpdGlvbiBpbXBvcnQgIGxlc3Nvbgo=</text>
+        <text encoding="base64">IyBpbXBvcnQgdGFza3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBhc3luY2hyb25vdXNfcHJvY2Vzcy5hc3luY2lvX2xvY2sgaW1wb3J0IGxlc3Nvbgo=</text>
+        <text encoding="base64">ZnJvbSBhc3luY2hyb25vdXNfcHJvY2Vzcy5hc3luY2lvX2V2ZW50IGltcG9ydCBsZXNzb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGFza3MuYnVpbGRfc2VydmVyKCkK</text>
+        <text encoding="base64">ZHJvbQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBhc3luY2hyb25vdXNfcHJvY2Vzcy5hc3luY2lvX2NvbmRpdGlvbiBpbXBvcnQgbGVzc29uCg==</text>
+        <text encoding="base64">ZnJvbSBhc3luY2hyb25vdXNfcHJvY2Vzcy5hc3luY2lvX2V2ZW50IGltcG9ydCBsZXNzb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBhc3luY2lvX2V2ZW50IGltcG9ydCBsZXNzb24K</text>
+        <text encoding="base64">ZnJvbSBhc3luY2hyb25vdXNfcHJvY2Vzcy5hc3luY2lvX2NvbmRpdGlvbiBpbXBvcnQgIGxlc3Nvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
