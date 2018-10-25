@@ -3,16 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/MyWork/git/office-tools/big-data.csv" timestamp="1540481204439">
+      <file name="$USER_HOME$/MyWork/git/office-tools/big-data.csv" timestamp="1540482315294">
+        <mark key="'" line="16" column="8" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" timestamp="1540481579472">
+      <file name="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" timestamp="1540482337223">
         <mark key="'" line="33" column="4" />
-        <mark key="[" line="35" column="21" />
-        <mark key="]" line="35" column="21" />
-        <mark key="." line="35" column="21" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="18" column="53" />
       </file>
     </filemarks>
     <jumps>
@@ -45,10 +47,11 @@
       <jump line="22" column="30" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
       <jump line="27" column="17" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
       <jump line="34" column="4" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
+      <jump line="16" column="8" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>k</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi53cml0ZV9yb3cod3JpdGVyLCBsb2NrKQo=</text>
       </register>
       <register name="-" type="4">
         <text>k</text>
@@ -60,31 +63,31 @@
         <text encoding="base64">ICAgICAgICBmb3IgXyBpbiByYW5nZSgxMDAwKToKICAgICAgICAgICAgd3JpdGVyLndyaXRlcm93KHsnaWQnOiAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICduYW1lJzogJ3Rlc3QnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICdkYXRldGltZSc6IGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpLmRhdGUoKX0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBsb2NrOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi53cml0ZV9yb3cod3JpdGVyLCBsb2NrKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIGxvY2s6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBsb2NrOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NrLmFjcXVpcmUoKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvY2sgPSBsb2NrCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB3aXRoIGxvY2s6Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsb2NrLmFjcXVpcmUoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvY2sgPSBsb2NrCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJjYy53cml0ZV9oZWFkZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIGxvY2s6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0LmpvaW4oKQo=</text>
+        <text encoding="base64">ICAgIGJjYy53cml0ZV9oZWFkZXIoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvY2sgPSB0aHJlYWRpbmcuTG9jawo=</text>
+        <text encoding="base64">ICAgICAgICB0LmpvaW4oKQo=</text>
       </register>
     </registers>
     <search>
