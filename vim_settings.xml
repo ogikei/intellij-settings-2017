@@ -3,18 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/MyWork/git/office-tools/big-data.csv" timestamp="1540482315294">
-        <mark key="'" line="16" column="8" />
+      <file name="$USER_HOME$/MyWork/git/office-tools/big-data.csv" timestamp="1540484453376">
+        <mark key="'" line="13" column="11" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" timestamp="1540482337223">
-        <mark key="'" line="33" column="4" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="18" column="53" />
+      <file name="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" timestamp="1540485174412">
+        <mark key="'" line="31" column="24" />
+        <mark key="[" line="32" column="22" />
+        <mark key="]" line="32" column="27" />
+        <mark key="." line="32" column="27" />
+        <mark key="^" line="32" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -31,7 +31,6 @@
       <jump line="34" column="13" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
       <jump line="14" column="8" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
       <jump line="2649024" column="0" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
-      <jump line="1" column="0" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
       <jump line="220753" column="0" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
       <jump line="308" column="0" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
       <jump line="8" column="33" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
@@ -40,60 +39,69 @@
       <jump line="14" column="8" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
       <jump line="12" column="8" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
       <jump line="12" column="4" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
       <jump line="226797" column="7" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
       <jump line="11" column="25" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
       <jump line="16" column="33" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
       <jump line="22" column="30" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
       <jump line="27" column="17" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
-      <jump line="34" column="4" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
       <jump line="16" column="8" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="1" column="0" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="1200" column="0" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="12000" column="0" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="120000" column="0" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="13" column="11" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="21" column="30" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
+      <jump line="4" column="7" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
+      <jump line="34" column="24" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
+      <jump line="2" column="12" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
+      <jump line="31" column="24" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi53cml0ZV9yb3cod3JpdGVyLCBsb2NrKQo=</text>
+      <register name="&quot;" type="4">
+        <text>Process</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>Process</text>
       </register>
       <register name="/" type="4">
-        <text>lock</text>
+        <text>process</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgXyBpbiByYW5nZSgxMDAwKToKICAgICAgICAgICAgd3JpdGVyLndyaXRlcm93KHsnaWQnOiAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICduYW1lJzogJ3Rlc3QnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICdkYXRldGltZSc6IGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpLmRhdGUoKX0pCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi53cml0ZV9yb3cod3JpdGVyLCBsb2NrKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBsb2NrOgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIGxvY2s6Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIDEwOTk1MTE2Mjc3NzYgQnl0ZSAtPiAxVEIKICAgICAgICAjIDEwOTk1MTE2Mjc3CiAgICAgICAgIyBmb3IgXyBpbiByYW5nZSg1NjUxMjcyNzYpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NrLmFjcXVpcmUoKQo=</text>
+        <text encoding="base64">ICAgIGxvY2sgPSB0aHJlYWRpbmcuTG9jaygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvY2sgPSBsb2NrCg==</text>
+        <text encoding="base64">ICAgICMgZm9yIF8gaW4gcmFuZ2UoMTAwMDAwKToKICAgICMgICAgIHdpdGggbG9jazoKICAgICMgICAgICAgICB3cml0ZXIud3JpdGVyb3coeydpZCc6IDEsCiAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAnbmFtZSc6ICd0ZXN0JywKICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICdkYXRldGltZSc6IGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpLmRhdGUoKX0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJjYy53cml0ZV9yb3coKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIGxvY2s6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBmb3IgXyBpbiByYW5nZShtdWx0aXByb2Nlc3NpbmcuY3B1X2NvdW50KCkpOgogICAgICAgICAgICAjICAgICB0ID0gdGhyZWFkaW5nLlRocmVhZCh0YXJnZXQ9c2VsZi53cml0ZV9yb3csCiAgICAgICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgIGFyZ3M9KHdyaXRlciwgbG9jaykpCiAgICAgICAgICAgICMgICAgIHQuc3RhcnQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJjYy53cml0ZV9oZWFkZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVyLndyaXRlcm93KHsnaWQnOiAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICduYW1lJzogJ3Rlc3QnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICdkYXRldGltZSc6IGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpLmRhdGUoKX0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0LmpvaW4oKQo=</text>
+        <text encoding="base64">ICAgIGJjYy53cml0ZV9yb3cobG9jaykK</text>
       </register>
     </registers>
     <search>
-      <last-search>lock</last-search>
+      <last-search>process</last-search>
       <last-offset />
-      <last-pattern>lock</last-pattern>
+      <last-pattern>process</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -101,6 +109,8 @@
       <history-search>
         <entry>id</entry>
         <entry>lock</entry>
+        <entry>thread</entry>
+        <entry>process</entry>
       </history-search>
       <history-cmd />
       <history-expr />
