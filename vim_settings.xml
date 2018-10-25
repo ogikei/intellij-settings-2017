@@ -3,59 +3,113 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" timestamp="1540470449604">
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="7" column="13" />
-        <mark key="." line="7" column="13" />
-        <mark key="^" line="7" column="13" />
+      <file name="$USER_HOME$/MyWork/git/office-tools/big-data.csv" timestamp="1540481204439">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" timestamp="1540481579472">
+        <mark key="'" line="33" column="4" />
+        <mark key="[" line="35" column="21" />
+        <mark key="]" line="35" column="21" />
+        <mark key="." line="35" column="21" />
       </file>
     </filemarks>
     <jumps>
       <jump line="7" column="51" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
+      <jump line="20" column="16" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="43" column="12" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="84" column="8" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="99992" column="8" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="100000" column="0" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="296" column="10" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="10" column="9" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="10000" column="0" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="100" column="10" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="34" column="13" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="14" column="8" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="2649024" column="0" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="1" column="0" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="220753" column="0" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="308" column="0" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="8" column="33" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
+      <jump line="10" column="20" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
+      <jump line="13" column="13" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
+      <jump line="14" column="8" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
+      <jump line="12" column="8" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
+      <jump line="12" column="4" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="226797" column="7" filename="$USER_HOME$/MyWork/git/office-tools/big-data.csv" />
+      <jump line="11" column="25" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
+      <jump line="16" column="33" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
+      <jump line="22" column="30" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
+      <jump line="27" column="17" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
+      <jump line="34" column="4" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KHgpCg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0LnN0YXJ0KCkK</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>x</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdhYWFhYScpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndGVzdCcpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNzdgo=</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>k</text>
+      </register>
+      <register name="/" type="4">
+        <text>lock</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgXyBpbiByYW5nZSgxMDAwKToKICAgICAgICAgICAgd3JpdGVyLndyaXRlcm93KHsnaWQnOiAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICduYW1lJzogJ3Rlc3QnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICdkYXRldGltZSc6IGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpLmRhdGUoKX0pCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBsb2NrOgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoIGxvY2s6Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBsb2NrLmFjcXVpcmUoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvY2sgPSBsb2NrCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoIGxvY2s6Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGJjYy53cml0ZV9oZWFkZXIoKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB0LmpvaW4oKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGxvY2sgPSB0aHJlYWRpbmcuTG9jawo=</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <last-search>lock</last-search>
+      <last-offset />
+      <last-pattern>lock</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search>
+        <entry>id</entry>
+        <entry>lock</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
