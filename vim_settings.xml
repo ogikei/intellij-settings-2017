@@ -40,10 +40,11 @@
         <mark key="." line="1" column="68" />
         <mark key="^" line="1" column="68" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/.gitignore" timestamp="1540899817870">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/.gitignore" timestamp="1540954235835">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+        <mark key="^" line="1" column="6" />
       </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/wikipedia/WikipediaData.scala" timestamp="1540953367436">
         <mark key="[" line="8" column="25" />
@@ -86,11 +87,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/wikipedia/WikipediaRanking.scala" timestamp="1540953509746">
+      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/main/scala/wikipedia/WikipediaRanking.scala" timestamp="1540953930539">
         <mark key="'" line="101" column="0" />
-        <mark key="[" line="11" column="76" />
-        <mark key="]" line="12" column="1" />
-        <mark key="." line="12" column="1" />
+        <mark key="[" line="35" column="6" />
+        <mark key="]" line="35" column="7" />
+        <mark key="." line="35" column="6" />
         <mark key="^" line="12" column="1" />
       </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/build.sbt" timestamp="1540899322736">
@@ -202,8 +203,8 @@
       <jump line="65" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/wikipedia/WikipediaSuite.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">d2lraXBlZGlhLmRhdAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -215,31 +216,31 @@
         <text encoding="base64">ICAgIGFzc2VydChpbml0aWFsaXplV2lraXBlZGlhUmFua2luZygpLAogICAgICAiIC0tIGRpZCB5b3UgZmlsbCBpbiBhbGwgdGhlIHZhbHVlcyBpbiBXaWtpcGVkaWFSYW5raW5nIChjb25mLCBzYywgd2lraVJkZCk/IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">d2lraXBlZGlhLmRhdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgV2lraXBlZGlhQXJ0aWNsZSgiIikK</text>
+        <text encoding="base64">c3JjL21haW4vcmVzb3VyY2VzL3dpa2lwZWRpYS5kYXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCByZGQgPSAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgV2lraXBlZGlhQXJ0aWNsZSgiIikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhbCByZGQgPSAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChyYW5rZWQuaGVhZCwgCg==</text>
+        <text encoding="base64">ICAgIGFzCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydChyYW5rZWQuaGVhZCwgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
