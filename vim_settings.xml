@@ -116,11 +116,11 @@
       <file name="/Dummy.scala" timestamp="1540901133589">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/wikipedia/WikipediaSuite.scala" timestamp="1540907796709">
-        <mark key="[" line="20" column="35" />
-        <mark key="]" line="21" column="59" />
-        <mark key="." line="21" column="59" />
-        <mark key="^" line="21" column="59" />
+      <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/wikipedia/WikipediaSuite.scala" timestamp="1540945867234">
+        <mark key="[" line="29" column="2" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="26" column="4" />
+        <mark key="^" line="26" column="4" />
       </file>
       <file name="$USER_HOME$/MyWork/git/scala-spark-bigdata/project/buildSettings.sbt" timestamp="1540899445612">
         <mark key="[" line="11" column="0" />
@@ -193,10 +193,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>。</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>。</text>
       </register>
       <register name="/" type="4">
         <text>-- did you fill in all the values in WikipediaRanking (conf, sc, wikiRdd)?</text>
@@ -240,7 +240,7 @@
       <last-offset />
       <last-pattern>-- did you fill in all the values in WikipediaRanking (conf, sc, wikiRdd)?</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
