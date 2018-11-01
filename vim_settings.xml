@@ -58,11 +58,11 @@
         <mark key="." line="9" column="5" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/FileReadable02.scala" timestamp="1541067982708">
-        <mark key="[" line="26" column="17" />
-        <mark key="]" line="26" column="29" />
-        <mark key="." line="26" column="29" />
-        <mark key="^" line="26" column="29" />
+      <file name="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/FileReadable02.scala" timestamp="1541070773169">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/MyWork/git/aws-glue-job/src/main/scala/DataCleaningLambda.scala" timestamp="1540554732319">
         <mark key="'" line="79" column="0" />
@@ -205,6 +205,7 @@
         <mark key="." line="42" column="13" />
         <mark key="^" line="42" column="13" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/tech-academy-scala/src/test/scala/lesson07/FileReadableSuite.scala" timestamp="1541070957968" />
     </filemarks>
     <jumps>
       <jump line="7" column="51" filename="$USER_HOME$/MyWork/git/office-tools/big_csv_creation.py" />
@@ -277,11 +278,11 @@
       <jump line="39" column="10" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/FileReadable.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlYWRlci5yZWFkSXRlcmF0b3IubWtTdHJpbmcoIlxuIikpCg==</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
