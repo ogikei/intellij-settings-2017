@@ -58,6 +58,12 @@
         <mark key="." line="9" column="5" />
         <mark key="^" line="9" column="5" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/FileReadable02.scala" timestamp="1541067982708">
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="26" column="29" />
+        <mark key="." line="26" column="29" />
+        <mark key="^" line="26" column="29" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/aws-glue-job/src/main/scala/DataCleaningLambda.scala" timestamp="1540554732319">
         <mark key="'" line="79" column="0" />
         <mark key="[" line="17" column="36" />
@@ -89,8 +95,25 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541040591527">
+      <file name="$USER_HOME$/MyWork/git/tech-academy-scala/src/test/scala/lesson05/FileReadableSuite.scala" timestamp="1541069219705">
+        <mark key="[" line="37" column="11" />
+        <mark key="]" line="37" column="10" />
+        <mark key="." line="37" column="10" />
+        <mark key="^" line="37" column="10" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/tech-academy-scala/new-word-list.txt" timestamp="1541063676270">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1541062043108">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/FileReadable.scala" timestamp="1541068996684">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="32" column="10" />
       </file>
       <file name="/code.py" timestamp="1541029132955">
         <mark key="[" line="0" column="0" />
@@ -158,14 +181,29 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/FileWritable.scala" timestamp="1541063436007">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="20" column="67" />
+        <mark key="." line="20" column="66" />
+        <mark key="^" line="20" column="66" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/aws-glue-job/build.sbt" timestamp="1540553878969">
         <mark key="[" line="7" column="43" />
         <mark key="]" line="7" column="50" />
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1541040591547">
+      <file name="/fragment.java" timestamp="1541062053301">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/FileReadableWritable.scala" timestamp="1541065629427">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="42" column="12" />
+        <mark key="]" line="42" column="13" />
+        <mark key="." line="42" column="13" />
+        <mark key="^" line="42" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -230,55 +268,62 @@
       <jump line="11" column="53" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/build.sbt" />
       <jump line="60" column="15" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/build.sbt" />
       <jump line="61" column="2" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/build.sbt" />
+      <jump line="27" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/FileReadable.scala" />
+      <jump line="3" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/FileReadableWritable.scala" />
+      <jump line="35" column="37" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/FileReadableWritable.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/FileReadableWritable.scala" />
+      <jump line="40" column="13" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/FileReadable.scala" />
+      <jump line="37" column="17" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/FileReadable.scala" />
+      <jump line="39" column="10" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/FileReadable.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;name = Yamada, age = 20, weight = 65.30&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KHJlYWRlci5yZWFkSXRlcmF0b3IubWtTdHJpbmcoIlxuIikpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>print</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;name = Yamada, age = 20, weight = 65.30&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW50KHJlYWRlci5yZWFkSXRlcmF0b3IubWtTdHJpbmcoIlxuIikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHIK</text>
+        <text encoding="base64">ICAgIHByaW50KHJlYWRlci5yZWFkSXRlcmF0b3IubWtTdHJpbmcoIlxuIikpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIiJ2YWx1ZSA9IEFCQwogICAgICAgICAgfHZhbHVlID0gREVGCiAgICAgICAgICB8dmFsdWUgPSBHSEkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vICAgICAgICAidmFsdWUgPSBBQkNcbnZhbHVlID0gREVGXG52YWx1ZSA9IEdISVxuQUJDXG5ERUZcbkdISSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KFN0cmluZ0Zvcm1hdC50ZXh0MDIpCg==</text>
+        <text encoding="base64">ICAgIC8vICAgIHZhbCByZXMgPSByZWFkZXIucmVhZEl0ZXJhdG9yLm1rU3RyaW5nKCJcbiIpID09Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyDlh7rlipvjgZnjgovjgaDjgZHjgarjgonmrKHjga7plqLmlbDjgpLkvb/nlKjjgZnjgovjgIIKICBwcmludGYoIm5hbWUgPSAlcywgYWdlID0gJWQsIHdlaWdodCA9ICUzLjJmIiwgbmFtZSwgYWdlLCB3ZWlnaHQpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHMidmFsdWUgPSAkcmVzdWx0IikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIOWHuuWKm+OBmeOCi+OBoOOBkeOBquOCieasoeOBrumWouaVsOOCkuS9v+eUqOOBmeOCi+OAggogICAgcHJpbnRmKCJuYW1lID0gJXMsIGFnZSA9ICVkLCB3ZWlnaHQgPSAlMy4yZiIsIG5hbWUsIGFnZSwgd2VpZ2h0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Y2xhc3MgVEV0IHsKICB2YWwgYSA9IG5ldyBGaWxlSU8wMyhuZXcgRmlsZSgiIikpCiAgYS50bwp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgbXVsdGlwbGVMaW5lID0gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgdGV4dDAyID0iIiJ0ZXN0CiAgICAgIHx0ZXN0CiAgICAgIHx0ZXN0CiAgICAiIiIuc3RyaXBNYXJnaW4K</text>
+        <text encoding="base64">dmFsIGEgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -292,6 +337,8 @@
         <entry>-- did you fill in all the values in WikipediaRanking (conf, sc, wikiRdd)?</entry>
         <entry>scala</entry>
         <entry>test</entry>
+        <entry>BufferedReader</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>%d</entry>
@@ -312,6 +359,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
