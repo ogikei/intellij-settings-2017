@@ -24,6 +24,11 @@
       <file name="/a.dummy" timestamp="1541912112637">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/AIJob/ML/.gitignore" timestamp="1543656629955">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/numeric/lesson.go" timestamp="1543316304506">
         <mark key="[" line="0" column="15" />
       </file>
@@ -124,9 +129,9 @@
         <mark key="." line="26" column="18" />
         <mark key="^" line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/tech-academy-scala/.gitignore" timestamp="1543448842507">
+      <file name="$USER_HOME$/MyWork/git/tech-academy-scala/.gitignore" timestamp="1543656624834">
         <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
+        <mark key="]" line="7" column="8" />
         <mark key="^" line="7" column="2" />
         <mark key="." line="7" column="0" />
       </file>
@@ -277,7 +282,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+        <text encoding="base64">LkRTX1N0b3JlCg==</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
@@ -286,35 +291,35 @@
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWZvbygxMCwgMjApCg==</text>
+        <text encoding="base64">LkRTX1N0b3JlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+        <text encoding="base64">Li5EU19TdG9yCiMgQ3JlYXRlZCBieSAuaWdub3JlIHN1cHBvcnQgcGx1Z2luIChoc3oubW9iaSkKLkRTX1N0b3IK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LmlkZWEvCg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">LmlkZWEvCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+      </register>
+      <register name="6" type="4">
         <text>ore IntelliJ files
 *.iml</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CS8vIFs1LCA2XQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CWZtdC4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
