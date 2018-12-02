@@ -20,6 +20,12 @@
         <mark key="]" line="4" column="9" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/04_statement/exercises/lesson.go" timestamp="1543745124215">
+        <mark key="[" line="21" column="15" />
+        <mark key="]" line="21" column="15" />
+        <mark key="." line="21" column="15" />
+        <mark key="^" line="21" column="15" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/04_statement/if/lesson.go" timestamp="1543739735096">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="41" column="0" />
@@ -81,11 +87,11 @@
         <mark key="." line="25" column="28" />
         <mark key="^" line="25" column="17" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/.gitignore" timestamp="1543329832388">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="1" column="5" />
-        <mark key="." line="1" column="5" />
-        <mark key="^" line="1" column="5" />
+      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/.gitignore" timestamp="1543745237832">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="5" column="8" />
+        <mark key="." line="5" column="8" />
+        <mark key="^" line="5" column="8" />
       </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/function/lesson.go" timestamp="1543327881681">
         <mark key="[" line="31" column="5" />
@@ -93,11 +99,11 @@
         <mark key="." line="31" column="6" />
         <mark key="^" line="31" column="6" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/04_statement/log/lesson.go" timestamp="1543741644512">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="23" />
-        <mark key="^" line="5" column="23" />
+      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/04_statement/log/lesson.go" timestamp="1543743521804">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="33" />
+        <mark key="." line="20" column="33" />
+        <mark key="^" line="20" column="33" />
       </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/variableparameter/lesson.go" timestamp="1543329071012">
         <mark key="[" line="17" column="4" />
@@ -130,6 +136,12 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/04_statement/error_handling/lesson.go" timestamp="1543744194411">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="38" />
+        <mark key="." line="9" column="38" />
+        <mark key="^" line="9" column="38" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/makeandcap/lesson.go" timestamp="1543326130022">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -160,6 +172,12 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/04_statement/panic_and_recover/lesson.go" timestamp="1543744462701">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="47" />
+        <mark key="." line="6" column="47" />
+        <mark key="^" line="6" column="47" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/const/lesson.go" timestamp="1543316257754">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="11" column="13" />
@@ -172,10 +190,11 @@
         <mark key="." line="24" column="16" />
         <mark key="^" line="24" column="16" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/04_statement/defer/lesson.go" timestamp="1543741513045">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="19" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/04_statement/defer/lesson.go" timestamp="1543742978400">
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="31" column="34" />
+        <mark key="." line="31" column="34" />
+        <mark key="^" line="31" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -281,44 +300,44 @@
       <jump line="17" column="11" filename="$USER_HOME$/MyWork/git/silicon-valley-with-go/04_statement/for/lesson.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHN0cmluZyhkYXRhKSkK</text>
+        <text encoding="base64">CW1pbiA6PSBsWzBdCglmb3IgaSA6PSByYW5nZSBsIHsKCQlpZiBtaW4gPiBsW2ldIHsKCQkJbWluID0gbFtpXQoJCX0KCX0KCWZtdC5QcmludGxuKG1pbikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkiYXBwbGUiOiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWZpbGUuUmVhZChkYXRhKQo=</text>
+        <text encoding="base64">CW0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKGRhdGEpCg==</text>
+        <text encoding="base64">CW1pbiA6PSBsWzBdCglmb3IgaSA6PSByYW5nZSBsIHsKCQlpZiBtaW4gPiBsW2ldIHsKCQkJbWluID0gbFtpXQoJCX0KCX0KCWZtdC5QcmludGxuKG1pbikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWZpbGUuUmVhZChkYXRhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQltaW4gOj0gbFtpXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWRlZmluaXRpb24uVHt9Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
