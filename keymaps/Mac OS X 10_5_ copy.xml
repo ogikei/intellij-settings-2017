@@ -26,6 +26,9 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
+  <action id="PySciView">
+    <keyboard-shortcut first-keystroke="shift ctrl meta j" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
