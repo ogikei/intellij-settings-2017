@@ -103,11 +103,12 @@
         <mark key="." line="4" column="8" />
         <mark key="^" line="4" column="8" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/glue-test/src/main/scala/GlueApp.scala" timestamp="1551758251889">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-        <mark key="^" line="27" column="1" />
+      <file name="$USER_HOME$/MyWork/git/glue-test/src/main/scala/GlueApp.scala" timestamp="1551760377855">
+        <mark key="'" line="36" column="23" />
+        <mark key="[" line="33" column="35" />
+        <mark key="]" line="34" column="13" />
+        <mark key="." line="34" column="13" />
+        <mark key="^" line="34" column="13" />
       </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/booltypes/lesson.go" timestamp="1543318136443">
         <mark key="[" line="19" column="22" />
@@ -338,7 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/wikipedia/WikipediaSuite.scala" />
       <jump line="71" column="7" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/wikipedia/WikipediaSuite.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/wikipedia/WikipediaSuite.scala" />
       <jump line="83" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/wikipedia/WikipediaSuite.scala" />
@@ -438,59 +438,60 @@
       <jump line="104" column="0" filename="$USER_HOME$/MyWork/git/glue-test/src/main/scala/GlueApp.scala" />
       <jump line="109" column="0" filename="$USER_HOME$/MyWork/git/glue-test/src/main/scala/GlueApp.scala" />
       <jump line="116" column="7" filename="$USER_HOME$/MyWork/git/glue-test/src/main/scala/GlueApp.scala" />
+      <jump line="32" column="23" filename="$USER_HOME$/MyWork/git/glue-test/src/main/scala/GlueApp.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXJhbWV0ZXJLZXkgPSBnZXRQYXJhbWV0ZXIoIi9hbmFseXNpcy90ZXN0L2tleSIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>Y</text>
+        <text encoding="base64">XDxQcm9maWxlQ3JlZGVudGlhbHNQcm92aWRlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBwYXJhbWV0ZXJLZXkgPSBnZXRQYXJhbWV0ZXIoIi9hbmFseXNpcy90ZXN0L2tleSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXJhbWV0ZXJLZXkgPSBnZXRQYXJhbWV0ZXIoIi9hbmFseXNpcy90ZXN0L2tleSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFsIHBhcmFtZXRlcktleSA9IGdldFBhcmFtZXRlcigiL2FuYWx5c2lzL3Rlc3Qva2V5IikK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3MuQ2xpZW50Q29uZmlndXJhdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aAo=</text>
+        <text encoding="base64">aW1wb3J0IGlvLm5ldHR5LmhhbmRsZXIuc3NsLkFwcGxpY2F0aW9uUHJvdG9jb2xDb25maWcuUHJvdG9jb2wK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMuc2ltcGxlc3lzdGVtc21hbmFnZW1lbnQuQVdTU2ltcGxlU3lzdGVtc01hbmFnZW1lbnQKaW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMuc2ltcGxlc3lzdGVtc21hbmFnZW1lbnQuQVdTU2ltcGxlU3lzdGVtc01hbmFnZW1lbnRDbGllbnRCdWlsZGVyCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3MuYXV0aC5wcm9maWxlLlByb2ZpbGVDcmVkZW50aWFsc1Byb3ZpZGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMuc2ltcGxlc3lzdGVtc21hbmFnZW1lbnQuQVdTU2ltcGxlU3lzdGVtc01hbmFnZW1lbnRDbGllbnRCdWlsZGVyCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLndpdGgK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLndpdGgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBzc20gPSBBV1NTaW1wbGVTeXN0ZW1zTWFuYWdlbWVudENsaWVudEJ1aWxkZXIuZGVmYXVsdENsaWVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLndpdGhSCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>Y</last-search>
+      <last-search encoding="base64">XDxQcm9maWxlQ3JlZGVudGlhbHNQcm92aWRlclw+</last-search>
       <last-offset />
-      <last-pattern>Y</last-pattern>
+      <last-pattern encoding="base64">XDxQcm9maWxlQ3JlZGVudGlhbHNQcm92aWRlclw+</last-pattern>
       <last-replace>y</last-replace>
       <last-substitute>Y</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -506,6 +507,7 @@
         <entry>print</entry>
         <entry>X</entry>
         <entry>Y</entry>
+        <entry encoding="base64">XDxQcm9maWxlQ3JlZGVudGlhbHNQcm92aWRlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
