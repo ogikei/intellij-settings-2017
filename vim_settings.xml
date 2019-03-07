@@ -31,12 +31,18 @@
       <file name="/Dummy.scala" timestamp="1541231239901">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-java-sdk-core/srcs/aws-java-sdk-core-1.11.510-sources.jar!/com/amazonaws/client/builder/AwsClientBuilder.java" timestamp="1551782991527" />
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/import/lesson.go" timestamp="1542810750098">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="9" column="2" />
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/glue-test/src/main/scala/s3.json" timestamp="1551936468969">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+        <mark key="^" line="11" column="36" />
       </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/array/lesson.go" timestamp="1543324953000">
         <mark key="[" line="16" column="15" />
@@ -339,7 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="0" filename="$USER_HOME$/MyWork/git/scala-spark-bigdata/src/test/scala/wikipedia/WikipediaSuite.scala" />
       <jump line="14" column="5" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/asynchronous_process/asyncio_condition/lesson.py" />
       <jump line="13" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/asynchronous_process/asyncio_condition/lesson.py" />
       <jump line="16" column="8" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/asynchronous_process/asyncio_condition/lesson.py" />
@@ -439,46 +444,47 @@
       <jump line="120" column="0" filename="$USER_HOME$/MyWork/git/glue-test/src/main/scala/GlueApp.scala" />
       <jump line="28" column="0" filename="$USER_HOME$/MyWork/git/glue-test/src/main/scala/GlueApp.scala" />
       <jump line="7" column="35" filename="$USER_HOME$/MyWork/git/glue-test/src/main/scala/GlueApp.scala" />
+      <jump line="22" column="0" filename="$USER_HOME$/MyWork/git/glue-test/src/main/scala/s3.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3MuY2xpZW50LmJ1aWxkZXIuQXdzQ2xpZW50QnVpbGRlci5FbmRwb2ludENvbmZpZ3VyYXRpb24K</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>https://vpce-05c8458ee61b721e8-a7goyqyl.kms.ap-northeast-1.vpce.amazonaws.com</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaG9pY2VPcHRpb25cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>ap-northeast-1.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAiYXJuOmF3czpzMzo6Om9naWtlaS10ZXN0MTMiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3MuY2xpZW50LmJ1aWxkZXIuQXdzQ2xpZW50QnVpbGRlci5FbmRwb2ludENvbmZpZ3VyYXRpb24K</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3MuY2xpZW50LmJ1aWxkZXIuQXdzQ2xpZW50QnVpbGRlci5FbmRwb2ludENvbmZpZ3VyYXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAiQVdTIjogImFybjphd3M6aWFtOjo4OTEwODI2NDM4MTA6dXNlci9vcGUtb2dpd2FyYSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnN0YW5kYXJkKCkKICAgICAgLndpdGhFbmRwb2ludENvbmZpZ3VyYXRpb24obmV3IEVuZHBvaW50Q29uZmlndXJhdGlvbigiY29tLmFtYXpvbmF3cy5hcC1ub3J0aGVhc3QtMS5rbXMiLCAiYXAtbm9ydGhlYXN0LTEiKSkKICAgICAgLmJ1aWxkKCkK</text>
+        <text encoding="base64">ICAgICAgICAiYXJuOmF3czpzMzo6Om9naWtlaS10ZXN0MTAvKiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5obwo=</text>
+        <text encoding="base64">ICAgICAgXSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3MuYXV0aC5wcm9maWxlLlByb2ZpbGVDcmVkZW50aWFsc1Byb3ZpZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAiczM6TGlzdEFsbE15QnVja2V0cyIsCiAgICAgICAgInMzOkxpc3RCdWNrZXQiLAogICAgICAgICJzMzpHZXRCdWNrZXRQb2xpY3kiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3MuYXV0aC5JbnN0YW5jZVByb2ZpbGVDcmVkZW50aWFsc1Byb3ZpZGVyCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3MuY2xpZW50LmJ1aWxkZXIuQXdzQ2xpZW50QnVpbGRlci5FbmRwb2ludENvbmZpZ3VyYXRpb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3MuQ2xpZW50Q29uZmlndXJhdGlvbgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3MuY2xpZW50LmJ1aWxkZXIuQXdzQ2xpZW50QnVpbGRlci5FbmRwb2ludENvbmZpZ3VyYXRpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3MuUHJvdG9jb2wK</text>
+        <text encoding="base64">ICAgICAgLnN0YW5kYXJkKCkKICAgICAgLndpdGhFbmRwb2ludENvbmZpZ3VyYXRpb24obmV3IEVuZHBvaW50Q29uZmlndXJhdGlvbigiY29tLmFtYXpvbmF3cy5hcC1ub3J0aGVhc3QtMS5rbXMiLCAiYXAtbm9ydGhlYXN0LTEiKSkKICAgICAgLmJ1aWxkKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLmJ1aWxkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgIC5obwo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
@@ -491,7 +497,7 @@
       <last-replace>y</last-replace>
       <last-substitute>Y</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
