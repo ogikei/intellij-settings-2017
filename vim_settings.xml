@@ -37,10 +37,10 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/glue-test/src/main/scala/s3.json" timestamp="1551936468969">
+      <file name="$USER_HOME$/MyWork/git/glue-test/src/main/scala/s3.json" timestamp="1551938262209">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="7" column="7" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="53" />
         <mark key="." line="7" column="7" />
         <mark key="^" line="11" column="36" />
       </file>
@@ -206,6 +206,12 @@
         <mark key="]" line="64" column="36" />
         <mark key="." line="64" column="36" />
         <mark key="^" line="64" column="36" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/glue-test/src/main/scala/s3-2.json" timestamp="1551938574627">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="61" />
+        <mark key="^" line="6" column="61" />
+        <mark key="." line="6" column="61" />
       </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/first_print/lesson.py" timestamp="1541913926184">
         <mark key="[" line="2" column="32" />
@@ -448,43 +454,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaG9pY2VPcHRpb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiYXJuOmF3czpzMzo6Om9naWtlaS10ZXN0MTMiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICJhd3M6c291cmNlVnBjZSI6ICJ2cGNlLTBkOTM3OGQ1ODcwYzQ3ODkxIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiQVdTIjogImFybjphd3M6aWFtOjo4OTEwODI2NDM4MTA6dXNlci9vcGUtb2dpd2FyYSIK</text>
+        <text encoding="base64">ICAgICAgIkNvbmRpdGlvbiI6IHsKICAgICAgICAiU3RyaW5nRXF1YWxzIjogewogICAgICAgICAgImF3czpzb3VyY2VWcGNlIjogWwogICAgICAgICAgICAidnBjZS14eHh4eHh4eCIKICAgICAgICAgIF0KICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiYXJuOmF3czpzMzo6Om9naWtlaS10ZXN0MTAvKiIK</text>
+        <text encoding="base64">ICAgICAgICAgIF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICJhd3M6c291cmNlVnBjZSI6IFsKICAgICAgICAgICAgInZwY2UteHh4eHh4eHgiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiczM6TGlzdEFsbE15QnVja2V0cyIsCiAgICAgICAgInMzOkxpc3RCdWNrZXQiLAogICAgICAgICJzMzpHZXRCdWNrZXRQb2xpY3kiCg==</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3MuY2xpZW50LmJ1aWxkZXIuQXdzQ2xpZW50QnVpbGRlci5FbmRwb2ludENvbmZpZ3VyYXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAiQVdTIjogImFybjphd3M6aWFtOjo4OTEwODI2NDM4MTA6dXNlci9vcGUtb2dpd2FyYSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3MuY2xpZW50LmJ1aWxkZXIuQXdzQ2xpZW50QnVpbGRlci5FbmRwb2ludENvbmZpZ3VyYXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAiYXJuOmF3czpzMzo6Om9naWtlaS10ZXN0MTAvKiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLnN0YW5kYXJkKCkKICAgICAgLndpdGhFbmRwb2ludENvbmZpZ3VyYXRpb24obmV3IEVuZHBvaW50Q29uZmlndXJhdGlvbigiY29tLmFtYXpvbmF3cy5hcC1ub3J0aGVhc3QtMS5rbXMiLCAiYXAtbm9ydGhlYXN0LTEiKSkKICAgICAgLmJ1aWxkKCkK</text>
+        <text encoding="base64">ICAgICAgXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5obwo=</text>
+        <text encoding="base64">ICAgICAgICAiczM6TGlzdEFsbE15QnVja2V0cyIsCiAgICAgICAgInMzOkxpc3RCdWNrZXQiLAogICAgICAgICJzMzpHZXRCdWNrZXRQb2xpY3kiCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
