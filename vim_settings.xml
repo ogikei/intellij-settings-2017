@@ -182,12 +182,12 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/main.tf" timestamp="1553096860443">
-        <mark key="'" line="87" column="35" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="35" column="3" />
+      <file name="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/main.tf" timestamp="1553098416436">
+        <mark key="'" line="109" column="38" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="3" />
       </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/makeandcap/lesson.go" timestamp="1543326130022">
         <mark key="[" line="33" column="0" />
@@ -370,10 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
-      <jump line="73" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
-      <jump line="16" column="6" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
-      <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
       <jump line="72" column="8" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
       <jump line="54" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
@@ -470,55 +466,59 @@
       <jump line="100" column="31" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/compute/ec2/main.tf" />
       <jump line="114" column="27" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/compute/ec2/main.tf" />
       <jump line="117" column="53" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/compute/ec2/main.tf" />
+      <jump line="28" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/main.tf" />
+      <jump line="124" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/main.tf" />
+      <jump line="103" column="38" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/main.tf" />
+      <jump line="109" column="38" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/main.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>connection</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkZWZhdWx0ID0gIk50OXQ5dm8iCg==</text>
       </register>
       <register name="-" type="4">
         <text>connection</text>
       </register>
       <register name="/" type="4">
-        <text>bastion</text>
+        <text encoding="base64">XDxyZGJfamRiY19jb25uZWN0aW9uX3VybFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">b3V0cHV0ICJyZGJfc3VibmV0X2dyb3VwX25hbWUiIHsKICB2YWx1ZSA9ICIke2F3c19kYl9zdWJuZXRfZ3JvdXAuYW5hbHlzaXNfcmRiX3N1Ym5ldF9ncm91cC5uYW1lfSIKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIk50OXQ5dm8iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyaWFibGUgImFjY2Vzc19rZXkiIHsKfQp2YXJpYWJsZSAic2VjcmV0X2tleSIgewp9Cgp2YXJpYWJsZSAidXNlcm5hbWUiIHsKfQp2YXJpYWJsZSAicGFzc3dvcmQiIHsKfQoKdmFyaWFibGUgImF2YWlsYWJpbGl0eV96b25lIiB7CiAgZGVmYXVsdCA9ICJhcC1ub3J0aGVhc3QtMWEiCn0KCnZhcmlhYmxlICJzZXJ2aWNlX25hbWUiIHsKfQoKdmFyaWFibGUgImVudiIgewogIGRlZmF1bHQgPSAidGVzdCIKfQoKdmFyaWFibGUgImtleSIgewp9CnZhcmlhYmxlICJpdiIgewp9Cg==</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gInghNH1UeFsiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gImNvbS5hbWF6b25hd3MudnBjZS5hcC1ub3J0aGVhc3QtMS52cGNlLXN2Yy0wMzg3NDNiYWRiZDFjNzhkZiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">b3V0cHV0ICJyZGJfamRiY19jb25uZWN0aW9uX3VybCIgewogIHZhbHVlID0gIiR7YXdzX2RiX2luc3RhbmNlLmFuYWx5c2lzX3JkYi5jb25uZWN0aW9ufSIKfQo=</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIjUyMTk0S2VpIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIm9naWtlaSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXJhbWV0ZXJJdiA9IGdldFBhcmFtZXRlcigiL2FuYWx5c2lzL3Rlc3QvaXYiKQo=</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIm1aSWdOdEJnRkdOMlNzSmF5Z3VHQjRTVnpwd1g5QzhOUE4zS2JEZHkiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXJhbWV0ZXJLZXkgPSBnZXRQYXJhbWV0ZXIoIi9hbmFseXNpcy90ZXN0L2tleSIpCg==</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIkFLSUFKUUc1QkhXNjUyQ0VDUk1BIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsYXp5IHZhbCBwYXJhbWV0ZXJJdiA9IGdldFBhcmFtZXRlcigiL2FuYWx5c2lzL3Rlc3QvaXYiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyaWFibGUgImFjY2Vzc19rZXkiIHsKfQp2YXJpYWJsZSAic2VjcmV0X2tleSIgewp9Cgp2YXJpYWJsZSAidXNlcm5hbWUiIHsKfQp2YXJpYWJsZSAicGFzc3dvcmQiIHsKfQoKdmFyaWFibGUgImF2YWlsYWJpbGl0eV96b25lIiB7CiAgZGVmYXVsdCA9ICJhcC1ub3J0aGVhc3QtMWEiCn0KCnZhcmlhYmxlICJzZXJ2aWNlX25hbWUiIHsKfQoKdmFyaWFibGUgImVudiIgewogIGRlZmF1bHQgPSAidGVzdCIKfQoKdmFyaWFibGUgImtleSIgewp9CnZhcmlhYmxlICJpdiIgewp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>bastion</last-search>
+      <last-search encoding="base64">XDxyZGJfamRiY19jb25uZWN0aW9uX3VybFw+</last-search>
       <last-offset />
-      <last-pattern>bastion</last-pattern>
+      <last-pattern encoding="base64">XDxyZGJfamRiY19jb25uZWN0aW9uX3VybFw+</last-pattern>
       <last-replace>y</last-replace>
       <last-substitute>Y</last-substitute>
       <last-dir>1</last-dir>
@@ -526,7 +526,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lock</entry>
         <entry>thread</entry>
         <entry>process</entry>
         <entry encoding="base64">XDwiXD4=</entry>
@@ -546,6 +545,7 @@
         <entry encoding="base64">XDxKREJDX0NPTk5FQ1RJT05fVVJMXD4=</entry>
         <entry>ec2</entry>
         <entry>bastion</entry>
+        <entry encoding="base64">XDxyZGJfamRiY19jb25uZWN0aW9uX3VybFw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
