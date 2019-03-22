@@ -3,9 +3,9 @@
   <metaInfo>
     <property name="created">2017-04-10T18:10:53</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2018-06-23T15:44:12</property>
-    <property name="originalScheme">Material Theme - Darker</property>
+    <property name="ideVersion">2018.2.1.0.0</property>
+    <property name="modified">2019-03-21T00:05:18</property>
+    <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
@@ -51,6 +51,7 @@
     <option name="INDENT_GUIDE" value="424242" />
     <option name="INFORMATION_HINT" value="212121" />
     <option name="LINE_NUMBERS_COLOR" value="424242" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="616161" />
     <option name="METHOD_SEPARATORS_COLOR" value="424242" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6e" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
@@ -64,6 +65,22 @@
     <option name="SELECTION_BACKGROUND" value="353535" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="ff9800" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="ff9800" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="ff9800" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="ff9800" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="ff9800" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="ff9800" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="ff9800" />
+    <option name="ScrollBar.Mac.thumbColor" value="ff9800" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="ff9800" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="ff9800" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="ff9800" />
+    <option name="ScrollBar.Transparent.thumbColor" value="ff9800" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="ff9800" />
+    <option name="ScrollBar.hoverThumbColor" value="ff9800" />
+    <option name="ScrollBar.thumbBorderColor" value="ff9800" />
+    <option name="ScrollBar.thumbColor" value="ff9800" />
     <option name="TEARLINE_COLOR" value="303030" />
     <option name="TOOLTIP" value="323232" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="212121" />
@@ -139,12 +156,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
-    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BLADE_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
@@ -763,6 +774,20 @@
         <option name="FOREGROUND" value="82aaff" />
       </value>
     </option>
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="eeffff" />
+        <option name="EFFECT_COLOR" value="eeffff" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_REASSIGNED_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="f78c6c" />
+        <option name="EFFECT_COLOR" value="f78c6c" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -1248,6 +1273,50 @@
         <option name="ERROR_STRIPE_COLOR" value="4f4f4f" />
       </value>
     </option>
+    <option name="IGNORE.BRACKET">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IGNORE.COMMENT">
+      <value>
+        <option name="FOREGROUND" value="616161" />
+      </value>
+    </option>
+    <option name="IGNORE.HEADER">
+      <value>
+        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IGNORE.NEGATION">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IGNORE.SECTION">
+      <value>
+        <option name="FOREGROUND" value="82aaff" />
+      </value>
+    </option>
+    <option name="IGNORE.SLASH">
+      <value>
+        <option name="FOREGROUND" value="eeffff" />
+      </value>
+    </option>
+    <option name="IGNORE.SYNTAX">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IGNORE.VALUE">
+      <value>
+        <option name="FOREGROUND" value="eeffff" />
+      </value>
+    </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -1331,6 +1400,11 @@
         <option name="FOREGROUND" value="1a1f29" />
       </value>
     </option>
+    <option name="JS.DEBUGGER_STMT">
+      <value>
+        <option name="FOREGROUND" value="f78c6c" />
+      </value>
+    </option>
     <option name="JS.DECORATOR">
       <value>
         <option name="FOREGROUND" value="82aaff" />
@@ -1339,6 +1413,16 @@
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="f1fdff" />
+      </value>
+    </option>
+    <option name="JS.MODULE_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+      </value>
+    </option>
+    <option name="JS.THIS_SUPER">
+      <value>
+        <option name="FOREGROUND" value="ff4965" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME">
@@ -3033,7 +3117,7 @@
     </option>
     <option name="RUBY_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
     <option name="RUBY_CONSTANT_DECLARATION">
@@ -3140,7 +3224,7 @@
     </option>
     <option name="RUBY_PARAMDEF_CALL">
       <value>
-        <option name="FOREGROUND" value="ffc66d" />
+        <option name="FOREGROUND" value="c3e88d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -3166,7 +3250,7 @@
     </option>
     <option name="RUBY_SPECIFIC_CALL">
       <value>
-        <option name="FOREGROUND" value="ffc66d" />
+        <option name="FOREGROUND" value="c3e88d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>

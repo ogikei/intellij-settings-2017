@@ -4,26 +4,21 @@
     <property name="created">2017-04-10T18:10:53</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.1.0.0</property>
-    <property name="modified">2018-10-16T11:46:12</property>
+    <property name="modified">2019-03-21T00:07:43</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <font>
     <option name="EDITOR_FONT_NAME" value="SourceCodePro+Powerline+Awesome Regular" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="SourceCodePro+Powerline+Awesome Regular" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
-  </console-font>
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="264b33" />
     <option name="ANNOTATIONS_COLOR" value="474747" />
@@ -57,6 +52,7 @@
     <option name="INDENT_GUIDE" value="b0bec5" />
     <option name="INFORMATION_HINT" value="f3f5f6" />
     <option name="LINE_NUMBERS_COLOR" value="cfd8dc" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="a7adb0" />
     <option name="METHOD_SEPARATORS_COLOR" value="b0bec5" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6e" />
     <option name="MT_ADDED" value="91b859" />
@@ -90,6 +86,22 @@
     <option name="SEPARATOR_ABOVE_COLOR" value="b0bec5" />
     <option name="SEPARATOR_BELOW_COLOR" value="b0bec5" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="80cbc4" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="80cbc4" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="80cbc4" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="80cbc4" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="80cbc4" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="80cbc4" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="80cbc4" />
+    <option name="ScrollBar.Mac.thumbColor" value="80cbc4" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="80cbc4" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="80cbc4" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="80cbc4" />
+    <option name="ScrollBar.Transparent.thumbColor" value="80cbc4" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="80cbc4" />
+    <option name="ScrollBar.hoverThumbColor" value="80cbc4" />
+    <option name="ScrollBar.thumbBorderColor" value="80cbc4" />
+    <option name="ScrollBar.thumbColor" value="80cbc4" />
     <option name="TEARLINE_COLOR" value="e7eaec" />
     <option name="TOOLTIP" value="fafafa" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="a7fff8" />
@@ -718,26 +730,26 @@
     <option name="DIFF_CONFLICT">
       <value>
         <option name="FOREGROUND" value="b09bff" />
-        <option name="BACKGROUND" value="7c4dff" />
+        <option name="BACKGROUND" value="c0aaff" />
         <option name="ERROR_STRIPE_COLOR" value="8f5247" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
         <option name="FOREGROUND" value="f2adab" />
-        <option name="BACKGROUND" value="e53935" />
+        <option name="BACKGROUND" value="d9d9d9" />
         <option name="ERROR_STRIPE_COLOR" value="656e76" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="91b859" />
+        <option name="BACKGROUND" value="e2eadf" />
         <option name="ERROR_STRIPE_COLOR" value="447152" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="ffb62c" />
+        <option name="BACKGROUND" value="f9e5e5" />
         <option name="ERROR_STRIPE_COLOR" value="43698d" />
       </value>
     </option>
@@ -1122,6 +1134,48 @@
       <value>
         <option name="EFFECT_COLOR" value="212121" />
         <option name="ERROR_STRIPE_COLOR" value="65737e" />
+      </value>
+    </option>
+    <option name="IGNORE.BRACKET">
+      <value>
+        <option name="FOREGROUND" value="39adb5" />
+      </value>
+    </option>
+    <option name="IGNORE.COMMENT">
+      <value>
+        <option name="FOREGROUND" value="aabfc9" />
+      </value>
+    </option>
+    <option name="IGNORE.HEADER">
+      <value>
+        <option name="FOREGROUND" value="f76d47" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IGNORE.NEGATION">
+      <value>
+        <option name="FOREGROUND" value="39adb5" />
+      </value>
+    </option>
+    <option name="IGNORE.SECTION">
+      <value>
+        <option name="FOREGROUND" value="6182b8" />
+      </value>
+    </option>
+    <option name="IGNORE.SLASH">
+      <value>
+        <option name="FOREGROUND" value="90a4ae" />
+      </value>
+    </option>
+    <option name="IGNORE.SYNTAX">
+      <value>
+        <option name="FOREGROUND" value="7c4dff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IGNORE.VALUE">
+      <value>
+        <option name="FOREGROUND" value="90a4ae" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -2747,7 +2801,7 @@
     </option>
     <option name="RUBY_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="f76d47" />
+        <option name="FOREGROUND" value="f6a434" />
       </value>
     </option>
     <option name="RUBY_CONSTANT_DECLARATION">
@@ -2757,7 +2811,7 @@
     </option>
     <option name="RUBY_CVAR">
       <value>
-        <option name="FOREGROUND" value="c17e70" />
+        <option name="FOREGROUND" value="39adb5" />
       </value>
     </option>
     <option name="RUBY_DOT">
@@ -2854,6 +2908,7 @@
     </option>
     <option name="RUBY_PARAMDEF_CALL">
       <value>
+        <option name="FOREGROUND" value="91b859" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2879,6 +2934,7 @@
     </option>
     <option name="RUBY_SPECIFIC_CALL">
       <value>
+        <option name="FOREGROUND" value="91b859" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
