@@ -194,12 +194,11 @@
         <mark key="." line="18" column="42" />
         <mark key="^" line="18" column="48" />
       </file>
-      <file name="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" timestamp="1553346555626">
-        <mark key="'" line="42" column="25" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="55" column="46" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" timestamp="1553348153169">
+        <mark key="'" line="9" column="35" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/booltypes/lesson.go" timestamp="1543318136443">
         <mark key="[" line="19" column="22" />
@@ -414,16 +413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="20" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/assign_string/lesson.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
-      <jump line="6" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
-      <jump line="33" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
-      <jump line="73" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
-      <jump line="16" column="6" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
-      <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
-      <jump line="72" column="8" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
-      <jump line="54" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
       <jump line="3" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
       <jump line="87" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
       <jump line="70" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
@@ -498,7 +487,6 @@
       <jump line="73" column="35" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/main.tf" />
       <jump line="101" column="14" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/main.tf" />
       <jump line="64" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
-      <jump line="44" column="71" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="49" column="43" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="50" column="33" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="51" column="25" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
@@ -506,63 +494,75 @@
       <jump line="55" column="10" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="56" column="42" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="43" column="10" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
-      <jump line="46" column="17" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="68" column="24" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
-      <jump line="6" column="10" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="67" column="22" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="65" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
-      <jump line="77" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="12" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="42" column="25" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="61" column="2" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="19" column="2" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="32" column="2" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="44" column="2" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="66" column="26" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="21" column="2" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="34" column="2" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="46" column="2" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="23" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="6" column="10" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="79" column="42" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="77" column="42" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="63" column="17" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="9" column="35" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImF3c19pYW1fcG9saWN5IiAiYW5hbHlzdF9wb2xpY3kiIHsKICBuYW1lID0gImFuYWx5c3QtcG9saWN5IgogIHBvbGljeSA9ICIke2ZpbGUoIiR7cGF0aC5tb2R1bGV9L3BvbGljeS9hbmFseXN0Lmpzb24iKX0iCn0KCg==</text>
+        <text encoding="base64">ICBwb2wK</text>
       </register>
       <register name="-" type="4">
-        <text>athena_read_policy</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>analyst</text>
+        <text>sagemaker</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBwYXJhbWV0ZXJLZXkgPSBnZXRQYXJhbWV0ZXIoIi9hbmFseXNpcy90ZXN0L2tleSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImF3c19pYW1fcG9saWN5IiAiYW5hbHlzdF9wb2xpY3kiIHsKICBuYW1lID0gImFuYWx5c3QtcG9saWN5IgogIHBvbGljeSA9ICIke2ZpbGUoIiR7cGF0aC5tb2R1bGV9L3BvbGljeS9hbmFseXN0Lmpzb24iKX0iCn0KCg==</text>
+        <text encoding="base64">ICBwb2wK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyBpZ25vcmUgSW50ZWxsaUogLmlkZWEvICouaW1sICAjIGlnbm9yZSAudGVycmFmb3JtICoqLy50ZXJyYWZvcm0vKiAqLnRmc3RhdGUgKi50ZnN0YXRlLioK</text>
+      <register name="2" type="4">
+        <text>sage_maker_policy_arn[count.index]}&quot;
+  count = &quot;${length(var</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBpZ25vcmUgSW50ZWxsaUogLmlkZWEvICouaW1sICAjIGlnbm9yZSAudGVycmFmb3JtICoqLy50ZXJyYWZvcm0vKiAqLnRmc3RhdGUgKi50ZnN0YXRlLioK</text>
+        <text encoding="base64">cmVzb3VyY2UgImF3c19pYW1fcG9saWN5IiAiYW5hbHlzdF9wb2xpY3kiIHsKICBuYW1lID0gImFuYWx5c3QtcG9saWN5IgogIHBvbGljeSA9ICIke2ZpbGUoIiR7cGF0aC5tb2R1bGV9L3BvbGljeS9hbmFseXN0Lmpzb24iKX0iCn0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+        <text encoding="base64">IyBpZ25vcmUgSW50ZWxsaUogLmlkZWEvICouaW1sICAjIGlnbm9yZSAudGVycmFmb3JtICoqLy50ZXJyYWZvcm0vKiAqLnRmc3RhdGUgKi50ZnN0YXRlLioK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBpZ25vcmUgSW50ZWxsaUogLmlkZWEvICouaW1sICAjIGlnbm9yZSAudGVycmFmb3JtICoqLy50ZXJyYWZvcm0vKiAqLnRmc3RhdGUgKi50ZnN0YXRlLioK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXJhbWV0ZXJJdiA9IGdldFBhcmFtZXRlcigiL2FuYWx5c2lzL3Rlc3QvaXYiKQo=</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXJhbWV0ZXJLZXkgPSBnZXRQYXJhbWV0ZXIoIi9hbmFseXNpcy90ZXN0L2tleSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsYXp5IHZhbCBwYXJhbWV0ZXJJdiA9IGdldFBhcmFtZXRlcigiL2FuYWx5c2lzL3Rlc3QvaXYiKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBwYXJhbWV0ZXJJdiA9IGdldFBhcmFtZXRlcigiL2FuYWx5c2lzL3Rlc3QvaXYiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBwYXJhbWV0ZXJLZXkgPSBnZXRQYXJhbWV0ZXIoIi9hbmFseXNpcy90ZXN0L2tleSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>analyst</last-search>
+      <last-search>sagemaker</last-search>
       <last-offset />
-      <last-pattern>analyst</last-pattern>
+      <last-pattern>sagemaker</last-pattern>
       <last-replace>y</last-replace>
       <last-substitute>Y</last-substitute>
       <last-dir>1</last-dir>
@@ -570,10 +570,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mysql_sg_id</entry>
-        <entry>mysql</entry>
-        <entry>subnet</entry>
-        <entry>vpc</entry>
         <entry>service_name</entry>
         <entry>var</entry>
         <entry encoding="base64">XDxzdWJuZXRfaWRzXD4=</entry>
@@ -588,8 +584,12 @@
         <entry>ec2</entry>
         <entry>athena</entry>
         <entry encoding="base64">XDxhbmFseXN0XD4=</entry>
-        <entry encoding="base64">XDxzYWdlX21ha2VyX3BvbGljeV9hcm5cPg==</entry>
         <entry>analyst</entry>
+        <entry encoding="base64">XDxhc3N1bWVfcm9sZV9wb2xpY3lcPg==</entry>
+        <entry>desc</entry>
+        <entry encoding="base64">XDxzYWdlX21ha2VyX3BvbGljeV9hcm5cPg==</entry>
+        <entry encoding="base64">XDxzYWdlX21ha2VyXD4=</entry>
+        <entry>sagemaker</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
