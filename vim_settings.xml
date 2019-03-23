@@ -194,8 +194,8 @@
         <mark key="." line="18" column="42" />
         <mark key="^" line="18" column="48" />
       </file>
-      <file name="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" timestamp="1553333454027">
-        <mark key="'" line="54" column="27" />
+      <file name="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" timestamp="1553334191302">
+        <mark key="'" line="50" column="33" />
         <mark key="[" line="69" column="15" />
         <mark key="]" line="69" column="13" />
         <mark key="^" line="69" column="13" />
@@ -414,7 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="9" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
       <jump line="13" column="3" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
       <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
       <jump line="9" column="10" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
@@ -512,8 +511,9 @@
       <jump line="126" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/main.tf" />
       <jump line="71" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="55" column="10" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
-      <jump line="50" column="33" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="56" column="20" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="54" column="27" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="50" column="33" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -523,7 +523,7 @@
         <text encoding="base64">dmFsIHBhcmFtZXRlcktleSA9IA==</text>
       </register>
       <register name="/" type="4">
-        <text>athena</text>
+        <text>athena_read_policy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBwYXJhbWV0ZXJLZXkgPSBnZXRQYXJhbWV0ZXIoIi9hbmFseXNpcy90ZXN0L2tleSIpCg==</text>
@@ -560,9 +560,9 @@
       </register>
     </registers>
     <search>
-      <last-search>athena</last-search>
+      <last-search>athena_read_policy</last-search>
       <last-offset />
-      <last-pattern>athena</last-pattern>
+      <last-pattern>athena_read_policy</last-pattern>
       <last-replace>y</last-replace>
       <last-substitute>Y</last-substitute>
       <last-dir>1</last-dir>
@@ -570,7 +570,6 @@
     </search>
     <history>
       <history-search>
-        <entry>module</entry>
         <entry>rds</entry>
         <entry encoding="base64">XDxhbmFseXNpc192cGNfZW5kcG9pbnRcPg==</entry>
         <entry>vpc_security_group_ids</entry>
@@ -590,6 +589,7 @@
         <entry encoding="base64">XDxlbnZcPg==</entry>
         <entry encoding="base64">XDxhdmFpbGFiaWxpdHlfem9uZVw+</entry>
         <entry>athena</entry>
+        <entry>athena_read_policy</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
