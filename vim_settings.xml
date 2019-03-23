@@ -194,11 +194,12 @@
         <mark key="." line="18" column="42" />
         <mark key="^" line="18" column="48" />
       </file>
-      <file name="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" timestamp="1553348153169">
-        <mark key="'" line="9" column="35" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" timestamp="1553349110518">
+        <mark key="'" line="54" column="27" />
+        <mark key="[" line="63" column="35" />
+        <mark key="]" line="63" column="35" />
+        <mark key="." line="63" column="35" />
+        <mark key="^" line="63" column="21" />
       </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/booltypes/lesson.go" timestamp="1543318136443">
         <mark key="[" line="19" column="22" />
@@ -413,19 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
-      <jump line="87" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
-      <jump line="70" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
-      <jump line="89" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
-      <jump line="45" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
-      <jump line="37" column="62" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
-      <jump line="84" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
-      <jump line="27" column="15" filename="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/variable/lesson.go" />
-      <jump line="5" column="8" filename="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/numerictypes/lesson.go" />
-      <jump line="25" column="6" filename="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/numerictypes/lesson.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/numerictypes/lesson.go" />
-      <jump line="18" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-go/04_statement/if/lesson.go" />
-      <jump line="17" column="11" filename="$USER_HOME$/MyWork/git/silicon-valley-with-go/04_statement/for/lesson.go" />
       <jump line="7" column="0" filename="$USER_HOME$/go/src/silicon-valley-with-go/05_pointer/pointer/lesson.go" />
       <jump line="17" column="0" filename="$USER_HOME$/go/src/silicon-valley-with-go/05_pointer/pointer/lesson.go" />
       <jump line="23" column="0" filename="$USER_HOME$/go/src/silicon-valley-with-go/05_pointer/struct/lesson.go" />
@@ -490,39 +478,52 @@
       <jump line="49" column="43" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="50" column="33" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="51" column="25" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
-      <jump line="54" column="27" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="55" column="10" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="56" column="42" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
-      <jump line="43" column="10" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="68" column="24" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="67" column="22" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
-      <jump line="65" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="12" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
-      <jump line="42" column="25" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="61" column="2" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
-      <jump line="19" column="2" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="32" column="2" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
-      <jump line="44" column="2" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="66" column="26" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="21" column="2" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="34" column="2" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
-      <jump line="46" column="2" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="23" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
-      <jump line="6" column="10" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
-      <jump line="79" column="42" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
-      <jump line="77" column="42" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="63" column="17" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
-      <jump line="9" column="35" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="69" column="10" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="72" column="70" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="73" column="44" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="74" column="12" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="77" column="38" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="78" column="21" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="79" column="35" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="0" column="15" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="3" column="22" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="4" column="22" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="6" column="21" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="9" column="22" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="13" column="34" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="14" column="30" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="19" column="47" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="24" column="57" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="25" column="27" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="26" column="29" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="65" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="42" column="25" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="43" column="10" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="44" column="71" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="46" column="17" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="54" column="27" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwb2wK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHJvbGU=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IHJvbGU=</text>
       </register>
       <register name="/" type="4">
-        <text>sagemaker</text>
+        <text>analyst</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBwYXJhbWV0ZXJLZXkgPSBnZXRQYXJhbWV0ZXIoIi9hbmFseXNpcy90ZXN0L2tleSIpCg==</text>
@@ -560,9 +561,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sagemaker</last-search>
+      <last-search>analyst</last-search>
       <last-offset />
-      <last-pattern>sagemaker</last-pattern>
+      <last-pattern>analyst</last-pattern>
       <last-replace>y</last-replace>
       <last-substitute>Y</last-substitute>
       <last-dir>1</last-dir>
@@ -570,7 +571,6 @@
     </search>
     <history>
       <history-search>
-        <entry>service_name</entry>
         <entry>var</entry>
         <entry encoding="base64">XDxzdWJuZXRfaWRzXD4=</entry>
         <entry>subnet_id</entry>
@@ -584,12 +584,13 @@
         <entry>ec2</entry>
         <entry>athena</entry>
         <entry encoding="base64">XDxhbmFseXN0XD4=</entry>
-        <entry>analyst</entry>
         <entry encoding="base64">XDxhc3N1bWVfcm9sZV9wb2xpY3lcPg==</entry>
         <entry>desc</entry>
         <entry encoding="base64">XDxzYWdlX21ha2VyX3BvbGljeV9hcm5cPg==</entry>
         <entry encoding="base64">XDxzYWdlX21ha2VyXD4=</entry>
         <entry>sagemaker</entry>
+        <entry>policy</entry>
+        <entry>analyst</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
