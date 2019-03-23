@@ -194,12 +194,12 @@
         <mark key="." line="18" column="42" />
         <mark key="^" line="18" column="48" />
       </file>
-      <file name="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" timestamp="1553334191302">
-        <mark key="'" line="50" column="33" />
-        <mark key="[" line="69" column="15" />
-        <mark key="]" line="69" column="13" />
-        <mark key="^" line="69" column="13" />
-        <mark key="." line="69" column="13" />
+      <file name="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" timestamp="1553339187473">
+        <mark key="'" line="67" column="22" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="55" column="46" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/booltypes/lesson.go" timestamp="1543318136443">
         <mark key="[" line="19" column="22" />
@@ -207,8 +207,8 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/main.tf" timestamp="1553330647074">
-        <mark key="'" line="120" column="0" />
+      <file name="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/main.tf" timestamp="1553338892115">
+        <mark key="'" line="101" column="14" />
         <mark key="[" line="93" column="42" />
         <mark key="]" line="94" column="1" />
         <mark key="^" line="94" column="1" />
@@ -414,23 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="3" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
-      <jump line="9" column="10" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/variable_declaration/lesson.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/variable_declaration/lesson.py" />
-      <jump line="10" column="13" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/numeric/lesson.py" />
-      <jump line="14" column="3" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/numeric/lesson.py" />
-      <jump line="6" column="4" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/numeric/lesson.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/numeric/lesson.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/numeric/lesson.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/numeric/lesson.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/string/lesson.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/string/lesson.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/index_and_slice/lesson.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/index_and_slice/lesson.py" />
-      <jump line="8" column="4" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/index_and_slice/lesson.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/index_and_slice/lesson.py" />
       <jump line="15" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/string_method/lesson.py" />
       <jump line="6" column="14" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/assign_string/lesson.py" />
       <jump line="9" column="20" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/assign_string/lesson.py" />
@@ -510,59 +493,76 @@
       <jump line="3" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/main.tf" />
       <jump line="126" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/main.tf" />
       <jump line="71" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
-      <jump line="55" column="10" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
-      <jump line="56" column="20" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
-      <jump line="54" column="27" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="123" column="47" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/main.tf" />
+      <jump line="48" column="14" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/main.tf" />
+      <jump line="61" column="14" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/main.tf" />
+      <jump line="72" column="8" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/main.tf" />
+      <jump line="73" column="35" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/main.tf" />
+      <jump line="101" column="14" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/main.tf" />
+      <jump line="64" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="65" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="42" column="25" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="44" column="71" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="49" column="43" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="50" column="33" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="51" column="25" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="54" column="27" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="55" column="10" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="56" column="42" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="43" column="10" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="46" column="17" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="68" column="24" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="6" column="10" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="67" column="22" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBpZ25vcmUgSW50ZWxsaUogLmlkZWEvICouaW1sICAjIGlnbm9yZSAudGVycmFmb3JtICoqLy50ZXJyYWZvcm0vKiAqLnRmc3RhdGUgKi50ZnN0YXRlLioK</text>
+        <text encoding="base64">cmVzb3VyY2UgImF3c19pYW1fcG9saWN5IiAiYW5hbHlzdF9wb2xpY3kiIHsKICBuYW1lID0gImFuYWx5c3QtcG9saWN5IgogIHBvbGljeSA9ICIke2ZpbGUoIiR7cGF0aC5tb2R1bGV9L3BvbGljeS9hbmFseXN0Lmpzb24iKX0iCn0KCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIHBhcmFtZXRlcktleSA9IA==</text>
+        <text>athena_read_policy</text>
       </register>
       <register name="/" type="4">
-        <text>athena_read_policy</text>
+        <text encoding="base64">XDxzYWdlX21ha2VyX3BvbGljeV9hcm5cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBwYXJhbWV0ZXJLZXkgPSBnZXRQYXJhbWV0ZXIoIi9hbmFseXNpcy90ZXN0L2tleSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBpZ25vcmUgSW50ZWxsaUogLmlkZWEvICouaW1sICAjIGlnbm9yZSAudGVycmFmb3JtICoqLy50ZXJyYWZvcm0vKiAqLnRmc3RhdGUgKi50ZnN0YXRlLioK</text>
+        <text encoding="base64">cmVzb3VyY2UgImF3c19pYW1fcG9saWN5IiAiYW5hbHlzdF9wb2xpY3kiIHsKICBuYW1lID0gImFuYWx5c3QtcG9saWN5IgogIHBvbGljeSA9ICIke2ZpbGUoIiR7cGF0aC5tb2R1bGV9L3BvbGljeS9hbmFseXN0Lmpzb24iKX0iCn0KCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">IyBpZ25vcmUgSW50ZWxsaUogLmlkZWEvICouaW1sICAjIGlnbm9yZSAudGVycmFmb3JtICoqLy50ZXJyYWZvcm0vKiAqLnRmc3RhdGUgKi50ZnN0YXRlLioK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+        <text encoding="base64">IyBpZ25vcmUgSW50ZWxsaUogLmlkZWEvICouaW1sICAjIGlnbm9yZSAudGVycmFmb3JtICoqLy50ZXJyYWZvcm0vKiAqLnRmc3RhdGUgKi50ZnN0YXRlLioK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXJhbWV0ZXJJdiA9IGdldFBhcmFtZXRlcigiL2FuYWx5c2lzL3Rlc3QvaXYiKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXJhbWV0ZXJLZXkgPSBnZXRQYXJhbWV0ZXIoIi9hbmFseXNpcy90ZXN0L2tleSIpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBsYXp5IHZhbCBwYXJhbWV0ZXJJdiA9IGdldFBhcmFtZXRlcigiL2FuYWx5c2lzL3Rlc3QvaXYiKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhbCBwYXJhbWV0ZXJJdiA9IGdldFBhcmFtZXRlcigiL2FuYWx5c2lzL3Rlc3QvaXYiKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhbCBwYXJhbWV0ZXJLZXkgPSBnZXRQYXJhbWV0ZXIoIi9hbmFseXNpcy90ZXN0L2tleSIpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBsYXp5IHZhbCBwYXJhbWV0ZXJJdiA9IGdldFBhcmFtZXRlcigiL2FuYWx5c2lzL3Rlc3QvaXYiKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5CYXNlNjQKCmltcG9ydCBqYXZheC5jcnlwdG8ue0NpcGhlciwgSWxsZWdhbEJsb2NrU2l6ZUV4Y2VwdGlvbn0KaW1wb3J0IGphdmF4LmNyeXB0by5zcGVjLntJdlBhcmFtZXRlclNwZWMsIFNlY3JldEtleVNwZWN9CgppbXBvcnQgc2NhbGEuY29sbGVjdGlvbi5KYXZhQ29udmVydGVycy5fCgppbXBvcnQgY29tLmFtYXpvbmF3cy5zZXJ2aWNlcy5nbHVlLkNob2ljZU9wdGlvbgppbXBvcnQgY29tLmFtYXpvbmF3cy5zZXJ2aWNlcy5nbHVlLkdsdWVDb250ZXh0CmltcG9ydCBjb20uYW1hem9uYXdzLnNlcnZpY2VzLmdsdWUuTWFwcGluZ1NwZWMKaW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMuZ2x1ZS5SZXNvbHZlU3BlYwppbXBvcnQgY29tLmFtYXpvbmF3cy5zZXJ2aWNlcy5nbHVlLmVycm9ycy5DYWxsU2l0ZQppbXBvcnQgY29tLmFtYXpvbmF3cy5zZXJ2aWNlcy5nbHVlLnV0aWwuR2x1ZUFyZ1BhcnNlcgppbXBvcnQgY29tLmFtYXpvbmF3cy5zZXJ2aWNlcy5nbHVlLnV0aWwuSm9iCmltcG9ydCBjb20uYW1hem9uYXdzLnNlcnZpY2VzLmdsdWUudXRpbC5Kc29uT3B0aW9ucwppbXBvcnQgY29tLmFtYXpvbmF3cy5zZXJ2aWNlcy5zaW1wbGVzeXN0ZW1zbWFuYWdlbWVudC5BV1NTaW1wbGVTeXN0ZW1zTWFuYWdlbWVudAppbXBvcnQgY29tLmFtYXpvbmF3cy5zZXJ2aWNlcy5zaW1wbGVzeXN0ZW1zbWFuYWdlbWVudC5BV1NTaW1wbGVTeXN0ZW1zTWFuYWdlbWVudENsaWVudEJ1aWxkZXIKaW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMuc2ltcGxlc3lzdGVtc21hbmFnZW1lbnQubW9kZWwuR2V0UGFyYW1ldGVyUmVxdWVzdAppbXBvcnQgb3JnLmFwYWNoZS5jb21tb25zLmxhbmczLlN0cmluZ1V0aWxzCmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLlNwYXJrQ29udGV4dAppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuU2F2ZU1vZGUKaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmV4cHJlc3Npb25zLlVzZXJEZWZpbmVkRnVuY3Rpb24KaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmZ1bmN0aW9ucy5fCmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC50eXBlcy57Qnl0ZVR5cGUsIERvdWJsZVR5cGUsIEludGVnZXJUeXBlLCBMb25nVHlwZSwgU3RyaW5nVHlwZSwgVGltZXN0YW1wVHlwZX0KCm9iamVjdCBHbHVlQXBwIHsKICBsYXp5IHZhbCBzc206IEFXU1NpbXBsZVN5c3RlbXNNYW5hZ2VtZW50ID0gQVdTU2ltcGxlU3lzdGVtc01hbmFnZW1lbnRDbGllbnRCdWlsZGVyCiAgICAgIC5kZWZhdWx0Q2xpZW50KCkKCiAgZGVmIG1haW4oc3lzQXJnczogQXJyYXlbU3RyaW5nXSkgewogICAgdmFsIHNwYXJrOiBTcGFya0NvbnRleHQgPSBuZXcgU3BhcmtDb250ZXh0KCkKICAgIHZhbCBnbHVlQ29udGV4dDogR2x1ZUNvbnRleHQgPSBuZXcgR2x1ZUNvbnRleHQoc3BhcmspCgogICAgdmFsIGFyZ3MgPSBHbHVlQXJnUGFyc2VyLmdldFJlc29sdmVkT3B0aW9ucyhzeXNBcmdzLCBTZXEoIkpPQl9OQU1FIikudG9BcnJheSkKICAgIEpvYi5pbml0KGFyZ3MoIkpPQl9OQU1FIiksIGdsdWVDb250ZXh0LCBhcmdzLmFzSmF2YSkKCiAgICB2YWwgdXNlckFzc2V0QWN0ID0gZ2x1ZUNvbnRleHQuZ2V0Q2F0YWxvZ1NvdXJjZShkYXRhYmFzZSA9ICJtb25leWJvb2tfYXBpX3Byb2R1Y3Rpb24iLCB0YWJsZU5hbWUgPSAibW9uZXlib29rX2FwaV9wcm9kdWN0aW9uX3VzZXJfYXNzZXRfYWN0IiwgcmVkc2hpZnRUbXBEaXIgPSAiIiwgdHJhbnNmb3JtYXRpb25Db250ZXh0ID0gImRhdGFzb3VyY2UwIikuZ2V0RHluYW1pY0ZyYW1lKCkKICAgIHZhbCB1c2VySGFzaCA9IGdsdWVDb250ZXh0LmdldENhdGFsb2dTb3VyY2UoZGF0YWJhc2UgPSAibW9uZXlib29rX2FwaV9wcm9kdWN0aW9uIiwgdGFibGVOYW1lID0gIm1vbmV5Ym9va19hcGlfcHJvZHVjdGlvbl91c2VyX2hhc2giLCByZWRzaGlmdFRtcERpciA9ICIiLCB0cmFuc2Zvcm1hdGlvbkNvbnRleHQgPSAiZGF0YXNvdXJjZTEiKS5nZXREeW5hbWljRnJhbWUoKQoKICAgIHZhbCB1c2VyQXNzZXRBY3RERiA9IHVzZXJBc3NldEFjdC50b0RGKCkKICAgIHZhbCB1c2VySGFzaERGID0gdXNlckhhc2gudG9ERigpCgogICAgdmFsIGpvaW5lZFVzZXJBc3NldEFjdERGID0gdXNlckFzc2V0QWN0REYKICAgICAgICAuam9pbih1c2VySGFzaERGLCBTZXEoInVzZXJfaWQiKSkKICAgICAgICAud2hlcmUodXNlckFzc2V0QWN0REYoInVzZXJfaWQiKSA9PT0gdXNlckhhc2hERigidXNlcl9pZCIpKQogICAgICAgIC5kcm9wKHVzZXJIYXNoREYoImlkIikpCgogICAgdmFsIG91dHB1dCA9ICJzMzovL29naWtlaS10ZXN0L3NlMi9vdXQyIgoKICAgIHZhbCB3aXRoRGF0ZUNvbHVtbiA9IGpvaW5lZFVzZXJBc3NldEFjdERGCiAgICAgICAgLnNlbGVjdCgKICAgICAgICAgIGNvbCgiaWQiKS5jYXN0KExvbmdUeXBlKS5hcygiaWQiKSwKICAgICAgICAgIGNvbCgidXNlcl9pZCIpLmNhc3QoTG9uZ1R5cGUpLmFzKCJ1c2VyX2lkIiksCiAgICAgICAgICBjb2woImFjY291bnRfaWQiKS5jYXN0KExvbmdUeXBlKS5hcygiYWNjb3VudF9pZCIpLAogICAgICAgICAgY29sKCJzdWJfYWNjb3VudF9pZCIpLmNhc3QoTG9uZ1R5cGUpLmFzKCJzdWJfYWNjb3VudF9pZCIpLAogICAgICAgICAgY29sKCJpc190cmFuc2ZlciIpLmNhc3QoQnl0ZVR5cGUpLmFzKCJpc190cmFuc2ZlciIpLAogICAgICAgICAgY29sKCJpc19pbmNvbWUiKS5jYXN0KEJ5dGVUeXBlKS5hcygiaXNfaW5jb21lIiksCiAgICAgICAgICBjb2woInVzZXJfcmVjdXJyaW5nX3J1bGVfaWQiKS5jYXN0KExvbmdUeXBlKS5hcygidXNlcl9yZWN1cnJpbmdfcnVsZV9pZCIpLAogICAgICAgICAgZGVjcnlwdFVERihjb2woImNvbnRlbnQiKSwgY29sKCJoYXNoX2tleSIpKQogICAgICAgICAgICAgIC5jYXN0KFN0cmluZ1R5cGUpCiAgICAgICAgICAgICAgLmFzKCJjb250ZW50IiksCiAgICAgICAgICBkZWNyeXB0VURGKGNvbCgib3JpZ19jb250ZW50IiksIGNvbCgiaGFzaF9rZXkiKSkKICAgICAgICAgICAgICAuY2FzdChTdHJpbmdUeXBlKQogICAgICAgICAgICAgIC5hcygib3JpZ19jb250ZW50IiksCiAgICAgICAgICBjb2woImlzX2VkaXRlZF9jb250ZW50IikuY2FzdChCeXRlVHlwZSkuYXMoImlzX2VkaXRlZF9jb250ZW50IiksCiAgICAgICAgICBjb2woImFtb3VudCIpLmNhc3QoRG91YmxlVHlwZSkuYXMoImFtb3VudCIpLAogICAgICAgICAgY29sKCJvcmlnX2Ftb3VudCIpLmNhc3QoRG91YmxlVHlwZSkuYXMoIm9yaWdfYW1vdW50IiksCiAgICAgICAgICBjb2woIm9mZnNldCIpLmNhc3QoRG91YmxlVHlwZSkuYXMoIm9mZnNldCIpLAogICAgICAgICAgY29sKCJjdXJyZW5jeSIpLmNhc3QoU3RyaW5nVHlwZSkuYXMoImN1cnJlbmN5IiksCiAgICAgICAgICBjb2woImpweXJhdGUiKS5jYXN0KERvdWJsZVR5cGUpLmFzKCJqcHlyYXRlIiksCiAgICAgICAgICBkZWNyeXB0VURGKGNvbCgibWVtbyIpLCBjb2woImhhc2hfa2V5IikpCiAgICAgICAgICAgICAgLmNhc3QoU3RyaW5nVHlwZSkKICAgICAgICAgICAgICAuYXMoIm1lbW8iKSwKICAgICAgICAgIGRlY3J5cHRVREYoY29sKCJub3RlIiksIGNvbCgiaGFzaF9rZXkiKSkKICAgICAgICAgICAgICAuY2FzdChTdHJpbmdUeXBlKQogICAgICAgICAgICAgIC5hcygibm90ZSIpLAogICAgICAgICAgY29sKCJsYXJnZV9jYXRlZ29yeV9pZCIpLmNhc3QoSW50ZWdlclR5cGUpLmFzKCJsYXJnZV9jYXRlZ29yeV9pZCIpLAogICAgICAgICAgY29sKCJtaWRkbGVfY2F0ZWdvcnlfaWQiKS5jYXN0KEludGVnZXJUeXBlKS5hcygibWlkZGxlX2NhdGVnb3J5X2lkIiksCiAgICAgICAgICBjb2woImlzX2VkaXRlZF9jYXRlZ29yeSIpLmNhc3QoQnl0ZVR5cGUpLmFzKCJpc19lZGl0ZWRfY2F0ZWdvcnkiKSwKICAgICAgICAgIGNvbCgiaXNfdGFyZ2V0IikuY2FzdChCeXRlVHlwZSkuYXMoImlzX3RhcmdldCIpLAogICAgICAgICAgY29sKCJpc19leHRyYW9yZCIpLmNhc3QoQnl0ZVR5cGUpLmFzKCJpc19leHRyYW9yZCIpLAogICAgICAgICAgY29sKCJwYXltZW50IikuY2FzdChJbnRlZ2VyVHlwZSkuYXMoInBheW1lbnQiKSwKICAgICAgICAgIGNvbCgidGFyZ2V0X2RldF9pZCIpLmNhc3QoTG9uZ1R5cGUpLmFzKCJ0YXJnZXRfZGV0X2lkIiksCiAgICAgICAgICBjb2woInBhcmVudF9hY3RfaWQiKS5jYXN0KExvbmdUeXBlKS5hcygicGFyZW50X2FjdF9pZCIpLAogICAgICAgICAgY29sKCJoYXNfY2hpbGRfZmxhZyIpLmNhc3QoQnl0ZVR5cGUpLmFzKCJoYXNfY2hpbGRfZmxhZyIpLAogICAgICAgICAgY29sKCJwYXJ0bmVyX2FjY291bnRfaWQiKS5jYXN0KExvbmdUeXBlKS5hcygicGFydG5lcl9hY2NvdW50X2lkIiksCiAgICAgICAgICBjb2woInBhcnRuZXJfc3ViX2FjY291bnRfaWQiKS5jYXN0KExvbmdUeXBlKS5hcygicGFydG5lcl9zdWJfYWNjb3VudF9pZCIpLAogICAgICAgICAgY29sKCJwYXJ0bmVyX2FjdF9pZCIpLmNhc3QoTG9uZ1R5cGUpLmFzKCJwYXJ0bmVyX2FjdF9pZCIpLAogICAgICAgICAgY29sKCJjcmVhdGVkX2F0IikuY2FzdChUaW1lc3RhbXBUeXBlKS5hcygiY3JlYXRlZF9hdCIpLAogICAgICAgICAgY29sKCJyZWNvZ25pemVkX2F0IikuY2FzdChUaW1lc3RhbXBUeXBlKS5hcygicmVjb2duaXplZF9hdCIpLAogICAgICAgICAgY29sKCJ1cGRhdGVkX2F0IikuY2FzdChUaW1lc3RhbXBUeXBlKS5hcygidXBkYXRlZF9hdCIpLAogICAgICAgICAgY29sKCJleHRyYSIpLmNhc3QoU3RyaW5nVHlwZSkuYXMoImV4dHJhIikKICAgICAgICApCiAgICAgICAgLndpdGhDb2x1bW4oImRhdGVfY29sdW1uIiwgdG9fZGF0ZShjb2woInVwZGF0ZWRfYXQiKSkpCiAgICB3aXRoRGF0ZUNvbHVtbgogICAgICAgIC53aXRoQ29sdW1uKCJ5ZWFyIiwgeWVhcihjb2woImRhdGVfY29sdW1uIikpKQogICAgICAgIC53aXRoQ29sdW1uKCJtb250aCIsIG1vbnRoKGNvbCgiZGF0ZV9jb2x1bW4iKSkpCiAgICAgICAgLndpdGhDb2x1bW4oImRheSIsIGRheW9mbW9udGgoY29sKCJkYXRlX2NvbHVtbiIpKSkKICAgICAgICAuZHJvcCgiZGF0ZV9jb2x1bW4iKQogICAgICAgIC5kcm9wKCJoYXNoX2tleSIpCiAgICAgICAgLndyaXRlCiAgICAgICAgLnBhcnRpdGlvbkJ5KCJ5ZWFyIiwgIm1vbnRoIiwgImRheSIpCiAgICAgICAgLm1vZGUoU2F2ZU1vZGUuT3ZlcndyaXRlKQogICAgICAgIC5wYXJxdWV0KG91dHB1dCkKCiAgICBKb2IuY29tbWl0KCkKICB9CgogIGRlZiBnZXRQYXJhbWV0ZXIocGFyYW1ldGVyTmFtZTogU3RyaW5nKTogU3RyaW5nID0gewogICAgdmFsIHJlcXVlc3QgPSBuZXcgR2V0UGFyYW1ldGVyUmVxdWVzdCgpCiAgICAgICAgLndpdGhOYW1lKHBhcmFtZXRlck5hbWUpCiAgICAgICAgLndpdGhXaXRoRGVjcnlwdGlvbih0cnVlKQogICAgc3NtLmdldFBhcmFtZXRlcihyZXF1ZXN0KS5nZXRQYXJhbWV0ZXIuZ2V0VmFsdWUKICB9CgogIGRlZiBjcmVhdGVLZXkoaGFzaEtleTogU3RyaW5nKTogU3RyaW5nID0gewogICAgdmFsIHBhcmFtZXRlcktleSA9IGdldFBhcmFtZXRlcigiL2FuYWx5c2lzL3Rlc3Qva2V5IikKICAgIHZhbCBrZXkgPSBwYXJhbWV0ZXJLZXkgKyBoYXNoS2V5CiAgICAvLyAgICB2YWwga2V5ID0gInghNH1UeFsiICsgaGFzaEtleQogICAga2V5LnN1YnN0cmluZygwLCAxNikKICB9CgogIGRlZiBjcmVhdGVJdihoYXNoS2V5OiBTdHJpbmcpOiBTdHJpbmcgPSB7CiAgICB2YWwgcGFyYW1ldGVySXYgPSBnZXRQYXJhbWV0ZXIoIi9hbmFseXNpcy90ZXN0L2l2IikKICAgIHZhbCBpdiA9IHBhcmFtZXRlckl2ICsgaGFzaEtleQogICAgLy8gICAgdmFsIGl2ID0gIk50OXQ5dm8iICsgaGFzaEtleQogICAgaXYuc3Vic3RyaW5nKDAsIDE2KQogIH0KCiAgZGVmIGRlY3J5cHRVREY6IFVzZXJEZWZpbmVkRnVuY3Rpb24gPSB1ZGYgeyAoZW5jcnlwdGVkRGF0YTogU3RyaW5nLCBoYXNoS2V5OiBTdHJpbmcpID0+IHsKICAgIHRyeSB7CiAgICAgIGlmIChlbmNyeXB0ZWREYXRhID09ICJudWxsIiB8fCBTdHJpbmdVdGlscy5pc0JsYW5rKGVuY3J5cHRlZERhdGEpKSB7CiAgICAgICAgTm9uZQogICAgICB9IGVsc2UgewogICAgICAgIHZhbCBrZXkgPSBjcmVhdGVLZXkoaGFzaEtleSkKICAgICAgICB2YWwgaXYgPSBjcmVhdGVJdihoYXNoS2V5KQogICAgICAgIHZhbCBpdlNwZWM6IEl2UGFyYW1ldGVyU3BlYyA9CiAgICAgICAgICBuZXcgSXZQYXJhbWV0ZXJTcGVjKGl2LmdldEJ5dGVzKCJVVEYtOCIpKQogICAgICAgIHZhbCBza2V5U3BlYzogU2VjcmV0S2V5U3BlYyA9CiAgICAgICAgICBuZXcgU2VjcmV0S2V5U3BlYyhrZXkuZ2V0Qnl0ZXMoIlVURi04IiksICJBRVMiKQoKICAgICAgICB2YWwgY2lwaGVyOiBDaXBoZXIgPSBDaXBoZXIuZ2V0SW5zdGFuY2UoIkFFUy9DQkMvUEtDUzVQQURESU5HIikKICAgICAgICBjaXBoZXIuaW5pdChDaXBoZXIuREVDUllQVF9NT0RFLCBza2V5U3BlYywgaXZTcGVjKQoKICAgICAgICBTb21lKG5ldyBTdHJpbmcoY2lwaGVyLmRvRmluYWwoQmFzZTY0LmdldERlY29kZXIuZGVjb2RlKGVuY3J5cHRlZERhdGEpKSkpCiAgICAgIH0KICAgIH0gY2F0Y2ggewogICAgICBjYXNlIGU6IElsbGVnYWxCbG9ja1NpemVFeGNlcHRpb24gPT4gU29tZShlbmNyeXB0ZWREYXRhKQogICAgfQogIH0KICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>athena_read_policy</last-search>
+      <last-search encoding="base64">XDxzYWdlX21ha2VyX3BvbGljeV9hcm5cPg==</last-search>
       <last-offset />
-      <last-pattern>athena_read_policy</last-pattern>
+      <last-pattern encoding="base64">XDxzYWdlX21ha2VyX3BvbGljeV9hcm5cPg==</last-pattern>
       <last-replace>y</last-replace>
       <last-substitute>Y</last-substitute>
       <last-dir>1</last-dir>
@@ -570,15 +570,11 @@
     </search>
     <history>
       <history-search>
-        <entry>rds</entry>
-        <entry encoding="base64">XDxhbmFseXNpc192cGNfZW5kcG9pbnRcPg==</entry>
-        <entry>vpc_security_group_ids</entry>
         <entry>mysql_sg_id</entry>
         <entry>mysql</entry>
         <entry>subnet</entry>
         <entry>vpc</entry>
         <entry>service_name</entry>
-        <entry>ec2</entry>
         <entry>var</entry>
         <entry encoding="base64">XDxzdWJuZXRfaWRzXD4=</entry>
         <entry>subnet_id</entry>
@@ -588,8 +584,12 @@
         <entry encoding="base64">XDx2cGNfc2VjdXJpdHlfZ3JvdXBfaWRzXD4=</entry>
         <entry encoding="base64">XDxlbnZcPg==</entry>
         <entry encoding="base64">XDxhdmFpbGFiaWxpdHlfem9uZVw+</entry>
-        <entry>athena</entry>
         <entry>athena_read_policy</entry>
+        <entry>ec2</entry>
+        <entry>athena</entry>
+        <entry>analyst</entry>
+        <entry encoding="base64">XDxhbmFseXN0XD4=</entry>
+        <entry encoding="base64">XDxzYWdlX21ha2VyX3BvbGljeV9hcm5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
