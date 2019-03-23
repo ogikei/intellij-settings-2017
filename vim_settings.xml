@@ -194,8 +194,8 @@
         <mark key="." line="18" column="42" />
         <mark key="^" line="18" column="48" />
       </file>
-      <file name="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" timestamp="1553339187473">
-        <mark key="'" line="67" column="22" />
+      <file name="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" timestamp="1553346555626">
+        <mark key="'" line="42" column="25" />
         <mark key="[" line="49" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="^" line="55" column="46" />
@@ -414,8 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/string_method/lesson.py" />
-      <jump line="6" column="14" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/assign_string/lesson.py" />
       <jump line="9" column="20" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/assign_string/lesson.py" />
       <jump line="46" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
       <jump line="6" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
@@ -500,8 +498,6 @@
       <jump line="73" column="35" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/main.tf" />
       <jump line="101" column="14" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/main.tf" />
       <jump line="64" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
-      <jump line="65" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
-      <jump line="42" column="25" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="44" column="71" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="49" column="43" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="50" column="33" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
@@ -514,6 +510,10 @@
       <jump line="68" column="24" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="6" column="10" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="67" column="22" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="65" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="77" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="12" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="42" column="25" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -523,7 +523,7 @@
         <text>athena_read_policy</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYWdlX21ha2VyX3BvbGljeV9hcm5cPg==</text>
+        <text>analyst</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBwYXJhbWV0ZXJLZXkgPSBnZXRQYXJhbWV0ZXIoIi9hbmFseXNpcy90ZXN0L2tleSIpCg==</text>
@@ -560,9 +560,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYWdlX21ha2VyX3BvbGljeV9hcm5cPg==</last-search>
+      <last-search>analyst</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYWdlX21ha2VyX3BvbGljeV9hcm5cPg==</last-pattern>
+      <last-pattern>analyst</last-pattern>
       <last-replace>y</last-replace>
       <last-substitute>Y</last-substitute>
       <last-dir>1</last-dir>
@@ -587,9 +587,9 @@
         <entry>athena_read_policy</entry>
         <entry>ec2</entry>
         <entry>athena</entry>
-        <entry>analyst</entry>
         <entry encoding="base64">XDxhbmFseXN0XD4=</entry>
         <entry encoding="base64">XDxzYWdlX21ha2VyX3BvbGljeV9hcm5cPg==</entry>
+        <entry>analyst</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
