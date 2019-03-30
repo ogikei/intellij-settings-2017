@@ -356,14 +356,11 @@
         <mark key="." line="41" column="45" />
         <mark key="^" line="41" column="45" />
       </file>
+      <file name="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/analytics/glue/main.tf" timestamp="1553920759216">
+        <mark key="'" line="71" column="21" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/asynchronous_process/asyncio_condition/lesson.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
-      <jump line="14" column="9" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
       <jump line="13" column="3" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
       <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
       <jump line="9" column="10" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
@@ -458,6 +455,12 @@
       <jump line="124" column="28" filename="$USER_HOME$/MyWork/git/glue-test/src/main/scala/GlueApp.scala" />
       <jump line="12" column="35" filename="$USER_HOME$/MyWork/git/glue-test/src/main/scala/GlueApp.scala" />
       <jump line="152" column="0" filename="$USER_HOME$/MyWork/git/glue-test/src/main/scala/GlueApp.scala" />
+      <jump line="0" column="10" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/analytics/glue/main.tf" />
+      <jump line="19" column="33" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/analytics/glue/main.tf" />
+      <jump line="37" column="33" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/analytics/glue/main.tf" />
+      <jump line="78" column="14" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/analytics/glue/main.tf" />
+      <jump line="66" column="10" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/analytics/glue/main.tf" />
+      <jump line="71" column="21" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/analytics/glue/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -467,7 +470,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHZXRQYXJhbWV0ZXJSZXF1ZXN0XD4=</text>
+        <text encoding="base64">XDxhd3NfZ2x1ZV9jYXRhbG9nX2RhdGFiYXNlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBwYXJhbWV0ZXJLZXkgPSBnZXRQYXJhbWV0ZXIoIi9hbmFseXNpcy90ZXN0L2tleSIpCg==</text>
@@ -504,13 +507,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHZXRQYXJhbWV0ZXJSZXF1ZXN0XD4=</last-search>
+      <last-search encoding="base64">XDxhd3NfZ2x1ZV9jYXRhbG9nX2RhdGFiYXNlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHZXRQYXJhbWV0ZXJSZXF1ZXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhd3NfZ2x1ZV9jYXRhbG9nX2RhdGFiYXNlXD4=</last-pattern>
       <last-replace>y</last-replace>
       <last-substitute>Y</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -532,6 +535,8 @@
         <entry encoding="base64">XDxQcm9maWxlQ3JlZGVudGlhbHNQcm92aWRlclw+</entry>
         <entry encoding="base64">XDxDaG9pY2VPcHRpb25cPg==</entry>
         <entry encoding="base64">XDxHZXRQYXJhbWV0ZXJSZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDxKREJDX0NPTk5FQ1RJT05fVVJMXD4=</entry>
+        <entry encoding="base64">XDxhd3NfZ2x1ZV9jYXRhbG9nX2RhdGFiYXNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
