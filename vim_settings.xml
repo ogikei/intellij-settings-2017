@@ -370,11 +370,12 @@
         <mark key="." line="26" column="18" />
         <mark key="^" line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/MoneybookApiProduction.scala" timestamp="1554107352770">
-        <mark key="'" line="153" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/MoneybookApiProduction.scala" timestamp="1554107998408">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="26" column="1" />
+        <mark key="." line="26" column="1" />
+        <mark key="^" line="26" column="1" />
       </file>
       <file name="$USER_HOME$/go/src/silicon-valley-with-go/05_pointer/exercises/lesson.go" timestamp="1544520114729">
         <mark key="[" line="24" column="11" />
@@ -422,8 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="40" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/analytics/glue/main.tf" />
-      <jump line="37" column="53" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/analytics/glue/main.tf" />
       <jump line="73" column="16" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/analytics/glue/main.tf" />
       <jump line="72" column="3" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/analytics/glue/main.tf" />
       <jump line="42" column="25" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
@@ -468,7 +467,6 @@
       <jump line="44" column="25" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="45" column="10" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="136" column="5" filename="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/MoneybookApiProduction.scala" />
-      <jump line="6" column="0" filename="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/MoneybookApiProduction.scala" />
       <jump line="150" column="0" filename="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/MoneybookApiProduction.scala" />
       <jump line="32" column="3" filename="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/MoneybookApiProduction.scala" />
       <jump line="156" column="0" filename="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/MoneybookApiProduction.scala" />
@@ -521,7 +519,10 @@
       <jump line="10" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/kms/main.tf" />
       <jump line="20" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/kms/main.tf" />
       <jump line="18" column="0" filename="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/MoneybookApiProduction.scala" />
-      <jump line="154" column="0" filename="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/MoneybookApiProduction.scala" />
+      <jump line="110" column="0" filename="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/MoneybookApiProduction.scala" />
+      <jump line="6" column="0" filename="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/MoneybookApiProduction.scala" />
+      <jump line="154" column="1" filename="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/MoneybookApiProduction.scala" />
+      <jump line="24" column="0" filename="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/MoneybookApiProduction.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -564,7 +565,7 @@
         <text encoding="base64">ICB0ZW0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>27</text>
       </register>
     </registers>
     <search>
@@ -605,6 +606,7 @@
         <entry>%d</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>27</entry>
       </history-cmd>
       <history-expr />
       <history-input />
