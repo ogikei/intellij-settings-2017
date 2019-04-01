@@ -178,6 +178,13 @@
         <mark key="." line="18" column="42" />
         <mark key="^" line="18" column="48" />
       </file>
+      <file name="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" timestamp="1554082396849">
+        <mark key="'" line="81" column="22" />
+        <mark key="[" line="68" column="22" />
+        <mark key="]" line="68" column="42" />
+        <mark key="." line="68" column="42" />
+        <mark key="^" line="68" column="42" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/booltypes/lesson.go" timestamp="1543318136443">
         <mark key="[" line="19" column="22" />
         <mark key="]" line="19" column="22" />
@@ -376,19 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/variable_declaration/lesson.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/variable_declaration/lesson.py" />
-      <jump line="10" column="13" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/numeric/lesson.py" />
-      <jump line="14" column="3" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/numeric/lesson.py" />
-      <jump line="6" column="4" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/numeric/lesson.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/numeric/lesson.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/numeric/lesson.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/numeric/lesson.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/string/lesson.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/string/lesson.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/index_and_slice/lesson.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/index_and_slice/lesson.py" />
-      <jump line="8" column="4" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/index_and_slice/lesson.py" />
       <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/index_and_slice/lesson.py" />
       <jump line="15" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/string_method/lesson.py" />
       <jump line="6" column="14" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/assign_string/lesson.py" />
@@ -476,66 +470,75 @@
       <jump line="37" column="53" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/analytics/glue/main.tf" />
       <jump line="73" column="16" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/analytics/glue/main.tf" />
       <jump line="72" column="3" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/analytics/glue/main.tf" />
+      <jump line="12" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="42" column="25" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="43" column="10" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="44" column="71" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="46" column="17" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="6" column="10" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="49" column="27" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="55" column="33" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="59" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="14" column="10" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="11" column="10" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="75" column="24" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
+      <jump line="74" column="22" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">VGhpcyBpcyB0aGUg</text>
+        <text>sage_maker_policy_arn</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VGhpcyBpcyB0aGUg</text>
+        <text>sage_maker_policy_arn</text>
       </register>
       <register name="/" type="4">
-        <text>job</text>
+        <text encoding="base64">XDxzYWdlX21ha2VyX3BvbGljeV9hcm5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXJhbWV0ZXJLZXkgPSBnZXRQYXJhbWV0ZXIoIi9hbmFseXNpcy90ZXN0L2tleSIpCg==</text>
+        <text encoding="base64">ICBwb2xpY3lfYXJuID0gIiR7dmFyLnNhZ2VfbWFrZXJfcG9saWN5X2Fybltjb3VudC5pbmRleF19IgogIGNvdW50ID0gIiR7bGVuZ3RoKHZhci5zYWdlX21ha2VyX3BvbGljeV9hcm4pfSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">ICBwb2xpY3lfYXJuID0gIiR7YXdzX2lhbV9wb2xpY3kuYW5hbHlzdF9wb2xpY3kuYXJufSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">4oiaCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">dmFyaWFibGUgInJkc19lbmhhbmNlZF9tb25pdG9yaW5nX3BvbGljeV9hcm4iIHsKICBkZWZhdWx0ID0gImFybjphd3M6aWFtOjphd3M6cG9saWN5L3NlcnZpY2Utcm9sZS9BbWF6b25SRFNFbmhhbmNlZE1vbml0b3JpbmdSb2xlIgp9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25uZQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25uZWN0aW9uIHt9Cg==</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3NoLXJzYSBBQUFBQjNOemFDMXljMkVBQUFBREFRQUJBQUFCQVFEVXlnTDVlZmxQTC9pdDhVQzJqMjFKK09FRlc3OCtORStIZUx3R1JOanpqK2RHYmJtRk5pMW1PdmxNUWxIdFNZcmwrRnNQSnJyc3JPQ3ZRa1ZwQlBZWm9WSEJYQVh2REx0UnNyRUpNTFVzWkIrSThtR1kzcUVtRm5JRUxZZlVFZS9FZGNheFhJYWFiSm44UER6Wjh5bnA5L2JCRmRQOVF5MXBpMTR6aXcxT005NG1kNVRjdUFIc0kxd3dtUWY0eHFyTk5DOUR1c2FZNW90bEhwMXFFU1JuK3VveWFXUkN4UEVITTJCcXEwOHFJYm5xNHgyQ3ZCWjdvektzV1pnMEJxaDd2b2RnSlpudWdxVVNzaTNFTFNHazRzM1ZGRGVVREZ4eDhtQmhmQmZmdm1iYWVBSXJIcTZwWXFScnN0dTZzSUprQW5rK0paREUxSEZnY01IRzF2MzEgb2dpd2FyYS5rZWlzdWtlQG1mLTA1NjAtbW0wMgo=</text>
+        <text encoding="base64">4oiaCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3NoLXJzYSBBQUFBQjNOemFDMXljMkVBQUFBREFRQUJBQUFCQVFDdkJweldjOHVteW1qeTF3VTN5U2Q3WFIxMHNEQm5XZUFiWEc4ZUlLV25SZEpIMHEyejJka3pvL0l4MEN1a3M3MVJ6U2tsak4wcVMxLzE3TDk3Y0tUaUxjbnpISVd3blpCV1g0RnVtbEtCWEFLak9Eb2ZrZWNkOGREemV5by93YVdsdjZ1bm9SMDByZHFUQUhCMDJDUUxEY2g2SzhkWTBpWEMyNElvbHMxclVxMExLRi83Rkdlc2hUZXFJMVRqNU9WMEtiSUFEQ2NWc05pb2VqWHJpMWd5R0NJc1NBYkNKMDl6MlUxVFRQbVV4SVJESzBjMWFQeUZkbkx1d1BsT3RNRlgyek1UTjFvcGdKVWhRNzZRR2dQZ2g2ZjFkVW81N2lOaVZQV3pxcERPYzU1NXdORnJKWDJNWWE4RjZtRUJjSlJ4a0psbkt0WVhvSG5jWmorNGRrLy8gb2dpd2FyYS5rZWlzdWtlQG1mLTA1NjAtbW0wMQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXJhbWV0ZXJJdiA9IGdldFBhcmFtZXRlcigiL2FuYWx5c2lzL3Rlc3QvaXYiKQo=</text>
+        <text encoding="base64">ICBjb25uZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXJhbWV0ZXJLZXkgPSBnZXRQYXJhbWV0ZXIoIi9hbmFseXNpcy90ZXN0L2tleSIpCg==</text>
+        <text encoding="base64">ICBjb25uZWN0aW9uIHt9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>job</last-search>
+      <last-search encoding="base64">XDxzYWdlX21ha2VyX3BvbGljeV9hcm5cPg==</last-search>
       <last-offset />
-      <last-pattern>job</last-pattern>
+      <last-pattern encoding="base64">XDxzYWdlX21ha2VyX3BvbGljeV9hcm5cPg==</last-pattern>
       <last-replace>y</last-replace>
       <last-substitute>Y</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>process</entry>
-        <entry encoding="base64">XDwiXD4=</entry>
-        <entry>-- did you fill in all the values in WikipediaRanking (conf, sc, wikiRdd)?</entry>
-        <entry>scala</entry>
         <entry>test</entry>
         <entry>BufferedReader</entry>
         <entry>print</entry>
@@ -552,6 +555,10 @@
         <entry encoding="base64">XDxtb25leWJvb2tfYXBpX3Byb2R1Y3Rpb25cPg==</entry>
         <entry encoding="base64">XDxnbHVlX3JvbGVfYXJuXD4=</entry>
         <entry>job</entry>
+        <entry>analyst</entry>
+        <entry encoding="base64">XDxhbmFseXN0X3BvbGljeVw+</entry>
+        <entry encoding="base64">XDxyZHNfZW5oYW5jZWRfbW9uaXRvcmluZ19wb2xpY3lfYXJuXD4=</entry>
+        <entry encoding="base64">XDxzYWdlX21ha2VyX3BvbGljeV9hcm5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
