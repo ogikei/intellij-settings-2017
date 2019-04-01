@@ -154,12 +154,11 @@
         <mark key="^" line="54" column="11" />
         <mark key="." line="54" column="11" />
       </file>
-      <file name="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/developer_tools/codepipeline/main.tf" timestamp="1554095931157">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="27" column="31" />
-        <mark key="]" line="27" column="35" />
-        <mark key="." line="27" column="35" />
-        <mark key="^" line="27" column="35" />
+      <file name="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/developer_tools/codepipeline/main.tf" timestamp="1554100032559">
+        <mark key="'" line="45" column="22" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="38" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/silicon-valley-with-go/structoriented_06/exercises/lesson.go" timestamp="1544526008511">
         <mark key="[" line="21" column="9" />
@@ -379,12 +378,12 @@
         <mark key="." line="26" column="18" />
         <mark key="^" line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/MoneybookApiProduction.scala" timestamp="1554096204437">
-        <mark key="'" line="32" column="3" />
-        <mark key="[" line="155" column="3" />
-        <mark key="]" line="156" column="1" />
-        <mark key="." line="156" column="1" />
-        <mark key="^" line="156" column="1" />
+      <file name="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/MoneybookApiProduction.scala" timestamp="1554099762440">
+        <mark key="'" line="16" column="79" />
+        <mark key="[" line="17" column="79" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/silicon-valley-with-go/05_pointer/exercises/lesson.go" timestamp="1544520114729">
         <mark key="[" line="24" column="11" />
@@ -426,10 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/go/src/silicon-valley-with-go/05_pointer/struct/lesson.go" />
-      <jump line="14" column="7" filename="$USER_HOME$/go/src/silicon-valley-with-go/structoriented_06/methodandreceiver/lesson.go" />
-      <jump line="27" column="0" filename="$USER_HOME$/go/src/silicon-valley-with-go/structoriented_06/methodandreceiver/lesson.go" />
-      <jump line="2" column="0" filename="$USER_HOME$/go/src/silicon-valley-with-go/structoriented_06/methodandreceiver/lesson.go" />
       <jump line="29" column="0" filename="$USER_HOME$/go/src/silicon-valley-with-go/structoriented_06/constructor/lesson.go" />
       <jump line="2" column="0" filename="$USER_HOME$/go/src/silicon-valley-with-go/structoriented_06/constructor/lesson.go" />
       <jump line="22" column="0" filename="$USER_HOME$/go/src/silicon-valley-with-go/structoriented_06/constructor/lesson.go" />
@@ -501,7 +496,6 @@
       <jump line="3" column="0" filename="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/aa.scala" />
       <jump line="7" column="0" filename="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/aa.scala" />
       <jump line="156" column="0" filename="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/aa.scala" />
-      <jump line="45" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/developer_tools/codepipeline/main.tf" />
       <jump line="0" column="0" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/developer_tools/codepipeline/main.tf" />
       <jump line="0" column="18" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
       <jump line="4" column="45" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/security/iam/main.tf" />
@@ -526,55 +520,60 @@
       <jump line="6" column="0" filename="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/MoneybookApiProduction.scala" />
       <jump line="150" column="0" filename="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/MoneybookApiProduction.scala" />
       <jump line="32" column="3" filename="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/MoneybookApiProduction.scala" />
+      <jump line="156" column="0" filename="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/MoneybookApiProduction.scala" />
+      <jump line="4" column="0" filename="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/MoneybookApiProduction.scala" />
+      <jump line="16" column="79" filename="$USER_HOME$/MyOffice/git/analysis-job/scripts/glue/MoneybookApiProduction.scala" />
+      <jump line="27" column="26" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/developer_tools/codepipeline/main.tf" />
+      <jump line="45" column="22" filename="$USER_HOME$/MyOffice/git/analysis_infra/terraform/aws/modules/developer_tools/codepipeline/main.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBQb2xsRm9yU291cmNlQ2hhbmdlcyA9ICJmYWxzZSIK</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>analyst</text>
+        <text encoding="base64">XDxhbmFseXNpc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">b3V0cHV0ICJzYWdlX21ha2VyX2lhbV9yb2xlX2FybiIgewogIHZhbHVlID0gIiR7YXdzX2lhbV9yb2xlLnNhZ2VfbWFrZXJfcm9sZS5hcm59Igp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQb2xsRm9yU291cmNlQ2hhbmdlcyA9ICJmYWxzZSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBCcmFuY2hOYW1lID0gIm1hc3RlciIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBSZXBvc2l0b3J5TmFtZSA9ICJhbmFseXNpcy1qb2IiLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBQb2xsRm9yU291cmNlQ2hhbmdlcyA9IGZhbHNlLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBCcmFuY2ggPSAibWFzdGVyIgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBSZXBvID0gImFuYWx5c2lzLWpvYiIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBPd25lciA9ICJBV1MiCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBSZXBvc2l0b3J5TmFtZSA9ICJhbmFseXNpcy1qb2IiLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBQb2xsRm9yU291cmNlQ2hhbmdlcyA9IGZhbHNlLAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBCcmFuY2ggPSAibWFzdGVyIgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">dHJ1c3RlZF9lbnRpdGllc19jb2RlX3BpcGVsaW5lCg==</text>
+        <text encoding="base64">ICAgICAgICBSZXBvID0gImFuYWx5c2lzLWpvYiIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>analyst</last-search>
+      <last-search encoding="base64">XDxhbmFseXNpc1w+</last-search>
       <last-offset />
-      <last-pattern>analyst</last-pattern>
+      <last-pattern encoding="base64">XDxhbmFseXNpc1w+</last-pattern>
       <last-replace>y</last-replace>
       <last-substitute>Y</last-substitute>
       <last-dir>1</last-dir>
@@ -582,8 +581,6 @@
     </search>
     <history>
       <history-search>
-        <entry>X</entry>
-        <entry>Y</entry>
         <entry>getparameter</entry>
         <entry encoding="base64">XDxDbGllbnRDb25maWd1cmF0aW9uXD4=</entry>
         <entry encoding="base64">XDxJbnN0YW5jZVByb2ZpbGVDcmVkZW50aWFsc1Byb3ZpZGVyXD4=</entry>
@@ -602,13 +599,15 @@
         <entry>glue</entry>
         <entry>descrip</entry>
         <entry>analyst</entry>
+        <entry>stringutil</entry>
+        <entry encoding="base64">XDxhbmFseXNpc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/X/x/g</entry>
         <entry>%s/Y/y/g</entry>
         <entry>%d</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
