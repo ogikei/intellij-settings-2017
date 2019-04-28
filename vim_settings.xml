@@ -282,10 +282,12 @@
         <mark key="." line="17" column="16" />
         <mark key="^" line="17" column="16" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/glue-test/src/main/scala/practice.sc" timestamp="1556434205951">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/MyWork/git/glue-test/src/main/scala/practice.sc" timestamp="1556435289127">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="38" column="21" />
+        <mark key="]" line="38" column="21" />
+        <mark key="^" line="38" column="21" />
+        <mark key="." line="38" column="21" />
       </file>
       <file name="$USER_HOME$/MyWork/git/tech-academy-scala/.gitignore" timestamp="1544520210388">
         <mark key="[" line="7" column="9" />
@@ -369,8 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/asynchronous_process/asyncio_condition/lesson.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
       <jump line="3" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
       <jump line="11" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
@@ -469,59 +469,61 @@
       <jump line="124" column="28" filename="$USER_HOME$/MyWork/git/glue-test/src/main/scala/GlueApp.scala" />
       <jump line="12" column="35" filename="$USER_HOME$/MyWork/git/glue-test/src/main/scala/GlueApp.scala" />
       <jump line="152" column="0" filename="$USER_HOME$/MyWork/git/glue-test/src/main/scala/GlueApp.scala" />
+      <jump line="49" column="0" filename="$USER_HOME$/MyWork/git/glue-test/src/main/scala/practice.sc" />
+      <jump line="45" column="0" filename="$USER_HOME$/MyWork/git/glue-test/src/main/scala/practice.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dGVzdC52YWwxCg==</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHZXRQYXJhbWV0ZXJSZXF1ZXN0XD4=</text>
+        <text>''</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXJhbWV0ZXJLZXkgPSBnZXRQYXJhbWV0ZXIoIi9hbmFseXNpcy90ZXN0L2tleSIpCg==</text>
+        <text encoding="base64">Ly8g5ZCM5LiA5Z6L44Gn44GC44KM44GwdHJ1ZQptb25leTEgY2FuRXF1YWwgbW9uZXkzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGVzdC52YWwxCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">dGVzdC52YWwxCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">awo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dGVzdC52YWwxCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dGVzdC52YWwxCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y29weeODoeOCveODg+ODiQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cmVzMjogQm9vbGVhbiA9IGZhbHNlCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cmVzMTogQm9vbGVhbiA9IHRydWUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">bW9uZXkzOiBNb25leSA9IE1vbmV5KDEwMCxKUFkpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bW9uZXkyOiBNb25leSA9IE1vbmV5KDIwMCxKUFkpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ImFhYWFhYWEiCg==</text>
+        <text encoding="base64">bW9uZXkxOiBNb25leSA9IE1vbmV5KDEwMCxKUFkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VGUK</text>
+        <text encoding="base64">SlBZOiBqYXZhLnV0aWwuQ3VycmVuY3kgPSBKUFkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%d</text>
+        <text>%s/''//g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHZXRQYXJhbWV0ZXJSZXF1ZXN0XD4=</last-search>
+      <last-search>''</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHZXRQYXJhbWV0ZXJSZXF1ZXN0XD4=</last-pattern>
-      <last-replace>y</last-replace>
-      <last-substitute>Y</last-substitute>
+      <last-pattern>''</last-pattern>
+      <last-replace />
+      <last-substitute>''</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -543,12 +545,16 @@
         <entry encoding="base64">XDxQcm9maWxlQ3JlZGVudGlhbHNQcm92aWRlclw+</entry>
         <entry encoding="base64">XDxDaG9pY2VPcHRpb25cPg==</entry>
         <entry encoding="base64">XDxHZXRQYXJhbWV0ZXJSZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">c2NhbGE+</entry>
+        <entry>''</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
         <entry>%s/X/x/g</entry>
         <entry>%s/Y/y/g</entry>
         <entry>%d</entry>
+        <entry encoding="base64">JXMvc2NhbGE+LycnL2c=</entry>
+        <entry>%s/''//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
