@@ -29,11 +29,11 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/analysis-job/test.sc" timestamp="1558501296383">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="15" />
-        <mark key="^" line="4" column="15" />
-        <mark key="." line="4" column="15" />
+      <file name="$USER_HOME$/MyWork/git/analysis-job/test.sc" timestamp="1558516737327">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="3" column="24" />
       </file>
       <file name="/Dummy.scala" timestamp="1541231239901">
         <mark key="[" line="0" column="0" />
@@ -395,15 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
-      <jump line="14" column="9" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
-      <jump line="13" column="3" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
-      <jump line="9" column="10" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/lesson.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/variable_declaration/lesson.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/variable_declaration/lesson.py" />
-      <jump line="10" column="13" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/numeric/lesson.py" />
-      <jump line="14" column="3" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/numeric/lesson.py" />
       <jump line="6" column="4" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/numeric/lesson.py" />
       <jump line="25" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/numeric/lesson.py" />
       <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/numeric/lesson.py" />
@@ -495,64 +486,71 @@
       <jump line="45" column="0" filename="$USER_HOME$/MyWork/git/glue-test/src/main/scala/practice.sc" />
       <jump line="33" column="0" filename="$USER_HOME$/MyWork/git/glue-test/src/main/scala/practice.sc" />
       <jump line="8" column="0" filename="$USER_HOME$/MyWork/git/analysis_infra/terraform/aws/modules/database/rds/main.tf" />
+      <jump line="4" column="7" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
+      <jump line="0" column="4" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
+      <jump line="6" column="9" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
+      <jump line="3" column="6" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
+      <jump line="7" column="9" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
+      <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
+      <jump line="11" column="0" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
+      <jump line="22" column="24" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
+      <jump line="10" column="0" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">am9iCg==</text>
+        <text encoding="base64">Zm9yIChpIDwtIDEgdW50aWwgMTApCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>''</text>
+        <text encoding="base64">XDx0ZXh0UmVnZXhcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8g5ZCM5LiA5Z6L44Gn44GC44KM44GwdHJ1ZQptb25leTEgY2FuRXF1YWwgbW9uZXkzCg==</text>
+        <text encoding="base64">ICBvdmVycmlkZSB2YWwgZmlyc3ROYW1lOiBTdHJpbmcgPSAiYWFhYWEiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">am9iCg==</text>
+        <text encoding="base64">Zm9yIChpIDwtIDEgdW50aWwgMTApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YW5hbHlzaXMtam9iLmltbAo=</text>
+        <text encoding="base64">ZGVmIGFwcGVuZGVyKHYxT3B0OiBPcHRpb25bSW50XSwgdjJPcHQ6IE9wdGlvbltJbnRdKTogT3B0aW9uW0ludF0gPQogIGZvciB7CiAgICB2MSA8LSB2MU9wdAogICAgdjIgPC0gdjJPcHQKICB9IHlpZWxkIHYxICsgdjIKCmFwcGVuZGVyKFNvbWUoMiksIFNvbWUoNSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LmlkZWEvCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">V29ya2VyVHlwZS5Db250cmFjdEVtcGxveWVlCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">awo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">UmVndWxhCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">dmFsIHRvTGVuZ3RoOiBTdHJpbmcgPT4gSW50ID0gXy5sZW5ndGgKCnRvTGVuZ3RoKCJhYWFhYWEiKQoKY2xhc3MgVGVzdChwcml2YXRlW3RoaXNdIHZhbCB2YWwxOiBJbnQsIHByaXZhdGVbdGhpc10gdmFsIHZhbDI6IEludCkgewp9Cgp2YWwgdGVzdCA9IG5ldyBUZXN0KDEsIDIpCgppbXBvcnQgamF2YS51dGlsLkN1cnJlbmN5CgpjYXNlIGNsYXNzIE1vbmV5KGFtb3VudDogQmlnRGVjaW1hbCwgY3VycmVuY3k6IEN1cnJlbmN5KSB7CiAgLy8g6KOc5Yqp44Kz44Oz44K544OI44Op44Kv44K/44Gv44Gq44GXCgogIC8vIOOBiumHkeOCkui2s+OBmQogIGRlZiArKG1vbmV5OiBNb25leSk6IE1vbmV5ID0KICAvLyBjb3B544Gr44GZ44KL44Go57Ch5r2U44Gr6KiY6L+w44Gn44GN44KL44KI44GG44Gr44Gq44KL44CCCiAgICBjb3B5KGFtb3VudCA9IGFtb3VudCArIG1vbmV5LmFtb3VudCkKCiAgLy8g44GK6YeR44KS5byV44GPCiAgZGVmIC0obW9uZXk6IE1vbmV5KTogTW9uZXkgPQogICAgY29weShhbW91bnQgPSBhbW91bnQgLSBtb25leS5hbW91bnQpCgp9Cgp2YWwgSlBZID0gQ3VycmVuY3kuZ2V0SW5zdGFuY2UoIkpQWSIpCgp2YWwgbW9uZXkxID0gTW9uZXkoMTAwLCBKUFkpCgovLyDkuIDpg6jjga7lsZ7mgKfjgpLlhaXjgozmm7/jgYjjgZ/mlrDjgZfjgYTjgqTjg7Pjgrnjgr/jg7PjgrnjgpLnlJ/miJDjgZnjgosKdmFsIG1vbmV5MiA9IG1vbmV5MS5jb3B5KGFtb3VudCA9IDIwMCkKCnZhbCBtb25leTMgPSBNb25leSgxMDAsIEpQWSkKCi8vIOWQjOS4gOWei+OBp+OBguOCjOOBsHRydWUKbW9uZXkxIGNhbkVxdWFsIG1vbmV5MwoKLy8g5ZCM5LiA5Z6L44Gn44GC44KM44GwdHJ1ZQptb25leTEgY2FuRXF1YWwgbW9uZXkyCgovLyDjgZ3jgozku6XlpJbjga9mYWxzZQptb25leTEgY2FuRXF1YWwgIm1vbmV5MyIK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">U2VxKDEsIDIsIDIzKS5ta1N0cmluZygiLCIpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ImFhYWFhYSIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">YXBwZW5kZXIoU29tZSgyKSwgU29tZSgzKSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">YXBwZW5kZXIoKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICA/Pz8K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29weeODoeOCveODg+ODiQo=</text>
+        <text encoding="base64">ZGVmIGFwcGVuZGVyKHYxT3B0OiBPcHRpb25bSW50XSwgdjJPcHQ6IE9wdGlvbltJbnRdKTogT3B0aW9uW0ludF0gPQo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>''</last-search>
+      <last-search encoding="base64">XDx0ZXh0UmVnZXhcPg==</last-search>
       <last-offset />
-      <last-pattern>''</last-pattern>
+      <last-pattern encoding="base64">XDx0ZXh0UmVnZXhcPg==</last-pattern>
       <last-replace />
       <last-substitute>''</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>id</entry>
-        <entry>lock</entry>
         <entry>thread</entry>
         <entry>process</entry>
         <entry encoding="base64">XDwiXD4=</entry>
@@ -571,6 +569,8 @@
         <entry encoding="base64">XDxHZXRQYXJhbWV0ZXJSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">c2NhbGE+</entry>
         <entry>''</entry>
+        <entry encoding="base64">XDxudW1SZWdleFw+</entry>
+        <entry encoding="base64">XDx0ZXh0UmVnZXhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
