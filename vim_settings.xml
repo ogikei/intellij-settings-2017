@@ -29,12 +29,11 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/analysis-job/test.sc" timestamp="1558613766552">
-        <mark key="'" line="0" column="33" />
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="30" />
-        <mark key="^" line="0" column="30" />
+      <file name="$USER_HOME$/MyWork/git/analysis-job/test.sc" timestamp="1558614541208">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="24" column="24" />
+        <mark key="." line="24" column="24" />
+        <mark key="^" line="24" column="24" />
       </file>
       <file name="/Dummy.scala" timestamp="1541231239901">
         <mark key="[" line="0" column="0" />
@@ -499,10 +498,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[String]</text>
+        <text>L</text>
       </register>
       <register name="-" type="4">
-        <text>[String]</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXh0UmVnZXhcPg==</text>
@@ -511,31 +510,31 @@
         <text encoding="base64">ICB2YWwgUmVndWxhckVtcGxveWVlID0gVmFsdWUoInJlZ3VsYXIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXJnczIoMSkK</text>
+        <text encoding="base64">dmFsIG5ld0ZydWl0cyA9ICJQYXBheWEiIDo6IGZydWl0cwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFsIGYgPSAobjogSW50KSA9PiBuICUgMiA9PSAwCgpkZWYgdGVzdChmOiBJbnQgPT4gQm9vbGVhbikgPSBmKDEwKQoK</text>
+        <text encoding="base64">aW5kaWNlcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGVzdCgpCg==</text>
+        <text encoding="base64">dmFsIGFyZ3MxID0gQXJyYXkub2ZEaW1bU3RyaW5nXSgzKQphcmdzMSgwKSA9ICJhYmMiCmFyZ3MxKDEpID0gImRlZiIKCnZhbCBhcmdzMiA9IEFycmF5KCJhYmMiLCAiZGVmIikKYXJnczIoMSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXJnczIoMSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGVzdCgyKQo=</text>
+        <text encoding="base64">dmFsIGYgPSAobjogSW50KSA9PiBuICUgMiA9PSAwCgpkZWYgdGVzdChmOiBJbnQgPT4gQm9vbGVhbikgPSBmKDEwKQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGVzdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b2JqZWN0IFdvcmtlclR5cGUgZXh0ZW5kcyBFbnVtZXJhdGlvbiB7CiAgdmFsIFJlZ3VsYXJFbXBsb3llZSA9IFZhbHVlKCJyZWd1bGFyIikKICB2YWwgQ29udHJhY3RFbXBsb3llZSA9IFZhbHVlKCJjb250cmFjdCIpCiAgdmFsIFBhcnRUaW1lciA9IFZhbHVlKCJwYXJ0dGltZSIpCn0KCmRlZiB0ZXN0KCk6IFVuaXQgPSB7CiAgdmFsIGEgPSAicmVndWxhciIKICBpZiAoV29ya2VyVHlwZS5SZWd1bGFyRW1wbG95ZWUgPT0gMCkgewogICAgcHJpbnRsbihhKQogIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
