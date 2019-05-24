@@ -29,12 +29,12 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/analysis-job/test.sc" timestamp="1558674988076">
+      <file name="$USER_HOME$/MyWork/git/analysis-job/test.sc" timestamp="1558676381955">
         <mark key="'" line="40" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="51" column="34" />
+        <mark key="[" line="20" column="52" />
+        <mark key="]" line="20" column="52" />
+        <mark key="." line="20" column="52" />
+        <mark key="^" line="20" column="34" />
       </file>
       <file name="/Dummy.scala" timestamp="1541231239901">
         <mark key="[" line="0" column="0" />
@@ -498,11 +498,11 @@
       <jump line="38" column="0" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bnVtYmVyczM6IExpc3RbSW50XSA9IExpc3QoMywgMiwgMSkK</text>
+      <register name="&quot;" type="4">
+        <text>other.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>other.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXh0UmVnZXhcPg==</text>
