@@ -29,11 +29,11 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/analysis-job/test.sc" timestamp="1558614541208">
-        <mark key="[" line="23" column="26" />
-        <mark key="]" line="24" column="24" />
-        <mark key="." line="24" column="24" />
-        <mark key="^" line="24" column="24" />
+      <file name="$USER_HOME$/MyWork/git/analysis-job/test.sc" timestamp="1558673762409">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="/Dummy.scala" timestamp="1541231239901">
         <mark key="[" line="0" column="0" />
@@ -497,44 +497,44 @@
       <jump line="0" column="33" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>L</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmIGdldExhc3ROYW1lKG9iajogQW55KTogU3RyaW5nID0gb2JqIG1hdGNoIHsKICBjYXNlIFBlcnNvbihfLCBsYXN0bmFtZSkgPT4gbGFzdG5hbWUKICBjYXNlIF8gPT4gIiIKfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>getlastname</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXh0UmVnZXhcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YWwgUmVndWxhckVtcGxveWVlID0gVmFsdWUoInJlZ3VsYXIiKQo=</text>
+        <text encoding="base64">ICB2YWwgUmVndWxhckVtcGxveWVlID0gVmFsdWUoMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFsIG5ld0ZydWl0cyA9ICJQYXBheWEiIDo6IGZydWl0cwo=</text>
+        <text encoding="base64">ZGVmIGdldExhc3ROYW1lKG9iajogQW55KTogU3RyaW5nID0gb2JqIG1hdGNoIHsKICBjYXNlIFBlcnNvbihfLCBsYXN0bmFtZSkgPT4gbGFzdG5hbWUKICBjYXNlIF8gPT4gIiIKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW5kaWNlcwo=</text>
+        <text encoding="base64">dmFsIGFycmF5ID0gQXJyYXkoMSwgMiwgMykKCnZhbCByZXN1bHQgPSBhcnJheS5tYXAoXyAqIDIpCnJlc3VsdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">cHJpbnQodHlwZSByZXN1bHQpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFsIGFyZ3MxID0gQXJyYXkub2ZEaW1bU3RyaW5nXSgzKQphcmdzMSgwKSA9ICJhYmMiCmFyZ3MxKDEpID0gImRlZiIKCnZhbCBhcmdzMiA9IEFycmF5KCJhYmMiLCAiZGVmIikKYXJnczIoMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXJnczIoMSkK</text>
+        <text encoding="base64">YXJyYXk6IEFycmF5W0ludF0gPSBBcnJheSgxLCAyLCAzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFsIGYgPSAobjogSW50KSA9PiBuICUgMiA9PSAwCgpkZWYgdGVzdChmOiBJbnQgPT4gQm9vbGVhbikgPSBmKDEwKQoK</text>
+        <text encoding="base64">cmVzdWx0OiBBcnJheVtJbnRdID0gQXJyYXkoMiwgNCwgNikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b2JqZWN0IFdvcmtlclR5cGUgZXh0ZW5kcyBFbnVtZXJhdGlvbiB7CiAgdmFsIFJlZ3VsYXJFbXBsb3llZSA9IFZhbHVlKDEpCiAgdmFsIFJlZ3VsYXJFbXBsb3llZSA9IFZhbHVlKDIpCn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnJlZmxlY3QuQ2xhc3NUYWcKCmNsYXNzIEEKCmNsYXNzIEIgZXh0ZW5kcyBBCgpjbGFzcyBDIGV4dGVuZHMgQQoKZGVmIGlzVHlwZVtUIDw6IEFdKGE6IEEpID0gYS5pc0luc3RhbmNlT2ZbVF0KCmlzVHlwZVtBXShuZXcgQSkKaXNUeXBlW0NdKG5ldyBCKQoKZGVmIGlzVHlwZTJbVCA8OiBBXShhOiBBKShpbXBsaWNpdCBlOiBDbGFzc1RhZ1tUXSk6IEJvb2xlYW4gPSB7CiAgZS5ydW50aW1lQ2xhc3MuaXNJbnN0YW5jZShhKQp9CgpkZWYgaXNUeXBlM1tUIDw6IEEgOiBDbGFzc1RhZ10oYTogQSkgPSB7CiAgaW1wbGljaXRseVtDbGFzc1RhZ1tUXV0ucnVudGltZUNsYXNzLmlzSW5zdGFuY2UoYSkKfQoKZGVmIGlzVHlwZTRbVCA8OiBBIDogQ2xhc3NUYWddKGE6IEEpOiBCb29sZWFuID0gYSBtYXRjaCB7CiAgY2FzZSB0OiBUID0+IHRydWUKICBjYXNlIF8gPT4gZmFsc2UKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
