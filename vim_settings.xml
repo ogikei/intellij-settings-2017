@@ -204,11 +204,11 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1558696862821">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="20" />
-        <mark key="^" line="1" column="20" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1558701063409">
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="26" column="23" />
+        <mark key="." line="26" column="23" />
+        <mark key="^" line="26" column="23" />
       </file>
       <file name="/sbtShell" timestamp="1542766220735">
         <mark key="[" line="0" column="0" />
@@ -424,11 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="14" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/assign_string/lesson.py" />
-      <jump line="9" column="20" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/assign_string/lesson.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
-      <jump line="6" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
-      <jump line="33" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
       <jump line="73" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
       <jump line="16" column="6" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
@@ -521,49 +516,54 @@
       <jump line="145" column="0" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
       <jump line="6" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="116" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
-      <jump line="8" column="44" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="126" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Test.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Test.scala" />
+      <jump line="3" column="55" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
+      <jump line="24" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
+      <jump line="8" column="16" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
+      <jump line="2" column="15" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
+      <jump line="20" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
+      <jump line="4" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXh0UmVnZXhcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YWwgZnJ1aXRzOiBTZXFbU3RyaW5nXSA9IFNlcSgiQmFuYW5hIiwgIkJhbmFuYSIsICJBcHBsZSIsICJLaXVpIikK</text>
+        <text encoding="base64">ICBwcmludGxuKG51bXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBvYmplY3QgV29ya2VyVHlwZSBleHRlbmRzIEVudW1lcmF0aW9uIHsKICAgIHZhbCBSZWd1bGFyRW1wbG95ZWUgPSBWYWx1ZSgxLCAicmVndWxhciIpCiAgICB2YWwgQ29udHJhY3RFbXBsb3llZSA9IFZhbHVlKDIsICJjb250cmFjdCIpCiAgICB2YWwgUGFydFRpbWVyID0gVmFsdWUoMywgInBhcnR0aW1lIikKCiAgfQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBoZWFkCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICB2YWwgc2VxMzogU2VxW0ludF0gPSBTZTEK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBrawo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBXb3JrZXJUeXBlLlZhbHVlU2V0Cg==</text>
+        <text encoding="base64">ICB2YQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFdvcmtlclR5cGUuVmFsdWVTZXQK</text>
+        <text encoding="base64">ICB2YWwgdXNlck5hbWVzID0gU2VxKCJUYXJvIFlhbWFkYSIsICJIYW5ha28gWWFtYWRhIikKICB2YWwgdXNlck5hbWVMZW5ndGhzID0gdXNlck5hbWVzLm1hcChfLmxlbmd0aCkKICBwcmludGxuKHVzZXJOYW1lTGVuZ3RocykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b2JqZWN0IFdvcmtlclR5cGUgZXh0ZW5kcyBFbnVtZXJhdGlvbiB7CiAgdmFsIFJlZ3VsYXJFbXBsb3llZSA9IFZhbHVlKDEsICJyZWd1bGFyIikKICB2YWwgQ29udHJhY3RFbXBsb3llZSA9IFZhbHVlKDIsICJjb250cmFjdCIpCiAgdmFsIFBhcnRUaW1lciA9IFZhbHVlKDMsICJwYXJ0dGltZSIpCiAgCiAgV29ya2VyVHlwZS5WYWx1ZVNldAp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">V29ya2VyVHlwZS5WYWx1ZVNldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
