@@ -29,11 +29,12 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/analysis-job/test.sc" timestamp="1558673762409">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/MyWork/git/analysis-job/test.sc" timestamp="1558674988076">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="34" />
       </file>
       <file name="/Dummy.scala" timestamp="1541231239901">
         <mark key="[" line="0" column="0" />
@@ -395,8 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/numeric/lesson.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/numeric/lesson.py" />
       <jump line="19" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/numeric/lesson.py" />
       <jump line="27" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/string/lesson.py" />
       <jump line="3" column="0" filename="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/string/lesson.py" />
@@ -495,13 +494,15 @@
       <jump line="3" column="0" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
       <jump line="2" column="15" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
       <jump line="0" column="33" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
+      <jump line="40" column="0" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
+      <jump line="38" column="0" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGdldExhc3ROYW1lKG9iajogQW55KTogU3RyaW5nID0gb2JqIG1hdGNoIHsKICBjYXNlIFBlcnNvbihfLCBsYXN0bmFtZSkgPT4gbGFzdG5hbWUKICBjYXNlIF8gPT4gIiIKfQo=</text>
+        <text encoding="base64">bnVtYmVyczM6IExpc3RbSW50XSA9IExpc3QoMywgMiwgMSkK</text>
       </register>
       <register name="-" type="4">
-        <text>getlastname</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXh0UmVnZXhcPg==</text>
@@ -510,31 +511,31 @@
         <text encoding="base64">ICB2YWwgUmVndWxhckVtcGxveWVlID0gVmFsdWUoMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGdldExhc3ROYW1lKG9iajogQW55KTogU3RyaW5nID0gb2JqIG1hdGNoIHsKICBjYXNlIFBlcnNvbihfLCBsYXN0bmFtZSkgPT4gbGFzdG5hbWUKICBjYXNlIF8gPT4gIiIKfQo=</text>
+        <text encoding="base64">bnVtYmVyczM6IExpc3RbSW50XSA9IExpc3QoMywgMiwgMSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFsIGFycmF5ID0gQXJyYXkoMSwgMiwgMykKCnZhbCByZXN1bHQgPSBhcnJheS5tYXAoXyAqIDIpCnJlc3VsdAo=</text>
+        <text encoding="base64">bnVtYmVyczI6IE5vbkVtcHR5TGlzdFtJbnRdID0gTm9uRW1wdHlMaXN0KDMsTGlzdCgyLCAxKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQodHlwZSByZXN1bHQpCg==</text>
+        <text encoding="base64">bnVtYmVyczE6IE5vbkVtcHR5TGlzdFtJbnRdID0gTm9uRW1wdHlMaXN0KDEsTGlzdCgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGdldExhc3ROYW1lKG9iajogQW55KTogU3RyaW5nID0gb2JqIG1hdGNoIHsKICBjYXNlIFBlcnNvbihfLCBsYXN0bmFtZSkgPT4gbGFzdG5hbWUKICBjYXNlIF8gPT4gIiIKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXJyYXk6IEFycmF5W0ludF0gPSBBcnJheSgxLCAyLCAzKQo=</text>
+        <text encoding="base64">dmFsIGFycmF5ID0gQXJyYXkoMSwgMiwgMykKCnZhbCByZXN1bHQgPSBhcnJheS5tYXAoXyAqIDIpCnJlc3VsdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVzdWx0OiBBcnJheVtJbnRdID0gQXJyYXkoMiwgNCwgNikK</text>
+        <text encoding="base64">cHJpbnQodHlwZSByZXN1bHQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b2JqZWN0IFdvcmtlclR5cGUgZXh0ZW5kcyBFbnVtZXJhdGlvbiB7CiAgdmFsIFJlZ3VsYXJFbXBsb3llZSA9IFZhbHVlKDEpCiAgdmFsIFJlZ3VsYXJFbXBsb3llZSA9IFZhbHVlKDIpCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLnJlZmxlY3QuQ2xhc3NUYWcKCmNsYXNzIEEKCmNsYXNzIEIgZXh0ZW5kcyBBCgpjbGFzcyBDIGV4dGVuZHMgQQoKZGVmIGlzVHlwZVtUIDw6IEFdKGE6IEEpID0gYS5pc0luc3RhbmNlT2ZbVF0KCmlzVHlwZVtBXShuZXcgQSkKaXNUeXBlW0NdKG5ldyBCKQoKZGVmIGlzVHlwZTJbVCA8OiBBXShhOiBBKShpbXBsaWNpdCBlOiBDbGFzc1RhZ1tUXSk6IEJvb2xlYW4gPSB7CiAgZS5ydW50aW1lQ2xhc3MuaXNJbnN0YW5jZShhKQp9CgpkZWYgaXNUeXBlM1tUIDw6IEEgOiBDbGFzc1RhZ10oYTogQSkgPSB7CiAgaW1wbGljaXRseVtDbGFzc1RhZ1tUXV0ucnVudGltZUNsYXNzLmlzSW5zdGFuY2UoYSkKfQoKZGVmIGlzVHlwZTRbVCA8OiBBIDogQ2xhc3NUYWddKGE6IEEpOiBCb29sZWFuID0gYSBtYXRjaCB7CiAgY2FzZSB0OiBUID0+IHRydWUKICBjYXNlIF8gPT4gZmFsc2UKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
