@@ -29,12 +29,12 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/analysis-job/test.sc" timestamp="1558683579959">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="6" column="52" />
-        <mark key="]" line="6" column="58" />
-        <mark key="." line="6" column="58" />
-        <mark key="^" line="6" column="58" />
+      <file name="$USER_HOME$/MyWork/git/analysis-job/test.sc" timestamp="1558684284784">
+        <mark key="'" line="5" column="8" />
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="32" />
+        <mark key="." line="20" column="32" />
+        <mark key="^" line="20" column="32" />
       </file>
       <file name="/Dummy.scala" timestamp="1541231239901">
         <mark key="[" line="0" column="0" />
@@ -495,14 +495,14 @@
       <jump line="40" column="0" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
       <jump line="38" column="0" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
       <jump line="17" column="0" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
-      <jump line="5" column="0" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
+      <jump line="5" column="8" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getLines</text>
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>getLines</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXh0UmVnZXhcPg==</text>
@@ -511,31 +511,31 @@
         <text encoding="base64">dmFsIGYxID0gbmV3IFZhbHVlRm9sZGVyW0ludF0oMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z2V0bGkK</text>
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z2V0bGkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJ1ZmZlcmVkU291cmNlLgo=</text>
+        <text encoding="base64">cHJpbnRsbihGcnVpdHNDb3VudE1haW4ubGluZXMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJ1ZmZlcmVkU291cmNlLnNwbGkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJ1ZmZlcmVkU291cmNlLm1rU3RyaW5nCg==</text>
+        <text encoding="base64">ICBwcmludGxuKGxpbmVzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWwgYSA9IGxpbmVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBnZXRMaW5lcygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgVmFsdWVGb2xkZXJbQV0odmFsdWU6IEEpIHsKICB2YWwgcmVzdWx0OiBBID0gdmFsdWUKfQoKdmFsIGYgPSBuZXcgVmFsdWVGb2xkZXIoMSkKdmFsIGYxID0gbmV3IFZhbHVlRm9sZGVyW0ludF0oMSkKdmFsIGYyID0gbmV3IFZhbHVlRm9sZGVyW1N0cmluZ10oIjEiKQp2YWwgZjM6IFZhbHVlRm9sZGVyW0ludF0gPSBuZXcgVmFsdWVGb2xkZXIoMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
