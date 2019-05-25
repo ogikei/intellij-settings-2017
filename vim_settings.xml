@@ -202,11 +202,11 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1558775958224">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="7" column="36" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1558777901182">
+        <mark key="[" line="19" column="49" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="12" />
+        <mark key="^" line="20" column="12" />
       </file>
       <file name="/sbtShell" timestamp="1542766220735">
         <mark key="[" line="0" column="0" />
@@ -422,7 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
       <jump line="89" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
       <jump line="45" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
       <jump line="37" column="62" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
@@ -522,10 +521,11 @@
       <jump line="50" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="5" column="6" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="6" column="2" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
+      <jump line="21" column="30" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBudW1zOiBTZXFbSW50XQogID0gTGlzdCgxLCAyKQo=</text>
+      <register name="&quot;" type="4">
+        <text>???</text>
       </register>
       <register name="-" type="4">
         <text>???</text>
@@ -537,34 +537,34 @@
         <text encoding="base64">ICBwcmludGxuKG51bXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBudW1zOiBTZXFbSW50XQogID0gTGlzdCgxLCAyKQo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBub3RGaWx0ZXJlZDogU2VxW0ludF0KICA9IExpc3QoMSkK</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwcGVuZCh2MSwgdjIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YWwgc2VxOiBTZXFbSW50XSA9ID8/PwogIHNlcTogU2VxW0ludF0KICA9IExpc3QoMSwgMiwgMykK</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmaWx0ZXJlZDogU2VxW0ludF0KICA9IExpc3QoMiwgMykK</text>
+        <text encoding="base64">b2JqZWN0IFdvcmtlclR5cGUgZXh0ZW5kcyBFbnVtZXJhdGlvbiB7CiAgdmFsIFJlZ3VsYXJFbXBsb3llZSwgQ29udHJhY3RFbXBsb3llZSwgUGFydFRpbWVyID0gVmFsdWUKfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YWwgc2VxOiBTZXFbSW50XSA9ID8/PwogIHNlcTogU2VxW0ludF0KICA9IExpc3QoMSwgMiwgMykK</text>
+        <text encoding="base64">ICB2YWwgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzZXE6IFNlcVtJbnRdCg==</text>
+        <text encoding="base64">b2JqZWN0IEFua2kgZXh0ZW5kcyBBcHAgewp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA9IExpc3QoMSwgMiwgMykK</text>
+        <text encoding="base64">ICB2YWwgc2VxOiBTZXFbSW50XSA9IFNlcSgxLCAyLCAzKQogIHZhbCByZXN1bHQxID0gc2VxIG1hcCAoXyAqIDIpCiAgdmFsIHJlc3VsdDIgPSBzZXEubWFwKCJhIiAqIF8pCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JXMvc2NhbGE+Ly9n</text>
+        <text>%d</text>
       </register>
     </registers>
     <search>
@@ -605,8 +605,9 @@
         <entry>%s/Y/y/g</entry>
         <entry encoding="base64">JXMvc2NhbGE+LycnL2c=</entry>
         <entry>%s/''//g</entry>
-        <entry>%d</entry>
         <entry encoding="base64">JXMvc2NhbGE+Ly9n</entry>
+        <entry>Td</entry>
+        <entry>%d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
