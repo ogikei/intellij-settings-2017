@@ -15,7 +15,6 @@
       <file name="/a.dummy" timestamp="1541912112637">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/analysis-job/scripts/glue/UserAssetAct.scala" timestamp="1558501208220" />
       <file name="$USER_HOME$/go/src/silicon-valley-with-go/structoriented_06/constructor/lesson.go" timestamp="1544521612836">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="29" column="18" />
@@ -161,12 +160,11 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Test.scala" timestamp="1558694855623">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="152" column="34" />
-        <mark key="]" line="153" column="20" />
-        <mark key="." line="153" column="20" />
-        <mark key="^" line="153" column="20" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Test.scala" timestamp="1558772441307">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="11" />
       </file>
       <file name="/Python Console" timestamp="1541914071980">
         <mark key="[" line="0" column="0" />
@@ -204,11 +202,11 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1558704477763">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-        <mark key="^" line="1" column="8" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1558773163261">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="9" />
       </file>
       <file name="/sbtShell" timestamp="1542766220735">
         <mark key="[" line="0" column="0" />
@@ -424,7 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
       <jump line="16" column="6" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
       <jump line="72" column="8" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
@@ -524,13 +521,14 @@
       <jump line="2" column="15" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="20" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="4" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dHJhaXQgQW5raShhOiBJbnQpIHsKICAKfQo=</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uTGluZWFyU2VxCgpMaW5lYXJTZXEKSW5kZXhlZFNlcQo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;aaaa&quot;</text>
+        <text>object</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXh0UmVnZXhcPg==</text>
@@ -539,31 +537,31 @@
         <text encoding="base64">ICBwcmludGxuKG51bXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dHJhaXQgQW5raShhOiBJbnQpIHsKICAKfQo=</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uTGluZWFyU2VxCgpMaW5lYXJTZXEKSW5kZXhlZFNlcQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b2JqZWN0IEFua2kgZXh0ZW5kcyBBcHAgewogIHZhbCBhID0gMTAwCiAgdmFsIGIgPSAxMDAuMTIzCiAgcHJpbnRsbihmIiRhJWQgYWFhYWFhYWFhYWFhYWFhICRiJS4zZiIpCn0K</text>
+        <text encoding="base64">TGlzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcmludGYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcmludGxuKHMiJGEiKQo=</text>
+        <text encoding="base64">c2VhbGVkIHRyYWl0IFdvcmtlcgpvYmplY3QgV29ya2VyIHsKICBjYXNlIG9iamVjdCBSZWd1bGFyRW1wbG95ZWUgZXh0ZW5kcyBXb3JrZXIKICBvYmplY3QgQ29udHJhY3RFbXBsb3llZSBleHRlbmRzIFdvcmtlcgogIG9iamVjdCBQYXJ0VGltZXIgZXh0ZW5kcyBXb3JrZXIKfQoKb2JqZWN0IEFua2kgZXh0ZW5kcyBBcHAgewogIHByaW50bG4oV29ya2VyLlJlZ3VsYXJFbXBsb3llZS50b1N0cmluZykKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgYWRkKHYxOiBJbnQsIHYyOiBJbnQpID0gdjEgKyB2MgoKICB2YWwgYWRkMjogKEludCwgSW50KSA9PiBJbnQgPSAodjE6IEludCwgdjI6IEludCkgPT4gdjEgKyB2MgogIHByaW50KGFkZDIoMSwgMikpCiAgdmFsIGY6IChJbnQsIEludCkgPT4gSW50ID0gYWRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">b2JqZWN0IEFua2kgZXh0ZW5kcyBBcHAgewogIHZhbCBzZXE6IFNlcVtJbnRdID0gU2VxKDEsIDIsIDMpCgogIHZhbCBiMSA9IHNlcS5pc0VtcHR5CgogIHZhbCBiMiA9IHNlcS5ub25FbXB0eQoKICB2YWwgc2VxMjogU2VxW0ludF0gPSBTZXEuZW1wdHkKCiAgdmFsIGIzID0gc2VxMi5pc0VtcHR5CgogIHZhbCBiNCA9IHNlcTIubm9uRW1wdHkKCiAgdmFsIHNpemUgPSBzZXEuc2l6ZQogIHZhbCBzaXplMiA9IHNlcS5sZW5ndGgKCiAgdmFsIGhlYWQxID0gc2VxLmhlYWQKCiAgLy8gIHNlcTIuaGVhZAoKICB2YWwgaGVhZE9wdDEgPSBzZXEyLmhlYWRPcHRpb24KCiAgdmFsIGhlYWRPcHQyID0gc2VxLmhlYWRPcHRpb24KCiAgdmFsIG51bXMgPSBzZXEudGFrZSgyKQogIHByaW50bG4obnVtcykKICB2YWwgbnVtczIgPSBzZXEudGFrZSgzKQogIHByaW50bG4obnVtczIpCn0K</text>
+        <text encoding="base64">V29ya2VyLlJlZ3VsYXJFbXBsb3llZS50b1N0cmluZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBoZWFkCg==</text>
+        <text encoding="base64">b2JqZWN0IEFua2kgZXh0ZW5kcyBBcHAgewogIGRlZiBmaWJGcm9tKGE6IEludCwgYjogSW50KTogU3RyZWFtW0ludF0gPSB7CiAgICBhICM6OiBmaWJGcm9tKGIsIGEgKyBiKQogIH0KCiAgZmliRnJvbSgxLCAxKS50YWtlKDEwKS5mb3JlYWNoKHByaW50bG4pCiAgdmFsIHN0cmVhbSA9IGZpYkZyb20oMSwgMSkubWFwKF8gKiAyKS5maWx0ZXIoXyAlIDIgPT0gMCkudGFrZSgxMCkKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
@@ -576,7 +574,7 @@
       <last-replace />
       <last-substitute>''</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
