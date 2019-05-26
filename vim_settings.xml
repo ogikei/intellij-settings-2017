@@ -202,11 +202,11 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1558795872754">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="4" column="11" />
-        <mark key="^" line="4" column="11" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1558839993175">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+        <mark key="^" line="1" column="38" />
       </file>
       <file name="/sbtShell" timestamp="1542766220735">
         <mark key="[" line="0" column="0" />
@@ -422,7 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson05/MatchFormula.scala" />
       <jump line="27" column="15" filename="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/variable/lesson.go" />
       <jump line="5" column="8" filename="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/numerictypes/lesson.go" />
       <jump line="25" column="6" filename="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/numerictypes/lesson.go" />
@@ -510,10 +509,7 @@
       <jump line="75" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Test.scala" />
       <jump line="45" column="13" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Test.scala" />
       <jump line="79" column="16" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
-      <jump line="1" column="2" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="74" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
-      <jump line="50" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
-      <jump line="5" column="6" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="6" column="2" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="21" column="30" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="20" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
@@ -522,59 +518,63 @@
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="11" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="16" column="22" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
+      <jump line="50" column="60" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
+      <jump line="1" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
+      <jump line="45" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
+      <jump line="5" column="2" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="/" type="4">
-        <text>res</text>
+        <text encoding="base64">c2NhbGE+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcmludGxuKG51bXMpCg==</text>
+        <text encoding="base64">ICBzdHJpbmdUb0ludFBGLmlzRGVmaW5lZEF0KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcmludGxuKGRvdWJsZSgyKSkK</text>
+        <text encoding="base64">ICB2YWwgZnJ1aXRzOiBTZXFbU3RyaW5nXSA9IFNlcSgiQmFuYW5hIiwgIkJhbmFuYSIsICJBcHBsZSIsICJLaXVpIikKCiAgZm9yIChmcnVpdCA8LSBmcnVpdHMpIHsKICAgIHByaW50bG4oZnJ1aXQpCiAgfQoKICB2YWwgaW5kaWNlcyA9IGZydWl0cy5pbmRpY2VzCgogIGZvciAoaSA8LSBpbmRpY2VzKSBwcmludGxuKGZydWl0cyhpKSkKCiAgLy8g44Ki44Or44OV44Kh44OZ44OD44OI6aCGCiAgdmFsIHNvcnRlZCA9IGZydWl0cy5zb3J0ZWQKCiAgLy8g5paH5a2X5YiX6ZW344GM55+t44GE6aCGCiAgdmFsIHNvcnRlZCA9IGZydWl0cy5zb3J0QnkoXy5sZW5ndGgpCgogIC8vIOaWh+Wtl+WIl+mVt+OBjOmVt+OBhOmghgogIHZhbCBzb3J0ZWQgPSBmcnVpdHMuc29ydEJ5KF8ubGVuZ3RoICogLTEpCgogIHZhbCByZXZlcnNlZCA9IGZydWl0cy5yZXZlcnNlCgogIHZhbCBuZXdGcnVpdHM6IFNlcVtTdHJpbmddID0gIlBhcGF5YSIgKzogZnJ1aXRzCgogIHZhbCBuZXdGcnVpdHM6IFNlcVtTdHJpbmddID0gZnJ1aXRzIDorICJQYXBheWEiCgogIHByaW50bG4oZnJ1aXRzKQoKICB2YWwgbmV3RnJ1aXRzOiBTZXFbU3RyaW5nXSA9IGZydWl0cy51cGRhdGVkKDIsICJQYXBheWEiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcmludGxuKGRvdWJsZSgyKSkK</text>
+        <text encoding="base64">ICBMaXN0KEJhbmFuYSwgQmFuYW5hLCBBcHBsZSwgS2l1aSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWwgcmVzdWx0ID0gZm9yIChpIDwtIFNlcSgxLCAyLCAzKSkgeWllbGQgaSAqIDIKICB2YWwgcmVzdWx0MiA9IFNlcSgxLCAyLCAzKS5tYXAoXyAqIDIpCg==</text>
+        <text encoding="base64">ICBuZXdGcnVpdHM6IFNlcVtTdHJpbmddCiAgPSBMaXN0KEJhbmFuYSwgQmFuYW5hLCBQYXBheWEsIEtpdWkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBuZXdGcnVpdHM6IFNlcVtTdHJpbmddCiAgPSBMaXN0KEJhbmFuYSwgQmFuYW5hLCBBcHBsZSwgS2l1aSwgUGFwYXlhKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBuZXdGcnVpdHM6IFNlcVtTdHJpbmddCiAgPSBMaXN0KFBhcGF5YSwgQmFuYW5hLCBCYW5hbmEsIEFwcGxlLCBLaXVpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YWwgc3cgPSBuZXcgU3RyaW5nV3JhcHBlcigiQUJDREVGIikKICBhc3NlcnQoc3cuZXhpc3RzKF8gPT0gJ0QnKSkKICBhc3NlcnQoc3cuZmlsdGVyKHYgPT4gdiA9PSAnQScgfHwgdiA9PSAnQycgfHwgdiA9PSAnRicpID09ICJBQ0YiKQoKICB2YWwgZjogKFN0cmluZywgQ2hhcikgPT4gU3RyaW5nID0gKHN0ciwgY2gpID0+CiAgICBpZiAoY2ggJSAyID09IDEpIHN0ciArIGNoLnRvVXBwZXIgZWxzZSBzdHIgKyBjaC50b0xvd2VyCgogIC8vIOWVj+mhjDM6IOmbo+aYk+W6pumrmDog5Lu75oSPCiAgLy8gQSxDLEXjga/lpKfmloflrZfjgIFCLEQsRuOBr+Wwj+aWh+Wtl+OBq+OBmeOCi+WHpueQhuOCkmZvbGRMZWZ044KS5L2/44Gj44Gm5a6f6KOF44GX44Gm44GP44Gg44GV44GE44CCCiAgLy8g44OS44Oz44OIMTog6Zai5pWwZuOBq+OBr+ODkeODvOOCt+ODo+ODq+ODleOCoeODs+OCr+OCt+ODp+ODs+OCkuWIqeeUqOOBmeOCi+OBqOavlOi8g+eahOewoeWNmOOBq+Wun+ijheOBp+OBjeOBvuOBmeOAggogIC8vIOODkuODs+ODiDI6IENoYXLjgpLmlbDlgKTjgajjgZfjgabmibHjgYTjgIHlgbbmlbAv5aWH5pWw44Gr5Yik5a6a44GZ44KL44Go5p2h5Lu25YiG5bKQ44GM5bCR44Gq44GP44Gq44KK44G+44GZ44CCCiAgYXNzZXJ0KHN3LmZvbGRMZWZ0KCIiKShmKSA9PSAiQWJDZEVmIikK</text>
+        <text encoding="base64">ICByZXZlcnNlZDogU2VxW1N0cmluZ10KICA9IExpc3QoS2l1aSwgQXBwbGUsIEJhbmFuYSwgQmFuYW5hKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzb3J0ZWQ6IFNlcVtTdHJpbmddCiAgPSBMaXN0KEJhbmFuYSwgQmFuYW5hLCBBcHBsZSwgS2l1aSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gU3RyaW5n44Gu44K144Od44O844OI44GZ44KL44Kv44Op44K5CmNsYXNzIFN0cmluZ1dyYXBwZXIodW5kZXJseWluZzogU3RyaW5nKSB7CgogIC8vIOWVj+mhjDE6IOmbo+aYk+W6puS9jjog5b+F6aCICiAgLy8g5paH5a2X5YiX5Lit44Gu5ZCE5paH5a2X44KS6aCG55Wq44Gr6Zai5pWwcOOBq+a4oeOBmeOAggogIC8vIOmWouaVsHDjgYx0cnVl44KS6L+U44Gb44Gw44CB44GT44Gu44Oh44K944OD44OJ44KCdHJ1ZeOCkui/lOOBmeOBjAogIC8vIOacgOW+jOOBruaWh+Wtl+OBvuOBp+aOoue0ouOBl+mWouaVsHDjgYx0cnVl44KS6L+U44GV44Gq44GL44Gj44Gf5aC05ZCI44GvCiAgLy8g44GT44Gu44Oh44K944OD44OJ44GvZmFsc2XjgpLov5TjgZnjgIIKICAvLyAjIFN0cmluZyNleGlzdHPjgpLkvb/jgo/jgZrjgavlrp/oo4XjgZnjgovjgZPjgagKICBkZWYgZXhpc3RzKHA6IENoYXIgPT4gQm9vbGVhbik6IEJvb2xlYW4gPSB7CiAgICBpZiAocCh1bmRlcmx5aW5nKSkgdHJ1ZSBlbHNlIGZhbHNlCiAgfQoKICAvLyDllY/poYwyOiDpm6PmmJPluqbkvY46IOW/hemgiAogIC8vIOaWh+Wtl+WIl+S4reOBruWQhOaWh+Wtl+OCkumWouaVsHDjgavmuKHjgZd0cnVl44KS6L+U44GZ5paH5a2X44Gg44GR44KSCiAgLy8g6YCj57WQ44GX44Gf5paH5a2X5YiX44KS6L+U44GZ44CCCiAgLy8gIyBTdHJpbmcjZmlsdGVy44KS5L2/44KP44Ga44Gr5a6f6KOF44GZ44KL44GT44GoCiAgLy8gIyBTdHJpbmdCdWlsZGVy44KS5Yip55So44GZ44KL5aC05ZCI44Gv44CB5Lul5LiL44KS5Y+C6ICD44Gr44GZ44KLCiAgLy8gIyB2YWwgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcgogIC8vICMgc2IuYXBwZW5kKCdBJykKICAvLyAjIHNiLmFwcGVuZCgnQicpCiAgLy8gIyBzYi5hcHBlbmQoJ0MnKQogIC8vICMgdmFsIHJlc3VsdCA9IHNiLnJlc3VsdCAvLyAiQUJDIgogIGRlZiBmaWx0ZXIocDogQ2hhciA9PiBCb29sZWFuKTogU3RyaW5nID0gewogICAgdW5kZXJseWluZy5tYXAgeyBjID0+IGlmIChwKGMpKSBjIGVsc2UgIiIgfS5ta1N0cmluZwogIH0KCiAgLy8g5bem44GL44KJ5paH5a2X44KS6LWw5p+744Gr6Zai5pWw44Gu56ys5LiA5byV5pWw44Gr55Wz44G/6L6844KA6auY6ZqO44Oh44K944OD44OJCiAgLy8gMSkg5Yid5Zue44Gu6Zai5pWwZuOBruesrOS4gOW8leaVsOOBq3rjgIHmloflrZfliJfjga4x5YCL55uu44Gu5paH5a2X44GM56ys5LqM5byV5pWw44GM5rih44GV44KM44KL44CCCiAgLy8g44GT44Gu6Zai5pWwZuOBruaIu+OCiuWApOOBr+asoeOBrumWouaVsGbjga7nrKzkuIDlvJXmlbDjgavmuKHjgZXjgozjgosKICAvLyAyKSAy5Zue55uu44Gu6Zai5pWwZuOBruesrOS4gOW8leaVsOOAgTLlgIvnm67jga7mloflrZfjgYzmuKHjgZXjgozjgovjgIIz5YCL55uu5Lul6ZmN44KC44GT44Gu57mw44KK6L+U44GX44CCCiAgZGVmIGZvbGRMZWZ0KHo6IFN0cmluZykoZjogKFN0cmluZywgQ2hhcikgPT4gU3RyaW5nKTogU3RyaW5nID0gewogICAgdmFyIGFjYyA9IHoKICAgIGZvciAoaWR4IDwtIDAgdW50aWwgdW5kZXJseWluZy5sZW5ndGgpCiAgICAgIGFjYyA9IGYoYWNjLCB1bmRlcmx5aW5nKGlkeCkpCiAgICBhY2MKICB9Cn0K</text>
+        <text encoding="base64">ICBzb3J0ZWQ6IFNlcVtTdHJpbmddCiAgPSBMaXN0KEtpdWksIEFwcGxlLCBCYW5hbmEsIEJhbmFuYSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBCYW5hbmEKICBCYW5hbmEKICBBcHBsZQogIEtpdWkKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%d</text>
+        <text encoding="base64">JXMvc2NhbGE+Ly9n</text>
       </register>
     </registers>
     <search>
-      <last-search>res</last-search>
+      <last-search encoding="base64">c2NhbGE+</last-search>
       <last-offset />
-      <last-pattern>res</last-pattern>
+      <last-pattern encoding="base64">c2NhbGE+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">c2NhbGE+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -596,8 +596,8 @@
         <entry>''</entry>
         <entry encoding="base64">XDxudW1SZWdleFw+</entry>
         <entry encoding="base64">XDx0ZXh0UmVnZXhcPg==</entry>
-        <entry encoding="base64">c2NhbGE+</entry>
         <entry>res</entry>
+        <entry encoding="base64">c2NhbGE+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -605,9 +605,9 @@
         <entry>%s/Y/y/g</entry>
         <entry encoding="base64">JXMvc2NhbGE+LycnL2c=</entry>
         <entry>%s/''//g</entry>
-        <entry encoding="base64">JXMvc2NhbGE+Ly9n</entry>
         <entry>Td</entry>
         <entry>%d</entry>
+        <entry encoding="base64">JXMvc2NhbGE+Ly9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
