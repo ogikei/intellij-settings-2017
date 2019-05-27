@@ -201,12 +201,12 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1558934950089">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="41" column="42" />
-        <mark key="]" line="41" column="40" />
-        <mark key="." line="41" column="40" />
-        <mark key="^" line="41" column="40" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1558939433953">
+        <mark key="'" line="0" column="21" />
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="28" />
+        <mark key="." line="10" column="28" />
+        <mark key="^" line="10" column="28" />
       </file>
       <file name="/sbtShell" timestamp="1542766220735">
         <mark key="[" line="0" column="0" />
@@ -422,8 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/go/src/silicon-valley-with-go/05_pointer/struct/lesson.go" />
-      <jump line="3" column="0" filename="$USER_HOME$/go/src/silicon-valley-with-go/05_pointer/struct/lesson.go" />
       <jump line="18" column="0" filename="$USER_HOME$/go/src/silicon-valley-with-go/05_pointer/struct/lesson.go" />
       <jump line="20" column="0" filename="$USER_HOME$/go/src/silicon-valley-with-go/05_pointer/struct/lesson.go" />
       <jump line="58" column="15" filename="$USER_HOME$/go/src/silicon-valley-with-go/05_pointer/struct/lesson.go" />
@@ -491,7 +489,6 @@
       <jump line="145" column="0" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
       <jump line="116" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="126" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Test.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="75" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Test.scala" />
       <jump line="45" column="13" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Test.scala" />
       <jump line="79" column="16" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
@@ -504,7 +501,6 @@
       <jump line="45" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="38" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
-      <jump line="8" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="46" column="14" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="44" column="3" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="12" column="4" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
@@ -522,58 +518,62 @@
       <jump line="13" column="20" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="84" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="9" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
+      <jump line="158" column="2" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
+      <jump line="8" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
+      <jump line="0" column="15" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
+      <jump line="17" column="21" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExvY2FsRGF0ZVRpbWUubm93KCkK</text>
+      <register name="&quot;" type="4">
+        <text>Int</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>Int</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">c2NhbGE+</text>
+        <text>gettype</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbnVtYmVyID0gbnVtYmVyICUgMTAK</text>
+        <text encoding="base64">ICB2YWwgYWRkOiBJbnQgPT4gSW50ID0+IEludCA9ICh2MTogSW50KSA9PiAodjI6IEludCkgPT4gdjEgKyB2MgogIHZhbCBmID0gYWRkKDEpCiAgcHJpbnRsbihmKQogIHByaW50bG4oZigyKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExvY2FsRGF0ZVRpbWUubm93KCkK</text>
+        <text encoding="base64">c2VhbGVkIHRyYWl0IEFuaW1hbCB7CiAgdmFsIG5hbWU6IFN0cmluZwp9CgpjYXNlIGNsYXNzIERvZyhuYW1lOiBTdHJpbmcpIGV4dGVuZHMgQW5pbWFsCgpjYXNlIGNsYXNzIENhdChuYW1lOiBTdHJpbmcpIGV4dGVuZHMgQW5pbWFsCgppbXBvcnQgc2NhbGEucmVmbGVjdC5DbGFzc1RhZwoKY2xhc3MgQW5pbWFsc1tBIDw6IEFuaW1hbCA6IENsYXNzVGFnXShzZXE6IFNlcVtBXSkgewogIGRlZiB0b0FycmF5OiBBcnJheVtBXSA9IHNlcS50b0FycmF5CgogIGRlZiB0b0xpc3Q6IExpc3RbQV0gPSBzZXEudG9MaXN0Cn0KCm9iamVjdCBBbmtpIGV4dGVuZHMgQXBwIHsKICB2YWwgYW5pbWFscyA9IG5ldyBBbmltYWxzKFNlcShEb2coInBvY2hpIiksIERvZygidGFtYSIpKSkKICB2YWwgYXJyYXkgPSBhbmltYWxzLnRvQXJyYXkKICB2YWwgbGlzdCA9IGFuaW1hbHMudG9MaXN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGV4YW1wbGUuTW92aWVQcmljZUNhbGNNYWluLntDdXN0b21lclR5cGUsIEdlbmRlcn0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">b2JqZWN0IEFua2kgZXh0ZW5kcyBBcHAgewogIGRlZiBhZGQodjE6IEludCwgdjI6IEludCk6IEludCA9IHYxICsgdjIKCiAgdmFsIGEgPSAoYWRkIF8pLmN1cnJpZWQKICBhKDEpKDIpCn0K</text>
+        <text encoding="base64">b2JqZWN0IEFua2kgZXh0ZW5kcyBBcHAgewogIHZhbCBuYW1lID0gIiIKICB2YWwgc3RyID0gIm5hbWUgPSAlcyIuZm9ybWF0KG5hbWUpCiAgcHJpbnRmKCIlcyIsIG5hbWUpCn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8ue0J1ZmZlcmVkV3JpdGVyLCBGaWxlLCBGaWxlV3JpdGVyfQoKdHJhaXQgRmlsZVdyaXRhYmxlIHsKICB2YWwgZmlsZTogRmlsZQoKICBkZWYgdG9Xcml0ZXI6IFdyaXRlciA9IG5ldyBXcml0ZXIKCiAgY2xhc3MgV3JpdGVyIHsKICAgIHByaXZhdGUgdmFsIGJ3ID0gbmV3IEJ1ZmZlcmVkV3JpdGVyKG5ldyBGaWxlV3JpdGVyKGZpbGUpKQoKICAgIGRlZiB3cml0ZUxpbmUodmFsdWU6IFN0cmluZyk6IFVuaXQgPSBidy53cml0ZSh2YWx1ZSkKCiAgICBkZWYgZGlzcG9zZSgpID0gYncuY2xvc2UoKQogIH0KfQoKY2xhc3MgRmlsZUlPKHZhbCBmaWxlOiBGaWxlKSBleHRlbmRzIEZpbGVSZWFkYWJsZSB3aXRoIEZpbGVXcml0YWJsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgYWRkKHYxOiBJbnQpOiBJbnQgPSB2MQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZS5fCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgYWRkMih2MTogSW50KTogSW50ID0+IEludCA9IHYxID0+IGFkZCh2MSkK</text>
+        <text encoding="base64">b2JqZWN0IEFua2kgZXh0ZW5kcyBBcHAgewp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">c2NhbGE+</last-search>
+      <last-search>gettype</last-search>
       <last-offset />
-      <last-pattern encoding="base64">c2NhbGE+</last-pattern>
+      <last-pattern>gettype</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">c2NhbGE+</last-substitute>
       <last-dir>1</last-dir>
@@ -581,7 +581,6 @@
     </search>
     <history>
       <history-search>
-        <entry>process</entry>
         <entry encoding="base64">XDwiXD4=</entry>
         <entry>-- did you fill in all the values in WikipediaRanking (conf, sc, wikiRdd)?</entry>
         <entry>scala</entry>
@@ -601,6 +600,7 @@
         <entry encoding="base64">XDx0ZXh0UmVnZXhcPg==</entry>
         <entry>res</entry>
         <entry encoding="base64">c2NhbGE+</entry>
+        <entry>gettype</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -610,6 +610,7 @@
         <entry>%s/''//g</entry>
         <entry>Td</entry>
         <entry encoding="base64">JXMvc2NhbGE+Ly9n</entry>
+        <entry>$d</entry>
         <entry>%d</entry>
       </history-cmd>
       <history-expr />
