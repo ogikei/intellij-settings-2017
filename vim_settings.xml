@@ -208,11 +208,12 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1559022580792">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="9" />
-        <mark key="." line="4" column="9" />
-        <mark key="^" line="4" column="9" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1559023000757">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="36" column="21" />
+        <mark key="." line="36" column="21" />
+        <mark key="^" line="36" column="13" />
       </file>
       <file name="/sbtShell" timestamp="1542766220735">
         <mark key="[" line="0" column="0" />
@@ -431,7 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="4" filename="$USER_HOME$/go/src/silicon-valley-with-go/structoriented_06/typeassertionandswitchtype/lesson.go" />
       <jump line="8" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson04/StringFormat.scala" />
       <jump line="12" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson04/StringFormat.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/tech-academy-scala/src/main/scala/lesson04/StringFormat.scala" />
@@ -531,16 +531,17 @@
       <jump line="47" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="11" column="18" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
+      <jump line="53" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>@</text>
+        <text encoding="base64">IFN0cmluZw==</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text encoding="base64">IFN0cmluZw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">c2NhbGE+</text>
@@ -549,33 +550,32 @@
         <text encoding="base64">Ly8g6ZW344GV44KS5Ye644GZCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICBkZWYgYWRkKHYxOiBJbnQpOiBJbnQgPT4gSW50ID0gXyArIHYxCiAgdmFsIGFkZEY6IEludCA9PiBJbnQgPSBhZGQoMSkKICBhZGRGKDIpCiAgYWRkKDEpKDIpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICB2YWwgYWRkIF8K</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>v1 + _
 }</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICB2YWwgYWRkRiA9IGFkZCBfCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICB2YWwgc2VxOiBTZXFbU2VxW0ludF1dID0gU2VxKFNlcSgxLCAyLCAzKSwgU2VxKDQsIDUsIDYpKQogIC8vIHNlcTogU2VxW1NlcVtJbnRdXSA9IExpc3QoTGlzdCgxLCAyLCAzKSwgTGlzdCg0LCA1LCA2KSkKCiAgdmFsIHJlc3VsdCA9IHNlcS5mbGF0dGVuCiAgLy8gcmVzdWx0OiBTZXFbSW50XSA9IExpc3QoMSwgMiwgMywgNCwgNSwgNikKCiAgdmFsIHNlcTI6IFNlcVtTZXFbSW50XV0gPSBTZXEoU2VxKDEsIDIsIDMpLCBTZXEoNCwgNSwgNikpCiAgLy8gc2VxOiBTZXFbU2VxW0ludF1dID0gTGlzdChMaXN0KDEsIDIsIDMpLCBMaXN0KDQsIDUsIDYpKQoKICB2YWwgcmVzdWx0MiA9IHNlcTIuZmxhdE1hcChuID0+IG4gKiAyKQogIC8vIHJlc3VsdDogU2VxW0ludF0gPSBMaXN0KDIsIDQsIDYsIDgsIDEwLCAxMikK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICB2YWwgc2VxOiBTZXFbSW50XSA9IFNlcSgxLCAyLCAzKQogIHZhbCBiMSA9IHNlcS5jb250YWlucygpCiAgYjE6IEJvb2xlYW4gPSBmYWxzZQoKICAgdmFsIGIyID0gc2VxLj8/PwogIGIyOiBCb29sZWFuID0gdHJ1ZQoKICAgdmFsIHNlcTogU2VxW0ludF0gPSBTZXEuPz8/CiAgc2VxOiBTZXFbSW50XSA9IExpc3QoKQoKICAgdmFsIGIzID0gc2VxLj8/PwogIGIzOiBCb29sZWFuID0gdHJ1ZQoKICAgdmFsIGI0ID0gc2VxLj8/PwogIGI0OiBCb29sZWFuID0gZmFsc2UKCiAgIHZhbCBzZXE6IFNlcVtJbnRdID0gPz8/CiAgc2VxOiBTZXFbSW50XSA9IExpc3QoMSwgMiwgMykKCiAgIHZhbCBzaXplID0gc2VxLj8/PwogIHNpemU6IEludCA9IDMKCiAgIHZhbCBzaXplID0gc2VxLj8/PwogIHNpemU6IEludCA9IDMKCiAgIHZhbCBzZXExOiBTZXFbSW50XSA9ID8/PwogIHNlcTE6IFNlcVtJbnRdID0gTGlzdCgxLCAyLCAzKQoKICAgdmFsIGhlYWQxID0gc2VxMS4/Pz8KICBoZWFkMTogSW50ID0gMQoKICAgdmFsIHNlcTI6IFNlcVtJbnRdID0gPz8/CiAgc2VxMjogU2VxW0ludF0gPSBMaXN0KCkKCiAgIHZhbCBoZWFkMiA9IHNlcTIuPz8/CiAgamF2YS51dGlsLk5vU3VjaEVsZW1lbnRFeGNlcHRpb246IGhlYWQgb2YgZW1wdHkgbGlzdAogICAgYXQgc2NhbGEuY29sbGVjdGlvbi5pbW11dGFibGUuTmlsJC5oZWFkKExpc3Quc2NhbGE6NDE3KQogIGF0IHNjYWxhLmNvbGxlY3Rpb24uaW1tdXRhYmxlLk5pbCQuaGVhZChMaXN0LnNjYWxhOjQxNCkKICAuLi4gMjkgZWxpZGVkCgogICB2YWwgaGVhZE9wdDEgPSBzZXEyLj8/PwogIGhlYWRPcHQ6IE9wdGlvbltJbnRdID0gTm9uZQoKICAgdmFsIHNlcTM6IFNlcVtJbnRdID0gPz8/CiAgc2VxMzogU2VxW0ludF0gPSBMaXN0KDEsIDIsIDMpCgogICB2YWwgaGVhZE9wdDIgPSBzZXEzLj8/PwogIGhlYWRPcHQyOiBPcHRpb25bSW50XSA9IFNvbWUoMSkKCiAgIHZhbCBzZXE6IFNlcVtJbnRdID0gPz8/CiAgc2VxOiBTZXFbSW50XSA9IExpc3QoMSwgMiwgMykKCiAgIHZhbCBudW1zID0gc2VxLj8/PwogIG51bXM6IFNlcVtJbnRdID0gTGlzdCgxLCAyKQoKICAgdmFsIHNlcTE6IFNlcVtJbnRdID0gPz8/CiAgc2VxMTogU2VxW0ludF0gPSBMaXN0KDEsIDIsIDMpCgogICB2YWwgdGFpbDEgPSBzZXExLj8/PwogIHRhaWwxOiBTZXFbSW50XSA9IExpc3QoMiwgMykKCiAgIHZhbCBzZXEyOiBTZXFbSW50XSA9ID8/PwogIHNlcTI6IFNlcVtJbnRdID0gTGlzdCgxKQoKICAgdmFsIHRhaWwyID0gc2VxMi4/Pz8KICB0YWlsMjogU2VxW0ludF0gPSBMaXN0KCkKCiAgIHZhbCBzZXEzOiBTZXFbSW50XSA9ID8/PwogIHNlcTM6IFNlcVtJbnRdID0gTGlzdCgpCgogICB2YWwgdGFpbDMgPSBzZXEzLj8/PwogIGphdmEubGFuZy5VbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbjogdGFpbCBvZiBlbXB0eSBsaXN0CiAgICBhdCBzY2FsYS5jb2xsZWN0aW9uLmltbXV0YWJsZS5OaWwkLnRhaWwoTGlzdC5zY2FsYTo0MTkpCiAgYXQgc2NhbGEuY29sbGVjdGlvbi5pbW11dGFibGUuTmlsJC50YWlsKExpc3Quc2NhbGE6NDE0KQogIC4uLiAyOSBlbGlkZWQK</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">dmFsIHNlcTogU2VxW1NlcVtJbnRdXSA9IFNlcShTZXEoMSwgMiwgMyksIFNlcSg0LCA1LCA2KSkKCnZhbCByZXN1bHQgPSBzZXEuZmxhdE1hcChuID0+IG4pCgp2YWwgc2VxOiBTZXFbU2VxW0ludF1dID0gU2VxKFNlcSgxLCAyLCAzKSwgU2VxKDQsIDUsIDYpKQpzZXE6IFNlcVtTZXFbSW50XV0gPSBMaXN0KExpc3QoMSwgMiwgMyksIExpc3QoNCwgNSwgNikpCgpzY2FsYT4gdmFsIHJlc3VsdCA9IHNlcS4/Pz8KcmVzdWx0OiBTZXFbSW50XSA9IExpc3QoMiwgNCwgNiwgOCwgMTAsIDEyKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">cmVzdWx0OiBTZXFbSW50XSA9IExpc3QoMSwgMiwgMywgNCwgNSwgNikK</text>
-      </register>
-      <register name="9" type="4">
-        <text>val result = seq.fla
-result: Seq[Int] = List(1, 2, 3, 4, 5, 6)</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvc2NhbGE+Ly9n</text>
