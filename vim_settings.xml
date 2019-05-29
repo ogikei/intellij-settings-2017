@@ -209,11 +209,12 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1559105089901">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="6" column="39" />
-        <mark key="." line="6" column="39" />
-        <mark key="^" line="6" column="39" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1559105614940">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="3" column="27" />
       </file>
       <file name="/sbtShell" timestamp="1542766220735">
         <mark key="[" line="0" column="0" />
@@ -483,7 +484,6 @@
       <jump line="38" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="46" column="14" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="44" column="3" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
-      <jump line="7" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="30" column="4" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="37" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="0" column="2" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Test.scala" />
@@ -532,16 +532,17 @@
       <jump line="15" column="13" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="48" column="17" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="4" column="26" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
+      <jump line="7" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>filter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBzYi5zZXQK</text>
       </register>
       <register name="-" type="4">
-        <text>filter</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">c2NhbGE+</text>
@@ -550,31 +551,31 @@
         <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnRlcnMKaW1wb3J0IGphdmEudXRpbAoKdmFsIGpsID0gbmV3IHV0aWwuQXJyYXlMaXN0W0ludF0KLy8gamw6IGphdmEudXRpbC5BcnJheUxpc3RbSW50XSA9IFtdCgovLyDopoHntKAx44KS6L+95YqgCmpsLmFkZCgxKQovLyByZXMwOiBCb29sZWFuID0gdHJ1ZQoKLy8g6KaB57SgMuOCkui/veWKoApqbC5hZGQoMikKLy8gcmVzMTogQm9vbGVhbiA9IHRydWUKCnZhbCBzbCA9IGpsLmFzCi8vIHNsOiBzY2FsYS5jb2xsZWN0aW9uLm11dGFibGUuQnVmZmVyW0ludF0gPSBCdWZmZXIoMSwgMikKCnZhbCBqbDIgPSBzbC5hc0phdmEKLy8gamwyOiBqYXZhLnV0aWwuTGlzdFtJbnRdID0gWzEsIDJdCgovLyDopoHntKAz44KS6L+95YqgCj8/PwovLyByZXMyOiBzbC50eXBlID0gQnVmZmVyKDEsIDIsIDMpCgovLyDopoHntKA0LCA1LCA244KS6L+95YqgCj8/PwovLyByZXMzOiBzbC50eXBlID0gQnVmZmVyKDEsIDIsIDMsIDQsIDUsIDYpCgpqbAovLyByZXM0OiBqYXZhLnV0aWwuQXJyYXlMaXN0W0ludF0gPSBbMSwgMiwgMywgNCwgNSwgNl0KCnNsCi8vIHJlczU6IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZS5CdWZmZXJbSW50XSA9IEJ1ZmZlcigxLCAyLCAzLCA0LCA1LCA2KQoKamwuPz8/Ci8vIHJlczY6IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZS5CdWZmZXJbSW50XSA9IEJ1ZmZlcigxLCAyLCAzLCA0LCA1LCA2KQoKc2wuPz8/Ci8vIHJlczc6IGphdmEudXRpbC5MaXN0W0ludF0gPSBbMSwgMiwgMywgNCwgNSwgNl0KCnZhbCBzbCA9ID8/PwovLyBzbDogTGlzdFtJbnRdID0gTGlzdCgxLCAyLCAzKQoKdmFsIGpsID0gc2wuPz8/Ci8vIGpsOiBqYXZhLnV0aWwuTGlzdFtJbnRdID0gWzEsIDIsIDNdCgpqbC5hZGQoNCkKLy8gamF2YS5sYW5nLlVuc3VwcG9ydGVkT3BlcmF0aW9uRXhjZXB0aW9uCi8vIGF0IGphdmEudXRpbC5BYnN0cmFjdExpc3QuYWRkKEFic3RyYWN0TGlzdC5qYXZhOjE0OCkKLy8gYXQgamF2YS51dGlsLkFic3RyYWN0TGlzdC5hZGQoQWJzdHJhY3RMaXN0LmphdmE6MTA4KQovLyAuLi4gMjkgZWxpZGVkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBzYi5zZXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YWwgYWRkU3RyaW5nczogU3RyaW5nID0+IFN0cmluZyA9PiBTdHJpbmcgPSB2MSA9PiB2MiA9PiB2MSArIHYyCg==</text>
+        <text encoding="base64">ICB2YWwgc291cmNlID0gU291cmNlLmZyb21GaWxlKCIvdG1wL2FiYy50eHQiKQogIHZhbCBsaW5lcyA9IHNvdXJjZS5nZXRMaW5lcygpCiAgZm9yIChsaW5lIDwtIGxpbmVzKSBwcmludGxuKGxpbmUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWwgcmVzdWx0ID0gZm9yIHsKICAgIGkgPC0gU2VxKDEsIDIsIDMpCiAgICBpZiBpICUgMiAhPSAwCiAgfSBpICogMgogIAogIHZhbCByZXN1bHQxID0gU2VxKDEsIDIsIDMpLndpdGhGaWx0ZXIoXyAlIDIgIT0gMCkubWFwKF8gKiAyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IHNlcTogU2VxW0ludF0gPSBBcnJheSgxLCAyLCAzKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWwgYWRkU3RyaW5nczogU3RyaW5nID0+IFN0cmluZyA9PiBTdHJpbmcgPSB2MSA9PiB2MiA9PiB2MSArIHYyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnRlcnMuXwo=</text>
+        <text encoding="base64">IHNlcTogU2VxW0ludF0gPSBBcnJheSgxLCAyLCAzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YWwgamwgPSBuZXcgdXRpbC5BcnJheUxpc3RbSW50XQogIC8vIGpsOiBqYXZhLnV0aWwuQXJyYXlMaXN0W0ludF0gPSBbXQoKICAvLyDopoHntKAx44KS6L+95YqgCiAgamwuYWRkKDEpCiAgLy8gcmVzMDogQm9vbGVhbiA9IHRydWUKCiAgLy8g6KaB57SgMuOCkui/veWKoAogIGpsLmFkZCgyKQogIC8vIHJlczE6IEJvb2xlYW4gPSB0cnVlCgogIHZhbCBzbCA9IGpsLmFzU2NhbGEKICAvLyBzbDogc2NhbGEuY29sbGVjdGlvbi5tdXRhYmxlLkJ1ZmZlcltJbnRdID0gQnVmZmVyKDEsIDIpCgogIHZhbCBqbDIgPSBzbC5hc0phdmEKICAvLyBqbDI6IGphdmEudXRpbC5MaXN0W0ludF0gPSBbMSwgMl0KCiAgLy8g6KaB57SgM+OCkui/veWKoAogIHNsICs9IDMKICAvLyByZXMyOiBzbC50eXBlID0gQnVmZmVyKDEsIDIsIDMpCgogIC8vIOimgee0oDQsIDUsIDbjgpLov73liqAKICBzbCArKz0gTGlzdCg0LCA1LCA2KQogIC8vIHJlczM6IHNsLnR5cGUgPSBCdWZmZXIoMSwgMiwgMywgNCwgNSwgNikKCiAgamwKICAvLyByZXM0OiBqYXZhLnV0aWwuQXJyYXlMaXN0W0ludF0gPSBbMSwgMiwgMywgNCwgNSwgNl0KCiAgc2wKICAvLyByZXM1OiBzY2FsYS5jb2xsZWN0aW9uLm11dGFibGUuQnVmZmVyW0ludF0gPSBCdWZmZXIoMSwgMiwgMywgNCwgNSwgNikKCiAgamwuYXNTY2FsYQogIC8vIHJlczY6IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZS5CdWZmZXJbSW50XSA9IEJ1ZmZlcigxLCAyLCAzLCA0LCA1LCA2KQoKICBzbC5hc0phdmEKICAvLyByZXM3OiBqYXZhLnV0aWwuTGlzdFtJbnRdID0gWzEsIDIsIDMsIDQsIDUsIDZdCgogIHZhbCBzbCA9IExpc3QoMSwgMiwgMykKICAvLyBzbDogTGlzdFtJbnRdID0gTGlzdCgxLCAyLCAzKQoKICB2YWwgamwgPSBzbC5hc0phdmEKICAvLyBqbDogamF2YS51dGlsLkxpc3RbSW50XSA9IFsxLCAyLCAzXQoKICBqbC5hZGQoNCkKICAvLyBqYXZhLmxhbmcuVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24KICAvLyBhdCBqYXZhLnV0aWwuQWJzdHJhY3RMaXN0LmFkZChBYnN0cmFjdExpc3QuamF2YToxNDgpCiAgLy8gYXQgamF2YS51dGlsLkFic3RyYWN0TGlzdC5hZGQoQWJzdHJhY3RMaXN0LmphdmE6MTA4KQogIC8vIC4uLiAyOSBlbGlkZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBqbDIgKz0gMwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvc2NhbGE+Ly9n</text>
