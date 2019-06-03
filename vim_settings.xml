@@ -205,11 +205,11 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1559560083094">
-        <mark key="[" line="82" column="53" />
-        <mark key="]" line="82" column="51" />
-        <mark key="^" line="82" column="51" />
-        <mark key="." line="82" column="51" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1559561547264">
+        <mark key="[" line="177" column="16" />
+        <mark key="]" line="177" column="18" />
+        <mark key="." line="177" column="18" />
+        <mark key="^" line="177" column="18" />
       </file>
       <file name="/sbtShell" timestamp="1542766220735">
         <mark key="[" line="0" column="0" />
@@ -534,60 +534,59 @@
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>Nothing</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>Nothing</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">c2NhbGE+</text>
+        <text>mysomw</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBzYi5hcHBlbmQoMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5ldwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFja2FnZSBteW9wdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b2JqZWN0IEFua2kgZXh0ZW5kcyBBcHAgewogIHZhbCB0b0ludDogUGFydGlhbEZ1bmN0aW9uW1N0cmluZywgSW50XSA9IHsKICAgIGNhc2UgdmFsdWUgPT4gdmFsdWUudG9JbnQKICB9CgogIHZhbCBkb3VibGU6IFBhcnRpYWxGdW5jdGlvbltJbnQsIEludF0gPSB7CiAgICBjYXNlIHZhbHVlID0+IHZhbHVlICogMgogIH0KCiAgdmFsIGZvbGRJbnQ6IFBhcnRpYWxGdW5jdGlvbltJbnQsIEludF0gPSB7CiAgICBjYXNlIHZhbHVlID0+CiAgICAgIHZhciBudW1iZXIgPSB2YWx1ZQogICAgICB2YXIgc3VtID0gMAogICAgICB3aGlsZSAobnVtYmVyICE9IDApIHsKICAgICAgICBzdW0gKz0gbnVtYmVyICUgMTAKICAgICAgICBudW1iZXIgLz0gMTAKICAgICAgfQogICAgICBzdW0KICB9CgogIHZhbCBwdXRJbnQ6IFBhcnRpYWxGdW5jdGlvbltJbnQsIFVuaXRdID0gewogICAgY2FzZSB2YWx1ZSA9PiBwcmludGxuKHZhbHVlKQogIH0KCiAgdmFsIGNvbXBvc2VGID0gdG9JbnQgYW5kVGhlbiBkb3VibGUgYW5kVGhlbiBmb2xkSW50IGFuZFRoZW4gcHV0SW50CgogIGNvbXBvc2VGKCIxMjMiKQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZmFkZmEK</text>
+        <text encoding="base64">CiAgICAuZ2V0Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb20K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">cGFja2FnZSBteW9wdGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb21wb3NlRgo=</text>
+        <text encoding="base64">b2JqZWN0IEFua2kgZXh0ZW5kcyBBcHAgewogIHZhbCB0b0ludDogUGFydGlhbEZ1bmN0aW9uW1N0cmluZywgSW50XSA9IHsKICAgIGNhc2UgdmFsdWUgPT4gdmFsdWUudG9JbnQKICB9CgogIHZhbCBkb3VibGU6IFBhcnRpYWxGdW5jdGlvbltJbnQsIEludF0gPSB7CiAgICBjYXNlIHZhbHVlID0+IHZhbHVlICogMgogIH0KCiAgdmFsIGZvbGRJbnQ6IFBhcnRpYWxGdW5jdGlvbltJbnQsIEludF0gPSB7CiAgICBjYXNlIHZhbHVlID0+CiAgICAgIHZhciBudW1iZXIgPSB2YWx1ZQogICAgICB2YXIgc3VtID0gMAogICAgICB3aGlsZSAobnVtYmVyICE9IDApIHsKICAgICAgICBzdW0gKz0gbnVtYmVyICUgMTAKICAgICAgICBudW1iZXIgLz0gMTAKICAgICAgfQogICAgICBzdW0KICB9CgogIHZhbCBwdXRJbnQ6IFBhcnRpYWxGdW5jdGlvbltJbnQsIFVuaXRdID0gewogICAgY2FzZSB2YWx1ZSA9PiBwcmludGxuKHZhbHVlKQogIH0KCiAgdmFsIGNvbXBvc2VGID0gdG9JbnQgYW5kVGhlbiBkb3VibGUgYW5kVGhlbiBmb2xkSW50IGFuZFRoZW4gcHV0SW50CgogIGNvbXBvc2VGKCIxMjMiKQp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb21wbwo=</text>
+        <text encoding="base64">ICBkZmFkZmEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcmludAo=</text>
+        <text encoding="base64">ICBjb20K</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">c2NhbGE+</last-search>
+      <last-search>mysomw</last-search>
       <last-offset />
-      <last-pattern encoding="base64">c2NhbGE+</last-pattern>
+      <last-pattern>mysomw</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">c2NhbGE+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>X</entry>
         <entry>Y</entry>
         <entry>getparameter</entry>
         <entry encoding="base64">XDxDbGllbnRDb25maWd1cmF0aW9uXD4=</entry>
@@ -607,6 +606,7 @@
         <entry>hour</entry>
         <entry>type</entry>
         <entry encoding="base64">c2NhbGE+</entry>
+        <entry>mysomw</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
