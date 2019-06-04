@@ -51,10 +51,10 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="11" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/build.sbt" timestamp="1559644641971">
-        <mark key="[" line="7" column="40" />
-        <mark key="]" line="7" column="48" />
-        <mark key="." line="7" column="48" />
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/build.sbt" timestamp="1559652863025">
+        <mark key="[" line="7" column="46" />
+        <mark key="]" line="7" column="47" />
+        <mark key="." line="7" column="47" />
         <mark key="^" line="7" column="48" />
       </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/array/lesson.go" timestamp="1543324953000">
@@ -190,6 +190,13 @@
         <mark key="." line="22" column="19" />
         <mark key="^" line="22" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/test/scala/com/sundogsoftware/spark/RatingsCounterSuite.scala" timestamp="1559650272754">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/04_statement/exercises/lesson.go" timestamp="1543745124215">
         <mark key="[" line="21" column="15" />
         <mark key="]" line="21" column="15" />
@@ -254,12 +261,12 @@
         <mark key="." line="64" column="36" />
         <mark key="^" line="64" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/RatingsCounter.scala" timestamp="1559650004758">
-        <mark key="'" line="30" column="1" />
-        <mark key="[" line="18" column="42" />
-        <mark key="]" line="18" column="42" />
-        <mark key="." line="18" column="42" />
-        <mark key="^" line="18" column="42" />
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/RatingsCounter.scala" timestamp="1559653095946">
+        <mark key="'" line="31" column="1" />
+        <mark key="[" line="28" column="40" />
+        <mark key="]" line="28" column="39" />
+        <mark key="." line="28" column="39" />
+        <mark key="^" line="28" column="39" />
       </file>
       <file name="$USER_HOME$/MyWork/git/glue-test/src/main/scala/s3-2.json" timestamp="1551957289886">
         <mark key="[" line="0" column="0" />
@@ -447,7 +454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/MyWork/git/glue-test/src/main/scala/practice.sc" />
       <jump line="45" column="0" filename="$USER_HOME$/MyWork/git/glue-test/src/main/scala/practice.sc" />
       <jump line="33" column="0" filename="$USER_HOME$/MyWork/git/glue-test/src/main/scala/practice.sc" />
       <jump line="8" column="0" filename="$USER_HOME$/MyWork/git/analysis_infra/terraform/aws/modules/database/rds/main.tf" />
@@ -547,52 +553,53 @@
       <jump line="6" column="25" filename="$USER_HOME$/Documents/BigData/SparkScala/build.sbt" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/RatingsCounter.scala" />
       <jump line="29" column="1" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/RatingsCounter.scala" />
+      <jump line="34" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/test/scala/com/sundogsoftware/spark/RatingsCounterSuite.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">c2NhbGE+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdHJlYW0gPSB0aGlzLmdldENsYXNzLmdldFJlc291cmNlQXNTdHJlYW0oIi9tbC0xMDBrL3UuZGF0YSIpCg==</text>
+      <register name="0" type="4">
+        <text>/ml-100k/u.data&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdHJlYW0gPSB0aGlzLmdldENsYXNzLmdldFJlc291cmNlQXNTdHJlYW0oIi9tbC0xMDBrL3UuZGF0YSIpCiAgICBwcmludGxuKHN0cmVhbSkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdHJlYW0gPSB0aGlzLmdldENsYXNzLmdldFJlc291cmNlQXNTdHJlYW0oIi9tbC0xMDBrL3UuZGF0YSIpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJhdGluZ3MuZm9yZWFjaChyID0+ICkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4ocGF0aCkKICAgIHZhbCBmaWxlU3RyZWFtID0gdGhpcy5nZXRDbGFzcy5nZXRSZXNvdXJjZUFzU3RyZWFtKCIvbWwtMTAway91LmRhdGEiKQogICAgdmFsIGxpbmVzcyA9IFNvdXJjZS5mcm9tSW5wdXRTdHJlYW0oZmlsZVN0cmVhbSkuZ2V0TGluZXMKICAgIGxpbmVzcy5mb3JlYWNoKGxpbmUgPT4gcHJpbnRsbihsaW5lKSkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBqYXZhLm5pby5maWxlLlBhdGhzCg==</text>
+        <text encoding="base64">ICAgIGxpbmVzcy5mb3JlYWNoKGxpbmUgPT4gcHJpbnRsbihsaW5lKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBhYnNvbHV0ZVBhdGggPSBmaWxlLmdldEFic29sdXRlUGF0aAo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocGF0aCkKICAgIHZhbCBmaWxlU3RyZWFtID0gZ2V0Q2xhc3MuZ2V0UmVzb3VyY2VBc1N0cmVhbSgiL21sLTEwMGsvdS5kYXRhIikKICAgIHZhbCBsaW5lc3MgPSBTb3VyY2UuZnJvbUlucHV0U3RyZWFtKGZpbGVTdHJlYW0pLmdldExpbmVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBmaWxlID0gUGF0aHMuZ2V0KHJlcy50b1VSSSkudG9GaWxlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBqYXZhLm5pby5maWxlLlBhdGhzCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzdHJlYW0gPSB0aGlzLmdldENsYXNzLmdldENsYXNzTG9hZGVyLmdldFJlc291cmNlQXNTdHJlYW0oIm1sLTEwMGsvdS5kYXRhIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBqYXZhLm5ldC5VUkwK</text>
+        <text encoding="base64">ICAgIHN0cmVhbS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBqYXZhLmlvLkZpbGUK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JXMvc2NhbGE+Ly9n</text>
+        <text>%d</text>
       </register>
     </registers>
     <search>
@@ -635,8 +642,8 @@
         <entry>%s/''//g</entry>
         <entry>Td</entry>
         <entry>$d</entry>
-        <entry>%d</entry>
         <entry encoding="base64">JXMvc2NhbGE+Ly9n</entry>
+        <entry>%d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
