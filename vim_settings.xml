@@ -218,11 +218,11 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1559629473570">
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="14" />
-        <mark key="." line="1" column="14" />
-        <mark key="^" line="1" column="14" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1559709023120">
+        <mark key="[" line="51" column="44" />
+        <mark key="]" line="51" column="49" />
+        <mark key="." line="51" column="49" />
+        <mark key="^" line="51" column="49" />
       </file>
       <file name="/sbtShell" timestamp="1542766220735">
         <mark key="[" line="0" column="0" />
@@ -559,11 +559,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>str</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>str</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">c2NhbGE+</text>
@@ -572,31 +572,31 @@
         <text>/ml-100k/u.data&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJhdGluZ3MuZm9yZWFjaChyID0+ICkK</text>
+        <text encoding="base64">ICAgICAgcChfKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocGF0aCkKICAgIHZhbCBmaWxlU3RyZWFtID0gdGhpcy5nZXRDbGFzcy5nZXRSZXNvdXJjZUFzU3RyZWFtKCIvbWwtMTAway91LmRhdGEiKQogICAgdmFsIGxpbmVzcyA9IFNvdXJjZS5mcm9tSW5wdXRTdHJlYW0oZmlsZVN0cmVhbSkuZ2V0TGluZXMKICAgIGxpbmVzcy5mb3JlYWNoKGxpbmUgPT4gcHJpbnRsbihsaW5lKSkK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxpbmVzcy5mb3JlYWNoKGxpbmUgPT4gcHJpbnRsbihsaW5lKSkK</text>
+        <text encoding="base64">ICAgIHZhbCBsaXN0ID0gdW5kZXJseWluZyBtYXAgeyBjID0+CiAgICAgIGlmIChwKGMpKSBjCiAgICAgIGVsc2UgIiIKICAgIH0KICAgIGlmIChsaXN0LmlzRW1wdHkpIGZhbHNlCiAgICBlbHNlIHRydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocGF0aCkKICAgIHZhbCBmaWxlU3RyZWFtID0gZ2V0Q2xhc3MuZ2V0UmVzb3VyY2VBc1N0cmVhbSgiL21sLTEwMGsvdS5kYXRhIikKICAgIHZhbCBsaW5lc3MgPSBTb3VyY2UuZnJvbUlucHV0U3RyZWFtKGZpbGVTdHJlYW0pLmdldExpbmVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGVsc2UgJycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdHJlYW0gPSB0aGlzLmdldENsYXNzLmdldENsYXNzTG9hZGVyLmdldFJlc291cmNlQXNTdHJlYW0oIm1sLTEwMGsvdS5kYXRhIikK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0cmVhbS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHJhdGluZ3MuZm9yZWFjaChyID0+ICkK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
