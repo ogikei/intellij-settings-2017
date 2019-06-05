@@ -218,10 +218,11 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1559712496150">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1559713668008">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="31" />
+        <mark key="." line="13" column="31" />
+        <mark key="^" line="13" column="35" />
       </file>
       <file name="/sbtShell" timestamp="1542766220735">
         <mark key="[" line="0" column="0" />
@@ -521,7 +522,6 @@
       <jump line="28" column="63" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
       <jump line="23" column="2" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
       <jump line="11" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
-      <jump line="19" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="22" column="12" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="16" column="19" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="4" column="17" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
@@ -553,16 +553,17 @@
       <jump line="53" column="18" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="8" column="20" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="7" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
+      <jump line="19" column="10" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWYgYWRkKHYxOiBJbnQsIHYyOiBJbnQpOiBJbnQgPSB2MSArIHYyCiAgdmFsIGEgPSAoYWRkIF8pLmN1cnJpZWQK</text>
+      <register name="&quot;" type="4">
+        <text>B</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>B</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">c2NhbGE+</text>
@@ -571,31 +572,31 @@
         <text>/ml-100k/u.data&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgYWRkKHYxOiBJbnQsIHYyOiBJbnQpOiBJbnQgPSB2MSArIHYyCiAgdmFsIGEgPSAoYWRkIF8pLmN1cnJpZWQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHYxICsgdjIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgc3VtKG51bWJlcnM6IFNlcVtJbnRdKTogSW50ID0gewogICAgQHRhaWxyZWMKICAgIGRlZiBsb29wKGFjYzogSW50LCB2YWx1ZXM6IExpc3RbSW50XSk6IEludCA9IHsKICAgICAgdmFsdWVzIG1hdGNoIHsKICAgICAgICBjYXNlIE5pbCA9PiBhY2MKICAgICAgICBjYXNlIGhlYWQgOjogdGFpbCA9PiBsb29wKGFjYyArIGhlYWQsIHRhaWwpCiAgICAgIH0KICAgIH0KCiAgICBsb29wKDAsIG51bWJlcnMudG9MaXN0KQogIH0KCiAgcHJpbnRsbihzdW0oMSB0byAxMDApKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFsdWVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Ly8gRXhpdGluZyBwYXN0ZSBtb2RlLCBub3cgaW50ZXJwcmV0aW5nLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG51bS5pc0VtcHR5KSBhY2MKICAgICAgZWxzZSBsb29wKGFjYyArIG51bS5oZWFkLCBudW0udGFpbCkK</text>
+        <text encoding="base64">ZGVmaW5lZCBjbGFzcyBOb25FbXB0eUxpc3QKCnNjYWxhPiB2YWwgbGlzdDEgPSBOb25FbXB0eUxpc3QoMSkKbGlzdDE6IE5vbkVtcHR5TGlzdFtJbnRdID0gTm9uRW1wdHlMaXN0KDEsTGlzdCgpKQoKc2NhbGE+IHZhbCBsaXN0MiA9IGxpc3QxLnByZXBlbmQoMikKbGlzdDI6IE5vbkVtcHR5TGlzdFtJbnRdID0gTm9uRW1wdHlMaXN0KDIsTGlzdCgxKSkKCi8vIOaWh+Wtl+WIl+OCkuaMh+WumuOBl+OBn+WgtOWQiOOBr2BJbnRg44GoYFN0cmluZ2Djga7nt4/np7DlnovjgajjgZfjgaZgTm9uZUVtcHR5TGlzdFtBbnldYOOBjOaOqOirluOBleOCjOOCiwpzY2FsYT4gdmFsIGxpc3QzID0gbGlzdDIucHJlcGVuZCgiIikKbGlzdDM6IE5vbkVtcHR5TGlzdFtBbnldID0gTm9uRW1wdHlMaXN0KCxMaXN0KDIsIDEpKQoKLy8gYExvbmdg44Gq44Gp44GuYEFueVZhbGDjga7mtL7nlJ/lnovjgYzmjIflrprjgZXjgozjgZ/loLTlkIjjga/jgIFgTm9uRW1wdHlMaXN0W0FueVZhbF1g44GM5o6o6KuW44GV44KM44KLCnNjYWxhPiB2YWwgbGlzdDQgPSBsaXN0Mi5wcmVwZW5kKDFMKQpsaXN0NDogTm9uRW1wdHlMaXN0W0FueVZhbF0gPSBOb25FbXB0eUxpc3QoMSxMaXN0KDIsIDEpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICB2YWwgZmlsZVN0cmVhbSA9IHRoaXMuZ2V0Q2xhc3MuZ2V0UmVzb3VyY2VBc1N0cmVhbSgiIikKICB2YWwgbGluZXMgPSBTb3VyY2UuZnJvbUlucHV0U3RyZWFtKGZpbGVTdHJlYW0pCiAgbGluZXMuZm9yZWFjaChwcmludGxuKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChudW1iZXJzLmlzRW1wdHkpIDAKICAgIGVsc2UgbnVtYmVycy5oZWFkICsgc3VtKG51bWJlcnMudGFpbCkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBkZWYgYWRkKHYxOiBJbnQsIHYyOiBJbnQpOiBJbnQgPSB2MSArIHYyCiAgdmFsIGEgPSAoYWRkIF8pLmN1cnJpZWQK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
