@@ -117,6 +117,7 @@
         <mark key="." line="26" column="18" />
         <mark key="^" line="26" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MinTemperatures.scala" timestamp="1559898755724" />
       <file name="$USER_HOME$/MyWork/git/analysis-job/README.md" timestamp="1557922040973">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="2" />
@@ -399,11 +400,11 @@
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/FriendsByAge.scala" timestamp="1559897747681">
-        <mark key="[" line="49" column="12" />
-        <mark key="]" line="49" column="14" />
-        <mark key="." line="49" column="14" />
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/FriendsByAge.scala" timestamp="1559898697360">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
         <mark key="^" line="49" column="14" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/makeandcap/lesson.go" timestamp="1543326130022">
         <mark key="[" line="33" column="0" />
@@ -492,6 +493,7 @@
         <mark key="^" line="67" column="35" />
         <mark key="." line="67" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MaxTemperatures.scala" timestamp="1559899109076" />
       <file name="/fragment.java" timestamp="1558693745725">
         <mark key="[" line="0" column="0" />
       </file>
@@ -602,8 +604,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>sorted.foreach(println)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbCBsaW5lcyA9IHNjLnRleHRGaWxlKHBhdGgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>sorted.foreach(println)</text>
@@ -615,31 +617,31 @@
         <text encoding="base64">ICAgIHZhbCBwYXRoID0gdGhpcy5nZXRDbGFzcy5nZXRSZXNvdXJjZSgiL21sLTEwMGsvdS5kYXRhIikuZ2V0UGF0aAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdHMuc29ydGVkLmZvcmVhY2gocHJpbnRsbikK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIHZhbCBsaW5lcyA9IHNjLnRleHRGaWxlKHBhdGgpCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">dmFsIHBhdGggPSB0aGlzLmdldENsYXNzLmdldFJlc291cmNlKCIvbWwtMTAway91LmRhdGEiKS5nZXRQYXRoCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdHMuc29ydGVkLmZvcmVhY2gocHJpbnRsbikK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBsaW5lcyA9IHNjLnRleHRGaWxlKHRoaXMuZ2V0Q2xhc3MuZ2V0UmVzb3VyY2UoIi9mYWtlZnJpZW5kcy5jc3YiKS5nZXRQYXRoKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBsaW5lcyA9IHNjLnRleHRGaWxlKHBhdGgpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">dmFsIHBhdGggPSB0aGlzLmdldENsYXNzLmdldFJlc291cmNlKCIvbWwtMTAway91LmRhdGEiKS5nZXRQYXRoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBsaW5lcyA9IHNjLnRleHRGaWxlKHRoaXMuZ2V0Q2xhc3MuZ2V0UmVzb3VyY2UoIi9mYWtlZnJpZW5kcy5jc3YiKS5nZXRQYXRoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcmkK</text>
+        <text encoding="base64">dmFsIHBhdGggPSB0aGlzLmdldENsYXNzLmdldFJlc291cmNlKCIvbWwtMTAway91LmRhdGEiKS5nZXRQYXRoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcmludGxuKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgcmRkID0gc2MubWFrZVJERChTZXEoImEiIC0+IDEsICJiIiAtPiAyLCAiYyIgLT4gMywgImEiIC0+IDQpKQogIHZhbCByZGQyID0gcmRkLmdyb3VwQnlLZXkoMikKICAvLyAoYixBcnJheUJ1ZmZlcigyKSksCiAgLy8gKGEsQXJyYXlCdWZmZXIoMSwgNCkpLAogIC8vIChjLEFycmF5QnVmZmVyKDMpKQo=</text>
+        <text encoding="base64">ICBwcmkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvc2NhbGE+Ly9n</text>
