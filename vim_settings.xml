@@ -298,6 +298,12 @@
       <file name="$USER_HOME$/MyWork/git/analysis_infra/terraform/aws/modules/database/rds/main.tf" timestamp="1557745150135">
         <mark key="'" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/LearningScala1.sc" timestamp="1559885601121">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/04_statement/range/range.go" timestamp="1543740496912">
         <mark key="[" line="25" column="28" />
         <mark key="]" line="25" column="28" />
@@ -442,6 +448,11 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/LearningScala2.sc" timestamp="1559885890296">
+        <mark key="[" line="82" column="61" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/slice/lesson.go" timestamp="1543325353306">
         <mark key="[" line="23" column="37" />
         <mark key="]" line="24" column="16" />
@@ -566,10 +577,10 @@
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB2YWwgCg==</text>
+        <text encoding="base64">ICB3aGlsZWQK</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">IHZhbCBwYXR0ZXJuID0gIiIiLiogKFtcZF0rKS4qIiIiLnIgICAgICAgICAgICAgIC8vPiBwYXR0ZXJuICA6IHNjYWxhLnV0aWwubWF0Y2hpbmcuUmVnZXggPSAuKiAoW1xkXSspLio=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">c2NhbGE+</text>
@@ -578,31 +589,31 @@
         <text encoding="base64">ICAib3JnLmFwYWNoZS5zcGFyayIgJSAic3BhcmstY29yZV8yLjExIiAlICIyLjQuMyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YWwgCg==</text>
+        <text encoding="base64">ICB3aGlsZWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YWwgc3BhcmsgPSBTcGFya1Nlc3Npb24KICAgIC5idWlsZGVyCiAgICAubWFzdGVyKCJsb2NhbCIpCiAgICAuZ2V0T3JDcmVhdGUoKQoKICB2YWwgc2MgPSBzcGFyay5zcGFya0NvbnRleHQKCiAgdmFsIHRleHRGaWxlID0gc3BhcmsucmVhZC50ZXh0RmlsZSh0aGlzLmdldENsYXNzLmdldFJlc291cmNlKCIvUkVBRE1FLm1kIikuZ2V0UGF0aCkKICBwcmludGxuKHRleHRGaWxlLmNvdW50KQogIHByaW50bG4odGV4dEZpbGUuZmlyc3QpCgogIHZhbCBsaW5lc1dpdGhTcGFyayA9IHRleHRGaWxlLmZpbHRlcihsaW5lID0+IGxpbmUuY29udGFpbnMoIlNwYXJrIikpCiAgdGV4dEZpbGUuZmlsdGVyKF8gPT0gIlNwYXJrIikuY291bnQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWwgc2MgPSBzcGFyay5zcGFya0NvbnRleHQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBzcAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB2YWwgc291cmNlID0gU291cmNlLmZyb21GaWxlKCIvdG1wL2FiYy50eHQiKQogIHZhbCBsaW5lczogSXRlcmF0b3JbU3RyaW5nXSA9IHNvdXJjZS5nZXRMaW5lcwogIC8vIGZvcuOBp+WbnuOBm+OCi+OAggogIGZvciAobGluZSA8LSBsaW5lcykgcHJpbnRsbihsaW5lKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB2YWwgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB2YWwgc3BhcmsgPSBTcGFya1Nlc3Npb24KICAgIC5idWlsZGVyCiAgICAubWFzdGVyKCJsb2NhbCIpCiAgICAuZ2V0T3JDcmVhdGUoKQoKICB2YWwgc2MgPSBzcGFyay5zcGFya0NvbnRleHQKCiAgdmFsIHRleHRGaWxlID0gc3BhcmsucmVhZC50ZXh0RmlsZSh0aGlzLmdldENsYXNzLmdldFJlc291cmNlKCIvUkVBRE1FLm1kIikuZ2V0UGF0aCkKICBwcmludGxuKHRleHRGaWxlLmNvdW50KQogIHByaW50bG4odGV4dEZpbGUuZmlyc3QpCgogIHZhbCBsaW5lc1dpdGhTcGFyayA9IHRleHRGaWxlLmZpbHRlcihsaW5lID0+IGxpbmUuY29udGFpbnMoIlNwYXJrIikpCiAgdGV4dEZpbGUuZmlsdGVyKF8gPT0gIlNwYXJrIikuY291bnQoKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YWwgYm1pID0gQmlnRGVjaW1hbCg3MC4wIC8gbWF0aC5wb3coMTc0LjAgLyAxMDAsIDIpKQogIHZhbCBhID0gYm1pLnNldFNjYWxlKDIsIEJpZ0RlY2ltYWwuUm91bmRpbmdNb2RlLkhBTEZfVVApCiAgcHJpbnRsbihhKQo=</text>
+        <text encoding="base64">ICB2YWwgc2MgPSBzcGFyay5zcGFya0NvbnRleHQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcmludGxuKEJpZ0RlY2ltYWwuUm91bmRpbmdNb2RlKCkpCg==</text>
+        <text encoding="base64">ICBzcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgYWRkKHYxOiBJbnQsIHYyOiBJbnQpOiBJbnQgPSB2MSArIHYyCiAgdmFsIGYgPSBhZGQgXwogIHZhbCBmMiA9IGYuY3VycmllZAo=</text>
+        <text encoding="base64">ICB2YWwgc291cmNlID0gU291cmNlLmZyb21GaWxlKCIvdG1wL2FiYy50eHQiKQogIHZhbCBsaW5lczogSXRlcmF0b3JbU3RyaW5nXSA9IHNvdXJjZS5nZXRMaW5lcwogIC8vIGZvcuOBp+WbnuOBm+OCi+OAggogIGZvciAobGluZSA8LSBsaW5lcykgcHJpbnRsbihsaW5lKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvc2NhbGE+Ly9n</text>
