@@ -38,6 +38,12 @@
       <file name="/Dummy.scala" timestamp="1541231239901">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/LearningScala3.scala" timestamp="1559886996642">
+        <mark key="'" line="0" column="7" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/import/lesson.go" timestamp="1542810750098">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="9" column="2" />
@@ -218,6 +224,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="32" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/LearningScala2.scala" timestamp="1559886638138">
+        <mark key="[" line="86" column="6" />
+        <mark key="]" line="86" column="6" />
+        <mark key="." line="86" column="6" />
+        <mark key="^" line="86" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/MachineLearning/git/kaggle/.gitignore" timestamp="1556025003744">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
@@ -286,6 +298,7 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/LearningScala1" timestamp="1559886475484" />
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-python/fundamental_python/first_print/lesson.py" timestamp="1541913926184">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="3" column="18" />
@@ -448,10 +461,11 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/LearningScala2.sc" timestamp="1559885890296">
-        <mark key="[" line="82" column="61" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/LearningScala2.sc" timestamp="1559886417682">
+        <mark key="[" line="87" column="37" />
+        <mark key="]" line="87" column="36" />
+        <mark key="." line="87" column="36" />
+        <mark key="^" line="87" column="36" />
       </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/slice/lesson.go" timestamp="1543325353306">
         <mark key="[" line="23" column="37" />
@@ -466,13 +480,18 @@
         <mark key="." line="37" column="6" />
         <mark key="^" line="37" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/LearningScala4.scala" timestamp="1559887067923">
+        <mark key="'" line="0" column="7" />
+        <mark key="[" line="67" column="35" />
+        <mark key="]" line="67" column="35" />
+        <mark key="^" line="67" column="35" />
+        <mark key="." line="67" column="35" />
+      </file>
       <file name="/fragment.java" timestamp="1558693745725">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="9" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
-      <jump line="11" column="0" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
       <jump line="22" column="24" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
       <jump line="10" column="0" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
       <jump line="21" column="55" filename="$USER_HOME$/MyWork/git/analysis-job/test.sc" />
@@ -571,16 +590,18 @@
       <jump line="11" column="42" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="12" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="13" column="25" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
+      <jump line="0" column="7" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/LearningScala3.scala" />
+      <jump line="0" column="7" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/LearningScala4.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB3aGlsZWQK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHZhbCBwYXR0ZXJuID0gIiIiLiogKFtcZF0rKS4qIiIiLnIgICAgICAgICAgICAgIC8vPiBwYXR0ZXJuICA6IHNjYWxhLnV0aWwubWF0Y2hpbmcuUmVnZXggPSAuKiAoW1xkXSspLio=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">c2NhbGE+</text>
@@ -589,31 +610,31 @@
         <text encoding="base64">ICAib3JnLmFwYWNoZS5zcGFyayIgJSAic3BhcmstY29yZV8yLjExIiAlICIyLjQuMyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3aGlsZWQK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgdXBwZXJDYXNlRihzOiBTdHJpbmcpOiBTdHJpbmcgPQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YWwgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YWwgc3BhcmsgPSBTcGFya1Nlc3Npb24KICAgIC5idWlsZGVyCiAgICAubWFzdGVyKCJsb2NhbCIpCiAgICAuZ2V0T3JDcmVhdGUoKQoKICB2YWwgc2MgPSBzcGFyay5zcGFya0NvbnRleHQKCiAgdmFsIHRleHRGaWxlID0gc3BhcmsucmVhZC50ZXh0RmlsZSh0aGlzLmdldENsYXNzLmdldFJlc291cmNlKCIvUkVBRE1FLm1kIikuZ2V0UGF0aCkKICBwcmludGxuKHRleHRGaWxlLmNvdW50KQogIHByaW50bG4odGV4dEZpbGUuZmlyc3QpCgogIHZhbCBsaW5lc1dpdGhTcGFyayA9IHRleHRGaWxlLmZpbHRlcihsaW5lID0+IGxpbmUuY29udGFpbnMoIlNwYXJrIikpCiAgdGV4dEZpbGUuZmlsdGVyKF8gPT0gIlNwYXJrIikuY291bnQoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YWwgc2MgPSBzcGFyay5zcGFya0NvbnRleHQK</text>
+        <text encoding="base64">ICBkZWYgZmliCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzcAo=</text>
+        <text encoding="base64">ICAgIGZpYihhLCBhICsgYikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgc291cmNlID0gU291cmNlLmZyb21GaWxlKCIvdG1wL2FiYy50eHQiKQogIHZhbCBsaW5lczogSXRlcmF0b3JbU3RyaW5nXSA9IHNvdXJjZS5nZXRMaW5lcwogIC8vIGZvcuOBp+WbnuOBm+OCi+OAggogIGZvciAobGluZSA8LSBsaW5lcykgcHJpbnRsbihsaW5lKQo=</text>
+        <text encoding="base64">ICB3aGlsZWQK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvc2NhbGE+Ly9n</text>
