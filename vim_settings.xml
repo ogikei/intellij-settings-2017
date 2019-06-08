@@ -114,7 +114,6 @@
         <mark key="." line="26" column="18" />
         <mark key="^" line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MinTemperatures.scala" timestamp="1559898755724" />
       <file name="$USER_HOME$/MyWork/git/analysis-job/README.md" timestamp="1557922040973">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="2" />
@@ -170,7 +169,6 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/WordCount.scala" timestamp="1559899849572" />
       <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Test.scala" timestamp="1559104467686">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -226,11 +224,11 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1559896718450">
-        <mark key="[" line="23" column="50" />
-        <mark key="]" line="24" column="21" />
-        <mark key="." line="24" column="21" />
-        <mark key="^" line="24" column="21" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1559966492758">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="151" column="29" />
+        <mark key="." line="151" column="29" />
+        <mark key="^" line="151" column="29" />
       </file>
       <file name="$USER_HOME$/MyWork/git/glue-test/build.sbt" timestamp="1551756273969">
         <mark key="[" line="9" column="38" />
@@ -466,7 +464,6 @@
         <mark key="^" line="67" column="35" />
         <mark key="." line="67" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MaxTemperatures.scala" timestamp="1559899109076" />
       <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/WordCountBetter.scala" timestamp="1559902240289">
         <mark key="'" line="9" column="11" />
         <mark key="[" line="24" column="11" />
@@ -567,7 +564,6 @@
       <jump line="32" column="20" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="60" column="60" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="15" column="10" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
-      <jump line="14" column="8" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="11" column="42" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="12" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="13" column="25" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
@@ -575,13 +571,14 @@
       <jump line="0" column="7" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/LearningScala4.scala" />
       <jump line="8" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/WordCountBetter.scala" />
       <jump line="9" column="11" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/WordCountBetter.scala" />
+      <jump line="14" column="8" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.toFloat</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB2YWwgc3BhcmsgPSBTcGFya1Nlc3Npb24KICAgIC5idWlsZGVyKCkKICAgIC5tYXN0ZXIoImxvY2FsIikKICAgIC5hcHBOYW1lKCJleGFtcGxlIikKICAgIC5jb25maWcoImtleSIsICJ2YWx1ZSIpCiAgICAuZ2V0T3JDcmVhdGUoKQoKICB2YWwgc2MgPSBzcGFyay5zcGFya0NvbnRleHQKCiAgdmFsIHJkZCA9IHNjLm1ha2VSREQoU2VxKCJhIiAtPiAwLCAiYiIgLT4gMSwgImMiIC0+IDIpKQogIHZhbCByZGQyID0gcmRkLmZsYXRNYXBWYWx1ZXMobiA9PiBTZXEobiwgJ0EnICsgbikpCiAgcmRkMi5mb3JlYWNoKHByaW50bG4pCg==</text>
       </register>
       <register name="-" type="4">
         <text>.toFloat</text>
@@ -593,31 +590,31 @@
         <text encoding="base64">ICAib3JnLmFwYWNoZS5zcGFyayIgJSAic3BhcmstY29yZV8yLjExIiAlICIyLjQuMyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXN1bHRzLmNvbGxlY3QoKQo=</text>
+        <text encoding="base64">ICB2YWwgc3BhcmsgPSBTcGFya1Nlc3Npb24KICAgIC5idWlsZGVyKCkKICAgIC5tYXN0ZXIoImxvY2FsIikKICAgIC5hcHBOYW1lKCJleGFtcGxlIikKICAgIC5jb25maWcoImtleSIsICJ2YWx1ZSIpCiAgICAuZ2V0T3JDcmVhdGUoKQoKICB2YWwgc2MgPSBzcGFyay5zcGFya0NvbnRleHQKCiAgdmFsIHJkZCA9IHNjLm1ha2VSREQoU2VxKCJhIiAtPiAwLCAiYiIgLT4gMSwgImMiIC0+IDIpKQogIHZhbCByZGQyID0gcmRkLmZsYXRNYXBWYWx1ZXMobiA9PiBTZXEobiwgJ0EnICsgbikpCiAgcmRkMi5mb3JlYWNoKHByaW50bG4pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICByZXN1bHRzLmNvbGxlY3QoKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">YWwgcGFyc2VkTGluZSA9IGxpbmVzLm1hcChwYXJzZUxpbmUpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBqawo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAubWFwKCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="4">
+        <text encoding="base64">YWwgcGFyc2VkTGluZSA9IGxpbmVzLm1hcChwYXJzZUxpbmUpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBqawo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAubWFwKCkK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvc2NhbGE+Ly9n</text>
