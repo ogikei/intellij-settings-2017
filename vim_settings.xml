@@ -285,7 +285,9 @@
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" timestamp="1559978386027" />
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" timestamp="1559981361004">
+        <mark key="'" line="8" column="24" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/glue-test/src/main/scala/s3-2.json" timestamp="1551957289886">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="38" column="0" />
@@ -389,7 +391,13 @@
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" timestamp="1559980318578" />
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" timestamp="1559981657486">
+        <mark key="'" line="57" column="49" />
+        <mark key="[" line="57" column="59" />
+        <mark key="]" line="57" column="59" />
+        <mark key="^" line="57" column="87" />
+        <mark key="." line="57" column="59" />
+      </file>
       <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/FriendsByAge.scala" timestamp="1559898697360">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -501,9 +509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="4" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
-      <jump line="37" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
-      <jump line="0" column="2" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Test.scala" />
       <jump line="84" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
       <jump line="47" column="49" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.12-sources.jar!/scala/package.scala" />
       <jump line="70" column="7" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.12-sources.jar!/scala/package.scala" />
@@ -601,19 +606,22 @@
       <jump line="58" column="2" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MostPopularSuperhero.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MostPopularSuperhero.scala" />
       <jump line="19175" column="12" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-names.txt" />
+      <jump line="108" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
+      <jump line="57" column="49" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
+      <jump line="8" column="24" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>line.split(&quot;\\s+&quot;)</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>line.split(&quot;\\s+&quot;)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>fileinput</text>
+        <text>txt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNhc2UgbnVtYmVyUmVnZXgoc3RyKSA9PiBwcmludGxuKHN0cikK</text>
@@ -650,17 +658,16 @@
       </register>
     </registers>
     <search>
-      <last-search>fileinput</last-search>
+      <last-search>txt</last-search>
       <last-offset />
-      <last-pattern>fileinput</last-pattern>
+      <last-pattern>txt</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">c2NhbGE+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDbGllbnRDb25maWd1cmF0aW9uXD4=</entry>
         <entry encoding="base64">XDxJbnN0YW5jZVByb2ZpbGVDcmVkZW50aWFsc1Byb3ZpZGVyXD4=</entry>
         <entry encoding="base64">XDxQcm9maWxlQ3JlZGVudGlhbHNQcm92aWRlclw+</entry>
         <entry encoding="base64">XDxDaG9pY2VPcHRpb25cPg==</entry>
@@ -680,6 +687,7 @@
         <entry encoding="base64">c2NhbGE+</entry>
         <entry>stream</entry>
         <entry>fileinput</entry>
+        <entry>txt</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
