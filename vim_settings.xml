@@ -29,6 +29,12 @@
         <mark key="^" line="163" column="20" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieSimilarities.scala" timestamp="1559989503830">
+        <mark key="[" line="145" column="6" />
+        <mark key="]" line="145" column="6" />
+        <mark key="^" line="145" column="6" />
+        <mark key="." line="145" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/LearningScala3.scala" timestamp="1559886996642">
         <mark key="'" line="0" column="7" />
         <mark key="[" line="45" column="0" />
@@ -616,13 +622,13 @@
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(characterID, (connections, distance, color))</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>(characterID, (connections, distance, color))</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoaXRDb3VudGVyXD4=</text>
+        <text>clear</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNhc2UgbnVtYmVyUmVnZXgoc3RyKSA9PiBwcmludGxuKHN0cikK</text>
@@ -659,9 +665,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoaXRDb3VudGVyXD4=</last-search>
+      <last-search>clear</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoaXRDb3VudGVyXD4=</last-pattern>
+      <last-pattern>clear</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">c2NhbGE+</last-substitute>
       <last-dir>1</last-dir>
@@ -669,7 +675,6 @@
     </search>
     <history>
       <history-search>
-        <entry>type</entry>
         <entry>mysomw</entry>
         <entry encoding="base64">c2NhbGE+</entry>
         <entry>stream</entry>
@@ -689,6 +694,7 @@
         <entry encoding="base64">XDxoaXRDb3VudFw+</entry>
         <entry>hitCounter</entry>
         <entry encoding="base64">XDxoaXRDb3VudGVyXD4=</entry>
+        <entry>clear</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
