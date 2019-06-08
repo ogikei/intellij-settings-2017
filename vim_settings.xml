@@ -391,12 +391,13 @@
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" timestamp="1559983987912">
-        <mark key="'" line="170" column="4" />
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="16" column="29" />
-        <mark key="^" line="16" column="29" />
-        <mark key="." line="16" column="29" />
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" timestamp="1559986197171">
+        <mark key="a" line="93" column="33" />
+        <mark key="'" line="93" column="81" />
+        <mark key="[" line="103" column="29" />
+        <mark key="]" line="103" column="31" />
+        <mark key="^" line="103" column="31" />
+        <mark key="." line="103" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/FriendsByAge.scala" timestamp="1559898697360">
         <mark key="[" line="30" column="0" />
@@ -509,14 +510,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5287" column="111" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="5290" column="153" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="5293" column="139" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="5296" column="248" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="5298" column="199" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="5300" column="132" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="5303" column="206" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="5311" column="442" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="5315" column="83" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="5317" column="44" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="5318" column="173" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
@@ -607,60 +600,68 @@
       <jump line="3877" column="333" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="3881" column="9" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="185" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
-      <jump line="186" column="10" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
+      <jump line="189" column="54" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
+      <jump line="188" column="12" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
+      <jump line="83" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
+      <jump line="87" column="14" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
+      <jump line="88" column="12" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
       <jump line="170" column="4" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
+      <jump line="186" column="10" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
+      <jump line="187" column="23" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
+      <jump line="19" column="6" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
+      <jump line="93" column="81" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>(characterID, (connections, distance, color))</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>(characterID, (connections, distance, color))</text>
       </register>
       <register name="/" type="4">
-        <text>hitcounter</text>
+        <text encoding="base64">XDxoaXRDb3VudGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNhc2UgbnVtYmVyUmVnZXgoc3RyKSA9PiBwcmludGxuKHN0cikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGZpbmRCeUlkKGlkOiBMb25nKShpbXBsaWNpdCBhOiBJbnQpOiBPcHRpb25bVXNlcl0gPQogIGRiQ29ubmVjdGlvbi5leGVjdXRlUXVlcnkocyJTRUxFQ1QgKiBGUk9NIFVTRVIgV0hFUkUgaWQgPSAkaWQiKS5tYXAoY29udmVydFRvVXNlcikK</text>
+        <text encoding="base64">ICAgIChoZXJvSUQsIChjb25uZWN0aW9ucy50b0FycmF5LCBkaXN0YW5jZSwgY29sb3IpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGZpbmRCeUlkKGlkOiBMb25nKShpbXBsaWNpdCBkYkNvbm5lY3Rpb246IERCQ29ubmVjdGlvbik6IE9wdGlvbltVc2VyXSA9Cg==</text>
+        <text encoding="base64">ZGVmIGZpbmRCeUlkKGlkOiBMb25nKShpbXBsaWNpdCBhOiBJbnQpOiBPcHRpb25bVXNlcl0gPQogIGRiQ29ubmVjdGlvbi5leGVjdXRlUXVlcnkocyJTRUxFQ1QgKiBGUk9NIFVTRVIgV0hFUkUgaWQgPSAkaWQiKS5tYXAoY29udmVydFRvVXNlcikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgZmluZEJ5SWQoaWQ6IExvbmcpKGltcGxpY2l0IGRiQ29ubmVjdGlvbjogREJDb25uZWN0aW9uKTogT3B0aW9uW1VzZXJdID0KICAgIGRiQ29ubmVjdGlvbi5leGVjdXRlUXVlcnkocyJTRUxFQ1QgKiBGUk9NIFVTRVIgV0hFUkUgaWQgPSAkaWQiKS5tYXAoY29udmVydFRvVXNlcikK</text>
+        <text encoding="base64">ZGVmIGZpbmRCeUlkKGlkOiBMb25nKShpbXBsaWNpdCBkYkNvbm5lY3Rpb246IERCQ29ubmVjdGlvbik6IE9wdGlvbltVc2VyXSA9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbXBvcnQgQW5raQo=</text>
+        <text encoding="base64">ICBkZWYgZmluZEJ5SWQoaWQ6IExvbmcpKGltcGxpY2l0IGRiQ29ubmVjdGlvbjogREJDb25uZWN0aW9uKTogT3B0aW9uW1VzZXJdID0KICAgIGRiQ29ubmVjdGlvbi5leGVjdXRlUXVlcnkocyJTRUxFQ1QgKiBGUk9NIFVTRVIgV0hFUkUgaWQgPSAkaWQiKS5tYXAoY29udmVydFRvVXNlcikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8g5pqX6buZ44Gu44OR44Op44Oh44O844K/44KSaW1wbGljaXQgdmFs44Gn5a6j6KiA44GZ44KLCj8/PyB2YWwgZGJDb25uZWN0aW9uID0gPz8/CgovLyDmmpfpu5njga7jg5Hjg6njg6Hjg7zjgr/jgpLlj5fjgZHlj5bjgorjgIHjg6Hjgr3jg4Pjg4njgpLjgrPjg7zjg6vjgZnjgosKdmFsIHVzZXIgPSBVc2VyRGFvLj8/PwovLyDmmI7npLrnmoTjgavmjIflrprjgZnjgovloLTlkIgKLy8gdmFsIHVzZXIgPSBVc2VyRGFvLmZpbmRCeUlkKDFMKShkYkNvbm5lY3Rpb24pCg==</text>
+        <text encoding="base64">ICBpbXBvcnQgQW5raQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YWwgZmlsZVN0cmVhbSA9IHRoaXMuZ2V0Q2xhc3MuZ2V0UmVzb3VyY2VBc1N0cmVhbSgiLyIpCiAgLy8gSXRlcmF0b3LjgavlpInmj5vjgZnjgosKICB2YWwgbGluZXMgPSBTb3VyY2UuZmlsZUlucHV0U3RyZWFtKGZpbGVTdHJlYW0pLmdldGxpbmVzCiAgbGluZXMuZm9yZWFjaChsaW5lID0+IHByaW50bG4obGluZSkpCiAgdmFsIGEgPSAiYWFhYSIuZm9yZWFjaAoKICBTdGRJbgo=</text>
+        <text encoding="base64">Ly8g5pqX6buZ44Gu44OR44Op44Oh44O844K/44KSaW1wbGljaXQgdmFs44Gn5a6j6KiA44GZ44KLCj8/PyB2YWwgZGJDb25uZWN0aW9uID0gPz8/CgovLyDmmpfpu5njga7jg5Hjg6njg6Hjg7zjgr/jgpLlj5fjgZHlj5bjgorjgIHjg6Hjgr3jg4Pjg4njgpLjgrPjg7zjg6vjgZnjgosKdmFsIHVzZXIgPSBVc2VyRGFvLj8/PwovLyDmmI7npLrnmoTjgavmjIflrprjgZnjgovloLTlkIgKLy8gdmFsIHVzZXIgPSBVc2VyRGFvLmZpbmRCeUlkKDFMKShkYkNvbm5lY3Rpb24pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWwgZmlsZVN0cmVhbSA9IHRoaXMuZ2V0Q2xhc3MuZ2V0UmVzb3VyY2VBc1N0cmVhbSgiLyIpCiAgLy8gSXRlcmF0b3LjgavlpInmj5vjgZnjgosKICB2YWwgbGluZXMgPSBTb3VyY2UuZmlsZUlucHV0U3RyZWFtKGZpbGVTdHJlYW0pLmdldGxpbmVzCiAgbGluZXMuZm9yZWFjaChsaW5lID0+IHByaW50bG4obGluZSkpCiAgdmFsIGEgPSAiYWFhYSIuZm9yZWFjaAoKICBTdGRJbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBhID0gdG90YWxCeUN1c3RvbWVyU29ydGVkLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRvdGFsQnkK</text>
+        <text encoding="base64">ICAgIHZhbCBhID0gdG90YWxCeUN1c3RvbWVyU29ydGVkLgo=</text>
       </register>
       <register name=":" type="4">
         <text>5306</text>
       </register>
     </registers>
     <search>
-      <last-search>hitcounter</last-search>
+      <last-search encoding="base64">XDxoaXRDb3VudGVyXD4=</last-search>
       <last-offset />
-      <last-pattern>hitcounter</last-pattern>
+      <last-pattern encoding="base64">XDxoaXRDb3VudGVyXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">c2NhbGE+</last-substitute>
       <last-dir>1</last-dir>
@@ -668,9 +669,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gettype</entry>
-        <entry>gethour</entry>
-        <entry>hour</entry>
         <entry>type</entry>
         <entry>mysomw</entry>
         <entry encoding="base64">c2NhbGE+</entry>
@@ -688,6 +686,9 @@
         <entry encoding="base64">XDwxNFw+</entry>
         <entry encoding="base64">XDw1MzA2XD4=</entry>
         <entry>hitcounter</entry>
+        <entry encoding="base64">XDxoaXRDb3VudFw+</entry>
+        <entry>hitCounter</entry>
+        <entry encoding="base64">XDxoaXRDb3VudGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
