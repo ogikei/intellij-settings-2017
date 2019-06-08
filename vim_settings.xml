@@ -285,7 +285,7 @@
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" timestamp="1559982783118">
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" timestamp="1559983979151">
         <mark key="'" line="3881" column="9" />
       </file>
       <file name="$USER_HOME$/MyWork/git/glue-test/src/main/scala/s3-2.json" timestamp="1551957289886">
@@ -391,12 +391,12 @@
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" timestamp="1559981657486">
-        <mark key="'" line="57" column="49" />
-        <mark key="[" line="57" column="59" />
-        <mark key="]" line="57" column="59" />
-        <mark key="^" line="57" column="87" />
-        <mark key="." line="57" column="59" />
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" timestamp="1559983987912">
+        <mark key="'" line="170" column="4" />
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="29" />
+        <mark key="^" line="16" column="29" />
+        <mark key="." line="16" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/FriendsByAge.scala" timestamp="1559898697360">
         <mark key="[" line="30" column="0" />
@@ -509,9 +509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5283" column="150" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="5285" column="187" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="5286" column="253" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="5287" column="111" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="5290" column="153" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="5293" column="139" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
@@ -609,19 +606,22 @@
       <jump line="3876" column="4" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="3877" column="333" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="3881" column="9" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
+      <jump line="185" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
+      <jump line="186" column="10" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
+      <jump line="170" column="4" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDw1MzA2XD4=</text>
+        <text>hitcounter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNhc2UgbnVtYmVyUmVnZXgoc3RyKSA9PiBwcmludGxuKHN0cikK</text>
@@ -658,9 +658,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDw1MzA2XD4=</last-search>
+      <last-search>hitcounter</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDw1MzA2XD4=</last-pattern>
+      <last-pattern>hitcounter</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">c2NhbGE+</last-substitute>
       <last-dir>1</last-dir>
@@ -668,7 +668,6 @@
     </search>
     <history>
       <history-search>
-        <entry>age</entry>
         <entry>gettype</entry>
         <entry>gethour</entry>
         <entry>hour</entry>
@@ -688,6 +687,7 @@
         <entry encoding="base64">XDE0XD4=</entry>
         <entry encoding="base64">XDwxNFw+</entry>
         <entry encoding="base64">XDw1MzA2XD4=</entry>
+        <entry>hitcounter</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
