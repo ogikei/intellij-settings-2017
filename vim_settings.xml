@@ -29,7 +29,8 @@
         <mark key="^" line="163" column="20" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieSimilarities.scala" timestamp="1559992061013">
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieSimilarities.scala" timestamp="1559994059596">
+        <mark key="'" line="132" column="8" />
         <mark key="[" line="51" column="18" />
         <mark key="]" line="51" column="19" />
         <mark key="^" line="145" column="6" />
@@ -516,9 +517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5315" column="83" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="5317" column="44" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="5318" column="173" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="5320" column="232" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="5002" column="16" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="4795" column="20" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
@@ -616,6 +614,9 @@
       <jump line="187" column="23" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
       <jump line="19" column="6" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
       <jump line="93" column="81" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
+      <jump line="146" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieSimilarities.scala" />
+      <jump line="90" column="11" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieSimilarities.scala" />
+      <jump line="132" column="8" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieSimilarities.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -628,7 +629,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>clear</text>
+        <text>arg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNhc2UgbnVtYmVyUmVnZXgoc3RyKSA9PiBwcmludGxuKHN0cikK</text>
@@ -665,9 +666,9 @@
       </register>
     </registers>
     <search>
-      <last-search>clear</last-search>
+      <last-search>arg</last-search>
       <last-offset />
-      <last-pattern>clear</last-pattern>
+      <last-pattern>arg</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">c2NhbGE+</last-substitute>
       <last-dir>1</last-dir>
@@ -675,7 +676,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mysomw</entry>
         <entry encoding="base64">c2NhbGE+</entry>
         <entry>stream</entry>
         <entry>fileinput</entry>
@@ -695,6 +695,7 @@
         <entry>hitCounter</entry>
         <entry encoding="base64">XDxoaXRDb3VudGVyXD4=</entry>
         <entry>clear</entry>
+        <entry>arg</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
