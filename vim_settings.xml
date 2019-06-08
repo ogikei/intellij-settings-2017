@@ -224,11 +224,10 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1559966492758">
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="151" column="29" />
-        <mark key="." line="151" column="29" />
-        <mark key="^" line="151" column="29" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1559966708254">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/MyWork/git/glue-test/build.sbt" timestamp="1551756273969">
         <mark key="[" line="9" column="38" />
@@ -578,10 +577,10 @@
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB2YWwgc3BhcmsgPSBTcGFya1Nlc3Npb24KICAgIC5idWlsZGVyKCkKICAgIC5tYXN0ZXIoImxvY2FsIikKICAgIC5hcHBOYW1lKCJleGFtcGxlIikKICAgIC5jb25maWcoImtleSIsICJ2YWx1ZSIpCiAgICAuZ2V0T3JDcmVhdGUoKQoKICB2YWwgc2MgPSBzcGFyay5zcGFya0NvbnRleHQKCiAgdmFsIHJkZCA9IHNjLm1ha2VSREQoU2VxKCJhIiAtPiAwLCAiYiIgLT4gMSwgImMiIC0+IDIpKQogIHZhbCByZGQyID0gcmRkLmZsYXRNYXBWYWx1ZXMobiA9PiBTZXEobiwgJ0EnICsgbikpCiAgcmRkMi5mb3JlYWNoKHByaW50bG4pCg==</text>
+        <text encoding="base64">ICBkZmFzZGYK</text>
       </register>
       <register name="-" type="4">
-        <text>.toFloat</text>
+        <text>red</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">c2NhbGE+</text>
@@ -590,31 +589,31 @@
         <text encoding="base64">ICAib3JnLmFwYWNoZS5zcGFyayIgJSAic3BhcmstY29yZV8yLjExIiAlICIyLjQuMyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YWwgc3BhcmsgPSBTcGFya1Nlc3Npb24KICAgIC5idWlsZGVyKCkKICAgIC5tYXN0ZXIoImxvY2FsIikKICAgIC5hcHBOYW1lKCJleGFtcGxlIikKICAgIC5jb25maWcoImtleSIsICJ2YWx1ZSIpCiAgICAuZ2V0T3JDcmVhdGUoKQoKICB2YWwgc2MgPSBzcGFyay5zcGFya0NvbnRleHQKCiAgdmFsIHJkZCA9IHNjLm1ha2VSREQoU2VxKCJhIiAtPiAwLCAiYiIgLT4gMSwgImMiIC0+IDIpKQogIHZhbCByZGQyID0gcmRkLmZsYXRNYXBWYWx1ZXMobiA9PiBTZXEobiwgJ0EnICsgbikpCiAgcmRkMi5mb3JlYWNoKHByaW50bG4pCg==</text>
+        <text encoding="base64">ICBkZmFzZGYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXN1bHRzLmNvbGxlY3QoKQo=</text>
+        <text encoding="base64">ICB2YWwgc3BhcmsgPSBTcGFya1Nlc3Npb24KICAgIC5idWlsZGVyKCkKICAgIC5tYXN0ZXIoImxvY2FsIikKICAgIC5hcHBOYW1lKCJleGFtcGxlIikKICAgIC5jb25maWcoImtleSIsICJ2YWx1ZSIpCiAgICAuZ2V0T3JDcmVhdGUoKQoKICB2YWwgc2MgPSBzcGFyay5zcGFya0NvbnRleHQKCiAgdmFsIHJkZCA9IHNjLm1ha2VSREQoU2VxKCJhIiAtPiAwLCAiYiIgLT4gMSwgImMiIC0+IDIpKQogIHZhbCByZGQyID0gcmRkLmZsYXRNYXBWYWx1ZXMobiA9PiBTZXEobiwgJ0EnICsgbikpCiAgcmRkMi5mb3JlYWNoKHByaW50bG4pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICByZXN1bHRzLmNvbGxlY3QoKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">YWwgcGFyc2VkTGluZSA9IGxpbmVzLm1hcChwYXJzZUxpbmUpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBqawo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAubWFwKCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvc2NhbGE+Ly9n</text>
