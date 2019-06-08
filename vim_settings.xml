@@ -237,12 +237,12 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1559971364770">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="20" />
-        <mark key="." line="9" column="20" />
-        <mark key="^" line="9" column="20" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1559971876282">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="15" column="10" />
+        <mark key="." line="15" column="30" />
+        <mark key="^" line="15" column="10" />
       </file>
       <file name="$USER_HOME$/MyWork/git/glue-test/build.sbt" timestamp="1551756273969">
         <mark key="[" line="9" column="38" />
@@ -594,14 +594,14 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGZpbmRCeUlkKGlkOiBMb25nKShpbXBsaWNpdCBhOiBJbnQpOiBPcHRpb25bVXNlcl0gPQogIGRiQ29ubmVjdGlvbi5leGVjdXRlUXVlcnkocyJTRUxFQ1QgKiBGUk9NIFVTRVIgV0hFUkUgaWQgPSAkaWQiKS5tYXAoY29udmVydFRvVXNlcikK</text>
+      <register name="&quot;" type="4">
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>DBConnection</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
-        <text>fileinput</text>
+        <text>dbconne</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNhc2UgbnVtYmVyUmVnZXgoc3RyKSA9PiBwcmludGxuKHN0cikK</text>
@@ -638,9 +638,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fileinput</last-search>
+      <last-search>dbconne</last-search>
       <last-offset />
-      <last-pattern>fileinput</last-pattern>
+      <last-pattern>dbconne</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">c2NhbGE+</last-substitute>
       <last-dir>1</last-dir>
@@ -648,8 +648,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDbGllbnRDb25maWd1cmF0aW9uXD4=</entry>
-        <entry encoding="base64">XDxJbnN0YW5jZVByb2ZpbGVDcmVkZW50aWFsc1Byb3ZpZGVyXD4=</entry>
         <entry encoding="base64">XDxQcm9maWxlQ3JlZGVudGlhbHNQcm92aWRlclw+</entry>
         <entry encoding="base64">XDxDaG9pY2VPcHRpb25cPg==</entry>
         <entry encoding="base64">XDxHZXRQYXJhbWV0ZXJSZXF1ZXN0XD4=</entry>
@@ -668,6 +666,8 @@
         <entry encoding="base64">c2NhbGE+</entry>
         <entry>stream</entry>
         <entry>fileinput</entry>
+        <entry>DBconnection</entry>
+        <entry>dbconne</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
