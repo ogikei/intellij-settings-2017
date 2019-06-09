@@ -120,6 +120,12 @@
         <mark key="." line="26" column="18" />
         <mark key="^" line="26" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/Anki.scala" timestamp="1560051288221">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/analysis-job/README.md" timestamp="1557922040973">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="2" />
@@ -517,7 +523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5002" column="16" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="4795" column="20" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="19" column="125" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
@@ -617,16 +622,17 @@
       <jump line="90" column="11" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieSimilarities.scala" />
       <jump line="132" column="8" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieSimilarities.scala" />
       <jump line="47" column="2" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieSimilarities.scala" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/Anki.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>sim._2</text>
+        <text>aaaaa</text>
       </register>
       <register name="-" type="4">
-        <text>sim._2</text>
+        <text>aaaaa</text>
       </register>
       <register name="/" type="4">
         <text>arg</text>
@@ -635,31 +641,31 @@
         <text encoding="base64">ICAgIGNhc2UgbnVtYmVyUmVnZXgoc3RyKSA9PiBwcmludGxuKHN0cikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNpbWlsYXJNb3ZpZUlEID0gcGFpci5fMgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAocGFpci5fMSA9PSBtb3ZpZUlEIHx8IHBhaXIuXzIgPT0gbW92aWVJRCkgJiYgc2ltLl8xID4gc2NvcmVUaHJlc2hvbGQgJiYgc2ltLl8yID4gY29PY2N1cmVuY2VUaHJlc2hvbGQK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICgobW92aWUxLCBtb3ZpZTIpLCAocmF0aW5nMSwgcmF0aW5nMikpCg==</text>
+        <text encoding="base64">CiAgLyoqIEEgZnVuY3Rpb24gdGhhdCBzcGxpdHMgYSBsaW5lIG9mIGlucHV0IGludG8gKGFnZSwgbnVtRnJpZW5kcykgdHVwbGVzLiAqLwogIGRlZiBwYXJzZUxpbmUobGluZTogU3RyaW5nKTogKEludCwgSW50KSA9IHsKICAgIC8vIFNwbGl0IGJ5IGNvbW1hcwogICAgdmFsIGZpZWxkcyA9IGxpbmUuc3BsaXQoIiwiKQogICAgLy8gRXh0cmFjdCB0aGUgYWdlIGFuZCBudW1GcmllbmRzIGZpZWxkcywgYW5kIGNvbnZlcnQgdG8gaW50ZWdlcnMKICAgIHZhbCBhZ2UgPSBmaWVsZHMoMikKICAgIHZhbCBudW1GcmllbmRzID0gZmllbGRzKDMpCiAgICAvLyBDcmVhdGUgYSB0dXBsZSB0aGF0IGlzIG91ciByZXN1bHQuCiAgICAoYWdlLnRvSW50LCBudW1GcmllbmRzLnRvSW50KQogIH0KCiAgLyoqIE91ciBtYWluIGZ1bmN0aW9uIHdoZXJlIHRoZSBhY3Rpb24gaGFwcGVucyAqLwogIGRlZiBtYWluKGFyZ3M6IEFycmF5W1N0cmluZ10pIHsKCiAgICAvLyBTZXQgdGhlIGxvZyBsZXZlbCB0byBvbmx5IHByaW50IGVycm9ycwogICAgTG9nZ2VyLmdldExvZ2dlcigib3JnIikuc2V0TGV2ZWwoTGV2ZWwuRVJST1IpCgogICAgLy8gQ3JlYXRlIGEgU3BhcmtDb250ZXh0IHVzaW5nIGV2ZXJ5IGNvcmUgb2YgdGhlIGxvY2FsIG1hY2hpbmUKICAgIHZhbCBzYyA9IG5ldyBTcGFya0NvbnRleHQoImxvY2FsWypdIiwgIkZyaWVuZHNCeUFnZSIpCgogICAgdmFsIHJkZCA9IHNjLm1ha2VSREQoU2VxKCJhIiAtPiAxLCAiYiIgLT4gMiwgImMiIC0+IDMsICJhIiAtPiA0KSkKICAgIHZhbCByZGQyID0gcmRkLmdyb3VwQnlLZXkoKQogICAgLy8gKGIsQXJyYXlCdWZmZXIoMikpLAogICAgLy8gKGEsQXJyYXlCdWZmZXIoMSwgNCkpLAogICAgLy8gKGMsQXJyYXlCdWZmZXIoMykpCiAgfQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAoKG1vdmllMSwgbW92</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIHNpbWlsYXJNb3ZpZUlEID0gcGFpci5fMgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1vdmllMSA8IG1vdmllMgo=</text>
+        <text encoding="base64">ICAgICAgICAocGFpci5fMSA9PSBtb3ZpZUlEIHx8IHBhaXIuXzIgPT0gbW92aWVJRCkgJiYgc2ltLl8xID4gc2NvcmVUaHJlc2hvbGQgJiYgc2ltLl8yID4gY29PY2N1cmVuY2VUaHJlc2hvbGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtb3ZpZU5hbWVzICs9IChmaWVsZHMoMCkudG9JbnQgLT4gZmllbGRzKDEpKQo=</text>
+        <text encoding="base64">ICAgICgobW92aWUxLCBtb3ZpZTIpLCAocmF0aW5nMSwgcmF0aW5nMikpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtb3ZpZU5hbWVzICs9IChmaWVsZHMoMCkudG9JbnQgLT4gZmllbGRzKDEpKQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAoKG1vdmllMSwgbW92</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIChoZXJvSUQsIChjb25uZWN0aW9ucy50b0FycmF5LCBkaXN0YW5jZSwgY29sb3IpKQo=</text>
+        <text encoding="base64">ICAgIG1vdmllMSA8IG1vdmllMgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGZpbmRCeUlkKGlkOiBMb25nKShpbXBsaWNpdCBhOiBJbnQpOiBPcHRpb25bVXNlcl0gPQogIGRiQ29ubmVjdGlvbi5leGVjdXRlUXVlcnkocyJTRUxFQ1QgKiBGUk9NIFVTRVIgV0hFUkUgaWQgPSAkaWQiKS5tYXAoY29udmVydFRvVXNlcikK</text>
+        <text encoding="base64">ICAgICAgICBtb3ZpZU5hbWVzICs9IChmaWVsZHMoMCkudG9JbnQgLT4gZmllbGRzKDEpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>5306</text>
