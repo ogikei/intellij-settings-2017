@@ -481,6 +481,13 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Class.java" timestamp="1559970809206">
         <mark key="'" line="32" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/LinearRegressionDataFrame.scala" timestamp="1560071399457">
+        <mark key="'" line="69" column="67" />
+        <mark key="[" line="77" column="10" />
+        <mark key="]" line="77" column="12" />
+        <mark key="^" line="77" column="12" />
+        <mark key="." line="77" column="12" />
+      </file>
       <file name="$USER_HOME$/go/src/silicon-valley-with-go/definition_03/array/lesson.go" timestamp="1545460353894">
         <mark key="[" line="21" column="6" />
         <mark key="]" line="21" column="6" />
@@ -546,8 +553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1263" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="1264" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="1273" column="19" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="4066" column="68" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
@@ -646,19 +651,21 @@
       <jump line="191" column="56" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.4.3-sources.jar!/org/apache/spark/ml/Predictor.scala" />
       <jump line="47" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/LinearRegression.scala" />
       <jump line="45" column="3" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/LinearRegression.scala" />
+      <jump line="35" column="44" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/LinearRegressionDataFrame.scala" />
+      <jump line="70" column="67" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/LinearRegressionDataFrame.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBhbCA9IG5ldyBMaW5lYXJSZWdyZXNzaW9uKCkKICAgICAgLnNldEZlYXR1cmVzQ29sKCkKICAgICAgLnNldExhYmVsQ29sKCkKICAgICAgLnNldE1heEl0ZXIoMTAwKQogICAgICAuc2V0UmVnUGFyYW0oMC4wMSkKCgo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>zip(testData.map(_.label))</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>feature</text>
+        <text encoding="base64">XDxsYWJlbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLnNldFJlZ1BhcmFtKDAuMDEpCg==</text>
@@ -695,19 +702,16 @@
       </register>
     </registers>
     <search>
-      <last-search>feature</last-search>
+      <last-search encoding="base64">XDxsYWJlbFw+</last-search>
       <last-offset />
-      <last-pattern>feature</last-pattern>
+      <last-pattern encoding="base64">XDxsYWJlbFw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">c2NhbGE+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fileinput</entry>
-        <entry>txt</entry>
-        <entry>53</entry>
         <entry>5306</entry>
         <entry>s</entry>
         <entry>14</entry>
@@ -725,6 +729,9 @@
         <entry>arg</entry>
         <entry encoding="base64">XDxyZWNvbW1lbmRhdGlvblw+</entry>
         <entry>feature</entry>
+        <entry encoding="base64">XDx2YWxcPg==</entry>
+        <entry encoding="base64">XDxtYXBcPg==</entry>
+        <entry encoding="base64">XDxsYWJlbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
