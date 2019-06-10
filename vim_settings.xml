@@ -183,11 +183,12 @@
         <mark key="." line="26" column="18" />
         <mark key="^" line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/stackoverflow/StackOverflow.scala" timestamp="1560180685657">
-        <mark key="[" line="87" column="70" />
-        <mark key="]" line="87" column="70" />
-        <mark key="." line="87" column="70" />
-        <mark key="^" line="87" column="74" />
+      <file name="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/stackoverflow/StackOverflow.scala" timestamp="1560181844392">
+        <mark key="'" line="46" column="6" />
+        <mark key="[" line="99" column="66" />
+        <mark key="]" line="99" column="73" />
+        <mark key="." line="99" column="73" />
+        <mark key="^" line="99" column="73" />
       </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/03_definition/exercises/lesson.go" timestamp="1543329440975">
         <mark key="[" line="15" column="44" />
@@ -490,14 +491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3829" column="229" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="3830" column="24" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="3831" column="214" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="3836" column="233" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="3839" column="147" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="3841" column="87" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="3842" column="5" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="3848" column="45" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="3850" column="10" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="3851" column="342" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="3854" column="290" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
@@ -590,6 +583,14 @@
       <jump line="5" column="13" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/anki.sc" />
       <jump line="91" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/anki.sc" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/anki.sc" />
+      <jump line="152" column="10" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/stackoverflow/StackOverflow.scala" />
+      <jump line="40" column="6" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/stackoverflow/StackOverflow.scala" />
+      <jump line="47" column="29" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/stackoverflow/StackOverflow.scala" />
+      <jump line="126" column="27" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/stackoverflow/StackOverflow.scala" />
+      <jump line="127" column="34" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/stackoverflow/StackOverflow.scala" />
+      <jump line="160" column="0" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/stackoverflow/StackOverflow.scala" />
+      <jump line="277" column="0" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/stackoverflow/StackOverflow.scala" />
+      <jump line="46" column="6" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/stackoverflow/StackOverflow.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -602,46 +603,46 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>rating</text>
+        <text>langspre</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCB0aXRsZSA9IGxpbmUuc3Vic3RyaW5nKDE0LCBpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmdyb3VwQnlLZXkoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgICAgLmZsYXRNYXAoXy5fMikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBhbnN3ZXJIaWdoU2NvcmUxKGFzOiBJdGVyYWJsZVtQb3N0aW5nXSk6IEludCA9IGFzLm1hcChfLnNjb3JlKS5tYXgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFsIGludGVybWVkaWF0ZSA9CiAgZXZlbnRzUmRkCiAgICAubWFwVmFsdWVzKGIgPT4gKGIsIDEpKQogICAgLnJlZHVjZUJ5S2V5KCh2MSwgdjIpID0+ICh2MS5fMSwgdjEuXzEsIHYxLl8yICsgdjIuXzIpKQovLyBpbnRlcm1lZGlhdGU6IFJERFsoU3RyaW5nLCAoSW50LCBJbnQpXQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgID8/Pwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFsIGFnZXMgPSBMaXN0KDIsIDUyLCA0NCwgMjMsIDE3LCAxNCwgMTIsIDgyLCA1MSwgNjQpCnZhbCBncm91cGVkID0gYWdlcy5ncm91cEJ5IHsgYWdlID0+CiAgaWYgKGFnZSA+PSAxOCAmJiBhZ2UgPCA2NSkgImFkdWx0IgogIGVsc2UgaWYgKGFnZSA8IDE4KSAiY2hpbGQiCiAgZWxzZSAic2VuaW9yIgp9Ci8vIE1hcChzZW5pb3IgLT4gTGlzdCg4MiksIGFkdWx0IC0+IExpc3QoNTIsIDQ0LCAyMywgNTEsIDY0KSwgY2hpbGQgLT4gTGlzdCgyLCAxNywgMTQsIDEyKSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z3JvdXBlZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">dmFsIGludGVybWVkaWF0ZSA9CiAgZXZlbnRzUmRkCiAgICAubWFwVmFsdWVzKGIgPT4gKGIsIDEpKQogICAgLnJlZHVjZUJ5S2V5KCh2MSwgdjIpID0+ICh2MS5fMSwgdjEuXzEsIHYxLl8yICsgdjIuXzIpKQovLyBpbnRlcm1lZGlhdGU6IFJERFsoU3RyaW5nLCAoSW50LCBJbnQpXQo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>rating</last-search>
+      <last-search>langspre</last-search>
       <last-offset />
-      <last-pattern>rating</last-pattern>
+      <last-pattern>langspre</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">c2NhbGE+</last-substitute>
       <last-dir>1</last-dir>
@@ -649,8 +650,6 @@
     </search>
     <history>
       <history-search>
-        <entry>^14</entry>
-        <entry>^14$</entry>
         <entry>^140$</entry>
         <entry encoding="base64">XDE0XD4=</entry>
         <entry encoding="base64">XDwxNFw+</entry>
@@ -669,6 +668,8 @@
         <entry encoding="base64">XDxlZ2RlXD4=</entry>
         <entry encoding="base64">XDxmaWVsZHNcPg==</entry>
         <entry>rating</entry>
+        <entry>langs</entry>
+        <entry>langspre</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
