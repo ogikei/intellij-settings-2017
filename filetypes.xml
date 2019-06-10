@@ -4,6 +4,7 @@
       <removed_mapping ext="json5" approved="true" type="JSON5" />
       <mapping pattern="resources" type="PLAIN_TEXT" />
       <mapping ext="mat" type="PLAIN_TEXT" />
+      <mapping ext="item" type="PLAIN_TEXT" />
       <mapping ext="json5" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="dig" type="PLAIN_TEXT" />
