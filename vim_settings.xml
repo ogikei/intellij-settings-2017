@@ -71,11 +71,11 @@
         <mark key="." line="47" column="3" />
         <mark key="^" line="47" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/Anki.scala" timestamp="1560077982285">
-        <mark key="'" line="59" column="44" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="41" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/Anki.scala" timestamp="1560139666658">
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="24" column="36" />
+        <mark key="." line="24" column="36" />
+        <mark key="^" line="24" column="36" />
       </file>
       <file name="$USER_HOME$/MyWork/git/glue-test/src/main/scala/GlueApp.scala" timestamp="1553332971611">
         <mark key="'" line="152" column="0" />
@@ -248,7 +248,6 @@
       <jump line="90" column="11" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieSimilarities.scala" />
       <jump line="132" column="8" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieSimilarities.scala" />
       <jump line="47" column="2" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieSimilarities.scala" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/Anki.scala" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/Anki.scala" />
       <jump line="60" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/Anki.scala" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/Anki.scala" />
@@ -296,16 +295,17 @@
       <jump line="31" column="22" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/GraphX.scala" />
       <jump line="34" column="35" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/GraphX.scala" />
       <jump line="14" column="8" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/GraphX.scala" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/Anki.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dmVydGljZXMuZmlsdGVyKHggPT4geC5fMSA9PSAxNCkuY29sbGVjdC5mb3JlYWNoKHByaW50bG4p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wbGljaXQgY2xhc3MgUmljaEphdmFVdGlsRGF0ZShkYXRlOiBEYXRlKSB7CiAgZGVmIHRvTG9jYWxEYXRlVGltZSh6b25lSWQ6IFpvbmVJZCA9IFpvbmVJZC5zeXN0ZW1EZWZhdWx0KTogTG9jYWxEYXRlVGltZSA9IHsKICAgIHZhbCBpbnN0YW50ID0gZGF0ZS50b0luc3RhbnQKICAgIExvY2FsRGF0ZVRpbWUub2ZJbnN0YW50KGluc3RhbnQsIHpvbmVJZCkKICB9Cn0KCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmVydGljZXMuZmlsdGVyKHggPT4geC5fMSA9PSAxNCkuY29sbGVjdC5mb3JlYWNoKHByaW50bG4p</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWVsZHNcPg==</text>
@@ -314,31 +314,31 @@
         <text encoding="base64">ICAib3JnLmFwYWNoZS5zcGFyayIgJSAic3Bhcmstc3RyZWFtaW5nXzIuMTEiICUgIjIuNC4zIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIEl0ZXJhdG9yKCh0cmlwbGV0LmRzdElkLCB0cmlwbGV0LnNyY0F0dHIgKyAxKSkK</text>
+        <text encoding="base64">aW1wbGljaXQgY2xhc3MgUmljaEphdmFVdGlsRGF0ZShkYXRlOiBEYXRlKSB7CiAgZGVmIHRvTG9jYWxEYXRlVGltZSh6b25lSWQ6IFpvbmVJZCA9IFpvbmVJZC5zeXN0ZW1EZWZhdWx0KTogTG9jYWxEYXRlVGltZSA9IHsKICAgIHZhbCBpbnN0YW50ID0gZGF0ZS50b0luc3RhbnQKICAgIExvY2FsRGF0ZVRpbWUub2ZJbnN0YW50KGluc3RhbnQsIHpvbmVJZCkKICB9Cn0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIEl0ZXJhdG9yLmVtcHR5Cg==</text>
+        <text encoding="base64">aW1wbGljaXQgY2xhc3MgUmljaEphdmFVdGlsRGF0ZShkYXRlOiBEYXRlKSB7CiAgZGVmIHRvTG9jYWxEYXRlVGltZSh6b25lSWQ6IFpvbmVJZCA9IFpvbmVJZC5zeXN0ZW1EZWZhdWx0KTogTG9jYWxEYXRlVGltZSA9IHsKICAgIHZhbCBpbnN0YW50ID0gZGF0ZS50b0luc3RhbnQKICAgIExvY2FsRGF0ZVRpbWUub2ZJbnN0YW50KGluc3RhbnQsIHpvbmVJZCkKICB9Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBhID0gTm9uZQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBpbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuZnVuY3Rpb25zLl8K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBpbXBsaWNpdCBkZWYgdG9SaWNoSmF2YVV0aWxEYXRlKGRhdGU6IERhdGUpID0gbmV3IFJpY2hKYXZhVXRpbERhdGUoZGF0ZSkKICB2YWwgYSA9IG5ldyBEYXRlKCkudG9Mb2NhbERhdGVUaW1lKCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y2xhc3MgUmljaEphdmFVdGlsRGF0ZShkYXRlOiBEYXRlKSB7CiAgZGVmIHRvTG9jYWxEYXRlVGltZSh6b25lSWQ6IFpvbmVJZCA9IFpvbmVJZC5zeXN0ZW1EZWZhdWx0KSA9IHsKICAgIHZhbCBpbnN0YW50ID0gZGF0ZS50b0luc3RhbnQoKQogICAgTG9jYWxEYXRlVGltZS5vZkluc3RhbnQoaW5zdGFudCwgem9uZUlkKQogIH0KfQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbXBvcnQgc3Bhcmsuc3FsLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YWwgcmRkID0gc2MubWFrZVJERChTZXEoImEiIC0+IDEsICJiIiAtPiAyLCAiYyIgLT4gMykpCiAgdmFsIHJkZDIgPSByZGQubWFwVmFsdWVzKCJhIiArIF8pCiAgLy8gKGEsYTEpLCAoYixhMiksIChjLGEzKQo=</text>
+        <text encoding="base64">ICBzY2FsYT4gdmFsIGxvY2FsRGF0ZVRpbWUgPSA/Pz8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBhbCA9IG5ldyBMaW5lYXJSZWdyZXNzaW9uKCkKICAgICAgLnNldEZlYXR1cmVzQ29sKCkKICAgICAgLnNldExhYmVsQ29sKCkKICAgICAgLnNldE1heEl0ZXIoMTAwKQogICAgICAuc2V0UmVnUGFyYW0oMC4wMSkKCgo=</text>
+        <text encoding="base64">Pz8/CgpzY2FsYT4gdmFsIGxvY2FsRGF0ZVRpbWUgPSA/Pz8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFsZ29yaXRobS5vcHRpbWl6ZXIKICAgICAgLnNldE51bUl0ZXJhdGlvbnMoMTAwKQogICAgICAuc2V0U3RlcFNpemUoMS4wKQogICAgICAuc2V0VXBkYXRlcihuZXcgU3F1YXJlZEwyVXBkYXRlcigpKQogICAgICAuc2V0UmVnUGFyYW0oMC4wMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
