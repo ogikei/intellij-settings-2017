@@ -58,7 +58,8 @@
         <mark key="^" line="75" column="10" />
         <mark key="." line="75" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/GraphX.scala" timestamp="1560134233392">
+      <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/GraphX.scala" timestamp="1560137340697">
+        <mark key="'" line="14" column="8" />
         <mark key="[" line="34" column="54" />
         <mark key="]" line="34" column="55" />
         <mark key="^" line="34" column="55" />
@@ -195,15 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1273" column="19" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="4066" column="68" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="4067" column="23" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="4069" column="115" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="4070" column="110" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="4073" column="10" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="875" column="5" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
-      <jump line="878" column="95" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="882" column="10" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="883" column="10" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
       <jump line="1131" column="10" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/resources/Marvel-graph.txt" />
@@ -295,6 +287,15 @@
       <jump line="45" column="3" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/LinearRegression.scala" />
       <jump line="35" column="44" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/LinearRegressionDataFrame.scala" />
       <jump line="70" column="67" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/LinearRegressionDataFrame.scala" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/GraphX.scala" />
+      <jump line="15" column="8" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/GraphX.scala" />
+      <jump line="16" column="25" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/GraphX.scala" />
+      <jump line="18" column="28" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/GraphX.scala" />
+      <jump line="29" column="8" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/GraphX.scala" />
+      <jump line="30" column="17" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/GraphX.scala" />
+      <jump line="31" column="22" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/GraphX.scala" />
+      <jump line="34" column="35" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/GraphX.scala" />
+      <jump line="14" column="8" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/GraphX.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -307,7 +308,7 @@
         <text encoding="base64">dmVydGljZXMuZmlsdGVyKHggPT4geC5fMSA9PSAxNCkuY29sbGVjdC5mb3JlYWNoKHByaW50bG4p</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsYWJlbFw+</text>
+        <text encoding="base64">XDxmaWVsZHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAib3JnLmFwYWNoZS5zcGFyayIgJSAic3Bhcmstc3RyZWFtaW5nXzIuMTEiICUgIjIuNC4zIgo=</text>
@@ -344,18 +345,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsYWJlbFw+</last-search>
+      <last-search encoding="base64">XDxmaWVsZHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsYWJlbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxmaWVsZHNcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">c2NhbGE+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>5306</entry>
-        <entry>s</entry>
         <entry>14</entry>
         <entry>^14</entry>
         <entry>^14$</entry>
@@ -374,6 +373,8 @@
         <entry encoding="base64">XDx2YWxcPg==</entry>
         <entry encoding="base64">XDxtYXBcPg==</entry>
         <entry encoding="base64">XDxsYWJlbFw+</entry>
+        <entry encoding="base64">XDxlZ2RlXD4=</entry>
+        <entry encoding="base64">XDxmaWVsZHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
