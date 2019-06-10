@@ -59,11 +59,11 @@
         <mark key="." line="11" column="25" />
         <mark key="^" line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/wikipedia/WikipediaRanking.scala" timestamp="1560160168427">
-        <mark key="[" line="32" column="19" />
-        <mark key="]" line="32" column="19" />
-        <mark key="^" line="32" column="19" />
-        <mark key="." line="32" column="19" />
+      <file name="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/wikipedia/WikipediaRanking.scala" timestamp="1560160918173">
+        <mark key="[" line="48" column="109" />
+        <mark key="]" line="49" column="12" />
+        <mark key="." line="49" column="12" />
+        <mark key="^" line="49" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/SparkSQL.scala" timestamp="1560059934578">
         <mark key="[" line="50" column="10" />
@@ -242,11 +242,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">d2lraSA9PiB3aWtp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdpa2lSZGQuCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2lraSA9PiB3aWtp</text>
+        <text>reduceby</text>
       </register>
       <register name="/" type="4">
         <text>rating</text>
@@ -255,31 +255,31 @@
         <text encoding="base64">ICAgIHZhbCB0aXRsZSA9IGxpbmUuc3Vic3RyaW5nKDE0LCBpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpa2lSZGQuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gaW5jbHVkZSB0aGUgY29tbW9uIGRpcgo=</text>
+        <text encoding="base64">ICAgIHJkZC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29tbW9uU291cmNlUGFja2FnZXMgKz0gImNvbW1vbiIK</text>
+        <text encoding="base64">ICAgIHJhbmtMYW5ncwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpa2lSZGQuZmlsdGVyKF8ubWVudGlvbnNMYW5ndWFnZShsYW5ncykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVzb2x2ZXJzICs9IFJlc29sdmVyLnNvbmF0eXBlUmVwbygicmVsZWFzZXMiKQo=</text>
+        <text encoding="base64">ICAgIGxzbmcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y291cnNlSWQgOj0gImU4VnNlWUlZRWVXeFFRb3ltRmc4elEiCg==</text>
+        <text encoding="base64">ICAgIG9jY3VycmVuY2VzT2ZMYW5nKGxhbmdzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2NhbGFjT3B0aW9ucyArKz0gU2VxKCItZGVwcmVjYXRpb24iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
