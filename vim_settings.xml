@@ -133,6 +133,13 @@
         <mark key="^" line="9" column="49" />
         <mark key="." line="9" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/timeusage/TimeUsage.scala" timestamp="1560321686186">
+        <mark key="'" line="78" column="45" />
+        <mark key="[" line="100" column="16" />
+        <mark key="]" line="100" column="15" />
+        <mark key="." line="100" column="15" />
+        <mark key="^" line="100" column="15" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/glue-test/src/main/scala/s3-2.json" timestamp="1551957289886">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="38" column="0" />
@@ -491,9 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
-      <jump line="87" column="14" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
-      <jump line="88" column="12" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
       <jump line="170" column="4" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
       <jump line="186" column="10" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
       <jump line="187" column="23" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
@@ -591,58 +595,61 @@
       <jump line="154" column="8" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/stackoverflow/StackOverflow.scala" />
       <jump line="157" column="8" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/stackoverflow/StackOverflow.scala" />
       <jump line="158" column="58" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/stackoverflow/StackOverflow.scala" />
+      <jump line="45" column="8" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="46" column="12" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="78" column="45" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/timeusage/TimeUsage.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>collect().</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>collect().</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>vectors</text>
+        <text>partition</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCB0aXRsZSA9IGxpbmUuc3Vic3RyaW5nKDE0LCBpKQo=</text>
+        <text encoding="base64">ICAgICAgY29sdW1uTmFtZXMudGFpbC5tYXAoc3RyID0+IChTdHJ1Y3RGaWVsZChzdHIudG9Eb3VibGVfLCBEb3VibGVUeXBlLCBudWxsYWJsZSA9IGZhbHNlKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLmdyb3VwQnlLZXkoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLmZsYXRNYXAoXy5fMikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBhbnN3ZXJIaWdoU2NvcmUxKGFzOiBJdGVyYWJsZVtQb3N0aW5nXSk6IEludCA9IGFzLm1hcChfLnNjb3JlKS5tYXgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgTGlzdCgpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5tYXBQYXJ0aXRpb25zKGkgPT4gKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxpbmUubWFwKHN0ciA9PiBSb3coc3RyKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFsIGludGVybWVkaWF0ZSA9CiAgZXZlbnRzUmRkCiAgICAubWFwVmFsdWVzKGIgPT4gKGIsIDEpKQogICAgLnJlZHVjZUJ5S2V5KCh2MSwgdjIpID0+ICh2MS5fMSwgdjEuXzEsIHYxLl8yICsgdjIuXzIpKQovLyBpbnRlcm1lZGlhdGU6IFJERFsoU3RyaW5nLCAoSW50LCBJbnQpXQo=</text>
+        <text encoding="base64">ICAgICAgICAubWFwKHJvdykK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>vectors</last-search>
+      <last-search>partition</last-search>
       <last-offset />
-      <last-pattern>vectors</last-pattern>
+      <last-pattern>partition</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">c2NhbGE+</last-substitute>
       <last-dir>1</last-dir>
@@ -650,7 +657,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwxNFw+</entry>
         <entry encoding="base64">XDw1MzA2XD4=</entry>
         <entry>hitcounter</entry>
         <entry encoding="base64">XDxoaXRDb3VudFw+</entry>
@@ -670,6 +676,7 @@
         <entry>langspre</entry>
         <entry>euclideanDist</entry>
         <entry>vectors</entry>
+        <entry>partition</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
