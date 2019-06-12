@@ -218,11 +218,11 @@
         <mark key="." line="22" column="19" />
         <mark key="^" line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" timestamp="1560172162753">
-        <mark key="[" line="0" column="29" />
-        <mark key="]" line="0" column="32" />
-        <mark key="." line="0" column="32" />
-        <mark key="^" line="0" column="32" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" timestamp="1560336768523">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="28" />
+        <mark key="." line="10" column="28" />
+        <mark key="^" line="10" column="28" />
       </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/04_statement/exercises/lesson.go" timestamp="1543745124215">
         <mark key="[" line="21" column="15" />
@@ -498,18 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="81" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/DegreesOfSeparation.scala" />
-      <jump line="146" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieSimilarities.scala" />
-      <jump line="90" column="11" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieSimilarities.scala" />
-      <jump line="132" column="8" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieSimilarities.scala" />
-      <jump line="47" column="2" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieSimilarities.scala" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/Anki.scala" />
-      <jump line="60" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/Anki.scala" />
-      <jump line="7" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/Anki.scala" />
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/Anki.scala" />
-      <jump line="15" column="1" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/Anki.scala" />
-      <jump line="11" column="24" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/Anki.scala" />
-      <jump line="14" column="1" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/Anki.scala" />
       <jump line="54" column="63" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/Anki.scala" />
       <jump line="57" column="44" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/Anki.scala" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/LinearRegression.scala" />
@@ -598,58 +586,70 @@
       <jump line="240" column="14" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="246" column="6" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="237" column="6" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="18" column="55" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
+      <jump line="19" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
+      <jump line="14" column="59" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
+      <jump line="12" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
+      <jump line="2" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
+      <jump line="5" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
+      <jump line="22" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
+      <jump line="4" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
+      <jump line="6" column="3" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
+      <jump line="81" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
+      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
+      <jump line="67" column="14" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>()mapValues</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>()mapValues</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lVXNhZ2VHcm91cGVkU3FsXD4=</text>
+        <text encoding="base64">c2NhbGE+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29sdW1uTmFtZXMudGFpbC5tYXAoc3RyID0+IChTdHJ1Y3RGaWVsZChzdHIudG9Eb3VibGVfLCBEb3VibGVUeXBlLCBudWxsYWJsZSA9IGZhbHNlKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBuID0+IFAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2RkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmNoYXJzZXQuQ29kaW5nRXJyb3JBY3Rpb24KCmltcG9ydCBzY2FsYS5pby5Db2RlYwoKaW1wbGljaXQgdmFsIGNvZGVjOiBDb2RlYyA9IENvZGVjKCJVVEYtOCIpCmNvZGVjLm9uTWFsZm9ybWVkSW5wdXQoQ29kaW5nRXJyb3JBY3Rpb24uUkVQTEFDRSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBhID0gCg==</text>
+        <text encoding="base64">Y29kZWMub25Vbm1hcHBhYmxlQ2hhcmFjdGVyKENvZGluZ0Vycm9yQWN0aW9uLlJFUExBQ0UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZiA9Pgo=</text>
+        <text encoding="base64">dmFsIGFkZDogKEludCwgSW50KSA9PiBJbnQgPSBfICsgXwoKdmFsIGE6IEludCA9PiBJbnQgPSBhZGQoMSwgXykKYSgyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLgo=</text>
+        <text encoding="base64">YWRkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhdmcoXy5wcmltYXJ5TmVlZHMpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhdmcoXy5wcmkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aW1lVXNhZ2VHcm91cGVkU3FsXD4=</last-search>
+      <last-search encoding="base64">c2NhbGE+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lVXNhZ2VHcm91cGVkU3FsXD4=</last-pattern>
+      <last-pattern encoding="base64">c2NhbGE+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">c2NhbGE+</last-substitute>
       <last-dir>1</last-dir>
@@ -657,7 +657,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoaXRDb3VudFw+</entry>
         <entry>hitCounter</entry>
         <entry encoding="base64">XDxoaXRDb3VudGVyXD4=</entry>
         <entry>clear</entry>
@@ -677,6 +676,7 @@
         <entry>partition</entry>
         <entry encoding="base64">XDx0aW1lVXNhZ2VHcm91cGVkU3FsUXVlcnlcPg==</entry>
         <entry encoding="base64">XDx0aW1lVXNhZ2VHcm91cGVkU3FsXD4=</entry>
+        <entry encoding="base64">c2NhbGE+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -685,11 +685,11 @@
         <entry encoding="base64">JXMvc2NhbGE+LycnL2c=</entry>
         <entry>%s/''//g</entry>
         <entry>Td</entry>
-        <entry>$d</entry>
-        <entry encoding="base64">JXMvc2NhbGE+Ly9n</entry>
         <entry>5306</entry>
         <entry>^14$</entry>
         <entry>^14</entry>
+        <entry encoding="base64">JXMvc2NhbGE+Ly9n</entry>
+        <entry>$d</entry>
         <entry>%d</entry>
       </history-cmd>
       <history-expr />
