@@ -497,16 +497,15 @@
       <file name="/fragment.java" timestamp="1560157264451">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" timestamp="1560423085133">
-        <mark key="'" line="249" column="23" />
-        <mark key="[" line="103" column="18" />
-        <mark key="]" line="103" column="23" />
-        <mark key="." line="103" column="23" />
-        <mark key="^" line="103" column="23" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" timestamp="1560424545627">
+        <mark key="'" line="181" column="20" />
+        <mark key="[" line="260" column="0" />
+        <mark key="]" line="260" column="0" />
+        <mark key="." line="260" column="0" />
+        <mark key="^" line="272" column="7" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="16" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.4.3-sources.jar!/org/apache/spark/ml/Predictor.scala" />
       <jump line="191" column="56" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.4.3-sources.jar!/org/apache/spark/ml/Predictor.scala" />
       <jump line="47" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/LinearRegression.scala" />
       <jump line="45" column="3" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/LinearRegression.scala" />
@@ -606,66 +605,66 @@
       <jump line="83" column="41" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
       <jump line="196" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
       <jump line="227" column="23" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
+      <jump line="181" column="20" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>_._1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC5leHByZXNzaW9ucy5zY2FsYWxhbmcudHlwZWQuYXZnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>_._1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">c2NhbGE+</text>
+        <text encoding="base64">XDxiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICBTdHJ1Y3RGaWVsZChjb2x1bW5OYW1lcy5oZWFkLCBTdHJpbmdUeXBlLCBudWxsYWJsZSA9IGZhbHNlKSA6Ogo=</text>
+        <text encoding="base64">ICAgICAgICByb3VuZChhdmcoJ3ByaW1hcnlOZWVkcyksIDEpLmFzKCJwcmltYXJ5TmVlZHMiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC5leHByZXNzaW9ucy5zY2FsYWxhbmcudHlwZWQuYXZnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhdmcoXy5wcmltYXJ5KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExpc3QK</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAubWFwKHJvdykK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLmRpdmkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29sdW1uKCkK</text>
+        <text encoding="base64">ICAgIHByaW1hcnlOZWVkc0NvbHVtbnMubWFwKGMgPT4gYXZnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">c2NhbGE+</last-search>
+      <last-search encoding="base64">XDxiXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">c2NhbGE+</last-pattern>
+      <last-pattern encoding="base64">XDxiXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">c2NhbGE+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hitCounter</entry>
         <entry encoding="base64">XDxoaXRDb3VudGVyXD4=</entry>
         <entry>clear</entry>
         <entry>arg</entry>
@@ -685,6 +684,7 @@
         <entry encoding="base64">XDx0aW1lVXNhZ2VHcm91cGVkU3FsUXVlcnlcPg==</entry>
         <entry encoding="base64">XDx0aW1lVXNhZ2VHcm91cGVkU3FsXD4=</entry>
         <entry encoding="base64">c2NhbGE+</entry>
+        <entry encoding="base64">XDxiXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
