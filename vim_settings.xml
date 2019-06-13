@@ -218,11 +218,12 @@
         <mark key="." line="22" column="19" />
         <mark key="^" line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" timestamp="1560339071719">
-        <mark key="[" line="10" column="28" />
-        <mark key="]" line="10" column="28" />
-        <mark key="." line="10" column="28" />
-        <mark key="^" line="10" column="28" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" timestamp="1560400996808">
+        <mark key="'" line="139" column="0" />
+        <mark key="[" line="42" column="32" />
+        <mark key="]" line="42" column="35" />
+        <mark key="." line="42" column="35" />
+        <mark key="^" line="42" column="35" />
       </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/04_statement/exercises/lesson.go" timestamp="1543745124215">
         <mark key="[" line="21" column="15" />
@@ -498,10 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="63" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/Anki.scala" />
-      <jump line="57" column="44" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/Anki.scala" />
-      <jump line="17" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/LinearRegression.scala" />
-      <jump line="59" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/LinearRegression.scala" />
       <jump line="9" column="49" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/LinearRegression.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/LinearRegression.scala" />
       <jump line="75" column="32" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/com/sundogsoftware/spark/MovieRecommendationsALS.scala" />
@@ -598,16 +595,20 @@
       <jump line="81" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
       <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
       <jump line="67" column="14" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
+      <jump line="32" column="15" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
+      <jump line="9" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
+      <jump line="11" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
+      <jump line="132" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>()mapValues</text>
+        <text>str</text>
       </register>
       <register name="-" type="4">
-        <text>()mapValues</text>
+        <text>str</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">c2NhbGE+</text>
@@ -616,31 +617,31 @@
         <text encoding="base64">ICAgICAgY29sdW1uTmFtZXMudGFpbC5tYXAoc3RyID0+IChTdHJ1Y3RGaWVsZChzdHIudG9Eb3VibGVfLCBEb3VibGVUeXBlLCBudWxsYWJsZSA9IGZhbHNlKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBuID0+IFAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmNoYXJzZXQuQ29kaW5nRXJyb3JBY3Rpb24KCmltcG9ydCBzY2FsYS5pby5Db2RlYwoKaW1wbGljaXQgdmFsIGNvZGVjOiBDb2RlYyA9IENvZGVjKCJVVEYtOCIpCmNvZGVjLm9uTWFsZm9ybWVkSW5wdXQoQ29kaW5nRXJyb3JBY3Rpb24uUkVQTEFDRSkK</text>
+        <text encoding="base64">dmFsIGEgPSAxIDo6IDIgOjogMyA6OiBOaWwKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29kZWMub25Vbm1hcHBhYmxlQ2hhcmFjdGVyKENvZGluZ0Vycm9yQWN0aW9uLlJFUExBQ0UpCg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZQoKLy8gTGlzdEJ1ZmZlcuOCkuWumue+qQp2YWwgZnJ1aXRzOiBtdXRhYmxlLkxpc3RCdWZmZXJbU3RyaW5nXSA9IG11dGFibGUuTGlzdEJ1ZmZlcigiQXBwbGUiKQovLyBMaXN044Gr5aSJ5o+bCmZydWl0cy50b0xpc3QKCi8vIHJlczA6IExpc3RbU3RyaW5nXSA9IExpc3QoQmFuYW5hLCBCYW5hbmEsIEFwcGxlLCBLaXVpKQoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFsIGFkZDogKEludCwgSW50KSA9PiBJbnQgPSBfICsgXwoKdmFsIGE6IEludCA9PiBJbnQgPSBhZGQoMSwgXykKYSgyKQo=</text>
+        <text encoding="base64">c2VhbGVkIHRyYWl0IFdvcmtlciB7CiAgdmFsIGlkOiBJbnQKfQoKb2JqZWN0IFdvcmtlciB7CgogIGNhc2Ugb2JqZWN0IFJlZ3VsYXJFbXBsb3llZSBleHRlbmRzIFdvcmtlciB7CiAgICBvdmVycmlkZSB2YWwgaWQ6IEludCA9IDEKICB9CgogIGNhc2Ugb2JqZWN0IENvbnRyYWN0RW1wbG95ZWUgZXh0ZW5kcyBXb3JrZXIgewogICAgb3ZlcnJpZGUgdmFsIGlkOiBJbnQgPSAyCiAgfQoKICBjYXNlIG9iamVjdCBQYXJ0VGltZXIgZXh0ZW5kcyBXb3JrZXIgewogICAgb3ZlcnJpZGUgdmFsIGlkOiBJbnQgPSAzCiAgfQoKICAvLyAtLS0g5Lul5LiL44GvRW51bWVyYXRpb27nm7jlvZPjga7mqZ/og73jgpLlrp/oo4XjgZfjgZ/jg6Hjgr3jg4Pjg4ko5Y+C6ICDKQoKICAvLyDliJfmjJnlgKTjga7pm4blkIjjgpLov5TjgZkKICB2YWwgdmFsdWVzOiBTZXRbV29ya2VyXSA9IFNldChSZWd1bGFyRW1wbG95ZWUsIENvbnRyYWN0RW1wbG95ZWUsIFBhcnRUaW1lcikKCiAgLy8g5paH5a2X5YiX44GL44KJ5YiX5oyZ5YCk44KS6L+U44GZCiAgZGVmIHZhbHVlT2YobmFtZTogU3RyaW5nKTogT3B0aW9uW1dvcmtlcl0gPSB2YWx1ZXMuZmluZChfLnRvU3RyaW5nID09IG5hbWUpCgogIC8vIOW6j+aVsOOBi+OCieWIl+aMmeWApOOCkui/lOOBmQogIGRlZiBhcHBseShpZDogSW50KTogT3B0aW9uW1dvcmtlcl0gPSB2YWx1ZXMuZmluZChfLmlkID09IGlkKQoKfQoKZGVmIG1hdGNoV29ya2VyKHdvcmtlcjogV29ya2VyKSA9IHdvcmtlciBtYXRjaCB7CiAgY2FzZSBXb3JrZXIuUmVndWxhckVtcGxveWVlID0+IHByaW50bG4oInJlZ3VsYXIiKQp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWRkCg==</text>
+        <text encoding="base64">dmFsIHJkZCA9IHNjLm1ha2VSREQoU2VxKCJhIiAtPiAwLCAiYiIgLT4gMSwgImMiIC0+IDIpKQp2YWwgcmRkMiA9IHJkZC5mbGF0TWFwVmFsdWVzIHsKICBuID0+IFNlcShuLCAnQScgKyBuKQp9Ci8vIChhLDApLCAoYSw2NSksIChiLDEpLCAoYiw2NiksIChjLDIpLCAoYyw2NykKCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBuID0+IFAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmNoYXJzZXQuQ29kaW5nRXJyb3JBY3Rpb24KCmltcG9ydCBzY2FsYS5pby5Db2RlYwoKaW1wbGljaXQgdmFsIGNvZGVjOiBDb2RlYyA9IENvZGVjKCJVVEYtOCIpCmNvZGVjLm9uTWFsZm9ybWVkSW5wdXQoQ29kaW5nRXJyb3JBY3Rpb24uUkVQTEFDRSkK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
