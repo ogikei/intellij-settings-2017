@@ -498,18 +498,16 @@
       <file name="/fragment.java" timestamp="1560157264451">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" timestamp="1560663106496">
-        <mark key="'" line="13" column="22" />
-        <mark key="[" line="9" column="41" />
-        <mark key="]" line="9" column="55" />
-        <mark key="^" line="9" column="55" />
-        <mark key="." line="9" column="55" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" timestamp="1560664833402">
+        <mark key="a" line="82" column="0" />
+        <mark key="'" line="82" column="8" />
+        <mark key="[" line="105" column="25" />
+        <mark key="]" line="105" column="46" />
+        <mark key="." line="105" column="46" />
+        <mark key="^" line="105" column="46" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/anki.sc" />
-      <jump line="4" column="11" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/anki.sc" />
-      <jump line="2" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/anki.sc" />
       <jump line="78" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/anki.sc" />
       <jump line="108" column="0" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/anki.sc" />
       <jump line="55" column="44" filename="$USER_HOME$/Documents/BigData/Spark/SparkScalaCourse/src/main/scala/ogikei/learning/anki.sc" />
@@ -607,58 +605,61 @@
       <jump line="11" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
       <jump line="18" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
       <jump line="15" column="22" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
+      <jump line="228" column="23" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
+      <jump line="5" column="13" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
+      <jump line="82" column="8" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>J</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>J</text>
+        <text encoding="base64">eCA9PiB4</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiXD4=</text>
+        <text encoding="base64">XDxsaW5lXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAib3JnLmFwYWNoZS5zcGFyayIgJSAic3BhcmstbWxsaWJfMi4xMSIgJSAiMi40LjMiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pz8/Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KGN1c3RvbWVySWQsIChudW1iZXJPZklkLCBwcmljZSkp44Go44GZ44KL44Gr44Gv44Gp44Gu44KI44GG44Gr44GZ44KM44Gw44KI44GE44GL44CCCg==</text>
+        <text encoding="base64">ICAgZGQgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGoue0xldmVsLCBMb2dnZXJ9CmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLlNwYXJrQ29udGV4dAppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuU3BhcmtTZXNzaW9uCgp2YWwgc3BhcmsgPSBTcGFya1Nlc3Npb24KICAuYnVpbGRlcigpCiAgLm1hc3RlcigibG9jYWxbKl0iKQogIC5nZXRPckNyZWF0ZSgpCgp2YWwgc2MgPSBzcGFyay5zcGFya0NvbnRleHQKCgp2YWwgaW50ZXJtZWRpYXRlID0gZXZlbnRzUmRkLm1hcFZhbHVlcyhiID0+IChiLCAxKSkKLy8gKG9yZywgYnVkZ2V0KSAtPiAob3JnLCAoYnVkZ2V0LCAxKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFsIG51bWJlcnMgPSBNYXAoMSAtPiAib25lIiwgMiAtPiAidHdvIiwgMyAtPiAidGhyZWUiKQoKZm9yICgoaywgdikgPC0gbnVtYmVycykgewogIHByaW50KGssIHYpCn0KCi8vbnVtYmVycy5tYXAoKQo=</text>
+        <text encoding="base64">cGFja2FnZSB0aW1ldXNhZ2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pz8/Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLntTcGFya1Nlc3Npb24sIF99Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiXD4=</last-search>
+      <last-search encoding="base64">XDxsaW5lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsaW5lXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">c2NhbGE+</last-substitute>
       <last-dir>-1</last-dir>
@@ -666,7 +667,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoaXRDb3VudGVyXD4=</entry>
         <entry>clear</entry>
         <entry>arg</entry>
         <entry encoding="base64">XDxyZWNvbW1lbmRhdGlvblw+</entry>
@@ -686,6 +686,7 @@
         <entry encoding="base64">XDx0aW1lVXNhZ2VHcm91cGVkU3FsXD4=</entry>
         <entry encoding="base64">c2NhbGE+</entry>
         <entry encoding="base64">XDxiXD4=</entry>
+        <entry encoding="base64">XDxsaW5lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
