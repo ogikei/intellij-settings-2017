@@ -218,13 +218,13 @@
         <mark key="." line="22" column="19" />
         <mark key="^" line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" timestamp="1560662497533">
-        <mark key="a" line="18" column="22" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" timestamp="1560746564442">
+        <mark key="a" line="19" column="22" />
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="15" column="33" />
-        <mark key="]" line="15" column="33" />
-        <mark key="." line="15" column="33" />
-        <mark key="^" line="15" column="33" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="13" />
       </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/04_statement/exercises/lesson.go" timestamp="1543745124215">
         <mark key="[" line="21" column="15" />
@@ -498,13 +498,13 @@
       <file name="/fragment.java" timestamp="1560157264451">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" timestamp="1560664833402">
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" timestamp="1560665689034">
         <mark key="a" line="82" column="0" />
         <mark key="'" line="82" column="8" />
-        <mark key="[" line="105" column="25" />
-        <mark key="]" line="105" column="46" />
-        <mark key="." line="105" column="46" />
-        <mark key="^" line="105" column="46" />
+        <mark key="[" line="107" column="26" />
+        <mark key="]" line="107" column="26" />
+        <mark key="." line="107" column="26" />
+        <mark key="^" line="107" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -614,10 +614,10 @@
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eCA9PiB4</text>
+        <text>J</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5lXD4=</text>
@@ -626,31 +626,31 @@
         <text encoding="base64">ICAib3JnLmFwYWNoZS5zcGFyayIgJSAic3BhcmstbWxsaWJfMi4xMSIgJSAiMi40LjMiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">dmFsIGEgPSBMaXN0KCgiYSIsIDEpLCAoImEiLCA0MyksICgiYiIsIDIpKQphLmdyb3VwQnkoXy5fMSkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgZGQgCg==</text>
+      <register name="3" type="4">
+        <text>1</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+      <register name="4" type="4">
+        <text>1</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFja2FnZSB0aW1ldXNhZ2UK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLntTcGFya1Nlc3Npb24sIF99Cg==</text>
+        <text encoding="base64">ICAgZGQgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
