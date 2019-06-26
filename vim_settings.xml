@@ -501,16 +501,14 @@
       <file name="/fragment.java" timestamp="1560157264451">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" timestamp="1561518617800">
-        <mark key="'" line="25" column="3" />
-        <mark key="[" line="15" column="87" />
-        <mark key="]" line="16" column="1" />
-        <mark key="." line="16" column="1" />
-        <mark key="^" line="16" column="1" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" timestamp="1561523598811">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="18" column="19" />
+        <mark key="." line="18" column="19" />
+        <mark key="^" line="18" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="8" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="46" column="12" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="78" column="45" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="160" column="6" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/timeusage/TimeUsage.scala" />
@@ -610,16 +608,17 @@
       <jump line="39" column="3" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
       <jump line="43" column="4" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
       <jump line="25" column="3" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
+      <jump line="22" column="18" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93XD4=</text>
@@ -628,31 +627,31 @@
         <text>People(1, &quot;Keisuke&quot;),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZHMyLnNob3coKQo=</text>
+        <text encoding="base64">aW1wb3J0IHNwYXJrLmltcGxpY2l0cy5fCmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC50eXBlcy5fCmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC5mdW5jdGlvbnMuXwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGVvcGxlREYuYXNbUGVvcGxlXQogIC5ncm91cEJ5S2V5KHAgPT4gcC5pZCkKICAuYWdnKGF2ZygnYWdlKS5hbGlhcygiYXZnIikuYXNbRG91YmxlXSkKICAuc2hvdygpCgpjYXNlIGNsYXNzIFBlcnNvbihuYW1lOiBTdHJpbmcsIGFnZTogTG9uZykKCnZhbCBkczAgPSBTZXEoCiAgUGVyc29uKCJob2dlIiwgMjApLCBQZXJzb24oImhvZ2UiLCA0MCksIFBlcnNvbigiaG9nZSIsIDMwKSwKICBQZXJzb24oImZvbyIsIDIwKSwKICBQZXJzb24oImJhciIsIDMwKQopLnRvRFMoKQp2YWwga3YgPSBkczAKICAuZ3JvdXBCeUtleShwZXJzb24gPT4gcGVyc29uLm5hbWUpCgp2YWwgZHMgPSBrdgogIC5tYXBHcm91cHMoKGssIGkpID0+IGkudG9TZXEuc29ydEJ5KHBlcnNvbiA9PiBwZXJzb24uYWdlKS5oZWFkKQpkcy5zaG93KCkKCnZhbCBkczIgPSBrdgogIC5mbGF0TWFwR3JvdXBzKChrLCBpKSA9PiBpLnRvU2VxLnNvcnRCeShwZXJzb24gPT4gcGVyc29uLmFnZSkudGFrZSgyKSkKZHMyLnNob3coKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAubWFwR3JvdXBzKCkK</text>
+        <text encoding="base64">ZHMyLnNob3coKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFsIGt2ID0gZHMwCiAgLmdyb3VwQnlLZXkocGVyc29uID0+IHBlcnNvbi5uYW1lKQogIC5tYXBHcm91cHMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAubWFwR3JvdXBzKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFsIGt2ID0gZHMwCiAgLmdyb3VwQnlLZXkocGVyc29uID0+IHBlcnNvbi5uYW1lKQogIC5tYXBHcm91cHMoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAuc2VsZWN0KCdrZXkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAuc2VsZWN0KCdpZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAuc2VsZWN0KCdrZXkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
