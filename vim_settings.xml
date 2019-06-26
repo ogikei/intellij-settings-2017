@@ -218,13 +218,13 @@
         <mark key="." line="22" column="19" />
         <mark key="^" line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" timestamp="1561434518943">
-        <mark key="a" line="23" column="22" />
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="4" column="29" />
-        <mark key="." line="4" column="29" />
-        <mark key="^" line="4" column="29" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" timestamp="1561525427449">
+        <mark key="a" line="4" column="22" />
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="14" />
       </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/04_statement/exercises/lesson.go" timestamp="1543745124215">
         <mark key="[" line="21" column="15" />
@@ -501,15 +501,13 @@
       <file name="/fragment.java" timestamp="1560157264451">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" timestamp="1561523598811">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="19" />
-        <mark key="." line="18" column="19" />
-        <mark key="^" line="18" column="19" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" timestamp="1561524271496">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="12" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="78" column="45" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="160" column="6" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="240" column="14" filename="$USER_HOME$/Documents/BigData/Spark/spark-coursera/src/main/scala/timeusage/TimeUsage.scala" />
@@ -589,12 +587,10 @@
       <jump line="74" column="4" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
       <jump line="69" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
       <jump line="291" column="26" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
-      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
       <jump line="20" column="36" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
       <jump line="2" column="11" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
       <jump line="14" column="57" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
       <jump line="1" column="13" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
-      <jump line="19" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
       <jump line="88" column="23" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
       <jump line="101" column="22" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
       <jump line="14" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
@@ -609,16 +605,19 @@
       <jump line="43" column="4" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
       <jump line="25" column="3" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
       <jump line="22" column="18" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
+      <jump line="19" column="7" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
+      <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
+      <jump line="3" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>Option</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>Option</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93XD4=</text>
@@ -627,22 +626,22 @@
         <text>People(1, &quot;Keisuke&quot;),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNwYXJrLmltcGxpY2l0cy5fCmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC50eXBlcy5fCmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC5mdW5jdGlvbnMuXwo=</text>
+        <text encoding="base64">dmFsIG9wdCA9IFNvbWUoNSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGVvcGxlREYuYXNbUGVvcGxlXQogIC5ncm91cEJ5S2V5KHAgPT4gcC5pZCkKICAuYWdnKGF2ZygnYWdlKS5hbGlhcygiYXZnIikuYXNbRG91YmxlXSkKICAuc2hvdygpCgpjYXNlIGNsYXNzIFBlcnNvbihuYW1lOiBTdHJpbmcsIGFnZTogTG9uZykKCnZhbCBkczAgPSBTZXEoCiAgUGVyc29uKCJob2dlIiwgMjApLCBQZXJzb24oImhvZ2UiLCA0MCksIFBlcnNvbigiaG9nZSIsIDMwKSwKICBQZXJzb24oImZvbyIsIDIwKSwKICBQZXJzb24oImJhciIsIDMwKQopLnRvRFMoKQp2YWwga3YgPSBkczAKICAuZ3JvdXBCeUtleShwZXJzb24gPT4gcGVyc29uLm5hbWUpCgp2YWwgZHMgPSBrdgogIC5tYXBHcm91cHMoKGssIGkpID0+IGkudG9TZXEuc29ydEJ5KHBlcnNvbiA9PiBwZXJzb24uYWdlKS5oZWFkKQpkcy5zaG93KCkKCnZhbCBkczIgPSBrdgogIC5mbGF0TWFwR3JvdXBzKChrLCBpKSA9PiBpLnRvU2VxLnNvcnRCeShwZXJzb24gPT4gcGVyc29uLmFnZSkudGFrZSgyKSkKZHMyLnNob3coKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZHMyLnNob3coKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">b3AK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dmFsIG0gPSBNYXAoJ2EgLT4gMTEsICdiIC0+IDIyLCAnYyAtPiAzMykKbS5nZXRPckVsc2UoJ2IsIDk5KSAvLyAyMgptLmdldE9yRWxzZSgneiwgOTkpIC8vIDk5Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAubWFwR3JvdXBzKCkK</text>
+        <text encoding="base64">Ly8gMjIgOTkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFsIGt2ID0gZHMwCiAgLmdyb3VwQnlLZXkocGVyc29uID0+IHBlcnNvbi5uYW1lKQogIC5tYXBHcm91cHMoKQo=</text>
+        <text encoding="base64">dmFsIGxpc3QgPSBMaXN0KCgxLCAiYSIpLCAoMywgImIiKSwgKDEsICJjIikpCmxpc3QuZ3JvdXBCeShfLl8xKQovLyBNYXAoMSAtPiBMaXN0KCgxLGEpLCAoMSxjKSksIDMgLT4gTGlzdCgoMyxiKSkpCgpNYXAoMSAtPiAyLCAzIC0+IDQsIDUgLT4gNikubWFwVmFsdWVzKHYgPT4gU3ltYm9sKHYudG9TdHJpbmcpKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -651,7 +650,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAuc2VsZWN0KCdrZXkpCg==</text>
+        <text encoding="base64">ZmluYWwgY2FzZSBjbGFzcyBOb25FbXB0eUxpc3RbK0FdKGhlYWQ6IEEsIHRhaWw6IExpc3RbQV0gPSBMaXN0LmVtcHR5KSB7CiAgZGVmIHByZXBlbmRbQiA+OiBBXShlbGVtOiBCKTogTm9uRW1wdHlMaXN0W0JdID0KICAgIE5vbkVtcHR5TGlzdChlbGVtLCBoZWFkIDo6IHRhaWwpCgogIHRoaXMuZ2V0Q2xhc3MuZ2V0UmVzb3VyY2UoIi8iKS5nZXRQYXRoCn0KCnZhbCBsaXN0MSA9IE5vbkVtcHR5TGlzdCgxKQovL2xpc3QxOiBOb25FbXB0eUxpc3RbSW50XSA9IE5vbkVtcHR5TGlzdCgxLExpc3QoKSkKCnZhbCBsaXN0MiA9IGxpc3QxLnByZXBlbmQoMikKLy9saXN0MjogTm9uRW1wdHlMaXN0W0ludF0gPSBOb25FbXB0eUxpc3QoMixMaXN0KDEpKQoKLy8g5paH5a2X5YiX44KS5oyH5a6a44GX44Gf5aC05ZCI44GvYEludGDjgahgU3RyaW5nYOOBrue3j+ensOWei+OBqOOBl+OBpmBOb25lRW1wdHlMaXN0W0FueV1g44GM5o6o6KuW44GV44KM44KLCnZhbCBsaXN0MyA9IGxpc3QyLnByZXBlbmQoIiIpCi8vIGxpc3QzOiBOb25FbXB0eUxpc3RbQW55XSA9IE5vbkVtcHR5TGlzdCgsTGlzdCgyLCAxKSkKCi8vIGBMb25nYOOBquOBqeOBrmBBbnlWYWxg44Gu5rS+55Sf5Z6L44GM5oyH5a6a44GV44KM44Gf5aC05ZCI44Gv44CBYE5vbkVtcHR5TGlzdFtBbnlWYWxdYOOBjOaOqOirluOBleOCjOOCiwp2YWwgbGlzdDQgPSBsaXN0Mi5wcmVwZW5kKDFMKQovL2xpc3Q0OiBOb25FbXB0eUxpc3RbQW55VmFsXSA9IE5vbkVtcHR5TGlzdCgxLExpc3QoMiwgMSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
@@ -702,6 +701,7 @@
         <entry>Td</entry>
         <entry encoding="base64">cy9zY2FsYT4vL2c=</entry>
         <entry encoding="base64">JXMvc2NhbGE+Ly9n</entry>
+        <entry encoding="base64">JzwsJz4lZA==</entry>
         <entry>%d</entry>
       </history-cmd>
       <history-expr />
