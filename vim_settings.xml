@@ -211,13 +211,12 @@
         <mark key="." line="22" column="19" />
         <mark key="^" line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" timestamp="1562037847301">
-        <mark key="a" line="121" column="22" />
-        <mark key="'" line="118" column="0" />
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="31" />
-        <mark key="." line="12" column="31" />
-        <mark key="^" line="12" column="31" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" timestamp="1562039310982">
+        <mark key="a" line="2" column="22" />
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+        <mark key="^" line="1" column="7" />
       </file>
       <file name="$USER_HOME$/MyWork/git/silicon-valley-with-go/04_statement/exercises/lesson.go" timestamp="1543745124215">
         <mark key="[" line="21" column="15" />
@@ -511,7 +510,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="10" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
       <jump line="70" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
       <jump line="38" column="36" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
       <jump line="87" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
@@ -541,7 +539,6 @@
       <jump line="11" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
       <jump line="50" column="37" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
       <jump line="8" column="5" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
-      <jump line="71" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
       <jump line="157" column="4" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
       <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
       <jump line="213" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
@@ -611,16 +608,18 @@
       <jump line="101" column="15" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
       <jump line="3" column="9" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
       <jump line="115" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
+      <jump line="71" column="20" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
+      <jump line="80" column="11" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNhc2UgTm9uZSA9PiAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>map(_ + _)</text>
+        <text encoding="base64">djEgPT4gdjEgKiB2MQ==</text>
       </register>
       <register name="-" type="4">
-        <text>map(_ + _)</text>
+        <text encoding="base64">djEgPT4gdjEgKiB2MQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXExXD4=</text>
@@ -628,32 +627,32 @@
       <register name="0" type="4">
         <text>LocalDateTime.of(year.toInt, month.toInt, day.toInt, hour.toInt, minute.toInt)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">KQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZGVmIGdldExhc3ROYW1lKG9iajogQW55KTogU3RyaW5nID0gb2JqIG1hdGNoIHsKICBjYXNlIFBlcnNvbk5hbWUobmFtciwgYWdlKSA9PiBuYW1yCn0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhY2MgKyBlbGVtCg==</text>
+        <text encoding="base64">Pz8/Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFsIG9wdCA9IE5vbmUKb3B0Lm9yRWxzZShTb21lKDYpKQovLyBTb21lKDYpCg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZQoKdmFsIHNlcTE6IFNlcVtJbnRdID0gTGlzdCgxLCAyLCAzLCA0LCA1KQovLyAgc2VxOiBTZXFbSW50XSA9IExpc3QoMSwgMiwgMywgNCwgNSkKCi8vIOWkieaVsOWQjWzjga9sZWZ0LCBy44GvcmlnaHTjga7nlaUKLy8g5bem57WQ5ZCICnZhbCBzdW0xID0gc2VxMS5yZWR1Y2VMZWZ0KChsLCByKSA9PgogIGwgKyByCikKCi8vIHN1bTogSW50ID0gMTUKCi8vIOewoea9lOOBq+abuOOBj+OBq+OBr+ODl+ODrOODvOOCueODleOCqeODq+ODgOOCkuS9v+OBhgp2YWwgc3VtMiA9IHNlcTEucmVkdWNlTGVmdChfICsgXykKLy8gc3VtOiBJbnQgPSAxNQoKLy8g5Y+z57WQ5ZCICnZhbCByZXN1bHQxID0gc2VxMS5yZWR1Y2VSaWdodCgobCwgcikgPT4gbCArIHIpCi8vIHJlc3VsdDogSW50ID0gMTUKCnZhbCBzZXEyID0gKDEgdG8gMTApLm1hcChCaWdEZWNpbWFsKF8pKS50b0xpc3QKLy8gc2VxOiBMaXN0W3NjYWxhLm1hdGguQmlnRGVjaW1hbF0gPSBMaXN0KDEsIDIsIDMsIDQsIDUsIDYsIDcsIDgsIDksIDEwKQoKc2VxMi5yZWR1Y2VSaWdodChfIC8gXykKLy8gcmVzOTogc2NhbGEubWF0aC5CaWdEZWNpbWFsID0gMi43NTU3MzE5MjIzOTg1ODkwNjUyNTU3MzE5MjIzOTg1ODlFLTcKCnNlcTIucmVkdWNlTGVmdChfIC8gXykKLy8gcmVzMTA6IHNjYWxhLm1hdGguQmlnRGVjaW1hbCA9IDAuMjQ2MDkzNzUwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMAoKdmFsIHJlc3VsdDIgPSBzZXExLnJlZHVjZUxlZnRPcHRpb24oXyArIF8pCi8vIHJlc3VsdDE6IE9wdGlvbltJbnRdID0gU29tZSgxNSkKCnZhbCByZXN1bHQzID0gc2VxMS5yZWR1Y2VSaWdodE9wdGlvbihfICsgXykKLy8gcmVzdWx0MjogT3B0aW9uW0ludF0gPSBTb21lKDE1KQoKdmFsIHJlc3VsdDQgPSBTZXEuZW1wdHlbSW50XS5yZWR1Y2VSaWdodE9wdGlvbihfICsgXykKLy8gcmVzdWx0OiBPcHRpb25bSW50XSA9IE5vbmUKCnZhbCByZXN1bHQ1ID0gU2VxLmVtcHR5W0ludF0ucmVkdWNlTGVmdE9wdGlvbihfICsgXykKLy8gcmVzdWx0OiBPcHRpb25bSW50XSA9IE5vbmUKCnZhbCByZXN1bHQ2ID0gc2VxMS5mb2xkTGVmdCgiIikoKGFjYywgZWxlbSkgPT4KICBhY2MgKyBlbGVtCikKLy8gcmVzdWx0OiBTdHJpbmcgPSAxMjM0NQoKU2VxLmVtcHR5LmZvbGRMZWZ0KCIiKShfICsgXykKLy8gcmVzMTogU3RyaW5nID0gIiIKCnZhbCByZXN1bHQ3ID0gc2VxMS5mb2xkUmlnaHQoMCkoXyArIF8pCi8vIHJlc3VsdDogSW50aiA9IDE1Cgp2YWwgcmVzdWx0OCA9IHNlcTEuZm9sZFJpZ2h0KCIiKShfICsgXykKLy8gcmVzdWx0OiBTdHJpbmcgPSAxMjM0NQoKU2VxLmVtcHR5W0ludF0uZm9sZFJpZ2h0KCIiKShfICsgXykKLy8gcmVzMDogU3RyaW5nID0gIiIKCi8vIOOBk+OBoeOCieOBjOS4gOeVqualveOBquaWueazlQp2YWwgcmVzdWx0OSA9IHNlcTEuc3VtCi8vIHJlc3VsdDogSW50ID0gMTUKCi8vIOOCs+ODrOOCr+OCt+ODp+ODs+WQjOWjq+OBrue1kOWQiApTZXEoNSwgMSwgNikgKysgU2VxKDIsIDMsIDQpCi8vIHJlczI6IHNjYWxhLmNvbGxlY3Rpb24uaW1tdXRhYmxlLlNldFtJbnRdID0gU2V0KDUsIDEsIDYsIDIsIDMsIDQpCgpNYXAoMSAtPiAyLCAzIC0+IDQpICsrIE1hcCg1IC0+IDYsIDcgLT4gOCkKLy8gcmVzMzogc2NhbGEuY29sbGVjdGlvbi5pbW11dGFibGUuTWFwW0ludCwgSW50XSA9IE1hcCgxIC0+IDIsIDMgLT4gNCwgNSAtPiA2LCA3IC0+IDgpCgoKLy8gcmVzMDogU2VxW0ludF0gPSBMaXN0KDEsIDIsIDMsIDQsIDMsIDQsIDUsIDYpCgp2YWwgc2V0OiBTZXRbSW50XSA9IHNlcTEudG9TZXQKLy8gc2V0OiBTZXRbSW50XSA9IFNldCgxLCAyLCAzLCA0KQoKdmFsIG1hcCA9IHNlcTEudG9NYXAKLy8gPGNvbnNvbGU+OjE1OiBlcnJvcjogQ2Fubm90IHByb3ZlIHRoYXQgSW50Ci8vICAgPDoKLy8gICAgIDwoVCwgVSkuCi8vICAgICAgIHZhbCBtYXAgPSBzZXEudG9NYXAKCnZhbCBtYXAxID0gc2VxMS5tYXAoeCA9PiAoeCwgImEiICogeCkpCi8vIG1hcDogU2VxWyhJbnQsIFN0cmluZyldID0gTGlzdCgoMSxhKSwgKDIsYWEpLCAoMyxhYWEpLCAoMyxhYWEpLCAoNCxhYWFhKSkKCi8vIE1hcOOBuOOBruWkieaPm+OAguimgee0oOWei+OBjFR1cGxlMuOBp+OBguOCi+OBk+OBqAp2YWwgbWFwMiA9IHNlcTEubWFwKHggPT4geCAtPiAiYSIgKiB4KQovLyBtYXA6IHNjYWxhLmNvbGxlY3Rpb24uaW1tdXRhYmxlLk1hcFtJbnQsU3RyaW5nXSA9IE1hcCgxIC0+IGEsIDIgLT4gYWEsIDMgLT4gYWFhLCA0IC0+IGFhYWEpCgp2YWwgc2V0MTogU2V0W0ludF0gPSBTZXQoMSwgMiwgMykKLy8gc2V0OiBzY2FsYS5jb2xsZWN0aW9uLm11dGFibGUuU2V0W0ludF0gPSBTZXQoMSwgMiwgMykKCi8vIFNlceWei+OBruOCteODluWei+OBp+OBguOCi0xpc3Tlnovjgbjjga7lpInmj5sKdmFsIGxpc3QgPSBzZXQxLnRvTGlzdAovLyBsaXN0OiBMaXN0W0ludF0gPSBMaXN0KDEsIDIsIDMpCgp2YWwgdmVjdG9yID0gc2V0MS50b1ZlY3RvcgovLyB2ZWN0b3I6IFZlY3RvcltJbnRdID0gVmVjdG9yKDEsIDIsIDMpCgp2YWwgYXJyYXlCdWZmZXIgPSBzZXQxLnRvU2VxCi8vIGFycmF5QnVmZmVyOiBTZXFbSW50XSA9IFZlY3RvcigxLCAyLCAzKQoKdmFsIG1hcDM6IE1hcFtJbnQsIFN0cmluZ10gPSBNYXAoMiAtPiAiYiIpCi8vIG1hcDogc2NhbGEuY29sbGVjdGlvbi5tdXRhYmxlLk1hcFtJbnQsU3RyaW5nXSA9IE1hcCgyIC0+IGIsIDEgLT4gYSwgMyAtPiBjKQoKdmFsIHNldDIgPSBtYXAzLnRvU2V0Ci8vIHNldDogc2NhbGEuY29sbGVjdGlvbi5pbW11dGFibGUuU2V0WyhJbnQsIFN0cmluZyldID0gU2V0KCgyLGIpLCAoMSxhKSwgKDMsYykpCgp2YWwgaXRlcmF0b3IgPSBzZXExLml0ZXJhdG9yCi8vIGl0ZXJhdG9yOiBJdGVyYXRvcltJbnRdID0gbm9uLWVtcHR5IGl0ZXJhdG9yCgovLyB3aGlsZeOCkuS9v+eUqOOBmeOCi+OBk+OBqAp3aGlsZSAoaXRlcmF0b3IuaGFzTmV4dCkgewogIHByaW50bG4oaXRlcmF0b3IubmV4dCgpKQp9Ci8vIDEKLy8gMgovLyAzCgp2YWwgcmVzdWx0MTAgPSBzZXExLm1rU3RyaW5nCi8vIHJlc3VsdDE6IFN0cmluZyA9IDEyMwoKdmFsIHJlc3VsdDExID0gc2VxMS5ta1N0cmluZygiLCIpCi8vIHJlc3VsdDI6IFN0cmluZyA9IDEsMiwzCgp2YWwgcmVzdWx0MTIgPSBzZXExLm1rU3RyaW5nKCJbIiwgIiwiLCAiXSIpCi8vIHJlc3VsdDM6IFN0cmluZyA9IFsxLDIsM10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFsIGFnZXMgPSBMaXN0KDIsIDUyLCA0NCwgMjMsIDE3LCAxNCwgMTIsIDgyLCA1MSwgNjQpCnZhbCBncm91cGVkID0gYWdlcy5ncm91cEJ5IHsgYWdlID0+CiAgaWYgKGFnZSA+PSAxOCAmJiBhZ2UgPD0gNjApICJzZW5pb3IiCn0KLy8gTWFwKHNlbmlvciAtPiBMaXN0KDgyKSwgYWR1bHQgLT4gTGlzdCg1MiwgNDQsIDIzLCA1MSwgNjQpLCBjaGlsZCAtPiBMaXN0KDIsIDE3LCAxNCwgMTIpKQpncm91cGVkCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBhY2MgKyBlbGVtCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZiBhZ2UK</text>
+        <text encoding="base64">dmFsIG9wdCA9IE5vbmUKb3B0Lm9yRWxzZShTb21lKDYpKQovLyBTb21lKDYpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">dmFsIGFnZXMgPSBMaXN0KDIsIDUyLCA0NCwgMjMsIDE3LCAxNCwgMTIsIDgyLCA1MSwgNjQpCnZhbCBncm91cGVkID0gYWdlcy5ncm91cEJ5IHsgYWdlID0+CiAgaWYgKGFnZSA+PSAxOCAmJiBhZ2UgPD0gNjApICJzZW5pb3IiCn0KLy8gTWFwKHNlbmlvciAtPiBMaXN0KDgyKSwgYWR1bHQgLT4gTGlzdCg1MiwgNDQsIDIzLCA1MSwgNjQpLCBjaGlsZCAtPiBMaXN0KDIsIDE3LCAxNCwgMTIpKQpncm91cGVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
