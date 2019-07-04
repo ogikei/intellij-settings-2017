@@ -6,6 +6,20 @@
       <file name="/start_script.py" timestamp="1562223460105">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" timestamp="1562227567824">
+        <mark key="'" line="8" column="42" />
+        <mark key="[" line="76" column="26" />
+        <mark key="]" line="76" column="35" />
+        <mark key="." line="76" column="35" />
+        <mark key="^" line="76" column="35" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" timestamp="1562227319533">
+        <mark key="'" line="9" column="9" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+        <mark key="^" line="118" column="0" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/untitled.sc" timestamp="1562131308152">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="0" column="0" />
@@ -13,22 +27,80 @@
         <mark key="^" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" timestamp="1562226110134" />
     </filemarks>
     <jumps>
       <jump line="43" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/untitled.sc" />
+      <jump line="5" column="29" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
+      <jump line="10" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
+      <jump line="13" column="19" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
+      <jump line="9" column="9" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test.sc" />
+      <jump line="117" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
+      <jump line="8" column="42" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/Anki.scala" />
     </jumps>
-    <registers />
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxvY2FsZU9wdGlvbi4K</text>
+      </register>
+      <register name="-" type="4">
+        <text>???</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">c2NhbGE+</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGxvY2FsZU9wdGlvbi4K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">amrvu78K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5DdXJyZW5jeQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHRlc3QyLl8KCm9iamVjdCBBbmtpIGV4dGVuZHMgQXBwIHsKICB2YWwgYiA9IGEKICBwcmludGxuKGIpCn0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dmFsIHNlcTogU2VxW0ludF0gPSBTZXEoMSwgMiwgMykKCnZhbCByZXN1bHQgPSBzZXEuZmxhdE1hcCB7CiAgY2FzZSAyID0+IFNlcS5lbXB0eQogIGNhc2UgbiA9PiBTZXEobiAqIDIpCn0KCi8vIHNlcTogU2VxW0ludF0gPSBMaXN0KDEsIDIsIDMpCi8vIHJlc3VsdDogU2VxW0ludF0gPSBMaXN0KDIsIDYpCgp2YWwgc2VxMTogU2VxW1NlcVtJbnRdXSA9IExpc3QoU2VxKDEsIDIsIDMpLCBTZXEoNCwgNSwgNikpCi8vc2VxOiBTZXFbU2VxW0ludF1dID0gTGlzdChMaXN0KDEsIDIsIDMpLCBMaXN0KDQsIDUsIDYpKQoKdmFsIHJlc3VsdCA9IHNlcTEuZmxhdE1hcCB7CiAgXy5tYXAoXyAqIDIpCn0KLy9yZXN1bHQ6IFNlcVtJbnRdID0gTGlzdCgyLCA0LCA2LCA4LCAxMCwgMTIpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBuICogMgo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>%d</text>
+      </register>
+    </registers>
     <search>
+      <last-search encoding="base64">c2NhbGE+</last-search>
+      <last-pattern encoding="base64">c2NhbGE+</last-pattern>
+      <last-replace />
+      <last-substitute encoding="base64">c2NhbGE+</last-substitute>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry encoding="base64">c2NhbGE+</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JXMvc2NhbGE+Ly9n</entry>
+        <entry>%d</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
