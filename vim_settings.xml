@@ -36,11 +36,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.4.3-sources.jar!/org/apache/spark/sql/Encoders.scala" timestamp="1562479220225" />
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" timestamp="1562483140745">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" timestamp="1562572768719">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -73,7 +72,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LS1zcGFyay5ycGMubWVzc2FnZS5tYXhzaXplIDIwMDAwMDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.???</text>
@@ -85,31 +84,31 @@
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLkVuY29kZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS1zcGFyay5ycGMubWVzc2FnZS5tYXhzaXplIDIwMDAwMDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS1zcGFyay5kcml2ZXIubWF4UmVzdWx0U2l6ZSA1Rwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsuXwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5TcGFya0NvbnRleHQuXwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuXwppbXBvcnQgb3JnLmFwYWNoZS5sb2c0ai5fCgpvYmplY3QgRGF0YUZyYW1lcyB7CgogIGNhc2UgY2xhc3MgUGVyc29uKElEOiBJbnQsIG5hbWU6IFN0cmluZywgYWdlOiBJbnQsIG51bUZyaWVuZHM6IEludCkKCiAgZGVmIG1hcHBlcihsaW5lOiBTdHJpbmcpOiBQZXJzb24gPSB7CiAgICB2YWwgZmllbGRzID0gbGluZS5zcGxpdCgnLCcpCgogICAgdmFsIHBlcnNvbjogUGVyc29uID0gUGVyc29uKGZpZWxkcygxKS50b0ludCwgZmllbGRzKDIpLCBmaWVsZHMoMykudG9JbnQsIGZpZWxkcyg0KS50b0ludCkKICAgIHBlcnNvbgogIH0KCiAgLyoqIE91ciBtYWluIGZ1bmN0aW9uIHdoZXJlIHRoZSBhY3Rpb24gaGFwcGVucyAqLwogIGRlZiBtYWluKGFyZ3M6IEFycmF5W1N0cmluZ10pIHsKCiAgICAvLyBTZXQgdGhlIGxvZyBsZXZlbCB0byBvbmx5IHByaW50IGVycm9ycwogICAgTG9nZ2VyLmdldExvZ2dlcigib3JnIikuc2V0TGV2ZWwoTGV2ZWwuRVJST1IpCgogICAgLy8gVXNlIG5ldyBTcGFya1Nlc3Npb24gaW50ZXJmYWNlIGluIFNwYXJrIDIuMAogICAgdmFsIHNwYXJrID0gU3BhcmtTZXNzaW9uCiAgICAgIC5idWlsZGVyCiAgICAgIC5hcHBOYW1lKCJTcGFya1NRTCIpCiAgICAgIC5tYXN0ZXIoImxvY2FsWypdIikKICAgICAgLmNvbmZpZygic3Bhcmsuc3FsLndhcmVob3VzZS5kaXIiLCAiZmlsZTovLy9DOi90ZW1wIikgLy8gTmVjZXNzYXJ5IHRvIHdvcmsgYXJvdW5kIGEgV2luZG93cyBidWcgaW4gU3BhcmsgMi4wLjA7IG9taXQgaWYgeW91J3JlIG5vdCBvbiBXaW5kb3dzLgogICAgICAuZ2V0T3JDcmVhdGUoKQoKICAgIC8vIENvbnZlcnQgb3VyIGNzdiBmaWxlIHRvIGEgRGF0YVNldCwgdXNpbmcgb3VyIFBlcnNvbiBjYXNlCiAgICAvLyBjbGFzcyB0byBpbmZlciB0aGUgc2NoZW1hLgogICAgaW1wb3J0IHNwYXJrLmltcGxpY2l0cy5fCiAgICB2YWwgbGluZXMgPSBzcGFyay5zcGFya0NvbnRleHQudGV4dEZpbGUoIi4uL2Zha2VmcmllbmRzLmNzdiIpCiAgICAvLyDmsLjntprljJbjgoLjgZnjgosKICAgIHZhbCBwZW9wbGUgPSBsaW5lcy5tYXAobWFwcGVyKS50b0RGLnBlcnNpc3QoKQoKICAgIC8vIFRoZXJlIGFyZSBsb3RzIG9mIG90aGVyIHdheXMgdG8gbWFrZSBhIERhdGFGcmFtZS4KICAgIC8vIEZvciBleGFtcGxlLCBzcGFyay5yZWFkLmpzb24oImpzb24gZmlsZSBwYXRoIikKICAgIC8vIG9yIHNxbENvbnRleHQudGFibGUoIkhpdmUgdGFibGUgbmFtZSIpCgogICAgcHJpbnRsbigiSGVyZSBpcyBvdXIgaW5mZXJyZWQgc2NoZW1hOiIpCiAgICBwZW9wbGUucHJpbnRTY2hlbWEoKQoKICAgIHByaW50bG4oIkxldCdzIHNlbGVjdCB0aGUgbmFtZSBjb2x1bW46IikKICAgIHBlb3BsZS5zZWxlY3QoJ25hbWUpLnNob3coKQoKICAgIHByaW50bG4oIkZpbHRlciBvdXQgYW55b25lIG92ZXIgMjE6IikKICAgIHBlb3BsZS5maWx0ZXIoJ2FnZSA8IDIxKS5zaG93KCkKCiAgICBwcmludGxuKCJHcm91cCBieSBhZ2U6IikKICAgIHBlb3BsZS5ncm91cEJ5KCdhZ2UpLmNvdW50KCkuc2hvdygpCgogICAgcHJpbnRsbigiTWFrZSBldmVyeW9uZSAxMCB5ZWFycyBvbGRlcjoiKQogICAgcGVvcGxlLnNlbGVjdCgnbmFtZSwgJ2FnZSArIDEwKS5zaG93KCkKCiAgICBzcGFyay5zdG9wKCkKICB9Cn0K</text>
+        <text encoding="base64">LS1zcGFyay5ycGMubWVzc2FnZS5tYXhzaXplIDIwMDAwMDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS1zcGFyay5kcml2ZXIubWF4UmVzdWx0U2l6ZSA1Rwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">77u/cGFja2FnZSBjb20uc3VuZG9nc29mdHdhcmUuc3BhcmsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsuXwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5TcGFya0NvbnRleHQuXwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuXwppbXBvcnQgb3JnLmFwYWNoZS5sb2c0ai5fCgpvYmplY3QgRGF0YUZyYW1lcyB7CgogIGNhc2UgY2xhc3MgUGVyc29uKElEOiBJbnQsIG5hbWU6IFN0cmluZywgYWdlOiBJbnQsIG51bUZyaWVuZHM6IEludCkKCiAgZGVmIG1hcHBlcihsaW5lOiBTdHJpbmcpOiBQZXJzb24gPSB7CiAgICB2YWwgZmllbGRzID0gbGluZS5zcGxpdCgnLCcpCgogICAgdmFsIHBlcnNvbjogUGVyc29uID0gUGVyc29uKGZpZWxkcygxKS50b0ludCwgZmllbGRzKDIpLCBmaWVsZHMoMykudG9JbnQsIGZpZWxkcyg0KS50b0ludCkKICAgIHBlcnNvbgogIH0KCiAgLyoqIE91ciBtYWluIGZ1bmN0aW9uIHdoZXJlIHRoZSBhY3Rpb24gaGFwcGVucyAqLwogIGRlZiBtYWluKGFyZ3M6IEFycmF5W1N0cmluZ10pIHsKCiAgICAvLyBTZXQgdGhlIGxvZyBsZXZlbCB0byBvbmx5IHByaW50IGVycm9ycwogICAgTG9nZ2VyLmdldExvZ2dlcigib3JnIikuc2V0TGV2ZWwoTGV2ZWwuRVJST1IpCgogICAgLy8gVXNlIG5ldyBTcGFya1Nlc3Npb24gaW50ZXJmYWNlIGluIFNwYXJrIDIuMAogICAgdmFsIHNwYXJrID0gU3BhcmtTZXNzaW9uCiAgICAgIC5idWlsZGVyCiAgICAgIC5hcHBOYW1lKCJTcGFya1NRTCIpCiAgICAgIC5tYXN0ZXIoImxvY2FsWypdIikKICAgICAgLmNvbmZpZygic3Bhcmsuc3FsLndhcmVob3VzZS5kaXIiLCAiZmlsZTovLy9DOi90ZW1wIikgLy8gTmVjZXNzYXJ5IHRvIHdvcmsgYXJvdW5kIGEgV2luZG93cyBidWcgaW4gU3BhcmsgMi4wLjA7IG9taXQgaWYgeW91J3JlIG5vdCBvbiBXaW5kb3dzLgogICAgICAuZ2V0T3JDcmVhdGUoKQoKICAgIC8vIENvbnZlcnQgb3VyIGNzdiBmaWxlIHRvIGEgRGF0YVNldCwgdXNpbmcgb3VyIFBlcnNvbiBjYXNlCiAgICAvLyBjbGFzcyB0byBpbmZlciB0aGUgc2NoZW1hLgogICAgaW1wb3J0IHNwYXJrLmltcGxpY2l0cy5fCiAgICB2YWwgbGluZXMgPSBzcGFyay5zcGFya0NvbnRleHQudGV4dEZpbGUoIi4uL2Zha2VmcmllbmRzLmNzdiIpCiAgICAvLyDmsLjntprljJbjgoLjgZnjgosKICAgIHZhbCBwZW9wbGUgPSBsaW5lcy5tYXAobWFwcGVyKS50b0RGLnBlcnNpc3QoKQoKICAgIC8vIFRoZXJlIGFyZSBsb3RzIG9mIG90aGVyIHdheXMgdG8gbWFrZSBhIERhdGFGcmFtZS4KICAgIC8vIEZvciBleGFtcGxlLCBzcGFyay5yZWFkLmpzb24oImpzb24gZmlsZSBwYXRoIikKICAgIC8vIG9yIHNxbENvbnRleHQudGFibGUoIkhpdmUgdGFibGUgbmFtZSIpCgogICAgcHJpbnRsbigiSGVyZSBpcyBvdXIgaW5mZXJyZWQgc2NoZW1hOiIpCiAgICBwZW9wbGUucHJpbnRTY2hlbWEoKQoKICAgIHByaW50bG4oIkxldCdzIHNlbGVjdCB0aGUgbmFtZSBjb2x1bW46IikKICAgIHBlb3BsZS5zZWxlY3QoJ25hbWUpLnNob3coKQoKICAgIHByaW50bG4oIkZpbHRlciBvdXQgYW55b25lIG92ZXIgMjE6IikKICAgIHBlb3BsZS5maWx0ZXIoJ2FnZSA8IDIxKS5zaG93KCkKCiAgICBwcmludGxuKCJHcm91cCBieSBhZ2U6IikKICAgIHBlb3BsZS5ncm91cEJ5KCdhZ2UpLmNvdW50KCkuc2hvdygpCgogICAgcHJpbnRsbigiTWFrZSBldmVyeW9uZSAxMCB5ZWFycyBvbGRlcjoiKQogICAgcGVvcGxlLnNlbGVjdCgnbmFtZSwgJ2FnZSArIDEwKS5zaG93KCkKCiAgICBzcGFyay5zdG9wKCkKICB9Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFsIHBhaXIgPSBzYy5wYXJhbGxlbGl6ZShTZXEoKDEsIDIpLCAoMiwgMykpKQp2YWwgcGFpcjIgPSBzYy5wYXJhbGxlbGl6ZShNYXAoMSAtPiAyLCAyIC0+IDMpKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">77u/cGFja2FnZSBjb20uc3VuZG9nc29mdHdhcmUuc3BhcmsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">LS1jb25mIHNwYXJrLnNlcmlhbGl6ZXI9Inh4eHh4eCIK</text>
+        <text encoding="base64">dmFsIHBhaXIgPSBzYy5wYXJhbGxlbGl6ZShTZXEoKDEsIDIpLCAoMiwgMykpKQp2YWwgcGFpcjIgPSBzYy5wYXJhbGxlbGl6ZShNYXAoMSAtPiAyLCAyIC0+IDMpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGYudG9EUwpyZGQudG9EUwp2YWwgZGYgPSBzcGFyay5yZWFkLmNzdigiIikuYXNbUGVyc29uXQpMaXN0KCJhIiwgImIiLCAiYyIpLnRvRFMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
@@ -121,7 +120,7 @@
       <last-replace />
       <last-substitute encoding="base64">c2NhbGE+</last-substitute>
       <last-dir>0</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
