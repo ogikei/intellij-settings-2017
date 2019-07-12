@@ -40,12 +40,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" timestamp="1562934245742">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="91" column="100" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-        <mark key="^" line="113" column="100" />
+      <file name="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" timestamp="1562936374697">
+        <mark key="'" line="32" column="31" />
+        <mark key="[" line="32" column="7" />
+        <mark key="]" line="32" column="8" />
+        <mark key="^" line="32" column="6" />
+        <mark key="." line="32" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -86,66 +86,69 @@
       <jump line="120" column="15" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
       <jump line="22" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
       <jump line="11" column="13" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
-      <jump line="24" column="18" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
       <jump line="116" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
       <jump line="110" column="11" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
       <jump line="0" column="0" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
+      <jump line="24" column="14" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
+      <jump line="32" column="31" filename="$USER_HOME$/MyWork/git/AnkiScala/src/main/scala/test_rdd.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>(str, it.toSeq.sortBy(_.age).head)</text>
       </register>
       <register name="-" type="4">
-        <text>???</text>
+        <text>(str, it.toSeq.sortBy(_.age).head)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">c2NhbGE+</text>
+        <text encoding="base64">XDxzdHJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGF2ZyhfLnByaW1hcnlOZWVkcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">77u/Y2FzZSBjbGFzcyBQZXJzb24obmFtZTogU3RyaW5nLCBhZ2U6IExvbmcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">LS1zcGFyay5kcml2ZXIubWVtb3J5IDFHCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">dmFsIGtleVZhbHVlcyA9CiAgTGlzdCgoMywgIk1lIiksICgxLCAiVGhpIiksICgyLCAiU2UiKSwgKDMsICJzc2EiKSwgKDEsICJzaXNBIiksICgzLCAiIGdlIDogIiksICgzLCAiIC0pICIpLCAoMiwgIiBlcmUiKSwgKDIsICJ0IikpCnZhbCBrZXlWYWx1ZXNEUyA9IGtleVZhbHVlcy50b0RTCmtleVZhbHVlc0RTCiAgLmdyb3VwQnlLZXkocm93ID0+IHJvdy5fMSkKICAubWFwVmFsdWVzKF8uXzIpCiAgLnJlZHVjZUdyb3VwcygoYWNjLCBzdHIpID0+IGFjYyArIHN0cikKICAuc2hvdygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsYW5ncy5maWx0ZXIobGFuZyA9PiApCg==</text>
+        <text encoding="base64">ICAucmVkdWNlR3JvdXBzKChwYWlyMSwgcGFpcjIpID0+IChwYWlyMS5fMSwgcGFpcjEuXzIgKyBwYWlyMi5fMikpCiAgLm1hcChfLl8yKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxhbmdzLm1hcChsYW5nID0+IChsYW5nLCBvY2N1cnJlbmNlc09mTGFuZyhsYW5nLCByZGQpKSkK</text>
+        <text encoding="base64">dmFsIGEgPSBwZW9wbGVERi5jb2xsZWN0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAocGVvcGxlKDApLiwgcGVvcGxlKDEpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLmNvdW50KHMK</text>
+        <text encoding="base64">ICAocGVvcGxlLmFnZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLm1hcCh3aWtpID0+IChsYW5nLCB3aWtpKSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">c2NhbGE+</last-search>
-      <last-pattern encoding="base64">c2NhbGE+</last-pattern>
+      <last-search encoding="base64">XDxzdHJcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxzdHJcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">c2NhbGE+</last-substitute>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">c2NhbGE+</entry>
+        <entry encoding="base64">XDxzdHJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
